@@ -1,0 +1,3439 @@
+[
+  {
+    "id": 28600,
+    "text": [
+      "Boy"
+    ],
+    "text_joined": "Boy"
+  },
+  {
+    "id": 28500,
+    "text": [
+      "no data."
+    ],
+    "text_joined": "no data."
+  },
+  {
+    "id": 28565,
+    "text": [
+      "???"
+    ],
+    "text_joined": "???"
+  },
+  {
+    "id": 28566,
+    "text": [
+      "Everyone"
+    ],
+    "text_joined": "Everyone"
+  },
+  {
+    "id": 116414,
+    "text": [
+      "Tavernkeep"
+    ],
+    "text_joined": "Tavernkeep"
+  },
+  {
+    "id": 28592,
+    "text": [
+      "Boy"
+    ],
+    "text_joined": "Boy"
+  },
+  {
+    "id": 28567,
+    "text": [
+      "Bargello's Gang"
+    ],
+    "text_joined": "Bargello's Gang"
+  },
+  {
+    "id": 28568,
+    "text": [
+      "Bargello"
+    ],
+    "text_joined": "Bargello"
+  },
+  {
+    "id": 28569,
+    "text": [
+      "Tiziano"
+    ],
+    "text_joined": "Tiziano"
+  },
+  {
+    "id": 28570,
+    "text": [
+      "Pierro Della"
+    ],
+    "text_joined": "Pierro Della"
+  },
+  {
+    "id": 28571,
+    "text": [
+      "Fra"
+    ],
+    "text_joined": "Fra"
+  },
+  {
+    "id": 28572,
+    "text": [
+      "Lady Herminia"
+    ],
+    "text_joined": "Lady Herminia"
+  },
+  {
+    "id": 28573,
+    "text": [
+      "Lady-in-Waiting"
+    ],
+    "text_joined": "Lady-in-Waiting"
+  },
+  {
+    "id": 28574,
+    "text": [
+      "Sonia"
+    ],
+    "text_joined": "Sonia"
+  },
+  {
+    "id": 28575,
+    "text": [
+      "Lord Taviani"
+    ],
+    "text_joined": "Lord Taviani"
+  },
+  {
+    "id": 28577,
+    "text": [
+      "Crippled Elder"
+    ],
+    "text_joined": "Crippled Elder"
+  },
+  {
+    "id": 28578,
+    "text": [
+      "Blackrobe"
+    ],
+    "text_joined": "Blackrobe"
+  },
+  {
+    "id": 28579,
+    "text": [
+      "???"
+    ],
+    "text_joined": "???"
+  },
+  {
+    "id": 28580,
+    "text": [
+      "Captain Tristan"
+    ],
+    "text_joined": "Captain Tristan"
+  },
+  {
+    "id": 28583,
+    "text": [
+      "Flower Girl"
+    ],
+    "text_joined": "Flower Girl"
+  },
+  {
+    "id": 28584,
+    "text": [
+      "Herminia the Huntress"
+    ],
+    "text_joined": "Herminia the Huntress"
+  },
+  {
+    "id": 28588,
+    "text": [
+      "Rosso"
+    ],
+    "text_joined": "Rosso"
+  },
+  {
+    "id": 28589,
+    "text": [
+      "Tomazzo"
+    ],
+    "text_joined": "Tomazzo"
+  },
+  {
+    "id": 28590,
+    "text": [
+      "Gastone"
+    ],
+    "text_joined": "Gastone"
+  },
+  {
+    "id": 28988,
+    "text": [
+      "???"
+    ],
+    "text_joined": "???"
+  },
+  {
+    "id": 28989,
+    "text": [
+      "Commander Tytos"
+    ],
+    "text_joined": "Commander Tytos"
+  },
+  {
+    "id": 28991,
+    "text": [
+      "Servant"
+    ],
+    "text_joined": "Servant"
+  },
+  {
+    "id": 28994,
+    "text": [
+      "Velnorte"
+    ],
+    "text_joined": "Velnorte"
+  },
+  {
+    "id": 28995,
+    "text": [
+      "Jurgen"
+    ],
+    "text_joined": "Jurgen"
+  },
+  {
+    "id": 28996,
+    "text": [
+      "Rinyuu"
+    ],
+    "text_joined": "Rinyuu"
+  },
+  {
+    "id": 28997,
+    "text": [
+      "Priest"
+    ],
+    "text_joined": "Priest"
+  },
+  {
+    "id": 28998,
+    "text": [
+      "Phina"
+    ],
+    "text_joined": "Phina"
+  },
+  {
+    "id": 29000,
+    "text": [
+      "Abnormal Ruffian"
+    ],
+    "text_joined": "Abnormal Ruffian"
+  },
+  {
+    "id": 29005,
+    "text": [
+      "Al the Servant"
+    ],
+    "text_joined": "Al the Servant"
+  },
+  {
+    "id": 29006,
+    "text": [
+      "Knight Ardante"
+    ],
+    "text_joined": "Knight Ardante"
+  },
+  {
+    "id": 29009,
+    "text": [
+      "Bishop"
+    ],
+    "text_joined": "Bishop"
+  },
+  {
+    "id": 29014,
+    "text": [
+      "Dmitri the Hunter"
+    ],
+    "text_joined": "Dmitri the Hunter"
+  },
+  {
+    "id": 116284,
+    "text": [
+      "Innkeeper"
+    ],
+    "text_joined": "Innkeeper"
+  },
+  {
+    "id": 116285,
+    "text": [
+      "Scarlet Wing"
+    ],
+    "text_joined": "Scarlet Wing"
+  },
+  {
+    "id": 116288,
+    "text": [
+      "Tytos the Thunderblade"
+    ],
+    "text_joined": "Tytos the Thunderblade"
+  },
+  {
+    "id": 116362,
+    "text": [
+      "Tavernkeep"
+    ],
+    "text_joined": "Tavernkeep"
+  },
+  {
+    "id": 116366,
+    "text": [
+      "Tytos of the Knights Ardante"
+    ],
+    "text_joined": "Tytos of the Knights Ardante"
+  },
+  {
+    "id": 116367,
+    "text": [
+      "Pontiff"
+    ],
+    "text_joined": "Pontiff"
+  },
+  {
+    "id": 116368,
+    "text": [
+      "King of Edoras"
+    ],
+    "text_joined": "King of Edoras"
+  },
+  {
+    "id": 116369,
+    "text": [
+      "King of Hornburg"
+    ],
+    "text_joined": "King of Hornburg"
+  },
+  {
+    "id": 28963,
+    "text": [
+      "Actress"
+    ],
+    "text_joined": "Actress"
+  },
+  {
+    "id": 28965,
+    "text": [
+      "\"Jana\""
+    ],
+    "text_joined": "\"Jana\""
+  },
+  {
+    "id": 28966,
+    "text": [
+      "\"Françoise\""
+    ],
+    "text_joined": "\"Françoise\""
+  },
+  {
+    "id": 28967,
+    "text": [
+      "\"Anna\""
+    ],
+    "text_joined": "\"Anna\""
+  },
+  {
+    "id": 28970,
+    "text": [
+      "\"Rafael\""
+    ],
+    "text_joined": "\"Rafael\""
+  },
+  {
+    "id": 28971,
+    "text": [
+      "Francesca the Actress"
+    ],
+    "text_joined": "Francesca the Actress"
+  },
+  {
+    "id": 28972,
+    "text": [
+      "\"Margretta\""
+    ],
+    "text_joined": "\"Margretta\""
+  },
+  {
+    "id": 28973,
+    "text": [
+      "Auguste the Playwright"
+    ],
+    "text_joined": "Auguste the Playwright"
+  },
+  {
+    "id": 28974,
+    "text": [
+      "Schwartz"
+    ],
+    "text_joined": "Schwartz"
+  },
+  {
+    "id": 28975,
+    "text": [
+      "Mikhail"
+    ],
+    "text_joined": "Mikhail"
+  },
+  {
+    "id": 28976,
+    "text": [
+      "Maid"
+    ],
+    "text_joined": "Maid"
+  },
+  {
+    "id": 28977,
+    "text": [
+      "Master Dorteau"
+    ],
+    "text_joined": "Master Dorteau"
+  },
+  {
+    "id": 28978,
+    "text": [
+      "Simeon the Poet"
+    ],
+    "text_joined": "Simeon the Poet"
+  },
+  {
+    "id": 116359,
+    "text": [
+      "\"Auguste\""
+    ],
+    "text_joined": "\"Auguste\""
+  },
+  {
+    "id": 116386,
+    "text": [
+      "\"Schwartz\""
+    ],
+    "text_joined": "\"Schwartz\""
+  },
+  {
+    "id": 116387,
+    "text": [
+      "Auguste the Prince of Thieves"
+    ],
+    "text_joined": "Auguste the Prince of Thieves"
+  },
+  {
+    "id": 118110,
+    "text": [
+      "\"Child\""
+    ],
+    "text_joined": "\"Child\""
+  },
+  {
+    "id": 116289,
+    "text": [
+      "General Mahrez"
+    ],
+    "text_joined": "General Mahrez"
+  },
+  {
+    "id": 116290,
+    "text": [
+      "Princess Elrica"
+    ],
+    "text_joined": "Princess Elrica"
+  },
+  {
+    "id": 116291,
+    "text": [
+      "Princess Alaune"
+    ],
+    "text_joined": "Princess Alaune"
+  },
+  {
+    "id": 116292,
+    "text": [
+      "Queen Alaune"
+    ],
+    "text_joined": "Queen Alaune"
+  },
+  {
+    "id": 116293,
+    "text": [
+      "Commander Krauser"
+    ],
+    "text_joined": "Commander Krauser"
+  },
+  {
+    "id": 116294,
+    "text": [
+      "General Krauser"
+    ],
+    "text_joined": "General Krauser"
+  },
+  {
+    "id": 116295,
+    "text": [
+      "King Solon"
+    ],
+    "text_joined": "King Solon"
+  },
+  {
+    "id": 116296,
+    "text": [
+      "Lebrandt the Attendant"
+    ],
+    "text_joined": "Lebrandt the Attendant"
+  },
+  {
+    "id": 116297,
+    "text": [
+      "El the Swordsman"
+    ],
+    "text_joined": "El the Swordsman"
+  },
+  {
+    "id": 116298,
+    "text": [
+      "Charles the Traveler"
+    ],
+    "text_joined": "Charles the Traveler"
+  },
+  {
+    "id": 116299,
+    "text": [
+      "Mendoza the Attendant"
+    ],
+    "text_joined": "Mendoza the Attendant"
+  },
+  {
+    "id": 116300,
+    "text": [
+      "Captain Barnes"
+    ],
+    "text_joined": "Captain Barnes"
+  },
+  {
+    "id": 116301,
+    "text": [
+      "King of Riven"
+    ],
+    "text_joined": "King of Riven"
+  },
+  {
+    "id": 116302,
+    "text": [
+      "Prime Minister Raum"
+    ],
+    "text_joined": "Prime Minister Raum"
+  },
+  {
+    "id": 116303,
+    "text": [
+      "Master Helgenish"
+    ],
+    "text_joined": "Master Helgenish"
+  },
+  {
+    "id": 116304,
+    "text": [
+      "Primrose the Dancer"
+    ],
+    "text_joined": "Primrose the Dancer"
+  },
+  {
+    "id": 116305,
+    "text": [
+      "Trompeur the Merchant"
+    ],
+    "text_joined": "Trompeur the Merchant"
+  },
+  {
+    "id": 116306,
+    "text": [
+      "Chief Kanzas"
+    ],
+    "text_joined": "Chief Kanzas"
+  },
+  {
+    "id": 116307,
+    "text": [
+      "Mesara the Thief"
+    ],
+    "text_joined": "Mesara the Thief"
+  },
+  {
+    "id": 116308,
+    "text": [
+      "M'suhi the Viper"
+    ],
+    "text_joined": "M'suhi the Viper"
+  },
+  {
+    "id": 116309,
+    "text": [
+      "Gimel the Brigand Leader"
+    ],
+    "text_joined": "Gimel the Brigand Leader"
+  },
+  {
+    "id": 116310,
+    "text": [
+      "Cerro the Emissary"
+    ],
+    "text_joined": "Cerro the Emissary"
+  },
+  {
+    "id": 116311,
+    "text": [
+      "Gonzalez the Ironarm"
+    ],
+    "text_joined": "Gonzalez the Ironarm"
+  },
+  {
+    "id": 116313,
+    "text": [
+      "King Pardis III"
+    ],
+    "text_joined": "King Pardis III"
+  },
+  {
+    "id": 116314,
+    "text": [
+      "Gonska the Jester"
+    ],
+    "text_joined": "Gonska the Jester"
+  },
+  {
+    "id": 116315,
+    "text": [
+      "King Pardis II"
+    ],
+    "text_joined": "King Pardis II"
+  },
+  {
+    "id": 116316,
+    "text": [
+      "Prince Oswald"
+    ],
+    "text_joined": "Prince Oswald"
+  },
+  {
+    "id": 116317,
+    "text": [
+      "Prince Osasuna"
+    ],
+    "text_joined": "Prince Osasuna"
+  },
+  {
+    "id": 116320,
+    "text": [
+      "Zeph the Apothecary"
+    ],
+    "text_joined": "Zeph the Apothecary"
+  },
+  {
+    "id": 116321,
+    "text": [
+      "Richard"
+    ],
+    "text_joined": "Richard"
+  },
+  {
+    "id": 116323,
+    "text": [
+      "Captain of the Army of Riven"
+    ],
+    "text_joined": "Captain of the Army of Riven"
+  },
+  {
+    "id": 116324,
+    "text": [
+      "Riven Soldier"
+    ],
+    "text_joined": "Riven Soldier"
+  },
+  {
+    "id": 116325,
+    "text": [
+      "Edoras Soldier"
+    ],
+    "text_joined": "Edoras Soldier"
+  },
+  {
+    "id": 116326,
+    "text": [
+      "Altinian Soldier"
+    ],
+    "text_joined": "Altinian Soldier"
+  },
+  {
+    "id": 116330,
+    "text": [
+      "Pontiff Julius"
+    ],
+    "text_joined": "Pontiff Julius"
+  },
+  {
+    "id": 116331,
+    "text": [
+      "Priest"
+    ],
+    "text_joined": "Priest"
+  },
+  {
+    "id": 116332,
+    "text": [
+      "Queen Ulrica"
+    ],
+    "text_joined": "Queen Ulrica"
+  },
+  {
+    "id": 116333,
+    "text": [
+      "Prime Minister"
+    ],
+    "text_joined": "Prime Minister"
+  },
+  {
+    "id": 116334,
+    "text": [
+      "Apothecary"
+    ],
+    "text_joined": "Apothecary"
+  },
+  {
+    "id": 116336,
+    "text": [
+      "Elrica"
+    ],
+    "text_joined": "Elrica"
+  },
+  {
+    "id": 116338,
+    "text": [
+      "Dancer"
+    ],
+    "text_joined": "Dancer"
+  },
+  {
+    "id": 116339,
+    "text": [
+      "Maid-in-Waiting"
+    ],
+    "text_joined": "Maid-in-Waiting"
+  },
+  {
+    "id": 116340,
+    "text": [
+      "Desert Dweller"
+    ],
+    "text_joined": "Desert Dweller"
+  },
+  {
+    "id": 116341,
+    "text": [
+      "Pardis the Scholarking"
+    ],
+    "text_joined": "Pardis the Scholarking"
+  },
+  {
+    "id": 116342,
+    "text": [
+      "Master of All"
+    ],
+    "text_joined": "Master of All"
+  },
+  {
+    "id": 116343,
+    "text": [
+      "Pathos the Thumb"
+    ],
+    "text_joined": "Pathos the Thumb"
+  },
+  {
+    "id": 116344,
+    "text": [
+      "Apatheia the Ring Finger"
+    ],
+    "text_joined": "Apatheia the Ring Finger"
+  },
+  {
+    "id": 116345,
+    "text": [
+      "Sazantos the Flameguard"
+    ],
+    "text_joined": "Sazantos the Flameguard"
+  },
+  {
+    "id": 116346,
+    "text": [
+      "Alaune"
+    ],
+    "text_joined": "Alaune"
+  },
+  {
+    "id": 116350,
+    "text": [
+      "Threadbare Woman"
+    ],
+    "text_joined": "Threadbare Woman"
+  },
+  {
+    "id": 116351,
+    "text": [
+      "Soldiers"
+    ],
+    "text_joined": "Soldiers"
+  },
+  {
+    "id": 116353,
+    "text": [
+      "Leafless Woman"
+    ],
+    "text_joined": "Leafless Woman"
+  },
+  {
+    "id": 116354,
+    "text": [
+      "Edoras Infantryman"
+    ],
+    "text_joined": "Edoras Infantryman"
+  },
+  {
+    "id": 116355,
+    "text": [
+      "Pauper"
+    ],
+    "text_joined": "Pauper"
+  },
+  {
+    "id": 116356,
+    "text": [
+      "Edoras Captain"
+    ],
+    "text_joined": "Edoras Captain"
+  },
+  {
+    "id": 116357,
+    "text": [
+      "Guard"
+    ],
+    "text_joined": "Guard"
+  },
+  {
+    "id": 116358,
+    "text": [
+      "King Richard"
+    ],
+    "text_joined": "King Richard"
+  },
+  {
+    "id": 118113,
+    "text": [
+      "Edoras Soldiers"
+    ],
+    "text_joined": "Edoras Soldiers"
+  },
+  {
+    "id": 116400,
+    "text": [
+      "Man in Black"
+    ],
+    "text_joined": "Man in Black"
+  },
+  {
+    "id": 116404,
+    "text": [
+      "Levina"
+    ],
+    "text_joined": "Levina"
+  },
+  {
+    "id": 116405,
+    "text": [
+      "Delvecchio"
+    ],
+    "text_joined": "Delvecchio"
+  },
+  {
+    "id": 116407,
+    "text": [
+      "Merchant"
+    ],
+    "text_joined": "Merchant"
+  },
+  {
+    "id": 116408,
+    "text": [
+      "Beggar"
+    ],
+    "text_joined": "Beggar"
+  },
+  {
+    "id": 116409,
+    "text": [
+      "Gatekeeper"
+    ],
+    "text_joined": "Gatekeeper"
+  },
+  {
+    "id": 116410,
+    "text": [
+      "Leopaldi the Wealthy"
+    ],
+    "text_joined": "Leopaldi the Wealthy"
+  },
+  {
+    "id": 116411,
+    "text": [
+      "Mandarino"
+    ],
+    "text_joined": "Mandarino"
+  },
+  {
+    "id": 116412,
+    "text": [
+      "Remone"
+    ],
+    "text_joined": "Remone"
+  },
+  {
+    "id": 116413,
+    "text": [
+      "Oskha the Have-Not"
+    ],
+    "text_joined": "Oskha the Have-Not"
+  },
+  {
+    "id": 116486,
+    "text": [
+      "Lookout"
+    ],
+    "text_joined": "Lookout"
+  },
+  {
+    "id": 116487,
+    "text": [
+      "Lord Scarabe"
+    ],
+    "text_joined": "Lord Scarabe"
+  },
+  {
+    "id": 116488,
+    "text": [
+      "Poor Laborer"
+    ],
+    "text_joined": "Poor Laborer"
+  },
+  {
+    "id": 116489,
+    "text": [
+      "Judah the Devout"
+    ],
+    "text_joined": "Judah the Devout"
+  },
+  {
+    "id": 116491,
+    "text": [
+      "Believers"
+    ],
+    "text_joined": "Believers"
+  },
+  {
+    "id": 116492,
+    "text": [
+      "Believer"
+    ],
+    "text_joined": "Believer"
+  },
+  {
+    "id": 116493,
+    "text": [
+      "Lord Julian"
+    ],
+    "text_joined": "Lord Julian"
+  },
+  {
+    "id": 116494,
+    "text": [
+      "Oskha"
+    ],
+    "text_joined": "Oskha"
+  },
+  {
+    "id": 116622,
+    "text": [
+      "Oskha the Trader"
+    ],
+    "text_joined": "Oskha the Trader"
+  },
+  {
+    "id": 118117,
+    "text": [
+      "Residents"
+    ],
+    "text_joined": "Residents"
+  },
+  {
+    "id": 116396,
+    "text": [
+      "Chief Vassal Lebrandt"
+    ],
+    "text_joined": "Chief Vassal Lebrandt"
+  },
+  {
+    "id": 116397,
+    "text": [
+      "Marianne of the Kingsguard"
+    ],
+    "text_joined": "Marianne of the Kingsguard"
+  },
+  {
+    "id": 116398,
+    "text": [
+      "Populace"
+    ],
+    "text_joined": "Populace"
+  },
+  {
+    "id": 116399,
+    "text": [
+      "Foreign Emissary"
+    ],
+    "text_joined": "Foreign Emissary"
+  },
+  {
+    "id": 116415,
+    "text": [
+      "Pelagia the Conjurer"
+    ],
+    "text_joined": "Pelagia the Conjurer"
+  },
+  {
+    "id": 116416,
+    "text": [
+      "Empress Tatloch"
+    ],
+    "text_joined": "Empress Tatloch"
+  },
+  {
+    "id": 116417,
+    "text": [
+      "King Dudek"
+    ],
+    "text_joined": "King Dudek"
+  },
+  {
+    "id": 116418,
+    "text": [
+      "Donescu Soldier"
+    ],
+    "text_joined": "Donescu Soldier"
+  },
+  {
+    "id": 116419,
+    "text": [
+      "Captain Na'gu"
+    ],
+    "text_joined": "Captain Na'gu"
+  },
+  {
+    "id": 116422,
+    "text": [
+      "Lord Eltrix"
+    ],
+    "text_joined": "Lord Eltrix"
+  },
+  {
+    "id": 116435,
+    "text": [
+      "G'roha Soldier"
+    ],
+    "text_joined": "G'roha Soldier"
+  },
+  {
+    "id": 116449,
+    "text": [
+      "Captain Gimel"
+    ],
+    "text_joined": "Captain Gimel"
+  },
+  {
+    "id": 116501,
+    "text": [
+      "Thief"
+    ],
+    "text_joined": "Thief"
+  },
+  {
+    "id": 116502,
+    "text": [
+      "Krauser"
+    ],
+    "text_joined": "Krauser"
+  },
+  {
+    "id": 116503,
+    "text": [
+      "Ivri"
+    ],
+    "text_joined": "Ivri"
+  },
+  {
+    "id": 116504,
+    "text": [
+      "Gakko"
+    ],
+    "text_joined": "Gakko"
+  },
+  {
+    "id": 116505,
+    "text": [
+      "Wappa"
+    ],
+    "text_joined": "Wappa"
+  },
+  {
+    "id": 116507,
+    "text": [
+      "Gatekeeper"
+    ],
+    "text_joined": "Gatekeeper"
+  },
+  {
+    "id": 116508,
+    "text": [
+      "Duke Benedict"
+    ],
+    "text_joined": "Duke Benedict"
+  },
+  {
+    "id": 116509,
+    "text": [
+      "G'roha Commander"
+    ],
+    "text_joined": "G'roha Commander"
+  },
+  {
+    "id": 116511,
+    "text": [
+      "Theoria the Pointer Finger"
+    ],
+    "text_joined": "Theoria the Pointer Finger"
+  },
+  {
+    "id": 116512,
+    "text": [
+      "Philia the Middle Finger"
+    ],
+    "text_joined": "Philia the Middle Finger"
+  },
+  {
+    "id": 116513,
+    "text": [
+      "Signa the Little Finger"
+    ],
+    "text_joined": "Signa the Little Finger"
+  },
+  {
+    "id": 116689,
+    "text": [
+      "G'roha Commander"
+    ],
+    "text_joined": "G'roha Commander"
+  },
+  {
+    "id": 116690,
+    "text": [
+      "Osred II"
+    ],
+    "text_joined": "Osred II"
+  },
+  {
+    "id": 116692,
+    "text": [
+      "Tatloch the Lady of Grace"
+    ],
+    "text_joined": "Tatloch the Lady of Grace"
+  },
+  {
+    "id": 117143,
+    "text": [
+      "Ivri, Gakko, Wappa"
+    ],
+    "text_joined": "Ivri, Gakko, Wappa"
+  },
+  {
+    "id": 117457,
+    "text": [
+      "Chief Vassal Krauser"
+    ],
+    "text_joined": "Chief Vassal Krauser"
+  },
+  {
+    "id": 118125,
+    "text": [
+      "G'roha Soldiers"
+    ],
+    "text_joined": "G'roha Soldiers"
+  },
+  {
+    "id": 118178,
+    "text": [
+      "Altinian Soldiers"
+    ],
+    "text_joined": "Altinian Soldiers"
+  },
+  {
+    "id": 118179,
+    "text": [
+      "Wold Soldiers"
+    ],
+    "text_joined": "Wold Soldiers"
+  },
+  {
+    "id": 116401,
+    "text": [
+      "Rondo of the Knights Ardante"
+    ],
+    "text_joined": "Rondo of the Knights Ardante"
+  },
+  {
+    "id": 116402,
+    "text": [
+      "Black Scarlet"
+    ],
+    "text_joined": "Black Scarlet"
+  },
+  {
+    "id": 116436,
+    "text": [
+      "Miza"
+    ],
+    "text_joined": "Miza"
+  },
+  {
+    "id": 116437,
+    "text": [
+      "Father Monaris"
+    ],
+    "text_joined": "Father Monaris"
+  },
+  {
+    "id": 116438,
+    "text": [
+      "Bishop Tarset"
+    ],
+    "text_joined": "Bishop Tarset"
+  },
+  {
+    "id": 116439,
+    "text": [
+      "Townsperson"
+    ],
+    "text_joined": "Townsperson"
+  },
+  {
+    "id": 116456,
+    "text": [
+      "Father Taigan"
+    ],
+    "text_joined": "Father Taigan"
+  },
+  {
+    "id": 116536,
+    "text": [
+      "Headmaster Yvon"
+    ],
+    "text_joined": "Headmaster Yvon"
+  },
+  {
+    "id": 116537,
+    "text": [
+      "Secretary"
+    ],
+    "text_joined": "Secretary"
+  },
+  {
+    "id": 116538,
+    "text": [
+      "Mercedes the Librarian"
+    ],
+    "text_joined": "Mercedes the Librarian"
+  },
+  {
+    "id": 116539,
+    "text": [
+      "Ceraphina"
+    ],
+    "text_joined": "Ceraphina"
+  },
+  {
+    "id": 116540,
+    "text": [
+      "Princess Mary"
+    ],
+    "text_joined": "Princess Mary"
+  },
+  {
+    "id": 116541,
+    "text": [
+      "Hugo, Captain of the Knights Ardante"
+    ],
+    "text_joined": "Hugo, Captain of the Knights Ardante"
+  },
+  {
+    "id": 116542,
+    "text": [
+      "Archbishop Josef"
+    ],
+    "text_joined": "Archbishop Josef"
+  },
+  {
+    "id": 116672,
+    "text": [
+      "Mattias"
+    ],
+    "text_joined": "Mattias"
+  },
+  {
+    "id": 116673,
+    "text": [
+      "Simeon"
+    ],
+    "text_joined": "Simeon"
+  },
+  {
+    "id": 116674,
+    "text": [
+      "King Jennish"
+    ],
+    "text_joined": "King Jennish"
+  },
+  {
+    "id": 116675,
+    "text": [
+      "Salomon the Scholar"
+    ],
+    "text_joined": "Salomon the Scholar"
+  },
+  {
+    "id": 116677,
+    "text": [
+      "Ceraphina the Charitable"
+    ],
+    "text_joined": "Ceraphina the Charitable"
+  },
+  {
+    "id": 116678,
+    "text": [
+      "Lyblac"
+    ],
+    "text_joined": "Lyblac"
+  },
+  {
+    "id": 116679,
+    "text": [
+      "Graham Crossford"
+    ],
+    "text_joined": "Graham Crossford"
+  },
+  {
+    "id": 118120,
+    "text": [
+      "Cleric"
+    ],
+    "text_joined": "Cleric"
+  },
+  {
+    "id": 118121,
+    "text": [
+      "Black Scarlet Soldier"
+    ],
+    "text_joined": "Black Scarlet Soldier"
+  },
+  {
+    "id": 117078,
+    "text": [
+      "Finis"
+    ],
+    "text_joined": "Finis"
+  },
+  {
+    "id": 117110,
+    "text": [
+      "Dark Knight Sazantos"
+    ],
+    "text_joined": "Dark Knight Sazantos"
+  },
+  {
+    "id": 117111,
+    "text": [
+      "Dark Priestess Signa"
+    ],
+    "text_joined": "Dark Priestess Signa"
+  },
+  {
+    "id": 117497,
+    "text": [
+      "Tatloch"
+    ],
+    "text_joined": "Tatloch"
+  },
+  {
+    "id": 117511,
+    "text": [
+      "Sazantos"
+    ],
+    "text_joined": "Sazantos"
+  },
+  {
+    "id": 117730,
+    "text": [
+      "King Alfred"
+    ],
+    "text_joined": "King Alfred"
+  },
+  {
+    "id": 117731,
+    "text": [
+      "Sonzon the Flameguard"
+    ],
+    "text_joined": "Sonzon the Flameguard"
+  },
+  {
+    "id": 117732,
+    "text": [
+      "Cordelia"
+    ],
+    "text_joined": "Cordelia"
+  },
+  {
+    "id": 117733,
+    "text": [
+      "Rondo"
+    ],
+    "text_joined": "Rondo"
+  },
+  {
+    "id": 117735,
+    "text": [
+      "Tytos"
+    ],
+    "text_joined": "Tytos"
+  },
+  {
+    "id": 117749,
+    "text": [
+      "Pharamea"
+    ],
+    "text_joined": "Pharamea"
+  },
+  {
+    "id": 117799,
+    "text": [
+      "Herminia"
+    ],
+    "text_joined": "Herminia"
+  },
+  {
+    "id": 117800,
+    "text": [
+      "Auguste"
+    ],
+    "text_joined": "Auguste"
+  },
+  {
+    "id": 117801,
+    "text": [
+      "\"Aelfric the Flamebringer\""
+    ],
+    "text_joined": "\"Aelfric the Flamebringer\""
+  },
+  {
+    "id": 117802,
+    "text": [
+      "\"Pharamea\""
+    ],
+    "text_joined": "\"Pharamea\""
+  },
+  {
+    "id": 117803,
+    "text": [
+      "Cleric Pharamea"
+    ],
+    "text_joined": "Cleric Pharamea"
+  },
+  {
+    "id": 117824,
+    "text": [
+      "Shrinekeeper Ataraxia"
+    ],
+    "text_joined": "Shrinekeeper Ataraxia"
+  },
+  {
+    "id": 117850,
+    "text": [
+      "Elrica"
+    ],
+    "text_joined": "Elrica"
+  },
+  {
+    "id": 117851,
+    "text": [
+      "Gabriella"
+    ],
+    "text_joined": "Gabriella"
+  },
+  {
+    "id": 117852,
+    "text": [
+      "Anita"
+    ],
+    "text_joined": "Anita"
+  },
+  {
+    "id": 117853,
+    "text": [
+      "Archbishop Ceraphina"
+    ],
+    "text_joined": "Archbishop Ceraphina"
+  },
+  {
+    "id": 117854,
+    "text": [
+      "Francesca"
+    ],
+    "text_joined": "Francesca"
+  },
+  {
+    "id": 118083,
+    "text": [
+      "Prince Richard"
+    ],
+    "text_joined": "Prince Richard"
+  },
+  {
+    "id": 118084,
+    "text": [
+      "Rondo Ravus"
+    ],
+    "text_joined": "Rondo Ravus"
+  },
+  {
+    "id": 118104,
+    "text": [
+      "Cardinal Teragraf"
+    ],
+    "text_joined": "Cardinal Teragraf"
+  },
+  {
+    "id": 118297,
+    "text": [
+      "Cardinal Ridefort"
+    ],
+    "text_joined": "Cardinal Ridefort"
+  },
+  {
+    "id": 118298,
+    "text": [
+      "Cardinal Gaudin"
+    ],
+    "text_joined": "Cardinal Gaudin"
+  },
+  {
+    "id": 118299,
+    "text": [
+      "Cardinal Montaigu"
+    ],
+    "text_joined": "Cardinal Montaigu"
+  },
+  {
+    "id": 118122,
+    "text": [
+      "Hugo of the Knights Ardante"
+    ],
+    "text_joined": "Hugo of the Knights Ardante"
+  },
+  {
+    "id": 118123,
+    "text": [
+      "Deacon Guillaume"
+    ],
+    "text_joined": "Deacon Guillaume"
+  },
+  {
+    "id": 118124,
+    "text": [
+      "Cardinal"
+    ],
+    "text_joined": "Cardinal"
+  },
+  {
+    "id": 117734,
+    "text": [
+      "Brigand Leader"
+    ],
+    "text_joined": "Brigand Leader"
+  },
+  {
+    "id": 117096,
+    "text": [
+      "Prime Minister Joshka"
+    ],
+    "text_joined": "Prime Minister Joshka"
+  },
+  {
+    "id": 116831,
+    "text": [
+      "Olneo the Merchant"
+    ],
+    "text_joined": "Olneo the Merchant"
+  },
+  {
+    "id": 116577,
+    "text": [
+      "Linde"
+    ],
+    "text_joined": "Linde"
+  },
+  {
+    "id": 117493,
+    "text": [
+      "Ophilia"
+    ],
+    "text_joined": "Ophilia"
+  },
+  {
+    "id": 117494,
+    "text": [
+      "Lianna"
+    ],
+    "text_joined": "Lianna"
+  },
+  {
+    "id": 116623,
+    "text": [
+      "Hägen"
+    ],
+    "text_joined": "Hägen"
+  },
+  {
+    "id": 118112,
+    "text": [
+      "Z'aanta"
+    ],
+    "text_joined": "Z'aanta"
+  },
+  {
+    "id": 116806,
+    "text": [
+      "Lianna"
+    ],
+    "text_joined": "Lianna"
+  },
+  {
+    "id": 116666,
+    "text": [
+      "Hunter"
+    ],
+    "text_joined": "Hunter"
+  },
+  {
+    "id": 116620,
+    "text": [
+      "Master of Ceremonies"
+    ],
+    "text_joined": "Master of Ceremonies"
+  },
+  {
+    "id": 900,
+    "text": [
+      "<chara_name>"
+    ],
+    "text_joined": "<chara_name>"
+  },
+  {
+    "id": 118086,
+    "text": [
+      "Fried, Captain of the Watch"
+    ],
+    "text_joined": "Fried, Captain of the Watch"
+  },
+  {
+    "id": 118087,
+    "text": [
+      "Yusia"
+    ],
+    "text_joined": "Yusia"
+  },
+  {
+    "id": 118088,
+    "text": [
+      "Lavore the Carpenter"
+    ],
+    "text_joined": "Lavore the Carpenter"
+  },
+  {
+    "id": 118089,
+    "text": [
+      "Priestess Yaya"
+    ],
+    "text_joined": "Priestess Yaya"
+  },
+  {
+    "id": 118090,
+    "text": [
+      "Nomos the Scholar"
+    ],
+    "text_joined": "Nomos the Scholar"
+  },
+  {
+    "id": 118091,
+    "text": [
+      "Lutus"
+    ],
+    "text_joined": "Lutus"
+  },
+  {
+    "id": 118092,
+    "text": [
+      "Margot"
+    ],
+    "text_joined": "Margot"
+  },
+  {
+    "id": 118093,
+    "text": [
+      "Ander"
+    ],
+    "text_joined": "Ander"
+  },
+  {
+    "id": 118094,
+    "text": [
+      "Jasper"
+    ],
+    "text_joined": "Jasper"
+  },
+  {
+    "id": 118095,
+    "text": [
+      "Lila"
+    ],
+    "text_joined": "Lila"
+  },
+  {
+    "id": 118096,
+    "text": [
+      "Illian"
+    ],
+    "text_joined": "Illian"
+  },
+  {
+    "id": 118098,
+    "text": [
+      "Carabell"
+    ],
+    "text_joined": "Carabell"
+  },
+  {
+    "id": 118099,
+    "text": [
+      "Karan"
+    ],
+    "text_joined": "Karan"
+  },
+  {
+    "id": 118100,
+    "text": [
+      "Basil"
+    ],
+    "text_joined": "Basil"
+  },
+  {
+    "id": 118101,
+    "text": [
+      "Tyme"
+    ],
+    "text_joined": "Tyme"
+  },
+  {
+    "id": 118102,
+    "text": [
+      "Nellum"
+    ],
+    "text_joined": "Nellum"
+  },
+  {
+    "id": 118103,
+    "text": [
+      "Montia"
+    ],
+    "text_joined": "Montia"
+  },
+  {
+    "id": 118105,
+    "text": [
+      "Olive"
+    ],
+    "text_joined": "Olive"
+  },
+  {
+    "id": 118114,
+    "text": [
+      "Margot"
+    ],
+    "text_joined": "Margot"
+  },
+  {
+    "id": 118115,
+    "text": [
+      "Ander"
+    ],
+    "text_joined": "Ander"
+  },
+  {
+    "id": 118131,
+    "text": [
+      "Watch Member Phenn"
+    ],
+    "text_joined": "Watch Member Phenn"
+  },
+  {
+    "id": 118132,
+    "text": [
+      "Deacon Laurana"
+    ],
+    "text_joined": "Deacon Laurana"
+  },
+  {
+    "id": 118133,
+    "text": [
+      "Scarlet Wings Corporal"
+    ],
+    "text_joined": "Scarlet Wings Corporal"
+  },
+  {
+    "id": 118296,
+    "text": [
+      "Traveling Composer"
+    ],
+    "text_joined": "Traveling Composer"
+  },
+  {
+    "id": 118106,
+    "text": [
+      "Athessa"
+    ],
+    "text_joined": "Athessa"
+  },
+  {
+    "id": 118107,
+    "text": [
+      "Ivan"
+    ],
+    "text_joined": "Ivan"
+  },
+  {
+    "id": 118108,
+    "text": [
+      "Imposter Olberic"
+    ],
+    "text_joined": "Imposter Olberic"
+  },
+  {
+    "id": 118109,
+    "text": [
+      "Errad the Apothecary"
+    ],
+    "text_joined": "Errad the Apothecary"
+  },
+  {
+    "id": 118111,
+    "text": [
+      "Dreige"
+    ],
+    "text_joined": "Dreige"
+  },
+  {
+    "id": 118116,
+    "text": [
+      "Edwin"
+    ],
+    "text_joined": "Edwin"
+  },
+  {
+    "id": 118118,
+    "text": [
+      "Middle-Aged Man"
+    ],
+    "text_joined": "Middle-Aged Man"
+  },
+  {
+    "id": 118119,
+    "text": [
+      "Professor Polius"
+    ],
+    "text_joined": "Professor Polius"
+  },
+  {
+    "id": 118126,
+    "text": [
+      "Wordsworth the Wealthy"
+    ],
+    "text_joined": "Wordsworth the Wealthy"
+  },
+  {
+    "id": 118127,
+    "text": [
+      "Old Syndicate Member"
+    ],
+    "text_joined": "Old Syndicate Member"
+  },
+  {
+    "id": 118128,
+    "text": [
+      "Scarred Syndicate Member"
+    ],
+    "text_joined": "Scarred Syndicate Member"
+  },
+  {
+    "id": 118129,
+    "text": [
+      "Beast Warrior Barenga"
+    ],
+    "text_joined": "Beast Warrior Barenga"
+  },
+  {
+    "id": 118130,
+    "text": [
+      "Princess Chilritta the Wise"
+    ],
+    "text_joined": "Princess Chilritta the Wise"
+  },
+  {
+    "id": 118134,
+    "text": [
+      "Busy Shopkeep"
+    ],
+    "text_joined": "Busy Shopkeep"
+  },
+  {
+    "id": 118135,
+    "text": [
+      "Hooded Man"
+    ],
+    "text_joined": "Hooded Man"
+  },
+  {
+    "id": 118136,
+    "text": [
+      "Shopkeep's Wife"
+    ],
+    "text_joined": "Shopkeep's Wife"
+  },
+  {
+    "id": 118137,
+    "text": [
+      "Idle Shopkeep"
+    ],
+    "text_joined": "Idle Shopkeep"
+  },
+  {
+    "id": 118138,
+    "text": [
+      "Man"
+    ],
+    "text_joined": "Man"
+  },
+  {
+    "id": 118139,
+    "text": [
+      "Woman"
+    ],
+    "text_joined": "Woman"
+  },
+  {
+    "id": 118141,
+    "text": [
+      "Marjim"
+    ],
+    "text_joined": "Marjim"
+  },
+  {
+    "id": 118142,
+    "text": [
+      "Chiara"
+    ],
+    "text_joined": "Chiara"
+  },
+  {
+    "id": 118146,
+    "text": [
+      "Fortis"
+    ],
+    "text_joined": "Fortis"
+  },
+  {
+    "id": 118147,
+    "text": [
+      "Myka"
+    ],
+    "text_joined": "Myka"
+  },
+  {
+    "id": 118154,
+    "text": [
+      "Deacon Malm"
+    ],
+    "text_joined": "Deacon Malm"
+  },
+  {
+    "id": 118155,
+    "text": [
+      "Burned Man"
+    ],
+    "text_joined": "Burned Man"
+  },
+  {
+    "id": 118156,
+    "text": [
+      "Woman Beset by Nightmares"
+    ],
+    "text_joined": "Woman Beset by Nightmares"
+  },
+  {
+    "id": 118163,
+    "text": [
+      "Spinone"
+    ],
+    "text_joined": "Spinone"
+  },
+  {
+    "id": 118164,
+    "text": [
+      "Traveling Apothecary"
+    ],
+    "text_joined": "Traveling Apothecary"
+  },
+  {
+    "id": 118165,
+    "text": [
+      "Rich Man"
+    ],
+    "text_joined": "Rich Man"
+  },
+  {
+    "id": 118166,
+    "text": [
+      "Phil"
+    ],
+    "text_joined": "Phil"
+  },
+  {
+    "id": 118167,
+    "text": [
+      "Roneth"
+    ],
+    "text_joined": "Roneth"
+  },
+  {
+    "id": 118168,
+    "text": [
+      "Vaughner the Man-Eating Miser"
+    ],
+    "text_joined": "Vaughner the Man-Eating Miser"
+  },
+  {
+    "id": 118170,
+    "text": [
+      "Ensio"
+    ],
+    "text_joined": "Ensio"
+  },
+  {
+    "id": 118171,
+    "text": [
+      "Kalle"
+    ],
+    "text_joined": "Kalle"
+  },
+  {
+    "id": 118172,
+    "text": [
+      "\"Navigator\""
+    ],
+    "text_joined": "\"Navigator\""
+  },
+  {
+    "id": 118173,
+    "text": [
+      "\"Sailor\""
+    ],
+    "text_joined": "\"Sailor\""
+  },
+  {
+    "id": 118174,
+    "text": [
+      "\"Adventurer\""
+    ],
+    "text_joined": "\"Adventurer\""
+  },
+  {
+    "id": 118175,
+    "text": [
+      "Master Benno"
+    ],
+    "text_joined": "Master Benno"
+  },
+  {
+    "id": 118176,
+    "text": [
+      "Nina"
+    ],
+    "text_joined": "Nina"
+  },
+  {
+    "id": 118177,
+    "text": [
+      "Adrian the Promoter"
+    ],
+    "text_joined": "Adrian the Promoter"
+  },
+  {
+    "id": 118180,
+    "text": [
+      "Garrulous Bodyguard"
+    ],
+    "text_joined": "Garrulous Bodyguard"
+  },
+  {
+    "id": 118181,
+    "text": [
+      "Inarticulate Carpenter"
+    ],
+    "text_joined": "Inarticulate Carpenter"
+  },
+  {
+    "id": 118182,
+    "text": [
+      "Responsible Syndicate Member"
+    ],
+    "text_joined": "Responsible Syndicate Member"
+  },
+  {
+    "id": 118183,
+    "text": [
+      "Astute Appraiser"
+    ],
+    "text_joined": "Astute Appraiser"
+  },
+  {
+    "id": 118184,
+    "text": [
+      "Ruffian Chef"
+    ],
+    "text_joined": "Ruffian Chef"
+  },
+  {
+    "id": 118185,
+    "text": [
+      "Hunter-Like Youth"
+    ],
+    "text_joined": "Hunter-Like Youth"
+  },
+  {
+    "id": 118186,
+    "text": [
+      "Overly Devout Merchant"
+    ],
+    "text_joined": "Overly Devout Merchant"
+  },
+  {
+    "id": 118187,
+    "text": [
+      "Man Suspicious of the Hero"
+    ],
+    "text_joined": "Man Suspicious of the Hero"
+  },
+  {
+    "id": 118188,
+    "text": [
+      "Wandering Apothecary"
+    ],
+    "text_joined": "Wandering Apothecary"
+  },
+  {
+    "id": 118189,
+    "text": [
+      "Cool Hunter"
+    ],
+    "text_joined": "Cool Hunter"
+  },
+  {
+    "id": 118190,
+    "text": [
+      "Devout Nun"
+    ],
+    "text_joined": "Devout Nun"
+  },
+  {
+    "id": 118191,
+    "text": [
+      "Indomitable Dancer"
+    ],
+    "text_joined": "Indomitable Dancer"
+  },
+  {
+    "id": 118192,
+    "text": [
+      "Smithy Apprentice"
+    ],
+    "text_joined": "Smithy Apprentice"
+  },
+  {
+    "id": 118193,
+    "text": [
+      "Woman Fond of the Coastlands"
+    ],
+    "text_joined": "Woman Fond of the Coastlands"
+  },
+  {
+    "id": 118194,
+    "text": [
+      "Pushy Farmer"
+    ],
+    "text_joined": "Pushy Farmer"
+  },
+  {
+    "id": 118195,
+    "text": [
+      "Bibliophile Cleric"
+    ],
+    "text_joined": "Bibliophile Cleric"
+  },
+  {
+    "id": 118196,
+    "text": [
+      "Earnest Aspiring Actor"
+    ],
+    "text_joined": "Earnest Aspiring Actor"
+  },
+  {
+    "id": 118197,
+    "text": [
+      "Listless Former Actress"
+    ],
+    "text_joined": "Listless Former Actress"
+  },
+  {
+    "id": 118198,
+    "text": [
+      "Exhausted Broker"
+    ],
+    "text_joined": "Exhausted Broker"
+  },
+  {
+    "id": 118199,
+    "text": [
+      "Traveling Writer"
+    ],
+    "text_joined": "Traveling Writer"
+  },
+  {
+    "id": 118200,
+    "text": [
+      "Le Mann"
+    ],
+    "text_joined": "Le Mann"
+  },
+  {
+    "id": 118201,
+    "text": [
+      "Alcohol-Hating Man"
+    ],
+    "text_joined": "Alcohol-Hating Man"
+  },
+  {
+    "id": 118202,
+    "text": [
+      "Mid-Tier Noble's Servant"
+    ],
+    "text_joined": "Mid-Tier Noble's Servant"
+  },
+  {
+    "id": 118203,
+    "text": [
+      "Punching Bag"
+    ],
+    "text_joined": "Punching Bag"
+  },
+  {
+    "id": 118204,
+    "text": [
+      "Volunteer Soldier"
+    ],
+    "text_joined": "Volunteer Soldier"
+  },
+  {
+    "id": 118205,
+    "text": [
+      "Retired Military Leader"
+    ],
+    "text_joined": "Retired Military Leader"
+  },
+  {
+    "id": 118206,
+    "text": [
+      "Brigand Boss"
+    ],
+    "text_joined": "Brigand Boss"
+  },
+  {
+    "id": 118207,
+    "text": [
+      "Friendly Server"
+    ],
+    "text_joined": "Friendly Server"
+  },
+  {
+    "id": 118208,
+    "text": [
+      "Cloudy-Eyed Fisherwoman"
+    ],
+    "text_joined": "Cloudy-Eyed Fisherwoman"
+  },
+  {
+    "id": 118209,
+    "text": [
+      "Hotheaded Rancher"
+    ],
+    "text_joined": "Hotheaded Rancher"
+  },
+  {
+    "id": 118210,
+    "text": [
+      "Magg the Cook"
+    ],
+    "text_joined": "Magg the Cook"
+  },
+  {
+    "id": 118211,
+    "text": [
+      "Former Working Dancer"
+    ],
+    "text_joined": "Former Working Dancer"
+  },
+  {
+    "id": 118212,
+    "text": [
+      "Market Patrolman"
+    ],
+    "text_joined": "Market Patrolman"
+  },
+  {
+    "id": 118213,
+    "text": [
+      "Red-Faced Miner"
+    ],
+    "text_joined": "Red-Faced Miner"
+  },
+  {
+    "id": 118214,
+    "text": [
+      "Traveling Desert Chef"
+    ],
+    "text_joined": "Traveling Desert Chef"
+  },
+  {
+    "id": 118215,
+    "text": [
+      "Brave Tavern Maid"
+    ],
+    "text_joined": "Brave Tavern Maid"
+  },
+  {
+    "id": 118216,
+    "text": [
+      "Unsociable Recruiter"
+    ],
+    "text_joined": "Unsociable Recruiter"
+  },
+  {
+    "id": 118217,
+    "text": [
+      "Wise King's Admirer"
+    ],
+    "text_joined": "Wise King's Admirer"
+  },
+  {
+    "id": 118218,
+    "text": [
+      "Once-Aspiring Knight"
+    ],
+    "text_joined": "Once-Aspiring Knight"
+  },
+  {
+    "id": 118219,
+    "text": [
+      "Stern-Looking Carpenter"
+    ],
+    "text_joined": "Stern-Looking Carpenter"
+  },
+  {
+    "id": 118220,
+    "text": [
+      "Sociable Antique Dealer"
+    ],
+    "text_joined": "Sociable Antique Dealer"
+  },
+  {
+    "id": 118221,
+    "text": [
+      "Famous Mason"
+    ],
+    "text_joined": "Famous Mason"
+  },
+  {
+    "id": 118222,
+    "text": [
+      "Cultivation Researcher"
+    ],
+    "text_joined": "Cultivation Researcher"
+  },
+  {
+    "id": 118223,
+    "text": [
+      "Generous Noble"
+    ],
+    "text_joined": "Generous Noble"
+  },
+  {
+    "id": 118224,
+    "text": [
+      "Stern Knight"
+    ],
+    "text_joined": "Stern Knight"
+  },
+  {
+    "id": 118225,
+    "text": [
+      "Virtuous Cleric"
+    ],
+    "text_joined": "Virtuous Cleric"
+  },
+  {
+    "id": 118226,
+    "text": [
+      "Striving Squire"
+    ],
+    "text_joined": "Striving Squire"
+  },
+  {
+    "id": 118227,
+    "text": [
+      "Novice Cleric"
+    ],
+    "text_joined": "Novice Cleric"
+  },
+  {
+    "id": 118228,
+    "text": [
+      "Fastidious Seamstress"
+    ],
+    "text_joined": "Fastidious Seamstress"
+  },
+  {
+    "id": 118229,
+    "text": [
+      "Traveling Gourmand"
+    ],
+    "text_joined": "Traveling Gourmand"
+  },
+  {
+    "id": 118230,
+    "text": [
+      "Eccentric Cook"
+    ],
+    "text_joined": "Eccentric Cook"
+  },
+  {
+    "id": 118231,
+    "text": [
+      "Secretive Graybeard"
+    ],
+    "text_joined": "Secretive Graybeard"
+  },
+  {
+    "id": 118232,
+    "text": [
+      "Axe-Wielding Gentleman"
+    ],
+    "text_joined": "Axe-Wielding Gentleman"
+  },
+  {
+    "id": 118233,
+    "text": [
+      "Covert Mercenary"
+    ],
+    "text_joined": "Covert Mercenary"
+  },
+  {
+    "id": 118234,
+    "text": [
+      "Pleasant Goldsmith"
+    ],
+    "text_joined": "Pleasant Goldsmith"
+  },
+  {
+    "id": 118235,
+    "text": [
+      "Veteran Announcer"
+    ],
+    "text_joined": "Veteran Announcer"
+  },
+  {
+    "id": 118236,
+    "text": [
+      "Arena Dancer"
+    ],
+    "text_joined": "Arena Dancer"
+  },
+  {
+    "id": 118237,
+    "text": [
+      "Former Slave of Tytos"
+    ],
+    "text_joined": "Former Slave of Tytos"
+  },
+  {
+    "id": 118238,
+    "text": [
+      "Instructor Rhiom"
+    ],
+    "text_joined": "Instructor Rhiom"
+  },
+  {
+    "id": 118239,
+    "text": [
+      "Head of the Artisan's Guild"
+    ],
+    "text_joined": "Head of the Artisan's Guild"
+  },
+  {
+    "id": 118240,
+    "text": [
+      "Know-It-All Milo"
+    ],
+    "text_joined": "Know-It-All Milo"
+  },
+  {
+    "id": 118241,
+    "text": [
+      "Capable Culinarian"
+    ],
+    "text_joined": "Capable Culinarian"
+  },
+  {
+    "id": 118242,
+    "text": [
+      "Cow-Loving Farmer"
+    ],
+    "text_joined": "Cow-Loving Farmer"
+  },
+  {
+    "id": 118243,
+    "text": [
+      "Theoretical Military Scholar"
+    ],
+    "text_joined": "Theoretical Military Scholar"
+  },
+  {
+    "id": 118244,
+    "text": [
+      "Medicinal Herb Student"
+    ],
+    "text_joined": "Medicinal Herb Student"
+  },
+  {
+    "id": 118245,
+    "text": [
+      "Dutiful Botanist"
+    ],
+    "text_joined": "Dutiful Botanist"
+  },
+  {
+    "id": 118246,
+    "text": [
+      "Practical Agriculturist"
+    ],
+    "text_joined": "Practical Agriculturist"
+  },
+  {
+    "id": 118247,
+    "text": [
+      "Cat Guard"
+    ],
+    "text_joined": "Cat Guard"
+  },
+  {
+    "id": 118248,
+    "text": [
+      "Traveling Ore Merchant"
+    ],
+    "text_joined": "Traveling Ore Merchant"
+  },
+  {
+    "id": 118249,
+    "text": [
+      "Robust Broker"
+    ],
+    "text_joined": "Robust Broker"
+  },
+  {
+    "id": 118250,
+    "text": [
+      "Harbor Black Market Merchant"
+    ],
+    "text_joined": "Harbor Black Market Merchant"
+  },
+  {
+    "id": 118251,
+    "text": [
+      "Ambitious Investor"
+    ],
+    "text_joined": "Ambitious Investor"
+  },
+  {
+    "id": 118252,
+    "text": [
+      "Diarist"
+    ],
+    "text_joined": "Diarist"
+  },
+  {
+    "id": 118253,
+    "text": [
+      "Veteran Captain"
+    ],
+    "text_joined": "Veteran Captain"
+  },
+  {
+    "id": 118254,
+    "text": [
+      "Holy Drunkard"
+    ],
+    "text_joined": "Holy Drunkard"
+  },
+  {
+    "id": 118255,
+    "text": [
+      "Award-Winning Farmer"
+    ],
+    "text_joined": "Award-Winning Farmer"
+  },
+  {
+    "id": 118256,
+    "text": [
+      "Injured Man"
+    ],
+    "text_joined": "Injured Man"
+  },
+  {
+    "id": 118257,
+    "text": [
+      "Hardworking Lumberjack"
+    ],
+    "text_joined": "Hardworking Lumberjack"
+  },
+  {
+    "id": 118258,
+    "text": [
+      "Eagle-Eyed Soldier"
+    ],
+    "text_joined": "Eagle-Eyed Soldier"
+  },
+  {
+    "id": 118259,
+    "text": [
+      "Patriotic Bard"
+    ],
+    "text_joined": "Patriotic Bard"
+  },
+  {
+    "id": 118260,
+    "text": [
+      "Grieving Dog Owner"
+    ],
+    "text_joined": "Grieving Dog Owner"
+  },
+  {
+    "id": 118261,
+    "text": [
+      "Watchful Merchant"
+    ],
+    "text_joined": "Watchful Merchant"
+  },
+  {
+    "id": 118262,
+    "text": [
+      "Kindly Millionaire"
+    ],
+    "text_joined": "Kindly Millionaire"
+  },
+  {
+    "id": 118263,
+    "text": [
+      "Ahdju Pastoralist"
+    ],
+    "text_joined": "Ahdju Pastoralist"
+  },
+  {
+    "id": 118264,
+    "text": [
+      "Spice Mixer"
+    ],
+    "text_joined": "Spice Mixer"
+  },
+  {
+    "id": 118265,
+    "text": [
+      "Tailor Shelito"
+    ],
+    "text_joined": "Tailor Shelito"
+  },
+  {
+    "id": 118266,
+    "text": [
+      "Desert Labor Supervisor"
+    ],
+    "text_joined": "Desert Labor Supervisor"
+  },
+  {
+    "id": 118267,
+    "text": [
+      "Versatile Painter"
+    ],
+    "text_joined": "Versatile Painter"
+  },
+  {
+    "id": 118268,
+    "text": [
+      "Mystery-Chasing Explorer"
+    ],
+    "text_joined": "Mystery-Chasing Explorer"
+  },
+  {
+    "id": 118269,
+    "text": [
+      "Scholar of Harmony"
+    ],
+    "text_joined": "Scholar of Harmony"
+  },
+  {
+    "id": 118270,
+    "text": [
+      "Resigned Woman"
+    ],
+    "text_joined": "Resigned Woman"
+  },
+  {
+    "id": 118271,
+    "text": [
+      "Grumpy Old Woman"
+    ],
+    "text_joined": "Grumpy Old Woman"
+  },
+  {
+    "id": 118272,
+    "text": [
+      "Maiden of Healing"
+    ],
+    "text_joined": "Maiden of Healing"
+  },
+  {
+    "id": 118273,
+    "text": [
+      "Powerful Maiden-in-Training"
+    ],
+    "text_joined": "Powerful Maiden-in-Training"
+  },
+  {
+    "id": 118274,
+    "text": [
+      "Meowstesis of the Pawbeans"
+    ],
+    "text_joined": "Meowstesis of the Pawbeans"
+  },
+  {
+    "id": 118275,
+    "text": [
+      "Cunning Kitten"
+    ],
+    "text_joined": "Cunning Kitten"
+  },
+  {
+    "id": 118276,
+    "text": [
+      "Shivering Black Cat"
+    ],
+    "text_joined": "Shivering Black Cat"
+  },
+  {
+    "id": 118277,
+    "text": [
+      "Theatre-Loving Dog"
+    ],
+    "text_joined": "Theatre-Loving Dog"
+  },
+  {
+    "id": 118278,
+    "text": [
+      "Aggressive Alpaca"
+    ],
+    "text_joined": "Aggressive Alpaca"
+  },
+  {
+    "id": 118279,
+    "text": [
+      "Former Herd Leader"
+    ],
+    "text_joined": "Former Herd Leader"
+  },
+  {
+    "id": 118280,
+    "text": [
+      "Hole-Digging Rabbit"
+    ],
+    "text_joined": "Hole-Digging Rabbit"
+  },
+  {
+    "id": 118281,
+    "text": [
+      "Happy Dog"
+    ],
+    "text_joined": "Happy Dog"
+  },
+  {
+    "id": 118282,
+    "text": [
+      "Stray Seagull"
+    ],
+    "text_joined": "Stray Seagull"
+  },
+  {
+    "id": 118283,
+    "text": [
+      "Lonely Goat"
+    ],
+    "text_joined": "Lonely Goat"
+  },
+  {
+    "id": 118284,
+    "text": [
+      "Octopus Traveler"
+    ],
+    "text_joined": "Octopus Traveler"
+  },
+  {
+    "id": 118285,
+    "text": [
+      "Bloodthirsty Rabbit"
+    ],
+    "text_joined": "Bloodthirsty Rabbit"
+  },
+  {
+    "id": 118287,
+    "text": [
+      "Forgetful Squirrel"
+    ],
+    "text_joined": "Forgetful Squirrel"
+  },
+  {
+    "id": 118288,
+    "text": [
+      "Ravenous Goat"
+    ],
+    "text_joined": "Ravenous Goat"
+  },
+  {
+    "id": 118289,
+    "text": [
+      "Carefree Seagull"
+    ],
+    "text_joined": "Carefree Seagull"
+  },
+  {
+    "id": 118290,
+    "text": [
+      "Self-Indulgent Bovine"
+    ],
+    "text_joined": "Self-Indulgent Bovine"
+  },
+  {
+    "id": 118291,
+    "text": [
+      "Elderly Camel"
+    ],
+    "text_joined": "Elderly Camel"
+  },
+  {
+    "id": 118292,
+    "text": [
+      "Beautiful White Cat"
+    ],
+    "text_joined": "Beautiful White Cat"
+  },
+  {
+    "id": 118293,
+    "text": [
+      "Satisfied Calico"
+    ],
+    "text_joined": "Satisfied Calico"
+  },
+  {
+    "id": 118294,
+    "text": [
+      "Family of Chickens"
+    ],
+    "text_joined": "Family of Chickens"
+  },
+  {
+    "id": 118295,
+    "text": [
+      "Carefree Cat"
+    ],
+    "text_joined": "Carefree Cat"
+  },
+  {
+    "id": 118300,
+    "text": [
+      "Apothecary Toulo"
+    ],
+    "text_joined": "Apothecary Toulo"
+  },
+  {
+    "id": 118338,
+    "text": [
+      "Cat of Graceful Bearing"
+    ],
+    "text_joined": "Cat of Graceful Bearing"
+  },
+  {
+    "id": 118339,
+    "text": [
+      "Hound of Power"
+    ],
+    "text_joined": "Hound of Power"
+  },
+  {
+    "id": 10101,
+    "text": [
+      "Viator"
+    ],
+    "text_joined": "Viator"
+  },
+  {
+    "id": 10201,
+    "text": [
+      "Reime"
+    ],
+    "text_joined": "Reime"
+  },
+  {
+    "id": 10302,
+    "text": [
+      "Ludo"
+    ],
+    "text_joined": "Ludo"
+  },
+  {
+    "id": 10402,
+    "text": [
+      "Carinda"
+    ],
+    "text_joined": "Carinda"
+  },
+  {
+    "id": 10503,
+    "text": [
+      "Celsus"
+    ],
+    "text_joined": "Celsus"
+  },
+  {
+    "id": 10603,
+    "text": [
+      "Heidne"
+    ],
+    "text_joined": "Heidne"
+  },
+  {
+    "id": 10704,
+    "text": [
+      "Esperre"
+    ],
+    "text_joined": "Esperre"
+  },
+  {
+    "id": 10804,
+    "text": [
+      "Macy"
+    ],
+    "text_joined": "Macy"
+  },
+  {
+    "id": 10905,
+    "text": [
+      "Phenn"
+    ],
+    "text_joined": "Phenn"
+  },
+  {
+    "id": 11005,
+    "text": [
+      "Delitia"
+    ],
+    "text_joined": "Delitia"
+  },
+  {
+    "id": 11106,
+    "text": [
+      "Pius"
+    ],
+    "text_joined": "Pius"
+  },
+  {
+    "id": 11206,
+    "text": [
+      "Laurana"
+    ],
+    "text_joined": "Laurana"
+  },
+  {
+    "id": 11307,
+    "text": [
+      "Xerc"
+    ],
+    "text_joined": "Xerc"
+  },
+  {
+    "id": 11407,
+    "text": [
+      "Alexia"
+    ],
+    "text_joined": "Alexia"
+  },
+  {
+    "id": 11508,
+    "text": [
+      "Goodwin"
+    ],
+    "text_joined": "Goodwin"
+  },
+  {
+    "id": 11608,
+    "text": [
+      "Saoirse"
+    ],
+    "text_joined": "Saoirse"
+  },
+  {
+    "id": 20101,
+    "text": [
+      "Olberic"
+    ],
+    "text_joined": "Olberic"
+  },
+  {
+    "id": 20202,
+    "text": [
+      "Tressa"
+    ],
+    "text_joined": "Tressa"
+  },
+  {
+    "id": 20303,
+    "text": [
+      "Therion"
+    ],
+    "text_joined": "Therion"
+  },
+  {
+    "id": 20404,
+    "text": [
+      "Alfyn"
+    ],
+    "text_joined": "Alfyn"
+  },
+  {
+    "id": 20505,
+    "text": [
+      "H'aanit"
+    ],
+    "text_joined": "H'aanit"
+  },
+  {
+    "id": 20606,
+    "text": [
+      "Ophilia"
+    ],
+    "text_joined": "Ophilia"
+  },
+  {
+    "id": 20707,
+    "text": [
+      "Cyrus"
+    ],
+    "text_joined": "Cyrus"
+  },
+  {
+    "id": 20808,
+    "text": [
+      "Primrose"
+    ],
+    "text_joined": "Primrose"
+  },
+  {
+    "id": 30103,
+    "text": [
+      "Bargello"
+    ],
+    "text_joined": "Bargello"
+  },
+  {
+    "id": 30207,
+    "text": [
+      "Alaune"
+    ],
+    "text_joined": "Alaune"
+  },
+  {
+    "id": 30301,
+    "text": [
+      "Richard"
+    ],
+    "text_joined": "Richard"
+  },
+  {
+    "id": 30407,
+    "text": [
+      "Solon"
+    ],
+    "text_joined": "Solon"
+  },
+  {
+    "id": 30501,
+    "text": [
+      "Eltrix"
+    ],
+    "text_joined": "Eltrix"
+  },
+  {
+    "id": 30701,
+    "text": [
+      "Rondo"
+    ],
+    "text_joined": "Rondo"
+  },
+  {
+    "id": 30808,
+    "text": [
+      "Tatloch"
+    ],
+    "text_joined": "Tatloch"
+  },
+  {
+    "id": 40204,
+    "text": [
+      "Stia"
+    ],
+    "text_joined": "Stia"
+  },
+  {
+    "id": 50101,
+    "text": [
+      "Sazantos"
+    ],
+    "text_joined": "Sazantos"
+  },
+  {
+    "id": 50201,
+    "text": [
+      "El"
+    ],
+    "text_joined": "El"
+  },
+  {
+    "id": 60107,
+    "text": [
+      "Isla"
+    ],
+    "text_joined": "Isla"
+  },
+  {
+    "id": 118337,
+    "text": [
+      "Cait Scholar Isla"
+    ],
+    "text_joined": "Cait Scholar Isla"
+  },
+  {
+    "id": 118301,
+    "text": [
+      "Rugis Surra"
+    ],
+    "text_joined": "Rugis Surra"
+  },
+  {
+    "id": 118302,
+    "text": [
+      "Delan Poe"
+    ],
+    "text_joined": "Delan Poe"
+  },
+  {
+    "id": 118303,
+    "text": [
+      "Da Maya"
+    ],
+    "text_joined": "Da Maya"
+  },
+  {
+    "id": 118304,
+    "text": [
+      "Kota"
+    ],
+    "text_joined": "Kota"
+  },
+  {
+    "id": 118305,
+    "text": [
+      "Morimeowto"
+    ],
+    "text_joined": "Morimeowto"
+  },
+  {
+    "id": 118306,
+    "text": [
+      "Ikcy"
+    ],
+    "text_joined": "Ikcy"
+  },
+  {
+    "id": 118307,
+    "text": [
+      "Kama Dierre"
+    ],
+    "text_joined": "Kama Dierre"
+  },
+  {
+    "id": 118308,
+    "text": [
+      "Kaku Robo"
+    ],
+    "text_joined": "Kaku Robo"
+  },
+  {
+    "id": 118309,
+    "text": [
+      "Nishikiano"
+    ],
+    "text_joined": "Nishikiano"
+  },
+  {
+    "id": 118310,
+    "text": [
+      "Negiwata Belaren"
+    ],
+    "text_joined": "Negiwata Belaren"
+  },
+  {
+    "id": 118311,
+    "text": [
+      "Sapa Vienne"
+    ],
+    "text_joined": "Sapa Vienne"
+  },
+  {
+    "id": 118312,
+    "text": [
+      "Joun Lemon"
+    ],
+    "text_joined": "Joun Lemon"
+  },
+  {
+    "id": 118313,
+    "text": [
+      "Norimas Winlook"
+    ],
+    "text_joined": "Norimas Winlook"
+  },
+  {
+    "id": 118314,
+    "text": [
+      "Naga Yamante"
+    ],
+    "text_joined": "Naga Yamante"
+  },
+  {
+    "id": 118315,
+    "text": [
+      "Kana Shiba"
+    ],
+    "text_joined": "Kana Shiba"
+  },
+  {
+    "id": 118316,
+    "text": [
+      "Kohi Tahkar"
+    ],
+    "text_joined": "Kohi Tahkar"
+  },
+  {
+    "id": 118317,
+    "text": [
+      "Yu Yai"
+    ],
+    "text_joined": "Yu Yai"
+  },
+  {
+    "id": 118318,
+    "text": [
+      "Mikaro Mirahim"
+    ],
+    "text_joined": "Mikaro Mirahim"
+  },
+  {
+    "id": 118319,
+    "text": [
+      "Ryoma"
+    ],
+    "text_joined": "Ryoma"
+  },
+  {
+    "id": 118320,
+    "text": [
+      "Shiba Rique"
+    ],
+    "text_joined": "Shiba Rique"
+  },
+  {
+    "id": 118321,
+    "text": [
+      "Mineji"
+    ],
+    "text_joined": "Mineji"
+  },
+  {
+    "id": 118322,
+    "text": [
+      "Ihsa Yabok"
+    ],
+    "text_joined": "Ihsa Yabok"
+  },
+  {
+    "id": 118323,
+    "text": [
+      "Myano Wincy"
+    ],
+    "text_joined": "Myano Wincy"
+  },
+  {
+    "id": 118324,
+    "text": [
+      "Kamimu Shisuya"
+    ],
+    "text_joined": "Kamimu Shisuya"
+  },
+  {
+    "id": 118325,
+    "text": [
+      "Mikey Gold"
+    ],
+    "text_joined": "Mikey Gold"
+  },
+  {
+    "id": 118326,
+    "text": [
+      "Den Skeyo"
+    ],
+    "text_joined": "Den Skeyo"
+  },
+  {
+    "id": 118327,
+    "text": [
+      "Escon Satour"
+    ],
+    "text_joined": "Escon Satour"
+  },
+  {
+    "id": 118328,
+    "text": [
+      "Akkirua"
+    ],
+    "text_joined": "Akkirua"
+  },
+  {
+    "id": 118329,
+    "text": [
+      "Rhiae Iga"
+    ],
+    "text_joined": "Rhiae Iga"
+  },
+  {
+    "id": 118330,
+    "text": [
+      "Yu Sakh"
+    ],
+    "text_joined": "Yu Sakh"
+  },
+  {
+    "id": 118331,
+    "text": [
+      "Velle Rice"
+    ],
+    "text_joined": "Velle Rice"
+  },
+  {
+    "id": 118332,
+    "text": [
+      "Tsuka Tashiba"
+    ],
+    "text_joined": "Tsuka Tashiba"
+  },
+  {
+    "id": 118333,
+    "text": [
+      "Neumann Hiro"
+    ],
+    "text_joined": "Neumann Hiro"
+  },
+  {
+    "id": 118334,
+    "text": [
+      "Haggie Harrar"
+    ],
+    "text_joined": "Haggie Harrar"
+  },
+  {
+    "id": 118335,
+    "text": [
+      "Higtis Ayu"
+    ],
+    "text_joined": "Higtis Ayu"
+  },
+  {
+    "id": 118336,
+    "text": [
+      "Ruggs Shohashi"
+    ],
+    "text_joined": "Ruggs Shohashi"
+  }
+]

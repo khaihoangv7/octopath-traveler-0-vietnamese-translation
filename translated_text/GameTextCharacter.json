@@ -1,0 +1,2625 @@
+[
+  {
+    "id": 28600,
+    "en": "Boy",
+    "vi": "Cậu bé"
+  },
+  {
+    "id": 28500,
+    "en": "no data.",
+    "vi": "no data."
+  },
+  {
+    "id": 28565,
+    "en": "???",
+    "vi": "???",
+    "api_translated": true
+  },
+  {
+    "id": 28566,
+    "en": "Everyone",
+    "vi": "Mọi người"
+  },
+  {
+    "id": 116414,
+    "en": "Tavernkeep",
+    "vi": "Chủ quán trọ"
+  },
+  {
+    "id": 28592,
+    "en": "Boy",
+    "vi": "Cậu bé"
+  },
+  {
+    "id": 28567,
+    "en": "Bargello's Gang",
+    "vi": "Băng của Bargello"
+  },
+  {
+    "id": 28568,
+    "en": "Bargello",
+    "vi": "Bargello",
+    "api_translated": true
+  },
+  {
+    "id": 28569,
+    "en": "Tiziano",
+    "vi": "Tiziano",
+    "api_translated": true
+  },
+  {
+    "id": 28570,
+    "en": "Pierro Della",
+    "vi": "Pierro Della",
+    "api_translated": true
+  },
+  {
+    "id": 28571,
+    "en": "Fra",
+    "vi": "Fra",
+    "api_translated": true
+  },
+  {
+    "id": 28572,
+    "en": "Lady Herminia",
+    "vi": "Quý cô Herminia"
+  },
+  {
+    "id": 28573,
+    "en": "Lady-in-Waiting",
+    "vi": "Thị nữ"
+  },
+  {
+    "id": 28574,
+    "en": "Sonia",
+    "vi": "Sonia",
+    "api_translated": true
+  },
+  {
+    "id": 28575,
+    "en": "Lord Taviani",
+    "vi": "Lãnh chúa Taviani"
+  },
+  {
+    "id": 28577,
+    "en": "Crippled Elder",
+    "vi": "Trưởng lão tàn tật"
+  },
+  {
+    "id": 28578,
+    "en": "Blackrobe",
+    "vi": "Áo đen"
+  },
+  {
+    "id": 28579,
+    "en": "???",
+    "vi": "???",
+    "api_translated": true
+  },
+  {
+    "id": 28580,
+    "en": "Captain Tristan",
+    "vi": "Đội trưởng Tristan"
+  },
+  {
+    "id": 28583,
+    "en": "Flower Girl",
+    "vi": "Cô gái bán hoa"
+  },
+  {
+    "id": 28584,
+    "en": "Herminia the Huntress",
+    "vi": "Herminia Thợ săn"
+  },
+  {
+    "id": 28588,
+    "en": "Rosso",
+    "vi": "Rosso",
+    "api_translated": true
+  },
+  {
+    "id": 28589,
+    "en": "Tomazzo",
+    "vi": "Tomazzo",
+    "api_translated": true
+  },
+  {
+    "id": 28590,
+    "en": "Gastone",
+    "vi": "Gastone",
+    "api_translated": true
+  },
+  {
+    "id": 28988,
+    "en": "???",
+    "vi": "???",
+    "api_translated": true
+  },
+  {
+    "id": 28989,
+    "en": "Commander Tytos",
+    "vi": "Chỉ huy Tytos"
+  },
+  {
+    "id": 28991,
+    "en": "Servant",
+    "vi": "Người hầu"
+  },
+  {
+    "id": 28994,
+    "en": "Velnorte",
+    "vi": "Velnorte",
+    "api_translated": true
+  },
+  {
+    "id": 28995,
+    "en": "Jurgen",
+    "vi": "Jurgen",
+    "api_translated": true
+  },
+  {
+    "id": 28996,
+    "en": "Rinyuu",
+    "vi": "Rinyuu",
+    "api_translated": true
+  },
+  {
+    "id": 28997,
+    "en": "Priest",
+    "vi": "Linh mục"
+  },
+  {
+    "id": 28998,
+    "en": "Phina",
+    "vi": "Phina",
+    "api_translated": true
+  },
+  {
+    "id": 29000,
+    "en": "Abnormal Ruffian",
+    "vi": "Tên côn đồ dị thường"
+  },
+  {
+    "id": 29005,
+    "en": "Al the Servant",
+    "vi": "Al người hầu"
+  },
+  {
+    "id": 29006,
+    "en": "Knight Ardante",
+    "vi": "Hiệp sĩ Ardante"
+  },
+  {
+    "id": 29009,
+    "en": "Bishop",
+    "vi": "Giám mục"
+  },
+  {
+    "id": 29014,
+    "en": "Dmitri the Hunter",
+    "vi": "Dmitri Thợ săn"
+  },
+  {
+    "id": 116284,
+    "en": "Innkeeper",
+    "vi": "Chủ quán trọ"
+  },
+  {
+    "id": 116285,
+    "en": "Scarlet Wing",
+    "vi": "Cánh Đỏ Thẫm"
+  },
+  {
+    "id": 116288,
+    "en": "Tytos the Thunderblade",
+    "vi": "Tytos Lưỡi Kiếm Sấm Sét"
+  },
+  {
+    "id": 116362,
+    "en": "Tavernkeep",
+    "vi": "Chủ quán trọ"
+  },
+  {
+    "id": 116366,
+    "en": "Tytos of the Knights Ardante",
+    "vi": "Tytos của Hiệp sĩ Ardante"
+  },
+  {
+    "id": 116367,
+    "en": "Pontiff",
+    "vi": "Giáo chủ"
+  },
+  {
+    "id": 116368,
+    "en": "King of Edoras",
+    "vi": "Vua của Edoras"
+  },
+  {
+    "id": 116369,
+    "en": "King of Hornburg",
+    "vi": "Vua của Hornburg"
+  },
+  {
+    "id": 28963,
+    "en": "Actress",
+    "vi": "Nữ diễn viên"
+  },
+  {
+    "id": 28965,
+    "en": "\"Jana\"",
+    "vi": "\"Jana\"",
+    "api_translated": true
+  },
+  {
+    "id": 28966,
+    "en": "\"Françoise\"",
+    "vi": "\"Françoise\"",
+    "api_translated": true
+  },
+  {
+    "id": 28967,
+    "en": "\"Anna\"",
+    "vi": "\"Anna\"",
+    "api_translated": true
+  },
+  {
+    "id": 28970,
+    "en": "\"Rafael\"",
+    "vi": "\"Rafael\"",
+    "api_translated": true
+  },
+  {
+    "id": 28971,
+    "en": "Francesca the Actress",
+    "vi": "Francesca Nữ diễn viên"
+  },
+  {
+    "id": 28972,
+    "en": "\"Margretta\"",
+    "vi": "\"Margretta\"",
+    "api_translated": true
+  },
+  {
+    "id": 28973,
+    "en": "Auguste the Playwright",
+    "vi": "Auguste Nhà viết kịch"
+  },
+  {
+    "id": 28974,
+    "en": "Schwartz",
+    "vi": "Schwartz",
+    "api_translated": true
+  },
+  {
+    "id": 28975,
+    "en": "Mikhail",
+    "vi": "Mikhail",
+    "api_translated": true
+  },
+  {
+    "id": 28976,
+    "en": "Maid",
+    "vi": "Hầu gái"
+  },
+  {
+    "id": 28977,
+    "en": "Master Dorteau",
+    "vi": "Chúa tể Dorteau"
+  },
+  {
+    "id": 28978,
+    "en": "Simeon the Poet",
+    "vi": "Simeon Nhà thơ"
+  },
+  {
+    "id": 116359,
+    "en": "\"Auguste\"",
+    "vi": "\"Auguste\"",
+    "api_translated": true
+  },
+  {
+    "id": 116386,
+    "en": "\"Schwartz\"",
+    "vi": "\"Schwartz\"",
+    "api_translated": true
+  },
+  {
+    "id": 116387,
+    "en": "Auguste the Prince of Thieves",
+    "vi": "Auguste Hoàng tử Trộm cắp"
+  },
+  {
+    "id": 118110,
+    "en": "\"Child\"",
+    "vi": "\"Đứa trẻ\""
+  },
+  {
+    "id": 116289,
+    "en": "General Mahrez",
+    "vi": "Tướng quân Mahrez"
+  },
+  {
+    "id": 116290,
+    "en": "Princess Elrica",
+    "vi": "Công chúa Elrica"
+  },
+  {
+    "id": 116291,
+    "en": "Princess Alaune",
+    "vi": "Công chúa Alaune"
+  },
+  {
+    "id": 116292,
+    "en": "Queen Alaune",
+    "vi": "Hoàng hậu Alaune"
+  },
+  {
+    "id": 116293,
+    "en": "Commander Krauser",
+    "vi": "Chỉ huy Krauser"
+  },
+  {
+    "id": 116294,
+    "en": "General Krauser",
+    "vi": "Tướng quân Krauser"
+  },
+  {
+    "id": 116295,
+    "en": "King Solon",
+    "vi": "Vua Solon"
+  },
+  {
+    "id": 116296,
+    "en": "Lebrandt the Attendant",
+    "vi": "Lebrandt Người hầu"
+  },
+  {
+    "id": 116297,
+    "en": "El the Swordsman",
+    "vi": "El Kiếm sĩ"
+  },
+  {
+    "id": 116298,
+    "en": "Charles the Traveler",
+    "vi": "Charles Lữ khách"
+  },
+  {
+    "id": 116299,
+    "en": "Mendoza the Attendant",
+    "vi": "Mendoza Người hầu"
+  },
+  {
+    "id": 116300,
+    "en": "Captain Barnes",
+    "vi": "Đội trưởng Barnes"
+  },
+  {
+    "id": 116301,
+    "en": "King of Riven",
+    "vi": "Vua của Riven"
+  },
+  {
+    "id": 116302,
+    "en": "Prime Minister Raum",
+    "vi": "Thủ tướng Raum"
+  },
+  {
+    "id": 116303,
+    "en": "Master Helgenish",
+    "vi": "Chúa tể Helgenish"
+  },
+  {
+    "id": 116304,
+    "en": "Primrose the Dancer",
+    "vi": "Primrose Vũ công"
+  },
+  {
+    "id": 116305,
+    "en": "Trompeur the Merchant",
+    "vi": "Trompeur Thương nhân"
+  },
+  {
+    "id": 116306,
+    "en": "Chief Kanzas",
+    "vi": "Thủ lĩnh Kanzas"
+  },
+  {
+    "id": 116307,
+    "en": "Mesara the Thief",
+    "vi": "Mesara Kẻ trộm"
+  },
+  {
+    "id": 116308,
+    "en": "M'suhi the Viper",
+    "vi": "M'suhi Rắn độc"
+  },
+  {
+    "id": 116309,
+    "en": "Gimel the Brigand Leader",
+    "vi": "Gimel Thủ lĩnh Cướp"
+  },
+  {
+    "id": 116310,
+    "en": "Cerro the Emissary",
+    "vi": "Cerro Sứ giả"
+  },
+  {
+    "id": 116311,
+    "en": "Gonzalez the Ironarm",
+    "vi": "Gonzalez Tay Sắt"
+  },
+  {
+    "id": 116313,
+    "en": "King Pardis III",
+    "vi": "Vua Pardis III"
+  },
+  {
+    "id": 116314,
+    "en": "Gonska the Jester",
+    "vi": "Gonska Tên hề"
+  },
+  {
+    "id": 116315,
+    "en": "King Pardis II",
+    "vi": "Vua Pardis II"
+  },
+  {
+    "id": 116316,
+    "en": "Prince Oswald",
+    "vi": "Hoàng tử Oswald"
+  },
+  {
+    "id": 116317,
+    "en": "Prince Osasuna",
+    "vi": "Hoàng tử Osasuna"
+  },
+  {
+    "id": 116320,
+    "en": "Zeph the Apothecary",
+    "vi": "Zeph Dược sĩ"
+  },
+  {
+    "id": 116321,
+    "en": "Richard",
+    "vi": "Richard",
+    "api_translated": true
+  },
+  {
+    "id": 116323,
+    "en": "Captain of the Army of Riven",
+    "vi": "Đội trưởng Quân đội Riven"
+  },
+  {
+    "id": 116324,
+    "en": "Riven Soldier",
+    "vi": "Binh lính Riven"
+  },
+  {
+    "id": 116325,
+    "en": "Edoras Soldier",
+    "vi": "Binh lính Edoras"
+  },
+  {
+    "id": 116326,
+    "en": "Altinian Soldier",
+    "vi": "Binh lính Altinian"
+  },
+  {
+    "id": 116330,
+    "en": "Pontiff Julius",
+    "vi": "Giáo hoàng Julius"
+  },
+  {
+    "id": 116331,
+    "en": "Priest",
+    "vi": "Thầy tu"
+  },
+  {
+    "id": 116332,
+    "en": "Queen Ulrica",
+    "vi": "Hoàng hậu Ulrica"
+  },
+  {
+    "id": 116333,
+    "en": "Prime Minister",
+    "vi": "Thủ tướng"
+  },
+  {
+    "id": 116334,
+    "en": "Apothecary",
+    "vi": "Dược Sư"
+  },
+  {
+    "id": 116336,
+    "en": "Elrica",
+    "vi": "Elrica",
+    "api_translated": true
+  },
+  {
+    "id": 116338,
+    "en": "Dancer",
+    "vi": "Vũ Công"
+  },
+  {
+    "id": 116339,
+    "en": "Maid-in-Waiting",
+    "vi": "Thị nữ"
+  },
+  {
+    "id": 116340,
+    "en": "Desert Dweller",
+    "vi": "Cư dân sa mạc"
+  },
+  {
+    "id": 116341,
+    "en": "Pardis the Scholarking",
+    "vi": "Pardis Học giả Vương"
+  },
+  {
+    "id": 116342,
+    "en": "Master of All",
+    "vi": "Bậc Thầy Vạn Sự"
+  },
+  {
+    "id": 116343,
+    "en": "Pathos the Thumb",
+    "vi": "Pathos Ngón Cái"
+  },
+  {
+    "id": 116344,
+    "en": "Apatheia the Ring Finger",
+    "vi": "Apatheia Ngón Áp Út"
+  },
+  {
+    "id": 116345,
+    "en": "Sazantos the Flameguard",
+    "vi": "Sazantos Hỏa Vệ"
+  },
+  {
+    "id": 116346,
+    "en": "Alaune",
+    "vi": "Alaune",
+    "api_translated": true
+  },
+  {
+    "id": 116350,
+    "en": "Threadbare Woman",
+    "vi": "Người phụ nữ rách rưới"
+  },
+  {
+    "id": 116351,
+    "en": "Soldiers",
+    "vi": "Binh lính"
+  },
+  {
+    "id": 116353,
+    "en": "Leafless Woman",
+    "vi": "Người phụ nữ trơ trụi"
+  },
+  {
+    "id": 116354,
+    "en": "Edoras Infantryman",
+    "vi": "Lính bộ binh Edoras"
+  },
+  {
+    "id": 116355,
+    "en": "Pauper",
+    "vi": "Người nghèo khổ"
+  },
+  {
+    "id": 116356,
+    "en": "Edoras Captain",
+    "vi": "Đội trưởng Edoras"
+  },
+  {
+    "id": 116357,
+    "en": "Guard",
+    "vi": "Vệ binh"
+  },
+  {
+    "id": 116358,
+    "en": "King Richard",
+    "vi": "Vua Richard"
+  },
+  {
+    "id": 118113,
+    "en": "Edoras Soldiers",
+    "vi": "Binh lính Edoras"
+  },
+  {
+    "id": 116400,
+    "en": "Man in Black",
+    "vi": "Người đàn ông áo đen"
+  },
+  {
+    "id": 116404,
+    "en": "Levina",
+    "vi": "Levina",
+    "api_translated": true
+  },
+  {
+    "id": 116405,
+    "en": "Delvecchio",
+    "vi": "Delvecchio",
+    "api_translated": true
+  },
+  {
+    "id": 116407,
+    "en": "Merchant",
+    "vi": "Thương Nhân"
+  },
+  {
+    "id": 116408,
+    "en": "Beggar",
+    "vi": "Kẻ ăn xin"
+  },
+  {
+    "id": 116409,
+    "en": "Gatekeeper",
+    "vi": "Người gác cổng"
+  },
+  {
+    "id": 116410,
+    "en": "Leopaldi the Wealthy",
+    "vi": "Leopaldi Người giàu có"
+  },
+  {
+    "id": 116411,
+    "en": "Mandarino",
+    "vi": "Mandarino",
+    "api_translated": true
+  },
+  {
+    "id": 116412,
+    "en": "Remone",
+    "vi": "Remone",
+    "api_translated": true
+  },
+  {
+    "id": 116413,
+    "en": "Oskha the Have-Not",
+    "vi": "Oskha Kẻ nghèo khó"
+  },
+  {
+    "id": 116486,
+    "en": "Lookout",
+    "vi": "Lính canh"
+  },
+  {
+    "id": 116487,
+    "en": "Lord Scarabe",
+    "vi": "Lãnh chúa Scarabe"
+  },
+  {
+    "id": 116488,
+    "en": "Poor Laborer",
+    "vi": "Lao động nghèo"
+  },
+  {
+    "id": 116489,
+    "en": "Judah the Devout",
+    "vi": "Judah Người mộ đạo"
+  },
+  {
+    "id": 116491,
+    "en": "Believers",
+    "vi": "Tín đồ"
+  },
+  {
+    "id": 116492,
+    "en": "Believer",
+    "vi": "Tín đồ"
+  },
+  {
+    "id": 116493,
+    "en": "Lord Julian",
+    "vi": "Lãnh chúa Julian"
+  },
+  {
+    "id": 116494,
+    "en": "Oskha",
+    "vi": "Oskha",
+    "api_translated": true
+  },
+  {
+    "id": 116622,
+    "en": "Oskha the Trader",
+    "vi": "Oskha Thương nhân"
+  },
+  {
+    "id": 118117,
+    "en": "Residents",
+    "vi": "Cư Dân"
+  },
+  {
+    "id": 116396,
+    "en": "Chief Vassal Lebrandt",
+    "vi": "Đại thần Lebrandt"
+  },
+  {
+    "id": 116397,
+    "en": "Marianne of the Kingsguard",
+    "vi": "Marianne của Vệ binh Vương gia"
+  },
+  {
+    "id": 116398,
+    "en": "Populace",
+    "vi": "Dân chúng"
+  },
+  {
+    "id": 116399,
+    "en": "Foreign Emissary",
+    "vi": "Sứ giả nước ngoài"
+  },
+  {
+    "id": 116415,
+    "en": "Pelagia the Conjurer",
+    "vi": "Pelagia Pháp sư triệu hồi"
+  },
+  {
+    "id": 116416,
+    "en": "Empress Tatloch",
+    "vi": "Nữ hoàng Tatloch"
+  },
+  {
+    "id": 116417,
+    "en": "King Dudek",
+    "vi": "Vua Dudek"
+  },
+  {
+    "id": 116418,
+    "en": "Donescu Soldier",
+    "vi": "Lính Donescu"
+  },
+  {
+    "id": 116419,
+    "en": "Captain Na'gu",
+    "vi": "Đội trưởng Na'gu"
+  },
+  {
+    "id": 116422,
+    "en": "Lord Eltrix",
+    "vi": "Lãnh chúa Eltrix"
+  },
+  {
+    "id": 116435,
+    "en": "G'roha Soldier",
+    "vi": "Lính G'roha"
+  },
+  {
+    "id": 116449,
+    "en": "Captain Gimel",
+    "vi": "Đội trưởng Gimel"
+  },
+  {
+    "id": 116501,
+    "en": "Thief",
+    "vi": "Đạo Tặc"
+  },
+  {
+    "id": 116502,
+    "en": "Krauser",
+    "vi": "Krauser",
+    "api_translated": true
+  },
+  {
+    "id": 116503,
+    "en": "Ivri",
+    "vi": "Ivri",
+    "api_translated": true
+  },
+  {
+    "id": 116504,
+    "en": "Gakko",
+    "vi": "Gakko",
+    "api_translated": true
+  },
+  {
+    "id": 116505,
+    "en": "Wappa",
+    "vi": "Wappa",
+    "api_translated": true
+  },
+  {
+    "id": 116507,
+    "en": "Gatekeeper",
+    "vi": "Người gác cổng"
+  },
+  {
+    "id": 116508,
+    "en": "Duke Benedict",
+    "vi": "Công tước Benedict"
+  },
+  {
+    "id": 116509,
+    "en": "G'roha Commander",
+    "vi": "Chỉ huy G'roha"
+  },
+  {
+    "id": 116511,
+    "en": "Theoria the Pointer Finger",
+    "vi": "Theoria Ngón Trỏ"
+  },
+  {
+    "id": 116512,
+    "en": "Philia the Middle Finger",
+    "vi": "Philia Ngón Giữa"
+  },
+  {
+    "id": 116513,
+    "en": "Signa the Little Finger",
+    "vi": "Signa Ngón Út"
+  },
+  {
+    "id": 116689,
+    "en": "G'roha Commander",
+    "vi": "Chỉ huy G'roha"
+  },
+  {
+    "id": 116690,
+    "en": "Osred II",
+    "vi": "Osred Đệ Nhị"
+  },
+  {
+    "id": 116692,
+    "en": "Tatloch the Lady of Grace",
+    "vi": "Tatloch Quý Bà Duyên Dáng"
+  },
+  {
+    "id": 117143,
+    "en": "Ivri, Gakko, Wappa",
+    "vi": "Ivri, Gakko, Wappa",
+    "api_translated": true
+  },
+  {
+    "id": 117457,
+    "en": "Chief Vassal Krauser",
+    "vi": "Chư hầu Trưởng Krauser"
+  },
+  {
+    "id": 118125,
+    "en": "G'roha Soldiers",
+    "vi": "Lính G'roha"
+  },
+  {
+    "id": 118178,
+    "en": "Altinian Soldiers",
+    "vi": "Lính Altinian"
+  },
+  {
+    "id": 118179,
+    "en": "Wold Soldiers",
+    "vi": "Lính Wold"
+  },
+  {
+    "id": 116401,
+    "en": "Rondo of the Knights Ardante",
+    "vi": "Rondo của Hiệp Sĩ Ardante"
+  },
+  {
+    "id": 116402,
+    "en": "Black Scarlet",
+    "vi": "Hắc Hồng"
+  },
+  {
+    "id": 116436,
+    "en": "Miza",
+    "vi": "Miza",
+    "api_translated": true
+  },
+  {
+    "id": 116437,
+    "en": "Father Monaris",
+    "vi": "Cha Monaris"
+  },
+  {
+    "id": 116438,
+    "en": "Bishop Tarset",
+    "vi": "Giám mục Tarset"
+  },
+  {
+    "id": 116439,
+    "en": "Townsperson",
+    "vi": "Dân làng"
+  },
+  {
+    "id": 116456,
+    "en": "Father Taigan",
+    "vi": "Cha Taigan"
+  },
+  {
+    "id": 116536,
+    "en": "Headmaster Yvon",
+    "vi": "Hiệu trưởng Yvon"
+  },
+  {
+    "id": 116537,
+    "en": "Secretary",
+    "vi": "Thư ký"
+  },
+  {
+    "id": 116538,
+    "en": "Mercedes the Librarian",
+    "vi": "Mercedes Thủ thư"
+  },
+  {
+    "id": 116539,
+    "en": "Ceraphina",
+    "vi": "Ceraphina",
+    "api_translated": true
+  },
+  {
+    "id": 116540,
+    "en": "Princess Mary",
+    "vi": "Công chúa Mary"
+  },
+  {
+    "id": 116541,
+    "en": "Hugo, Captain of the Knights Ardante",
+    "vi": "Hugo, Đội trưởng Hiệp Sĩ Ardante"
+  },
+  {
+    "id": 116542,
+    "en": "Archbishop Josef",
+    "vi": "Tổng Giám mục Josef"
+  },
+  {
+    "id": 116672,
+    "en": "Mattias",
+    "vi": "Mattias",
+    "api_translated": true
+  },
+  {
+    "id": 116673,
+    "en": "Simeon",
+    "vi": "Simeon",
+    "api_translated": true
+  },
+  {
+    "id": 116674,
+    "en": "King Jennish",
+    "vi": "Vua Jennish"
+  },
+  {
+    "id": 116675,
+    "en": "Salomon the Scholar",
+    "vi": "Salomon Học Giả"
+  },
+  {
+    "id": 116677,
+    "en": "Ceraphina the Charitable",
+    "vi": "Ceraphina Người Nhân Ái"
+  },
+  {
+    "id": 116678,
+    "en": "Lyblac",
+    "vi": "Lyblac",
+    "api_translated": true
+  },
+  {
+    "id": 116679,
+    "en": "Graham Crossford",
+    "vi": "Graham Crossford",
+    "api_translated": true
+  },
+  {
+    "id": 118120,
+    "en": "Cleric",
+    "vi": "Giáo Sĩ"
+  },
+  {
+    "id": 118121,
+    "en": "Black Scarlet Soldier",
+    "vi": "Lính Hắc Hồng"
+  },
+  {
+    "id": 117078,
+    "en": "Finis",
+    "vi": "Finis",
+    "api_translated": true
+  },
+  {
+    "id": 117110,
+    "en": "Dark Knight Sazantos",
+    "vi": "Hắc Hiệp Sĩ Sazantos"
+  },
+  {
+    "id": 117111,
+    "en": "Dark Priestess Signa",
+    "vi": "Hắc Nữ Tu Signa"
+  },
+  {
+    "id": 117497,
+    "en": "Tatloch",
+    "vi": "Tatloch",
+    "api_translated": true
+  },
+  {
+    "id": 117511,
+    "en": "Sazantos",
+    "vi": "Sazantos",
+    "api_translated": true
+  },
+  {
+    "id": 117730,
+    "en": "King Alfred",
+    "vi": "Vua Alfred"
+  },
+  {
+    "id": 117731,
+    "en": "Sonzon the Flameguard",
+    "vi": "Sonzon Hỏa Vệ"
+  },
+  {
+    "id": 117732,
+    "en": "Cordelia",
+    "vi": "Cordelia",
+    "api_translated": true
+  },
+  {
+    "id": 117733,
+    "en": "Rondo",
+    "vi": "Rondo",
+    "api_translated": true
+  },
+  {
+    "id": 117735,
+    "en": "Tytos",
+    "vi": "Tytos",
+    "api_translated": true
+  },
+  {
+    "id": 117749,
+    "en": "Pharamea",
+    "vi": "Pharamea",
+    "api_translated": true
+  },
+  {
+    "id": 117799,
+    "en": "Herminia",
+    "vi": "Herminia",
+    "api_translated": true
+  },
+  {
+    "id": 117800,
+    "en": "Auguste",
+    "vi": "Auguste",
+    "api_translated": true
+  },
+  {
+    "id": 117801,
+    "en": "\"Aelfric the Flamebringer\"",
+    "vi": "\"Aelfric Kẻ Mang Lửa\""
+  },
+  {
+    "id": 117802,
+    "en": "\"Pharamea\"",
+    "vi": "\"Pharamea\"",
+    "api_translated": true
+  },
+  {
+    "id": 117803,
+    "en": "Cleric Pharamea",
+    "vi": "Giáo sĩ Pharamea"
+  },
+  {
+    "id": 117824,
+    "en": "Shrinekeeper Ataraxia",
+    "vi": "Người giữ đền Ataraxia"
+  },
+  {
+    "id": 117850,
+    "en": "Elrica",
+    "vi": "Elrica",
+    "api_translated": true
+  },
+  {
+    "id": 117851,
+    "en": "Gabriella",
+    "vi": "Gabriella",
+    "api_translated": true
+  },
+  {
+    "id": 117852,
+    "en": "Anita",
+    "vi": "Anita",
+    "api_translated": true
+  },
+  {
+    "id": 117853,
+    "en": "Archbishop Ceraphina",
+    "vi": "Tổng giám mục Ceraphina"
+  },
+  {
+    "id": 117854,
+    "en": "Francesca",
+    "vi": "Francesca",
+    "api_translated": true
+  },
+  {
+    "id": 118083,
+    "en": "Prince Richard",
+    "vi": "Hoàng tử Richard"
+  },
+  {
+    "id": 118084,
+    "en": "Rondo Ravus",
+    "vi": "Rondo Ravus",
+    "api_translated": true
+  },
+  {
+    "id": 118104,
+    "en": "Cardinal Teragraf",
+    "vi": "Hồng y Teragraf"
+  },
+  {
+    "id": 118297,
+    "en": "Cardinal Ridefort",
+    "vi": "Hồng y Ridefort"
+  },
+  {
+    "id": 118298,
+    "en": "Cardinal Gaudin",
+    "vi": "Hồng y Gaudin"
+  },
+  {
+    "id": 118299,
+    "en": "Cardinal Montaigu",
+    "vi": "Hồng y Montaigu"
+  },
+  {
+    "id": 118122,
+    "en": "Hugo of the Knights Ardante",
+    "vi": "Hugo của Hiệp sĩ Ardante"
+  },
+  {
+    "id": 118123,
+    "en": "Deacon Guillaume",
+    "vi": "Phó tế Guillaume"
+  },
+  {
+    "id": 118124,
+    "en": "Cardinal",
+    "vi": "Hồng y"
+  },
+  {
+    "id": 117734,
+    "en": "Brigand Leader",
+    "vi": "Thủ lĩnh Cướp"
+  },
+  {
+    "id": 117096,
+    "en": "Prime Minister Joshka",
+    "vi": "Thủ tướng Joshka"
+  },
+  {
+    "id": 116831,
+    "en": "Olneo the Merchant",
+    "vi": "Thương nhân Olneo"
+  },
+  {
+    "id": 116577,
+    "en": "Linde",
+    "vi": "Linde",
+    "api_translated": true
+  },
+  {
+    "id": 117493,
+    "en": "Ophilia",
+    "vi": "Ophilia",
+    "api_translated": true
+  },
+  {
+    "id": 117494,
+    "en": "Lianna",
+    "vi": "Lianna",
+    "api_translated": true
+  },
+  {
+    "id": 116623,
+    "en": "Hägen",
+    "vi": "Hägen",
+    "api_translated": true
+  },
+  {
+    "id": 118112,
+    "en": "Z'aanta",
+    "vi": "Z'aanta",
+    "api_translated": true
+  },
+  {
+    "id": 116806,
+    "en": "Lianna",
+    "vi": "Lianna",
+    "api_translated": true
+  },
+  {
+    "id": 116666,
+    "en": "Hunter",
+    "vi": "Thợ Săn"
+  },
+  {
+    "id": 116620,
+    "en": "Master of Ceremonies",
+    "vi": "Chủ lễ"
+  },
+  {
+    "id": 900,
+    "en": "<chara_name>",
+    "vi": "<chara_name>",
+    "api_translated": true
+  },
+  {
+    "id": 118086,
+    "en": "Fried, Captain of the Watch",
+    "vi": "Fried, Đội trưởng Đội tuần tra"
+  },
+  {
+    "id": 118087,
+    "en": "Yusia",
+    "vi": "Yusia",
+    "api_translated": true
+  },
+  {
+    "id": 118088,
+    "en": "Lavore the Carpenter",
+    "vi": "Thợ mộc Lavore"
+  },
+  {
+    "id": 118089,
+    "en": "Priestess Yaya",
+    "vi": "Nữ tu sĩ Yaya"
+  },
+  {
+    "id": 118090,
+    "en": "Nomos the Scholar",
+    "vi": "Học giả Nomos"
+  },
+  {
+    "id": 118091,
+    "en": "Lutus",
+    "vi": "Lutus",
+    "api_translated": true
+  },
+  {
+    "id": 118092,
+    "en": "Margot",
+    "vi": "Margot",
+    "api_translated": true
+  },
+  {
+    "id": 118093,
+    "en": "Ander",
+    "vi": "Ander",
+    "api_translated": true
+  },
+  {
+    "id": 118094,
+    "en": "Jasper",
+    "vi": "Jasper",
+    "api_translated": true
+  },
+  {
+    "id": 118095,
+    "en": "Lila",
+    "vi": "Lila",
+    "api_translated": true
+  },
+  {
+    "id": 118096,
+    "en": "Illian",
+    "vi": "Illian",
+    "api_translated": true
+  },
+  {
+    "id": 118098,
+    "en": "Carabell",
+    "vi": "Carabell",
+    "api_translated": true
+  },
+  {
+    "id": 118099,
+    "en": "Karan",
+    "vi": "Karan",
+    "api_translated": true
+  },
+  {
+    "id": 118100,
+    "en": "Basil",
+    "vi": "Basil",
+    "api_translated": true
+  },
+  {
+    "id": 118101,
+    "en": "Tyme",
+    "vi": "Tyme",
+    "api_translated": true
+  },
+  {
+    "id": 118102,
+    "en": "Nellum",
+    "vi": "Nellum",
+    "api_translated": true
+  },
+  {
+    "id": 118103,
+    "en": "Montia",
+    "vi": "Montia",
+    "api_translated": true
+  },
+  {
+    "id": 118105,
+    "en": "Olive",
+    "vi": "Olive",
+    "api_translated": true
+  },
+  {
+    "id": 118114,
+    "en": "Margot",
+    "vi": "Margot",
+    "api_translated": true
+  },
+  {
+    "id": 118115,
+    "en": "Ander",
+    "vi": "Ander",
+    "api_translated": true
+  },
+  {
+    "id": 118131,
+    "en": "Watch Member Phenn",
+    "vi": "Thành viên Đội Tuần tra Phenn"
+  },
+  {
+    "id": 118132,
+    "en": "Deacon Laurana",
+    "vi": "Phó Tế Laurana"
+  },
+  {
+    "id": 118133,
+    "en": "Scarlet Wings Corporal",
+    "vi": "Hạ sĩ Cánh Đỏ"
+  },
+  {
+    "id": 118296,
+    "en": "Traveling Composer",
+    "vi": "Nhà soạn nhạc lang thang"
+  },
+  {
+    "id": 118106,
+    "en": "Athessa",
+    "vi": "Athessa",
+    "api_translated": true
+  },
+  {
+    "id": 118107,
+    "en": "Ivan",
+    "vi": "Ivan",
+    "api_translated": true
+  },
+  {
+    "id": 118108,
+    "en": "Imposter Olberic",
+    "vi": "Olberic giả mạo"
+  },
+  {
+    "id": 118109,
+    "en": "Errad the Apothecary",
+    "vi": "Dược sĩ Errad"
+  },
+  {
+    "id": 118111,
+    "en": "Dreige",
+    "vi": "Dreige",
+    "api_translated": true
+  },
+  {
+    "id": 118116,
+    "en": "Edwin",
+    "vi": "Edwin",
+    "api_translated": true
+  },
+  {
+    "id": 118118,
+    "en": "Middle-Aged Man",
+    "vi": "Người đàn ông trung niên"
+  },
+  {
+    "id": 118119,
+    "en": "Professor Polius",
+    "vi": "Giáo sư Polius"
+  },
+  {
+    "id": 118126,
+    "en": "Wordsworth the Wealthy",
+    "vi": "Wordsworth Giàu có"
+  },
+  {
+    "id": 118127,
+    "en": "Old Syndicate Member",
+    "vi": "Thành viên Hội kín Lão làng"
+  },
+  {
+    "id": 118128,
+    "en": "Scarred Syndicate Member",
+    "vi": "Thành viên Hội kín Sẹo"
+  },
+  {
+    "id": 118129,
+    "en": "Beast Warrior Barenga",
+    "vi": "Chiến binh Thú Barenga"
+  },
+  {
+    "id": 118130,
+    "en": "Princess Chilritta the Wise",
+    "vi": "Công chúa Chilritta Thông thái"
+  },
+  {
+    "id": 118134,
+    "en": "Busy Shopkeep",
+    "vi": "Chủ tiệm bận rộn"
+  },
+  {
+    "id": 118135,
+    "en": "Hooded Man",
+    "vi": "Người đàn ông trùm mũ"
+  },
+  {
+    "id": 118136,
+    "en": "Shopkeep's Wife",
+    "vi": "Vợ chủ tiệm"
+  },
+  {
+    "id": 118137,
+    "en": "Idle Shopkeep",
+    "vi": "Chủ tiệm nhàn rỗi"
+  },
+  {
+    "id": 118138,
+    "en": "Man",
+    "vi": "Người đàn ông"
+  },
+  {
+    "id": 118139,
+    "en": "Woman",
+    "vi": "Người phụ nữ"
+  },
+  {
+    "id": 118141,
+    "en": "Marjim",
+    "vi": "Marjim",
+    "api_translated": true
+  },
+  {
+    "id": 118142,
+    "en": "Chiara",
+    "vi": "Chiara",
+    "api_translated": true
+  },
+  {
+    "id": 118146,
+    "en": "Fortis",
+    "vi": "Fortis",
+    "api_translated": true
+  },
+  {
+    "id": 118147,
+    "en": "Myka",
+    "vi": "Myka",
+    "api_translated": true
+  },
+  {
+    "id": 118154,
+    "en": "Deacon Malm",
+    "vi": "Phó Tế Malm"
+  },
+  {
+    "id": 118155,
+    "en": "Burned Man",
+    "vi": "Người đàn ông bị bỏng"
+  },
+  {
+    "id": 118156,
+    "en": "Woman Beset by Nightmares",
+    "vi": "Người phụ nữ bị ác mộng hành hạ"
+  },
+  {
+    "id": 118163,
+    "en": "Spinone",
+    "vi": "Spinone",
+    "api_translated": true
+  },
+  {
+    "id": 118164,
+    "en": "Traveling Apothecary",
+    "vi": "Dược sĩ lang thang"
+  },
+  {
+    "id": 118165,
+    "en": "Rich Man",
+    "vi": "Người đàn ông giàu có"
+  },
+  {
+    "id": 118166,
+    "en": "Phil",
+    "vi": "Phil",
+    "api_translated": true
+  },
+  {
+    "id": 118167,
+    "en": "Roneth",
+    "vi": "Roneth",
+    "api_translated": true
+  },
+  {
+    "id": 118168,
+    "en": "Vaughner the Man-Eating Miser",
+    "vi": "Kẻ keo kiệt ăn thịt người Vaughner"
+  },
+  {
+    "id": 118170,
+    "en": "Ensio",
+    "vi": "Ensio",
+    "api_translated": true
+  },
+  {
+    "id": 118171,
+    "en": "Kalle",
+    "vi": "Kalle",
+    "api_translated": true
+  },
+  {
+    "id": 118172,
+    "en": "\"Navigator\"",
+    "vi": "Người dẫn đường"
+  },
+  {
+    "id": 118173,
+    "en": "\"Sailor\"",
+    "vi": "Thủy thủ"
+  },
+  {
+    "id": 118174,
+    "en": "\"Adventurer\"",
+    "vi": "Mạo hiểm giả"
+  },
+  {
+    "id": 118175,
+    "en": "Master Benno",
+    "vi": "Sư phụ Benno"
+  },
+  {
+    "id": 118176,
+    "en": "Nina",
+    "vi": "Nina",
+    "api_translated": true
+  },
+  {
+    "id": 118177,
+    "en": "Adrian the Promoter",
+    "vi": "Adrian Người Quảng Bá"
+  },
+  {
+    "id": 118180,
+    "en": "Garrulous Bodyguard",
+    "vi": "Vệ Sĩ Lắm Lời"
+  },
+  {
+    "id": 118181,
+    "en": "Inarticulate Carpenter",
+    "vi": "Thợ Mộc Lúng Túng"
+  },
+  {
+    "id": 118182,
+    "en": "Responsible Syndicate Member",
+    "vi": "Thành Viên Tổ Chức Có Trách Nhiệm"
+  },
+  {
+    "id": 118183,
+    "en": "Astute Appraiser",
+    "vi": "Thẩm Định Viên Tinh Tường"
+  },
+  {
+    "id": 118184,
+    "en": "Ruffian Chef",
+    "vi": "Đầu Bếp Du Côn"
+  },
+  {
+    "id": 118185,
+    "en": "Hunter-Like Youth",
+    "vi": "Thanh Niên Mang Dáng Thợ Săn"
+  },
+  {
+    "id": 118186,
+    "en": "Overly Devout Merchant",
+    "vi": "Thương Gia Quá Sùng Đạo"
+  },
+  {
+    "id": 118187,
+    "en": "Man Suspicious of the Hero",
+    "vi": "Người Đàn Ông Hoài Nghi Anh Hùng"
+  },
+  {
+    "id": 118188,
+    "en": "Wandering Apothecary",
+    "vi": "Dược Sĩ Lang Thang"
+  },
+  {
+    "id": 118189,
+    "en": "Cool Hunter",
+    "vi": "Thợ Săn Lạnh Lùng"
+  },
+  {
+    "id": 118190,
+    "en": "Devout Nun",
+    "vi": "Nữ Tu Sùng Đạo"
+  },
+  {
+    "id": 118191,
+    "en": "Indomitable Dancer",
+    "vi": "Vũ Công Bất Khuất"
+  },
+  {
+    "id": 118192,
+    "en": "Smithy Apprentice",
+    "vi": "Học Việc Thợ Rèn"
+  },
+  {
+    "id": 118193,
+    "en": "Woman Fond of the Coastlands",
+    "vi": "Người Phụ Nữ Yêu Vùng Duyên Hải"
+  },
+  {
+    "id": 118194,
+    "en": "Pushy Farmer",
+    "vi": "Nông Dân Hống Hách"
+  },
+  {
+    "id": 118195,
+    "en": "Bibliophile Cleric",
+    "vi": "Giáo Sĩ Mọt Sách"
+  },
+  {
+    "id": 118196,
+    "en": "Earnest Aspiring Actor",
+    "vi": "Diễn Viên Tương Lai Đầy Nhiệt Huyết"
+  },
+  {
+    "id": 118197,
+    "en": "Listless Former Actress",
+    "vi": "Cựu Nữ Diễn Viên Uể Oải"
+  },
+  {
+    "id": 118198,
+    "en": "Exhausted Broker",
+    "vi": "Người Môi Giới Kiệt Sức"
+  },
+  {
+    "id": 118199,
+    "en": "Traveling Writer",
+    "vi": "Nhà Văn Du Hành"
+  },
+  {
+    "id": 118200,
+    "en": "Le Mann",
+    "vi": "Le Mann",
+    "api_translated": true
+  },
+  {
+    "id": 118201,
+    "en": "Alcohol-Hating Man",
+    "vi": "Người Đàn Ông Ghét Rượu"
+  },
+  {
+    "id": 118202,
+    "en": "Mid-Tier Noble's Servant",
+    "vi": "Người Hầu Của Quý Tộc Hạng Trung"
+  },
+  {
+    "id": 118203,
+    "en": "Punching Bag",
+    "vi": "Kẻ Chịu Đấm"
+  },
+  {
+    "id": 118204,
+    "en": "Volunteer Soldier",
+    "vi": "Lính Tình Nguyện"
+  },
+  {
+    "id": 118205,
+    "en": "Retired Military Leader",
+    "vi": "Lãnh Đạo Quân Sự Đã Về Hưu"
+  },
+  {
+    "id": 118206,
+    "en": "Brigand Boss",
+    "vi": "Trùm Cướp"
+  },
+  {
+    "id": 118207,
+    "en": "Friendly Server",
+    "vi": "Người Phục Vụ Thân Thiện"
+  },
+  {
+    "id": 118208,
+    "en": "Cloudy-Eyed Fisherwoman",
+    "vi": "Nữ Ngư Dân Mắt Đục"
+  },
+  {
+    "id": 118209,
+    "en": "Hotheaded Rancher",
+    "vi": "Chủ Trang Trại Nóng Nảy"
+  },
+  {
+    "id": 118210,
+    "en": "Magg the Cook",
+    "vi": "Magg Đầu Bếp"
+  },
+  {
+    "id": 118211,
+    "en": "Former Working Dancer",
+    "vi": "Cựu Vũ Công"
+  },
+  {
+    "id": 118212,
+    "en": "Market Patrolman",
+    "vi": "Tuần Tra Viên Chợ"
+  },
+  {
+    "id": 118213,
+    "en": "Red-Faced Miner",
+    "vi": "Thợ Mỏ Mặt Đỏ"
+  },
+  {
+    "id": 118214,
+    "en": "Traveling Desert Chef",
+    "vi": "Đầu Bếp Sa Mạc Du Hành"
+  },
+  {
+    "id": 118215,
+    "en": "Brave Tavern Maid",
+    "vi": "Nữ Phục Vụ Quán Rượu Dũng Cảm"
+  },
+  {
+    "id": 118216,
+    "en": "Unsociable Recruiter",
+    "vi": "Người Tuyển Dụng Khó Gần"
+  },
+  {
+    "id": 118217,
+    "en": "Wise King's Admirer",
+    "vi": "Người Ngưỡng Mộ Vị Vua Hiền Minh"
+  },
+  {
+    "id": 118218,
+    "en": "Once-Aspiring Knight",
+    "vi": "Hiệp Sĩ Từng Có Hoài Bão"
+  },
+  {
+    "id": 118219,
+    "en": "Stern-Looking Carpenter",
+    "vi": "Thợ Mộc Trông Nghiêm Khắc"
+  },
+  {
+    "id": 118220,
+    "en": "Sociable Antique Dealer",
+    "vi": "Người Buôn Đồ Cổ Hòa Đồng"
+  },
+  {
+    "id": 118221,
+    "en": "Famous Mason",
+    "vi": "Thợ Xây Nổi Tiếng"
+  },
+  {
+    "id": 118222,
+    "en": "Cultivation Researcher",
+    "vi": "Nhà Nghiên Cứu Canh Tác"
+  },
+  {
+    "id": 118223,
+    "en": "Generous Noble",
+    "vi": "Quý Tộc Hào Phóng"
+  },
+  {
+    "id": 118224,
+    "en": "Stern Knight",
+    "vi": "Hiệp Sĩ Nghiêm Khắc"
+  },
+  {
+    "id": 118225,
+    "en": "Virtuous Cleric",
+    "vi": "Giáo Sĩ Đức Hạnh"
+  },
+  {
+    "id": 118226,
+    "en": "Striving Squire",
+    "vi": "Thị Đồng Nỗ Lực"
+  },
+  {
+    "id": 118227,
+    "en": "Novice Cleric",
+    "vi": "Giáo Sĩ Tập Sự"
+  },
+  {
+    "id": 118228,
+    "en": "Fastidious Seamstress",
+    "vi": "Thợ May Cầu Kỳ"
+  },
+  {
+    "id": 118229,
+    "en": "Traveling Gourmand",
+    "vi": "Người sành ăn du hành"
+  },
+  {
+    "id": 118230,
+    "en": "Eccentric Cook",
+    "vi": "Đầu bếp lập dị"
+  },
+  {
+    "id": 118231,
+    "en": "Secretive Graybeard",
+    "vi": "Lão già râu bạc bí ẩn"
+  },
+  {
+    "id": 118232,
+    "en": "Axe-Wielding Gentleman",
+    "vi": "Quý ông cầm rìu"
+  },
+  {
+    "id": 118233,
+    "en": "Covert Mercenary",
+    "vi": "Lính đánh thuê bí mật"
+  },
+  {
+    "id": 118234,
+    "en": "Pleasant Goldsmith",
+    "vi": "Thợ kim hoàn dễ mến"
+  },
+  {
+    "id": 118235,
+    "en": "Veteran Announcer",
+    "vi": "Phát thanh viên kỳ cựu"
+  },
+  {
+    "id": 118236,
+    "en": "Arena Dancer",
+    "vi": "Vũ công đấu trường"
+  },
+  {
+    "id": 118237,
+    "en": "Former Slave of Tytos",
+    "vi": "Cựu nô lệ của Tytos"
+  },
+  {
+    "id": 118238,
+    "en": "Instructor Rhiom",
+    "vi": "Giảng viên Rhiom"
+  },
+  {
+    "id": 118239,
+    "en": "Head of the Artisan's Guild",
+    "vi": "Trưởng Hội Thợ Thủ Công"
+  },
+  {
+    "id": 118240,
+    "en": "Know-It-All Milo",
+    "vi": "Milo biết tuốt"
+  },
+  {
+    "id": 118241,
+    "en": "Capable Culinarian",
+    "vi": "Đầu bếp tài năng"
+  },
+  {
+    "id": 118242,
+    "en": "Cow-Loving Farmer",
+    "vi": "Nông dân yêu bò"
+  },
+  {
+    "id": 118243,
+    "en": "Theoretical Military Scholar",
+    "vi": "Học giả quân sự lý thuyết"
+  },
+  {
+    "id": 118244,
+    "en": "Medicinal Herb Student",
+    "vi": "Học viên thảo dược"
+  },
+  {
+    "id": 118245,
+    "en": "Dutiful Botanist",
+    "vi": "Nhà thực vật học tận tụy"
+  },
+  {
+    "id": 118246,
+    "en": "Practical Agriculturist",
+    "vi": "Nhà nông học thực tiễn"
+  },
+  {
+    "id": 118247,
+    "en": "Cat Guard",
+    "vi": "Mèo lính gác"
+  },
+  {
+    "id": 118248,
+    "en": "Traveling Ore Merchant",
+    "vi": "Thương nhân quặng du hành"
+  },
+  {
+    "id": 118249,
+    "en": "Robust Broker",
+    "vi": "Môi giới mạnh mẽ"
+  },
+  {
+    "id": 118250,
+    "en": "Harbor Black Market Merchant",
+    "vi": "Thương nhân chợ đen bến cảng"
+  },
+  {
+    "id": 118251,
+    "en": "Ambitious Investor",
+    "vi": "Nhà đầu tư đầy tham vọng"
+  },
+  {
+    "id": 118252,
+    "en": "Diarist",
+    "vi": "Người viết nhật ký"
+  },
+  {
+    "id": 118253,
+    "en": "Veteran Captain",
+    "vi": "Thuyền trưởng kỳ cựu"
+  },
+  {
+    "id": 118254,
+    "en": "Holy Drunkard",
+    "vi": "Kẻ say thánh thiện"
+  },
+  {
+    "id": 118255,
+    "en": "Award-Winning Farmer",
+    "vi": "Nông dân đoạt giải"
+  },
+  {
+    "id": 118256,
+    "en": "Injured Man",
+    "vi": "Người đàn ông bị thương"
+  },
+  {
+    "id": 118257,
+    "en": "Hardworking Lumberjack",
+    "vi": "Thợ đốn gỗ chăm chỉ"
+  },
+  {
+    "id": 118258,
+    "en": "Eagle-Eyed Soldier",
+    "vi": "Lính mắt đại bàng"
+  },
+  {
+    "id": 118259,
+    "en": "Patriotic Bard",
+    "vi": "Thi sĩ yêu nước"
+  },
+  {
+    "id": 118260,
+    "en": "Grieving Dog Owner",
+    "vi": "Chủ chó đau buồn"
+  },
+  {
+    "id": 118261,
+    "en": "Watchful Merchant",
+    "vi": "Thương nhân cảnh giác"
+  },
+  {
+    "id": 118262,
+    "en": "Kindly Millionaire",
+    "vi": "Triệu phú tốt bụng"
+  },
+  {
+    "id": 118263,
+    "en": "Ahdju Pastoralist",
+    "vi": "Người chăn nuôi Ahdju"
+  },
+  {
+    "id": 118264,
+    "en": "Spice Mixer",
+    "vi": "Người pha chế gia vị"
+  },
+  {
+    "id": 118265,
+    "en": "Tailor Shelito",
+    "vi": "Thợ may Shelito"
+  },
+  {
+    "id": 118266,
+    "en": "Desert Labor Supervisor",
+    "vi": "Giám sát lao động sa mạc"
+  },
+  {
+    "id": 118267,
+    "en": "Versatile Painter",
+    "vi": "Họa sĩ đa tài"
+  },
+  {
+    "id": 118268,
+    "en": "Mystery-Chasing Explorer",
+    "vi": "Nhà thám hiểm truy tìm bí ẩn"
+  },
+  {
+    "id": 118269,
+    "en": "Scholar of Harmony",
+    "vi": "Học giả Hòa hợp"
+  },
+  {
+    "id": 118270,
+    "en": "Resigned Woman",
+    "vi": "Người phụ nữ cam chịu"
+  },
+  {
+    "id": 118271,
+    "en": "Grumpy Old Woman",
+    "vi": "Bà lão gắt gỏng"
+  },
+  {
+    "id": 118272,
+    "en": "Maiden of Healing",
+    "vi": "Thiếu nữ chữa lành"
+  },
+  {
+    "id": 118273,
+    "en": "Powerful Maiden-in-Training",
+    "vi": "Thiếu nữ tập sự mạnh mẽ"
+  },
+  {
+    "id": 118274,
+    "en": "Meowstesis of the Pawbeans",
+    "vi": "Meowstesis của Pawbeans"
+  },
+  {
+    "id": 118275,
+    "en": "Cunning Kitten",
+    "vi": "Mèo con xảo quyệt"
+  },
+  {
+    "id": 118276,
+    "en": "Shivering Black Cat",
+    "vi": "Mèo đen run rẩy"
+  },
+  {
+    "id": 118277,
+    "en": "Theatre-Loving Dog",
+    "vi": "Chó yêu sân khấu"
+  },
+  {
+    "id": 118278,
+    "en": "Aggressive Alpaca",
+    "vi": "Lạc đà không bướu hung hãn"
+  },
+  {
+    "id": 118279,
+    "en": "Former Herd Leader",
+    "vi": "Cựu Thủ Lĩnh Bầy Đàn"
+  },
+  {
+    "id": 118280,
+    "en": "Hole-Digging Rabbit",
+    "vi": "Thỏ Đào Hang"
+  },
+  {
+    "id": 118281,
+    "en": "Happy Dog",
+    "vi": "Chó Vui Vẻ"
+  },
+  {
+    "id": 118282,
+    "en": "Stray Seagull",
+    "vi": "Hải Âu Lang Thang"
+  },
+  {
+    "id": 118283,
+    "en": "Lonely Goat",
+    "vi": "Dê Cô Đơn"
+  },
+  {
+    "id": 118284,
+    "en": "Octopus Traveler",
+    "vi": "Bạch Tuộc Lữ Khách"
+  },
+  {
+    "id": 118285,
+    "en": "Bloodthirsty Rabbit",
+    "vi": "Thỏ Khát Máu"
+  },
+  {
+    "id": 118287,
+    "en": "Forgetful Squirrel",
+    "vi": "Sóc Hay Quên"
+  },
+  {
+    "id": 118288,
+    "en": "Ravenous Goat",
+    "vi": "Dê Phàm Ăn"
+  },
+  {
+    "id": 118289,
+    "en": "Carefree Seagull",
+    "vi": "Hải Âu Vô Tư"
+  },
+  {
+    "id": 118290,
+    "en": "Self-Indulgent Bovine",
+    "vi": "Gia Súc Tự Mãn"
+  },
+  {
+    "id": 118291,
+    "en": "Elderly Camel",
+    "vi": "Lạc Đà Già"
+  },
+  {
+    "id": 118292,
+    "en": "Beautiful White Cat",
+    "vi": "Mèo Trắng Xinh Đẹp"
+  },
+  {
+    "id": 118293,
+    "en": "Satisfied Calico",
+    "vi": "Mèo Tam Thể Hài Lòng"
+  },
+  {
+    "id": 118294,
+    "en": "Family of Chickens",
+    "vi": "Gia Đình Gà"
+  },
+  {
+    "id": 118295,
+    "en": "Carefree Cat",
+    "vi": "Mèo Vô Tư"
+  },
+  {
+    "id": 118300,
+    "en": "Apothecary Toulo",
+    "vi": "Dược Sư Toulo"
+  },
+  {
+    "id": 118338,
+    "en": "Cat of Graceful Bearing",
+    "vi": "Mèo Dáng Vẻ Thanh Nhã"
+  },
+  {
+    "id": 118339,
+    "en": "Hound of Power",
+    "vi": "Chó Săn Sức Mạnh"
+  },
+  {
+    "id": 10101,
+    "en": "Viator",
+    "vi": "Viator",
+    "api_translated": true
+  },
+  {
+    "id": 10201,
+    "en": "Reime",
+    "vi": "Reime",
+    "api_translated": true
+  },
+  {
+    "id": 10302,
+    "en": "Ludo",
+    "vi": "Ludo",
+    "api_translated": true
+  },
+  {
+    "id": 10402,
+    "en": "Carinda",
+    "vi": "Carinda",
+    "api_translated": true
+  },
+  {
+    "id": 10503,
+    "en": "Celsus",
+    "vi": "Celsus",
+    "api_translated": true
+  },
+  {
+    "id": 10603,
+    "en": "Heidne",
+    "vi": "Heidne",
+    "api_translated": true
+  },
+  {
+    "id": 10704,
+    "en": "Esperre",
+    "vi": "Esperre",
+    "api_translated": true
+  },
+  {
+    "id": 10804,
+    "en": "Macy",
+    "vi": "Macy",
+    "api_translated": true
+  },
+  {
+    "id": 10905,
+    "en": "Phenn",
+    "vi": "Phenn",
+    "api_translated": true
+  },
+  {
+    "id": 11005,
+    "en": "Delitia",
+    "vi": "Delitia",
+    "api_translated": true
+  },
+  {
+    "id": 11106,
+    "en": "Pius",
+    "vi": "Pius",
+    "api_translated": true
+  },
+  {
+    "id": 11206,
+    "en": "Laurana",
+    "vi": "Laurana",
+    "api_translated": true
+  },
+  {
+    "id": 11307,
+    "en": "Xerc",
+    "vi": "Xerc",
+    "api_translated": true
+  },
+  {
+    "id": 11407,
+    "en": "Alexia",
+    "vi": "Alexia",
+    "api_translated": true
+  },
+  {
+    "id": 11508,
+    "en": "Goodwin",
+    "vi": "Goodwin",
+    "api_translated": true
+  },
+  {
+    "id": 11608,
+    "en": "Saoirse",
+    "vi": "Saoirse",
+    "api_translated": true
+  },
+  {
+    "id": 20101,
+    "en": "Olberic",
+    "vi": "Olberic",
+    "api_translated": true
+  },
+  {
+    "id": 20202,
+    "en": "Tressa",
+    "vi": "Tressa",
+    "api_translated": true
+  },
+  {
+    "id": 20303,
+    "en": "Therion",
+    "vi": "Therion",
+    "api_translated": true
+  },
+  {
+    "id": 20404,
+    "en": "Alfyn",
+    "vi": "Alfyn",
+    "api_translated": true
+  },
+  {
+    "id": 20505,
+    "en": "H'aanit",
+    "vi": "H'aanit",
+    "api_translated": true
+  },
+  {
+    "id": 20606,
+    "en": "Ophilia",
+    "vi": "Ophilia",
+    "api_translated": true
+  },
+  {
+    "id": 20707,
+    "en": "Cyrus",
+    "vi": "Cyrus",
+    "api_translated": true
+  },
+  {
+    "id": 20808,
+    "en": "Primrose",
+    "vi": "Primrose",
+    "api_translated": true
+  },
+  {
+    "id": 30103,
+    "en": "Bargello",
+    "vi": "Bargello",
+    "api_translated": true
+  },
+  {
+    "id": 30207,
+    "en": "Alaune",
+    "vi": "Alaune",
+    "api_translated": true
+  },
+  {
+    "id": 30301,
+    "en": "Richard",
+    "vi": "Richard",
+    "api_translated": true
+  },
+  {
+    "id": 30407,
+    "en": "Solon",
+    "vi": "Solon",
+    "api_translated": true
+  },
+  {
+    "id": 30501,
+    "en": "Eltrix",
+    "vi": "Eltrix",
+    "api_translated": true
+  },
+  {
+    "id": 30701,
+    "en": "Rondo",
+    "vi": "Rondo",
+    "api_translated": true
+  },
+  {
+    "id": 30808,
+    "en": "Tatloch",
+    "vi": "Tatloch",
+    "api_translated": true
+  },
+  {
+    "id": 40204,
+    "en": "Stia",
+    "vi": "Stia",
+    "api_translated": true
+  },
+  {
+    "id": 50101,
+    "en": "Sazantos",
+    "vi": "Sazantos",
+    "api_translated": true
+  },
+  {
+    "id": 50201,
+    "en": "El",
+    "vi": "El",
+    "api_translated": true
+  },
+  {
+    "id": 60107,
+    "en": "Isla",
+    "vi": "Isla",
+    "api_translated": true
+  },
+  {
+    "id": 118337,
+    "en": "Cait Scholar Isla",
+    "vi": "Cait Scholar Isla",
+    "api_translated": true
+  },
+  {
+    "id": 118301,
+    "en": "Rugis Surra",
+    "vi": "Rugis Surra",
+    "api_translated": true
+  },
+  {
+    "id": 118302,
+    "en": "Delan Poe",
+    "vi": "Delan Poe",
+    "api_translated": true
+  },
+  {
+    "id": 118303,
+    "en": "Da Maya",
+    "vi": "Da Maya",
+    "api_translated": true
+  },
+  {
+    "id": 118304,
+    "en": "Kota",
+    "vi": "Kota",
+    "api_translated": true
+  },
+  {
+    "id": 118305,
+    "en": "Morimeowto",
+    "vi": "Morimeowto",
+    "api_translated": true
+  },
+  {
+    "id": 118306,
+    "en": "Ikcy",
+    "vi": "Ikcy",
+    "api_translated": true
+  },
+  {
+    "id": 118307,
+    "en": "Kama Dierre",
+    "vi": "Kama Dierre",
+    "api_translated": true
+  },
+  {
+    "id": 118308,
+    "en": "Kaku Robo",
+    "vi": "Kaku Robo",
+    "api_translated": true
+  },
+  {
+    "id": 118309,
+    "en": "Nishikiano",
+    "vi": "Nishikiano",
+    "api_translated": true
+  },
+  {
+    "id": 118310,
+    "en": "Negiwata Belaren",
+    "vi": "Negiwata Belaren",
+    "api_translated": true
+  },
+  {
+    "id": 118311,
+    "en": "Sapa Vienne",
+    "vi": "Sapa Vienne",
+    "api_translated": true
+  },
+  {
+    "id": 118312,
+    "en": "Joun Lemon",
+    "vi": "Joun Lemon",
+    "api_translated": true
+  },
+  {
+    "id": 118313,
+    "en": "Norimas Winlook",
+    "vi": "Norimas Winlook",
+    "api_translated": true
+  },
+  {
+    "id": 118314,
+    "en": "Naga Yamante",
+    "vi": "Naga Yamante",
+    "api_translated": true
+  },
+  {
+    "id": 118315,
+    "en": "Kana Shiba",
+    "vi": "Kana Shiba",
+    "api_translated": true
+  },
+  {
+    "id": 118316,
+    "en": "Kohi Tahkar",
+    "vi": "Kohi Tahkar",
+    "api_translated": true
+  },
+  {
+    "id": 118317,
+    "en": "Yu Yai",
+    "vi": "Yu Yai",
+    "api_translated": true
+  },
+  {
+    "id": 118318,
+    "en": "Mikaro Mirahim",
+    "vi": "Mikaro Mirahim",
+    "api_translated": true
+  },
+  {
+    "id": 118319,
+    "en": "Ryoma",
+    "vi": "Ryoma",
+    "api_translated": true
+  },
+  {
+    "id": 118320,
+    "en": "Shiba Rique",
+    "vi": "Shiba Rique",
+    "api_translated": true
+  },
+  {
+    "id": 118321,
+    "en": "Mineji",
+    "vi": "Mineji",
+    "api_translated": true
+  },
+  {
+    "id": 118322,
+    "en": "Ihsa Yabok",
+    "vi": "Ihsa Yabok",
+    "api_translated": true
+  },
+  {
+    "id": 118323,
+    "en": "Myano Wincy",
+    "vi": "Myano Wincy",
+    "api_translated": true
+  },
+  {
+    "id": 118324,
+    "en": "Kamimu Shisuya",
+    "vi": "Kamimu Shisuya",
+    "api_translated": true
+  },
+  {
+    "id": 118325,
+    "en": "Mikey Gold",
+    "vi": "Mikey Gold",
+    "api_translated": true
+  },
+  {
+    "id": 118326,
+    "en": "Den Skeyo",
+    "vi": "Den Skeyo",
+    "api_translated": true
+  },
+  {
+    "id": 118327,
+    "en": "Escon Satour",
+    "vi": "Escon Satour",
+    "api_translated": true
+  },
+  {
+    "id": 118328,
+    "en": "Akkirua",
+    "vi": "Akkirua",
+    "api_translated": true
+  },
+  {
+    "id": 118329,
+    "en": "Rhiae Iga",
+    "vi": "Rhiae Iga",
+    "api_translated": true
+  },
+  {
+    "id": 118330,
+    "en": "Yu Sakh",
+    "vi": "Yu Sakh",
+    "api_translated": true
+  },
+  {
+    "id": 118331,
+    "en": "Velle Rice",
+    "vi": "Velle Rice",
+    "api_translated": true
+  },
+  {
+    "id": 118332,
+    "en": "Tsuka Tashiba",
+    "vi": "Tsuka Tashiba",
+    "api_translated": true
+  },
+  {
+    "id": 118333,
+    "en": "Neumann Hiro",
+    "vi": "Neumann Hiro",
+    "api_translated": true
+  },
+  {
+    "id": 118334,
+    "en": "Haggie Harrar",
+    "vi": "Haggie Harrar",
+    "api_translated": true
+  },
+  {
+    "id": 118335,
+    "en": "Higtis Ayu",
+    "vi": "Higtis Ayu",
+    "api_translated": true
+  },
+  {
+    "id": 118336,
+    "en": "Ruggs Shohashi",
+    "vi": "Ruggs Shohashi",
+    "api_translated": true
+  }
+]

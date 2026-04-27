@@ -1,0 +1,5969 @@
+[
+  {
+    "id": 0,
+    "en": "(Unlocalized)",
+    "vi": "(Chưa dịch)"
+  },
+  {
+    "id": 49277,
+    "en": "Marmot",
+    "vi": "Chuột Marmot",
+    "api_translated": true
+  },
+  {
+    "id": 49278,
+    "en": "Shambling Weed",
+    "vi": "Cỏ Dại Di Động",
+    "api_translated": true
+  },
+  {
+    "id": 49279,
+    "en": "Scaled Viper",
+    "vi": "Rắn Vảy",
+    "api_translated": true
+  },
+  {
+    "id": 49280,
+    "en": "Howler",
+    "vi": "Quái Thú Hú",
+    "api_translated": true
+  },
+  {
+    "id": 49785,
+    "en": "Menacing Demon Deer",
+    "vi": "Hươu Quỷ Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49287,
+    "en": "Forest Ratkin I",
+    "vi": "Người Chuột Rừng I",
+    "api_translated": true
+  },
+  {
+    "id": 49288,
+    "en": "Gabbrodillo",
+    "vi": "Gabbrodillo",
+    "api_translated": true
+  },
+  {
+    "id": 49289,
+    "en": "Mossy Meep",
+    "vi": "Meep Rêu",
+    "api_translated": true
+  },
+  {
+    "id": 49290,
+    "en": "Spud Bug",
+    "vi": "Bọ Khoai Tây",
+    "api_translated": true
+  },
+  {
+    "id": 49293,
+    "en": "Forest Ratkin II",
+    "vi": "Người Chuột Rừng II",
+    "api_translated": true
+  },
+  {
+    "id": 49294,
+    "en": "Rampant Weed",
+    "vi": "Cỏ Dại Hung Hãn",
+    "api_translated": true
+  },
+  {
+    "id": 49295,
+    "en": "Forest Ratkin III",
+    "vi": "Người Chuột Rừng III",
+    "api_translated": true
+  },
+  {
+    "id": 49296,
+    "en": "Majestic Marmot",
+    "vi": "Marmot Uy Nghi",
+    "api_translated": true
+  },
+  {
+    "id": 49299,
+    "en": "Guard Dog",
+    "vi": "Chó Canh Gác",
+    "api_translated": true
+  },
+  {
+    "id": 49300,
+    "en": "Bodyguard I",
+    "vi": "Vệ Sĩ I",
+    "api_translated": true
+  },
+  {
+    "id": 49301,
+    "en": "Thunder Sentinel",
+    "vi": "Lính Gác Sấm Sét",
+    "api_translated": true
+  },
+  {
+    "id": 49302,
+    "en": "Thunder Guardian",
+    "vi": "Hộ Vệ Sấm Sét",
+    "api_translated": true
+  },
+  {
+    "id": 49791,
+    "en": "Menacing Guard Dog",
+    "vi": "Chó Canh Gác Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49321,
+    "en": "Flame Remnant",
+    "vi": "Tàn Dư Lửa",
+    "api_translated": true
+  },
+  {
+    "id": 49322,
+    "en": "Ice Remnant",
+    "vi": "Tàn Dư Băng",
+    "api_translated": true
+  },
+  {
+    "id": 49323,
+    "en": "Vampire Bat",
+    "vi": "Dơi Ma Cà Rồng",
+    "api_translated": true
+  },
+  {
+    "id": 49324,
+    "en": "Mortal Mushroom",
+    "vi": "Nấm Tử Thần",
+    "api_translated": true
+  },
+  {
+    "id": 49309,
+    "en": "Herminia's Soldier I",
+    "vi": "Lính Của Herminia I",
+    "api_translated": true
+  },
+  {
+    "id": 49310,
+    "en": "Sentinel Mk.II",
+    "vi": "Lính Gác Mk.II",
+    "api_translated": true
+  },
+  {
+    "id": 49311,
+    "en": "Herminia's Soldier II",
+    "vi": "Lính Của Herminia II",
+    "api_translated": true
+  },
+  {
+    "id": 49312,
+    "en": "Shadow Bat",
+    "vi": "Dơi Bóng Tối",
+    "api_translated": true
+  },
+  {
+    "id": 49794,
+    "en": "Herminia's Mighty Soldier II",
+    "vi": "Lính Hùng Mạnh Của Herminia II",
+    "api_translated": true
+  },
+  {
+    "id": 49797,
+    "en": "Menacing Sticky Slug",
+    "vi": "Sên Dính Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49326,
+    "en": "Snow Fox",
+    "vi": "Cáo Tuyết",
+    "api_translated": true
+  },
+  {
+    "id": 49327,
+    "en": "Researcher I",
+    "vi": "Nhà Nghiên Cứu I",
+    "api_translated": true
+  },
+  {
+    "id": 49328,
+    "en": "Dark Sentinel",
+    "vi": "Lính Gác Bóng Tối",
+    "api_translated": true
+  },
+  {
+    "id": 49329,
+    "en": "White Bat",
+    "vi": "Dơi Trắng",
+    "api_translated": true
+  },
+  {
+    "id": 49801,
+    "en": "Menacing Ice Elemental",
+    "vi": "Nguyên Tố Băng Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49803,
+    "en": "Menacing Senior Fellow I",
+    "vi": "Đồng Nghiệp Cấp Cao Đe Dọa I",
+    "api_translated": true
+  },
+  {
+    "id": 49336,
+    "en": "Ice Lizardman I",
+    "vi": "Người Thằn Lằn Băng I",
+    "api_translated": true
+  },
+  {
+    "id": 49337,
+    "en": "Snow Marmot",
+    "vi": "Marmot Tuyết",
+    "api_translated": true
+  },
+  {
+    "id": 49338,
+    "en": "Shadow Wisp",
+    "vi": "Đốm Lửa Bóng Tối",
+    "api_translated": true
+  },
+  {
+    "id": 49339,
+    "en": "Wolf",
+    "vi": "Sói",
+    "api_translated": true
+  },
+  {
+    "id": 49805,
+    "en": "Menacing Ice Lizardman IV",
+    "vi": "Người Thằn Lằn Băng Đe Dọa IV",
+    "api_translated": true
+  },
+  {
+    "id": 49342,
+    "en": "Majestic Snow Marmot",
+    "vi": "Marmot Tuyết Uy Nghi",
+    "api_translated": true
+  },
+  {
+    "id": 49343,
+    "en": "White Howler",
+    "vi": "Quái Thú Hú Trắng",
+    "api_translated": true
+  },
+  {
+    "id": 49344,
+    "en": "Ash Raven",
+    "vi": "Quạ Tro",
+    "api_translated": true
+  },
+  {
+    "id": 49345,
+    "en": "Ice Lizardman II",
+    "vi": "Người Thằn Lằn Băng II",
+    "api_translated": true
+  },
+  {
+    "id": 49348,
+    "en": "High Wolf",
+    "vi": "Sói Lớn",
+    "api_translated": true
+  },
+  {
+    "id": 49349,
+    "en": "Albino Bat",
+    "vi": "Dơi Bạch Tạng",
+    "api_translated": true
+  },
+  {
+    "id": 49350,
+    "en": "Dark Sentinel Mk.II",
+    "vi": "Lính Gác Bóng Tối Mk.II",
+    "api_translated": true
+  },
+  {
+    "id": 49351,
+    "en": "Dark Guardian",
+    "vi": "Hộ Vệ Bóng Tối",
+    "api_translated": true
+  },
+  {
+    "id": 49811,
+    "en": "Menacing Accursed Armor",
+    "vi": "Giáp Nguyền Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49372,
+    "en": "Ice Wisp",
+    "vi": "Đốm Lửa Băng",
+    "api_translated": true
+  },
+  {
+    "id": 49373,
+    "en": "Avalanche Mushroom",
+    "vi": "Nấm Tuyết Lở",
+    "api_translated": true
+  },
+  {
+    "id": 49374,
+    "en": "Ice Lizardman III",
+    "vi": "Người Thằn Lằn Băng III",
+    "api_translated": true
+  },
+  {
+    "id": 49375,
+    "en": "Frost Fox",
+    "vi": "Cáo Băng",
+    "api_translated": true
+  },
+  {
+    "id": 49817,
+    "en": "Menacing Frostwing Serpent",
+    "vi": "Rắn Cánh Băng Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49819,
+    "en": "Menacing Frost Bear",
+    "vi": "Gấu Băng Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49360,
+    "en": "Scarlet Wing Believer",
+    "vi": "Tín Đồ Cánh Đỏ",
+    "api_translated": true
+  },
+  {
+    "id": 49361,
+    "en": "Research Fellow",
+    "vi": "Đồng Nghiệp Nghiên Cứu",
+    "api_translated": true
+  },
+  {
+    "id": 49362,
+    "en": "Ice Sentinel",
+    "vi": "Lính Gác Băng",
+    "api_translated": true
+  },
+  {
+    "id": 49363,
+    "en": "Ice Guardian",
+    "vi": "Hộ Vệ Băng",
+    "api_translated": true
+  },
+  {
+    "id": 49382,
+    "en": "Thespian (Dancer)",
+    "vi": "Diễn Viên (Vũ Công)",
+    "api_translated": true
+  },
+  {
+    "id": 49383,
+    "en": "Fire Sentinel",
+    "vi": "Lính Gác Lửa",
+    "api_translated": true
+  },
+  {
+    "id": 49384,
+    "en": "Thespian (Aristocrat)",
+    "vi": "Diễn Viên (Quý Tộc)",
+    "api_translated": true
+  },
+  {
+    "id": 49385,
+    "en": "Thespian (Scholar)",
+    "vi": "Diễn Viên (Học Giả)",
+    "api_translated": true
+  },
+  {
+    "id": 49823,
+    "en": "Menacing Thespian (Leader)",
+    "vi": "Diễn Viên Đe Dọa (Thủ Lĩnh)",
+    "api_translated": true
+  },
+  {
+    "id": 49392,
+    "en": "Flatlands Froggen I",
+    "vi": "Ếch Đồng Bằng I",
+    "api_translated": true
+  },
+  {
+    "id": 49393,
+    "en": "Meep",
+    "vi": "Meep",
+    "api_translated": true
+  },
+  {
+    "id": 49394,
+    "en": "Aggressive Ant",
+    "vi": "Kiến Hung Hăng",
+    "api_translated": true
+  },
+  {
+    "id": 49395,
+    "en": "Night Raven",
+    "vi": "Quạ Đêm",
+    "api_translated": true
+  },
+  {
+    "id": 49398,
+    "en": "Shaggy Meep",
+    "vi": "Meep Lông Xù",
+    "api_translated": true
+  },
+  {
+    "id": 49399,
+    "en": "Dire Night Raven",
+    "vi": "Quạ Đêm Dữ Tợn",
+    "api_translated": true
+  },
+  {
+    "id": 49400,
+    "en": "Wanderweed",
+    "vi": "Cỏ Dại Lang Thang",
+    "api_translated": true
+  },
+  {
+    "id": 49401,
+    "en": "Flatlands Froggen II",
+    "vi": "Ếch Đồng Bằng II",
+    "api_translated": true
+  },
+  {
+    "id": 49404,
+    "en": "Antagonistic Ant",
+    "vi": "Kiến Đối Đầu",
+    "api_translated": true
+  },
+  {
+    "id": 49405,
+    "en": "Venomous Viper",
+    "vi": "Rắn Độc",
+    "api_translated": true
+  },
+  {
+    "id": 49406,
+    "en": "Wind Guardian",
+    "vi": "Hộ Vệ Gió",
+    "api_translated": true
+  },
+  {
+    "id": 49407,
+    "en": "Wind Sentinel",
+    "vi": "Lính Gác Gió",
+    "api_translated": true
+  },
+  {
+    "id": 49829,
+    "en": "Menacing Wind Elemental",
+    "vi": "Nguyên Tố Gió Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49421,
+    "en": "Red Viper",
+    "vi": "Rắn Đỏ",
+    "api_translated": true
+  },
+  {
+    "id": 49422,
+    "en": "Wind Wisp",
+    "vi": "Đốm Lửa Gió",
+    "api_translated": true
+  },
+  {
+    "id": 49424,
+    "en": "Flatlands Froggen III",
+    "vi": "Ếch Đồng Bằng III",
+    "api_translated": true
+  },
+  {
+    "id": 49835,
+    "en": "Menacing Ettin Asp",
+    "vi": "Rắn Ettin Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49409,
+    "en": "Thespian (Professor)",
+    "vi": "Diễn Viên (Giáo Sư)",
+    "api_translated": true
+  },
+  {
+    "id": 49410,
+    "en": "Thespian (Lecturer)",
+    "vi": "Diễn Viên (Giảng Viên)",
+    "api_translated": true
+  },
+  {
+    "id": 49411,
+    "en": "Flame Guardian",
+    "vi": "Hộ Vệ Lửa",
+    "api_translated": true
+  },
+  {
+    "id": 49412,
+    "en": "Flame Curator",
+    "vi": "Người Quản Lý Lửa",
+    "api_translated": true
+  },
+  {
+    "id": 49831,
+    "en": "Menacing Thespian (Ruffian)",
+    "vi": "Diễn Viên Đe Dọa (Côn Đồ)",
+    "api_translated": true
+  },
+  {
+    "id": 49833,
+    "en": "Menacing Thespian (Guard)",
+    "vi": "Diễn Viên Đe Dọa (Lính Gác)",
+    "api_translated": true
+  },
+  {
+    "id": 49426,
+    "en": "Sea Birdian V",
+    "vi": "Người Chim Biển V",
+    "api_translated": true
+  },
+  {
+    "id": 49428,
+    "en": "Barnacle Crab",
+    "vi": "Cua Hà",
+    "api_translated": true
+  },
+  {
+    "id": 49429,
+    "en": "Brine Anemone",
+    "vi": "Hải Quỳ",
+    "api_translated": true
+  },
+  {
+    "id": 50001,
+    "en": "Menacing Barnacle Tortoise",
+    "vi": "Rùa Hà Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 50003,
+    "en": "Menacing Cetus Maximus",
+    "vi": "Cetus Maximus Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49436,
+    "en": "Sea Birdian I",
+    "vi": "Người Chim Biển I",
+    "api_translated": true
+  },
+  {
+    "id": 49437,
+    "en": "Hermit Conch",
+    "vi": "Ốc Mượn Hồn",
+    "api_translated": true
+  },
+  {
+    "id": 49438,
+    "en": "Scissor Crab",
+    "vi": "Cua Kéo",
+    "api_translated": true
+  },
+  {
+    "id": 49439,
+    "en": "Sea Birdian IV",
+    "vi": "Người Chim Biển IV",
+    "api_translated": true
+  },
+  {
+    "id": 49442,
+    "en": "Sea Birdian II",
+    "vi": "Người Chim Biển II",
+    "api_translated": true
+  },
+  {
+    "id": 49443,
+    "en": "Sea Birdian III",
+    "vi": "Người Chim Biển III",
+    "api_translated": true
+  },
+  {
+    "id": 49453,
+    "en": "Cliff Birdian I",
+    "vi": "Người Chim Vách Đá I",
+    "api_translated": true
+  },
+  {
+    "id": 49454,
+    "en": "Cliff Birdian II",
+    "vi": "Người Chim Vách Đá II",
+    "api_translated": true
+  },
+  {
+    "id": 49455,
+    "en": "Laughing Hyaena",
+    "vi": "Linh cẩu cười",
+    "api_translated": true
+  },
+  {
+    "id": 49456,
+    "en": "Lloris",
+    "vi": "Lloris",
+    "api_translated": true
+  },
+  {
+    "id": 49461,
+    "en": "Cliff Birdian III",
+    "vi": "Cliff Birdian III",
+    "api_translated": true
+  },
+  {
+    "id": 49462,
+    "en": "Withered Wanderweed",
+    "vi": "Cỏ dại héo úa",
+    "api_translated": true
+  },
+  {
+    "id": 49463,
+    "en": "Eggling",
+    "vi": "Trứng non",
+    "api_translated": true
+  },
+  {
+    "id": 49464,
+    "en": "Hatchling",
+    "vi": "Chim non",
+    "api_translated": true
+  },
+  {
+    "id": 50017,
+    "en": "Menacing Lightning Elemental",
+    "vi": "Nguyên tố sét đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49469,
+    "en": "Cliff Birdian IV",
+    "vi": "Cliff Birdian IV",
+    "api_translated": true
+  },
+  {
+    "id": 49470,
+    "en": "Crawly Fledgling",
+    "vi": "Sinh vật bò trườn",
+    "api_translated": true
+  },
+  {
+    "id": 49471,
+    "en": "Long-Eared Lloris",
+    "vi": "Lloris tai dài",
+    "api_translated": true
+  },
+  {
+    "id": 49472,
+    "en": "Armor Eater",
+    "vi": "Kẻ ăn giáp",
+    "api_translated": true
+  },
+  {
+    "id": 49474,
+    "en": "Two-Handed Hatchling",
+    "vi": "Chim non hai tay",
+    "api_translated": true
+  },
+  {
+    "id": 49475,
+    "en": "Great Condor",
+    "vi": "Đại bàng Condor",
+    "api_translated": true
+  },
+  {
+    "id": 50021,
+    "en": "Menacing Carmine Eagle",
+    "vi": "Đại bàng đỏ đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49477,
+    "en": "Cliff Birdkin I",
+    "vi": "Cliff Birdkin I",
+    "api_translated": true
+  },
+  {
+    "id": 49478,
+    "en": "Cliff Birdkin II",
+    "vi": "Cliff Birdkin II",
+    "api_translated": true
+  },
+  {
+    "id": 49479,
+    "en": "Cliff Birdkin III",
+    "vi": "Cliff Birdkin III",
+    "api_translated": true
+  },
+  {
+    "id": 49480,
+    "en": "Ettin Snake",
+    "vi": "Rắn Ettin",
+    "api_translated": true
+  },
+  {
+    "id": 50023,
+    "en": "Menacing Dreadwing",
+    "vi": "Dreadwing đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49481,
+    "en": "Edoras Soldier I",
+    "vi": "Lính Edoras I",
+    "api_translated": true
+  },
+  {
+    "id": 49482,
+    "en": "Edoras Soldier II",
+    "vi": "Lính Edoras II",
+    "api_translated": true
+  },
+  {
+    "id": 49483,
+    "en": "Edoras Soldier III",
+    "vi": "Lính Edoras III",
+    "api_translated": true
+  },
+  {
+    "id": 49484,
+    "en": "Edoras Knight I",
+    "vi": "Hiệp sĩ Edoras I",
+    "api_translated": true
+  },
+  {
+    "id": 49491,
+    "en": "Edoras Knight II",
+    "vi": "Hiệp sĩ Edoras II",
+    "api_translated": true
+  },
+  {
+    "id": 49492,
+    "en": "Edoras Knight III",
+    "vi": "Hiệp sĩ Edoras III",
+    "api_translated": true
+  },
+  {
+    "id": 49497,
+    "en": "River Froggen I",
+    "vi": "Ếch sông I",
+    "api_translated": true
+  },
+  {
+    "id": 49498,
+    "en": "River Wasp",
+    "vi": "Ong bắp cày sông",
+    "api_translated": true
+  },
+  {
+    "id": 49499,
+    "en": "Giant Slug",
+    "vi": "Sên khổng lồ",
+    "api_translated": true
+  },
+  {
+    "id": 49500,
+    "en": "River Fly",
+    "vi": "Ruồi sông",
+    "api_translated": true
+  },
+  {
+    "id": 49501,
+    "en": "River Froggen II",
+    "vi": "Ếch sông II",
+    "api_translated": true
+  },
+  {
+    "id": 49503,
+    "en": "Motley Slug",
+    "vi": "Sên tạp sắc",
+    "api_translated": true
+  },
+  {
+    "id": 49504,
+    "en": "Killer Bug",
+    "vi": "Bọ sát thủ",
+    "api_translated": true
+  },
+  {
+    "id": 49505,
+    "en": "River Froggen IV",
+    "vi": "Ếch sông IV",
+    "api_translated": true
+  },
+  {
+    "id": 49506,
+    "en": "Sea Snake",
+    "vi": "Rắn biển",
+    "api_translated": true
+  },
+  {
+    "id": 49507,
+    "en": "River Bug",
+    "vi": "Bọ sông",
+    "api_translated": true
+  },
+  {
+    "id": 49508,
+    "en": "Horse Fly",
+    "vi": "Ruồi ngựa",
+    "api_translated": true
+  },
+  {
+    "id": 49509,
+    "en": "Thief I",
+    "vi": "Kẻ trộm I",
+    "api_translated": true
+  },
+  {
+    "id": 49510,
+    "en": "Thief II",
+    "vi": "Kẻ trộm II",
+    "api_translated": true
+  },
+  {
+    "id": 49511,
+    "en": "Thief Leader I",
+    "vi": "Thủ lĩnh trộm I",
+    "api_translated": true
+  },
+  {
+    "id": 49512,
+    "en": "Thief Leader II",
+    "vi": "Thủ lĩnh trộm II",
+    "api_translated": true
+  },
+  {
+    "id": 50039,
+    "en": "Menacing Master Thief II",
+    "vi": "Siêu trộm đe dọa II",
+    "api_translated": true
+  },
+  {
+    "id": 49513,
+    "en": "Wind Remnant",
+    "vi": "Tàn dư gió",
+    "api_translated": true
+  },
+  {
+    "id": 49514,
+    "en": "Thunder Remnant",
+    "vi": "Tàn dư sấm",
+    "api_translated": true
+  },
+  {
+    "id": 49515,
+    "en": "Light Remnant",
+    "vi": "Tàn dư ánh sáng",
+    "api_translated": true
+  },
+  {
+    "id": 49516,
+    "en": "Shadow Remnant",
+    "vi": "Tàn dư bóng tối",
+    "api_translated": true
+  },
+  {
+    "id": 49517,
+    "en": "Light Sentinel",
+    "vi": "Lính canh ánh sáng",
+    "api_translated": true
+  },
+  {
+    "id": 49518,
+    "en": "Light Guardian",
+    "vi": "Hộ vệ ánh sáng",
+    "api_translated": true
+  },
+  {
+    "id": 49519,
+    "en": "Riven Soldier I",
+    "vi": "Lính Riven I",
+    "api_translated": true
+  },
+  {
+    "id": 49520,
+    "en": "Riven Soldier II",
+    "vi": "Lính Riven II",
+    "api_translated": true
+  },
+  {
+    "id": 50043,
+    "en": "Menacing Guardian Mk.II",
+    "vi": "Hộ vệ đe dọa Mk.II",
+    "api_translated": true
+  },
+  {
+    "id": 49525,
+    "en": "Sand Lizardman I",
+    "vi": "Người thằn lằn cát I",
+    "api_translated": true
+  },
+  {
+    "id": 49526,
+    "en": "Sand Lizardman II",
+    "vi": "Người thằn lằn cát II",
+    "api_translated": true
+  },
+  {
+    "id": 49527,
+    "en": "Cactus Roller",
+    "vi": "Xương rồng lăn",
+    "api_translated": true
+  },
+  {
+    "id": 49528,
+    "en": "Dark Roller",
+    "vi": "Cầu lăn bóng tối",
+    "api_translated": true
+  },
+  {
+    "id": 49529,
+    "en": "Sand Lizardman III",
+    "vi": "Người thằn lằn cát III",
+    "api_translated": true
+  },
+  {
+    "id": 49530,
+    "en": "Giant Scorpion",
+    "vi": "Bọ cạp khổng lồ",
+    "api_translated": true
+  },
+  {
+    "id": 49531,
+    "en": "Army Ant",
+    "vi": "Kiến quân đội",
+    "api_translated": true
+  },
+  {
+    "id": 49532,
+    "en": "Dire Army Ant",
+    "vi": "Kiến quân đội hung dữ",
+    "api_translated": true
+  },
+  {
+    "id": 49541,
+    "en": "Flame Remnant Mk.II",
+    "vi": "Tàn dư lửa Mk.II",
+    "api_translated": true
+  },
+  {
+    "id": 49542,
+    "en": "Blood Remnant",
+    "vi": "Tàn dư máu",
+    "api_translated": true
+  },
+  {
+    "id": 49543,
+    "en": "Dark Remnant",
+    "vi": "Tàn dư bóng tối",
+    "api_translated": true
+  },
+  {
+    "id": 49544,
+    "en": "Carnivorous Bat",
+    "vi": "Dơi ăn thịt",
+    "api_translated": true
+  },
+  {
+    "id": 50051,
+    "en": "Menacing Desert Worm",
+    "vi": "Sâu sa mạc đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49545,
+    "en": "Highland Ratkin I",
+    "vi": "Người chuột cao nguyên I",
+    "api_translated": true
+  },
+  {
+    "id": 49546,
+    "en": "Rockadillo",
+    "vi": "Rockadillo",
+    "api_translated": true
+  },
+  {
+    "id": 49547,
+    "en": "Giant Falcon",
+    "vi": "Chim ưng khổng lồ",
+    "api_translated": true
+  },
+  {
+    "id": 49548,
+    "en": "Dread Falcon",
+    "vi": "Chim ưng Dread",
+    "api_translated": true
+  },
+  {
+    "id": 49549,
+    "en": "Highland Ratkin II",
+    "vi": "Người chuột cao nguyên II",
+    "api_translated": true
+  },
+  {
+    "id": 49550,
+    "en": "Highland Ratkin III",
+    "vi": "Người chuột cao nguyên III",
+    "api_translated": true
+  },
+  {
+    "id": 49551,
+    "en": "Tempest Falcon",
+    "vi": "Chim ưng bão tố",
+    "api_translated": true
+  },
+  {
+    "id": 49552,
+    "en": "Shaggy Aurochs",
+    "vi": "Bò rừng lông xù",
+    "api_translated": true
+  },
+  {
+    "id": 49553,
+    "en": "Highland Ratkin IV",
+    "vi": "Người chuột cao nguyên IV",
+    "api_translated": true
+  },
+  {
+    "id": 49554,
+    "en": "Highland Ratkin V",
+    "vi": "Người chuột cao nguyên V",
+    "api_translated": true
+  },
+  {
+    "id": 49555,
+    "en": "Mountain Goat",
+    "vi": "Dê núi",
+    "api_translated": true
+  },
+  {
+    "id": 49556,
+    "en": "Highland Goat",
+    "vi": "Dê cao nguyên",
+    "api_translated": true
+  },
+  {
+    "id": 50057,
+    "en": "Menacing Woolly Spider",
+    "vi": "Nhện lông đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 50059,
+    "en": "Spiked Skink",
+    "vi": "Thằn lằn gai",
+    "api_translated": true
+  },
+  {
+    "id": 50061,
+    "en": "Menacing Highland Ratking I",
+    "vi": "Vua chuột cao nguyên đe dọa I",
+    "api_translated": true
+  },
+  {
+    "id": 49565,
+    "en": "Bandit I",
+    "vi": "Cướp I",
+    "api_translated": true
+  },
+  {
+    "id": 49566,
+    "en": "Bandit II",
+    "vi": "Cướp II",
+    "api_translated": true
+  },
+  {
+    "id": 49567,
+    "en": "Bandit III",
+    "vi": "Cướp III",
+    "api_translated": true
+  },
+  {
+    "id": 49568,
+    "en": "Blood Viper",
+    "vi": "Rắn độc máu",
+    "api_translated": true
+  },
+  {
+    "id": 49251,
+    "en": "Cait\nエネミーテスト（イギリス）\nエネミーテスト（アメリカ）\nエネミーテスト（簡体字）\nエネミーテスト（繁体字）\nエネミーテスト（韓国）\nエネミーテスト（フランス）\nエネミーテスト（ドイツ）\nエネミーテスト（スペイン）\nエネミーテスト（ラテン）\nエネミーテスト（イタリア）\nエネミーテスト（オランダ）",
+    "vi": "Cait",
+    "api_translated": true
+  },
+  {
+    "id": 49252,
+    "en": "Cultured Cait",
+    "vi": "Cait văn hóa",
+    "api_translated": true
+  },
+  {
+    "id": 49253,
+    "en": "Chubby Cait",
+    "vi": "Cait mũm mĩm",
+    "api_translated": true
+  },
+  {
+    "id": 49838,
+    "en": "Ice Lizardman IV",
+    "vi": "Người thằn lằn băng IV",
+    "api_translated": true
+  },
+  {
+    "id": 49839,
+    "en": "Frost Bear",
+    "vi": "Gấu tuyết",
+    "api_translated": true
+  },
+  {
+    "id": 49840,
+    "en": "Snow Lizard",
+    "vi": "Thằn lằn tuyết",
+    "api_translated": true
+  },
+  {
+    "id": 49841,
+    "en": "Winter Wanderweed",
+    "vi": "Cỏ dại mùa đông",
+    "api_translated": true
+  },
+  {
+    "id": 49842,
+    "en": "War Wolf",
+    "vi": "Sói chiến",
+    "api_translated": true
+  },
+  {
+    "id": 49843,
+    "en": "Hoary Howler",
+    "vi": "Sói hú sương giá",
+    "api_translated": true
+  },
+  {
+    "id": 49844,
+    "en": "Frostwing Serpent",
+    "vi": "Rắn cánh băng",
+    "api_translated": true
+  },
+  {
+    "id": 49845,
+    "en": "Ice Lizardman V",
+    "vi": "Người thằn lằn băng V",
+    "api_translated": true
+  },
+  {
+    "id": 49846,
+    "en": "Forest Ratkin IV",
+    "vi": "Người chuột rừng IV",
+    "api_translated": true
+  },
+  {
+    "id": 49847,
+    "en": "Forest Fox",
+    "vi": "Cáo rừng",
+    "api_translated": true
+  },
+  {
+    "id": 49848,
+    "en": "Horned Howler",
+    "vi": "Sói sừng",
+    "api_translated": true
+  },
+  {
+    "id": 49849,
+    "en": "Wild Boar",
+    "vi": "Lợn rừng",
+    "api_translated": true
+  },
+  {
+    "id": 49850,
+    "en": "Combatant (Hunter)",
+    "vi": "Chiến binh (Thợ săn)",
+    "api_translated": true
+  },
+  {
+    "id": 49851,
+    "en": "Combatant (Apothecary)",
+    "vi": "Chiến binh (Dược sĩ)",
+    "api_translated": true
+  },
+  {
+    "id": 49852,
+    "en": "Combatant (Scholar)",
+    "vi": "Chiến binh (Học giả)",
+    "api_translated": true
+  },
+  {
+    "id": 49853,
+    "en": "Combatant (Dancer)",
+    "vi": "Chiến binh (Vũ công)",
+    "api_translated": true
+  },
+  {
+    "id": 49864,
+    "en": "Combatant (Thief)",
+    "vi": "Chiến binh (Đạo tặc)",
+    "api_translated": true
+  },
+  {
+    "id": 49865,
+    "en": "Combatant (Merchant)",
+    "vi": "Chiến binh (Thương nhân)",
+    "api_translated": true
+  },
+  {
+    "id": 49867,
+    "en": "Menacing Combatant (Warrior)",
+    "vi": "Chiến binh đe dọa (Chiến binh)",
+    "api_translated": true
+  },
+  {
+    "id": 49854,
+    "en": "Assassin Bug",
+    "vi": "Bọ Sát thủ",
+    "api_translated": true
+  },
+  {
+    "id": 49855,
+    "en": "Green Scissors",
+    "vi": "Kéo Xanh",
+    "api_translated": true
+  },
+  {
+    "id": 49856,
+    "en": "Mutant Mushroom",
+    "vi": "Nấm Đột biến",
+    "api_translated": true
+  },
+  {
+    "id": 49857,
+    "en": "Skulking Fungoid",
+    "vi": "Nấm Lẻn",
+    "api_translated": true
+  },
+  {
+    "id": 49869,
+    "en": "Menacing Icky Slug",
+    "vi": "Sên Nhầy Đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49870,
+    "en": "Combatant (Cleric)",
+    "vi": "Chiến binh (Giáo sĩ)",
+    "api_translated": true
+  },
+  {
+    "id": 49871,
+    "en": "River Froggen III",
+    "vi": "Ếch Sông III",
+    "api_translated": true
+  },
+  {
+    "id": 49872,
+    "en": "Savage Scorpion",
+    "vi": "Bọ cạp Hung dữ",
+    "api_translated": true
+  },
+  {
+    "id": 49873,
+    "en": "Woolly Spider",
+    "vi": "Nhện Lông",
+    "api_translated": true
+  },
+  {
+    "id": 49874,
+    "en": "Salamander",
+    "vi": "Kỳ giông",
+    "api_translated": true
+  },
+  {
+    "id": 49875,
+    "en": "Barnacle Tortoise",
+    "vi": "Rùa Vỏ hàu",
+    "api_translated": true
+  },
+  {
+    "id": 49876,
+    "en": "Sea Slug",
+    "vi": "Sên biển",
+    "api_translated": true
+  },
+  {
+    "id": 49877,
+    "en": "River Froggen V",
+    "vi": "Ếch Sông V",
+    "api_translated": true
+  },
+  {
+    "id": 49878,
+    "en": "Collared Salamander",
+    "vi": "Kỳ giông Cổ khoang",
+    "api_translated": true
+  },
+  {
+    "id": 49879,
+    "en": "River Frogking I",
+    "vi": "Vua Ếch Sông I",
+    "api_translated": true
+  },
+  {
+    "id": 49880,
+    "en": "Slayer Bug",
+    "vi": "Bọ Sát thủ",
+    "api_translated": true
+  },
+  {
+    "id": 49881,
+    "en": "Giant Gator",
+    "vi": "Cá sấu Khổng lồ",
+    "api_translated": true
+  },
+  {
+    "id": 49882,
+    "en": "Light Wisp",
+    "vi": "Đốm sáng",
+    "api_translated": true
+  },
+  {
+    "id": 49886,
+    "en": "Menacing River Froggen II",
+    "vi": "Ếch Sông Đe dọa II",
+    "api_translated": true
+  },
+  {
+    "id": 49889,
+    "en": "Mighty Slayer Bug",
+    "vi": "Bọ Sát thủ Hùng mạnh",
+    "api_translated": true
+  },
+  {
+    "id": 49890,
+    "en": "Menacing Reaper Crab",
+    "vi": "Cua Tử thần Đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 49894,
+    "en": "Test Subject (Beast)",
+    "vi": "Vật thí nghiệm (Quái thú)",
+    "api_translated": true
+  },
+  {
+    "id": 49895,
+    "en": "Test Subject (Insect)",
+    "vi": "Vật thí nghiệm (Côn trùng)",
+    "api_translated": true
+  },
+  {
+    "id": 49896,
+    "en": "Test Subject (Bandit)",
+    "vi": "Vật thí nghiệm (Cướp)",
+    "api_translated": true
+  },
+  {
+    "id": 49897,
+    "en": "Test Subject (Thief)",
+    "vi": "Vật thí nghiệm (Đạo tặc)",
+    "api_translated": true
+  },
+  {
+    "id": 49901,
+    "en": "Menacing Test Subject (Big Beast)",
+    "vi": "Vật thí nghiệm Đe dọa (Quái thú lớn)",
+    "api_translated": true
+  },
+  {
+    "id": 50867,
+    "en": "Ivory Scorpion",
+    "vi": "Bọ cạp Ngà",
+    "api_translated": true
+  },
+  {
+    "id": 50869,
+    "en": "Ivory Roller",
+    "vi": "Bọ lăn Ngà",
+    "api_translated": true
+  },
+  {
+    "id": 50871,
+    "en": "Insurgent (Staff)",
+    "vi": "Phiến quân (Trượng)",
+    "api_translated": true
+  },
+  {
+    "id": 50872,
+    "en": "Insurgent (Axe)",
+    "vi": "Phiến quân (Rìu)",
+    "api_translated": true
+  },
+  {
+    "id": 50873,
+    "en": "Insurgent (Fan)",
+    "vi": "Phiến quân (Quạt)",
+    "api_translated": true
+  },
+  {
+    "id": 50874,
+    "en": "Silver Wind Sentinel",
+    "vi": "Lính canh Gió Bạc",
+    "api_translated": true
+  },
+  {
+    "id": 50875,
+    "en": "Assassin Bug (Silversand)",
+    "vi": "Bọ Sát thủ (Cát Bạc)",
+    "api_translated": true
+  },
+  {
+    "id": 50876,
+    "en": "Silversand Lizardman I",
+    "vi": "Người thằn lằn Cát Bạc I",
+    "api_translated": true
+  },
+  {
+    "id": 50889,
+    "en": "Menacing Gold Wind Curator",
+    "vi": "Người giám hộ Gió Vàng Đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 50895,
+    "en": "Stormy Sea Birdian I",
+    "vi": "Chim biển Bão tố I",
+    "api_translated": true
+  },
+  {
+    "id": 50896,
+    "en": "Black Scissors",
+    "vi": "Kéo Đen",
+    "api_translated": true
+  },
+  {
+    "id": 50897,
+    "en": "Kingfisher",
+    "vi": "Chim bói cá",
+    "api_translated": true
+  },
+  {
+    "id": 50898,
+    "en": "Cetus Maximus",
+    "vi": "Cetus Maximus",
+    "api_translated": true
+  },
+  {
+    "id": 50899,
+    "en": "Warrior Bones",
+    "vi": "Xương Chiến binh",
+    "api_translated": true
+  },
+  {
+    "id": 50900,
+    "en": "Bandit Bones II",
+    "vi": "Xương Cướp II",
+    "api_translated": true
+  },
+  {
+    "id": 50901,
+    "en": "Davy Bones",
+    "vi": "Xương Davy",
+    "api_translated": true
+  },
+  {
+    "id": 50902,
+    "en": "Gooey Slug",
+    "vi": "Sên Nhầy",
+    "api_translated": true
+  },
+  {
+    "id": 50903,
+    "en": "Dark Elemental",
+    "vi": "Nguyên tố Bóng tối",
+    "api_translated": true
+  },
+  {
+    "id": 50905,
+    "en": "Reaper Crab",
+    "vi": "Cua Tử thần",
+    "api_translated": true
+  },
+  {
+    "id": 50906,
+    "en": "Mossy Tortoise",
+    "vi": "Rùa Rêu",
+    "api_translated": true
+  },
+  {
+    "id": 50909,
+    "en": "Menacing Stormy Sea Birdking I",
+    "vi": "Vua Chim biển Bão tố Đe dọa I",
+    "api_translated": true
+  },
+  {
+    "id": 50911,
+    "en": "Menacing Ice Remnant Mk.II",
+    "vi": "Tàn tích Băng Đe dọa Mk.II",
+    "api_translated": true
+  },
+  {
+    "id": 50913,
+    "en": "Menacing Cleaving Armor",
+    "vi": "Giáp Chặt chém Đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 50915,
+    "en": "Menacing Ettin Boa",
+    "vi": "Ettin Boa Đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 51915,
+    "en": "Stormy Sea Birdian II",
+    "vi": "Chim biển Bão tố II",
+    "api_translated": true
+  },
+  {
+    "id": 51918,
+    "en": "Butcher Crab",
+    "vi": "Cua Đồ tể",
+    "api_translated": true
+  },
+  {
+    "id": 51919,
+    "en": "Stormy Sea Birdian III",
+    "vi": "Chim biển Bão tố III",
+    "api_translated": true
+  },
+  {
+    "id": 51921,
+    "en": "Menacing Stormy Sea Birdking II",
+    "vi": "Vua Chim biển Bão tố Đe dọa II",
+    "api_translated": true
+  },
+  {
+    "id": 51922,
+    "en": "Killer Conch",
+    "vi": "Ốc Sát thủ",
+    "api_translated": true
+  },
+  {
+    "id": 51923,
+    "en": "Cetus Colossus",
+    "vi": "Cetus Colossus",
+    "api_translated": true
+  },
+  {
+    "id": 51925,
+    "en": "Menacing Treasure Bones",
+    "vi": "Xương Kho báu Đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 51927,
+    "en": "Menacing Crested Portly Penguin",
+    "vi": "Chim cánh cụt Béo mào Đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 50958,
+    "en": "Ice Lizardman VI",
+    "vi": "Người thằn lằn Băng VI",
+    "api_translated": true
+  },
+  {
+    "id": 50959,
+    "en": "Ice Lizardking II",
+    "vi": "Vua thằn lằn Băng II",
+    "api_translated": true
+  },
+  {
+    "id": 50960,
+    "en": "Blue Bull",
+    "vi": "Bò Xanh",
+    "api_translated": true
+  },
+  {
+    "id": 50961,
+    "en": "Snow Drake",
+    "vi": "Rồng Tuyết",
+    "api_translated": true
+  },
+  {
+    "id": 50962,
+    "en": "Ice Remnant Mk.II",
+    "vi": "Tàn tích Băng Mk.II",
+    "api_translated": true
+  },
+  {
+    "id": 50963,
+    "en": "Ice Sentinel Mk.II",
+    "vi": "Lính canh Băng Mk.II",
+    "api_translated": true
+  },
+  {
+    "id": 50965,
+    "en": "Menacing Cait (Snow)",
+    "vi": "Cait Đe dọa (Tuyết)",
+    "api_translated": true
+  },
+  {
+    "id": 50968,
+    "en": "Mighty Ice Lizardman VI",
+    "vi": "Người thằn lằn Băng Hùng mạnh VI",
+    "api_translated": true
+  },
+  {
+    "id": 50970,
+    "en": "Flatlands Froggen V",
+    "vi": "Ếch Đồng bằng V",
+    "api_translated": true
+  },
+  {
+    "id": 50971,
+    "en": "Flatlands Frogking I",
+    "vi": "Vua Ếch Đồng bằng I",
+    "api_translated": true
+  },
+  {
+    "id": 50972,
+    "en": "Dire Ash Raven",
+    "vi": "Quạ Tro Dữ tợn",
+    "api_translated": true
+  },
+  {
+    "id": 50973,
+    "en": "Mammoth Sheep",
+    "vi": "Cừu Ma mút",
+    "api_translated": true
+  },
+  {
+    "id": 50974,
+    "en": "Shaggy Spider",
+    "vi": "Nhện Lông xù",
+    "api_translated": true
+  },
+  {
+    "id": 51067,
+    "en": "Sentinel Mk.III",
+    "vi": "Lính canh Mk.III",
+    "api_translated": true
+  },
+  {
+    "id": 51068,
+    "en": "Bodyguard II",
+    "vi": "Vệ sĩ II",
+    "api_translated": true
+  },
+  {
+    "id": 51069,
+    "en": "Oskha's Minion",
+    "vi": "Tay sai của Oskha",
+    "api_translated": true
+  },
+  {
+    "id": 51071,
+    "en": "Menacing Master Thief III",
+    "vi": "Đạo tặc bậc thầy Đe dọa III",
+    "api_translated": true
+  },
+  {
+    "id": 51072,
+    "en": "Silversand Lizardman II",
+    "vi": "Người thằn lằn Cát Bạc II",
+    "api_translated": true
+  },
+  {
+    "id": 51073,
+    "en": "Silversand Lizardman III",
+    "vi": "Người thằn lằn Cát Bạc III",
+    "api_translated": true
+  },
+  {
+    "id": 51074,
+    "en": "Whiteworm",
+    "vi": "Sâu Trắng",
+    "api_translated": true
+  },
+  {
+    "id": 51075,
+    "en": "Overlord of the Flies",
+    "vi": "Chúa tể Ruồi",
+    "api_translated": true
+  },
+  {
+    "id": 51078,
+    "en": "Skull Roller",
+    "vi": "Bọ lăn Xương",
+    "api_translated": true
+  },
+  {
+    "id": 51079,
+    "en": "Brigand Bones II",
+    "vi": "Xương Cướp II",
+    "api_translated": true
+  },
+  {
+    "id": 51080,
+    "en": "Ivory Guardian",
+    "vi": "Người giám hộ Ngà",
+    "api_translated": true
+  },
+  {
+    "id": 51081,
+    "en": "Ivory Remnant",
+    "vi": "Tàn tích Ngà",
+    "api_translated": true
+  },
+  {
+    "id": 51084,
+    "en": "Fierce Fly",
+    "vi": "Ruồi Hung dữ",
+    "api_translated": true
+  },
+  {
+    "id": 51085,
+    "en": "Ivory Curator",
+    "vi": "Người giám hộ Ngà",
+    "api_translated": true
+  },
+  {
+    "id": 51087,
+    "en": "Menacing Ivory Revenant",
+    "vi": "Xác sống Ngà Đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 51088,
+    "en": "Gold Remnant",
+    "vi": "Tàn tích Vàng",
+    "api_translated": true
+  },
+  {
+    "id": 51090,
+    "en": "Menacing Gold Revenant",
+    "vi": "Xác sống Vàng Đe dọa",
+    "api_translated": true
+  },
+  {
+    "id": 51168,
+    "en": "Cliff Birdian V",
+    "vi": "Chim vách đá V",
+    "api_translated": true
+  },
+  {
+    "id": 51979,
+    "en": "Storm Falcon",
+    "vi": "Chim ưng Bão tố",
+    "api_translated": true
+  },
+  {
+    "id": 51980,
+    "en": "Volcano Ratkin I",
+    "vi": "Người chuột Núi lửa I",
+    "api_translated": true
+  },
+  {
+    "id": 51981,
+    "en": "Diabolical Goat",
+    "vi": "Dê Quỷ",
+    "api_translated": true
+  },
+  {
+    "id": 51982,
+    "en": "Demon Yak",
+    "vi": "Bò Tây Tạng Quỷ",
+    "api_translated": true
+  },
+  {
+    "id": 51985,
+    "en": "Volcano Ratkin II",
+    "vi": "Người chuột Núi lửa II",
+    "api_translated": true
+  },
+  {
+    "id": 51988,
+    "en": "Flesh-Eating Bat",
+    "vi": "Dơi Ăn thịt",
+    "api_translated": true
+  },
+  {
+    "id": 51989,
+    "en": "Granadillo",
+    "vi": "Granadillo",
+    "api_translated": true
+  },
+  {
+    "id": 51990,
+    "en": "Silver Eater",
+    "vi": "Kẻ Ăn Bạc",
+    "api_translated": true
+  },
+  {
+    "id": 51991,
+    "en": "Salamandra",
+    "vi": "Salamandra",
+    "api_translated": true
+  },
+  {
+    "id": 51993,
+    "en": "Menacing Quartz Turtle",
+    "vi": "Rùa Thạch Anh Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 51994,
+    "en": "Lava Slug",
+    "vi": "Sên Dung Nham",
+    "api_translated": true
+  },
+  {
+    "id": 51995,
+    "en": "Magma Drake",
+    "vi": "Rồng Magma",
+    "api_translated": true
+  },
+  {
+    "id": 51996,
+    "en": "Fire Sentinel Mk.III",
+    "vi": "Lính Gác Lửa Mk.III",
+    "api_translated": true
+  },
+  {
+    "id": 51997,
+    "en": "Shadow Guardian",
+    "vi": "Hộ Vệ Bóng Tối",
+    "api_translated": true
+  },
+  {
+    "id": 51998,
+    "en": "Spirited Armor",
+    "vi": "Giáp Linh Hồn",
+    "api_translated": true
+  },
+  {
+    "id": 52000,
+    "en": "Menacing Ashen Remnant",
+    "vi": "Tàn Tích Tro Tàn Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 52001,
+    "en": "Shadow Remnant Mk.II",
+    "vi": "Tàn Tích Bóng Tối Mk.II",
+    "api_translated": true
+  },
+  {
+    "id": 52003,
+    "en": "Menacing Blood Revenant",
+    "vi": "Bóng Ma Máu Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 52005,
+    "en": "Menacing Deadly Chameleon",
+    "vi": "Tắc Kè Chết Chóc Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 52073,
+    "en": "Fallen Laughing Hyaena",
+    "vi": "Linh Cẩu Cười Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52074,
+    "en": "Fallen Birdian I",
+    "vi": "Điểu Nhân Sa Ngã I",
+    "api_translated": true
+  },
+  {
+    "id": 52075,
+    "en": "Fallen Birdian II",
+    "vi": "Điểu Nhân Sa Ngã II",
+    "api_translated": true
+  },
+  {
+    "id": 52076,
+    "en": "Fallen Birdking",
+    "vi": "Vua Điểu Nhân Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52077,
+    "en": "Fallen Two-Handed Hatchling",
+    "vi": "Ấu Trùng Hai Tay Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52078,
+    "en": "Fallen Armor Eater",
+    "vi": "Kẻ Ăn Giáp Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52079,
+    "en": "Infernal Insect I",
+    "vi": "Côn Trùng Địa Ngục I",
+    "api_translated": true
+  },
+  {
+    "id": 52080,
+    "en": "Fallen Ghoul Weed",
+    "vi": "Cỏ Ma Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52081,
+    "en": "Fallen Edoras Soldier I",
+    "vi": "Lính Edoras Sa Ngã I",
+    "api_translated": true
+  },
+  {
+    "id": 52082,
+    "en": "Fallen Edoras Soldier II",
+    "vi": "Lính Edoras Sa Ngã II",
+    "api_translated": true
+  },
+  {
+    "id": 52083,
+    "en": "Fallen Cait",
+    "vi": "Cait Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52088,
+    "en": "Menacing Fallen Edoras Knight I",
+    "vi": "Hiệp Sĩ Edoras Sa Ngã Đe Dọa I",
+    "api_translated": true
+  },
+  {
+    "id": 52117,
+    "en": "Fallen Marmot",
+    "vi": "Sóc Marmot Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52118,
+    "en": "Fallen Ratkin I",
+    "vi": "Người Chuột Sa Ngã I",
+    "api_translated": true
+  },
+  {
+    "id": 52119,
+    "en": "Fallen Blackrobe (Sword)",
+    "vi": "Áo Choàng Đen Sa Ngã (Kiếm)",
+    "api_translated": true
+  },
+  {
+    "id": 52120,
+    "en": "Infernal Insect II",
+    "vi": "Côn Trùng Địa Ngục II",
+    "api_translated": true
+  },
+  {
+    "id": 52122,
+    "en": "Menacing Fallen Direfang",
+    "vi": "Nanh Thú Sa Ngã Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 52127,
+    "en": "Infernal Pest I",
+    "vi": "Dịch Hại Địa Ngục I",
+    "api_translated": true
+  },
+  {
+    "id": 52128,
+    "en": "Fallen Pauper",
+    "vi": "Người Nghèo Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52129,
+    "en": "Fallen Edoras Soldier III",
+    "vi": "Lính Edoras Sa Ngã III",
+    "api_translated": true
+  },
+  {
+    "id": 52131,
+    "en": "Fallen Edoras Defender of Power",
+    "vi": "Hộ Vệ Quyền Lực Edoras Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52132,
+    "en": "Infernal Refuse",
+    "vi": "Rác Thải Địa Ngục",
+    "api_translated": true
+  },
+  {
+    "id": 52133,
+    "en": "Fallen Aristocrat",
+    "vi": "Quý Tộc Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52134,
+    "en": "Fallen Maid",
+    "vi": "Người Hầu Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52135,
+    "en": "Cursed Flame Curator",
+    "vi": "Người Giữ Lửa Nguyền Rủa",
+    "api_translated": true
+  },
+  {
+    "id": 52137,
+    "en": "Fallen Edoras Defender of Fame",
+    "vi": "Hộ Vệ Danh Vọng Edoras Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52138,
+    "en": "Infernal Insect III",
+    "vi": "Côn Trùng Địa Ngục III",
+    "api_translated": true
+  },
+  {
+    "id": 52139,
+    "en": "Fallen Edoras Knight I",
+    "vi": "Hiệp Sĩ Edoras Sa Ngã I",
+    "api_translated": true
+  },
+  {
+    "id": 52140,
+    "en": "Fallen Edoras Knight II",
+    "vi": "Hiệp Sĩ Edoras Sa Ngã II",
+    "api_translated": true
+  },
+  {
+    "id": 52141,
+    "en": "Fallen Edoras Defender of Wealth",
+    "vi": "Hộ Vệ Tài Phú Edoras Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52233,
+    "en": "Fallen Ratkin II",
+    "vi": "Người Chuột Sa Ngã II",
+    "api_translated": true
+  },
+  {
+    "id": 52234,
+    "en": "Fallen Highland Goat",
+    "vi": "Dê Cao Nguyên Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52235,
+    "en": "Fallen Giant Falcon",
+    "vi": "Chim Ưng Khổng Lồ Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52237,
+    "en": "Cursed Bones",
+    "vi": "Xương Nguyền Rủa",
+    "api_translated": true
+  },
+  {
+    "id": 52238,
+    "en": "Azure Curator",
+    "vi": "Người Giữ Lửa Xanh",
+    "api_translated": true
+  },
+  {
+    "id": 52239,
+    "en": "Fallen Guard Hound",
+    "vi": "Chó Canh Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52240,
+    "en": "Fallen Hornburg Soldier",
+    "vi": "Lính Hornburg Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52242,
+    "en": "Defending Armor",
+    "vi": "Giáp Phòng Thủ",
+    "api_translated": true
+  },
+  {
+    "id": 52244,
+    "en": "Menacing Fallen Hornburg Knight",
+    "vi": "Hiệp Sĩ Hornburg Sa Ngã Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 52245,
+    "en": "Menacing Sacred Flame Guardian",
+    "vi": "Hộ Vệ Ngọn Lửa Thiêng Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 52348,
+    "en": "Infernal Mite I",
+    "vi": "Ve Địa Ngục I",
+    "api_translated": true
+  },
+  {
+    "id": 52349,
+    "en": "Infernal Insect IV",
+    "vi": "Côn Trùng Địa Ngục IV",
+    "api_translated": true
+  },
+  {
+    "id": 52350,
+    "en": "Fallen Aberration I",
+    "vi": "Dị Vật Sa Ngã I",
+    "api_translated": true
+  },
+  {
+    "id": 52351,
+    "en": "Fallen Aberration II",
+    "vi": "Dị Vật Sa Ngã II",
+    "api_translated": true
+  },
+  {
+    "id": 52352,
+    "en": "Fallen Monster",
+    "vi": "Quái Vật Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52354,
+    "en": "Menacing Fallen Monster",
+    "vi": "Quái Vật Sa Ngã Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 52358,
+    "en": "Menacing Infernal Beast",
+    "vi": "Thú Địa Ngục Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 52456,
+    "en": "Fallen Herminia's Soldier",
+    "vi": "Lính Của Herminia Sa Ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52457,
+    "en": "Fallen Blackrobe (Bow)",
+    "vi": "Áo Choàng Đen Sa Ngã (Cung)",
+    "api_translated": true
+  },
+  {
+    "id": 52458,
+    "en": "Infernal Insect V",
+    "vi": "Côn Trùng Địa Ngục V",
+    "api_translated": true
+  },
+  {
+    "id": 52459,
+    "en": "Infernal Pest IV",
+    "vi": "Dịch Hại Địa Ngục IV",
+    "api_translated": true
+  },
+  {
+    "id": 52460,
+    "en": "Fallen Thespian (Dancer)",
+    "vi": "Diễn Viên Sa Ngã (Vũ Công)",
+    "api_translated": true
+  },
+  {
+    "id": 52461,
+    "en": "Fallen Thespian (Scholar)",
+    "vi": "Diễn Viên Sa Ngã (Học Giả)",
+    "api_translated": true
+  },
+  {
+    "id": 52462,
+    "en": "Fallen Thespian (Leader)",
+    "vi": "Diễn Viên Sa Ngã (Thủ Lĩnh)",
+    "api_translated": true
+  },
+  {
+    "id": 52463,
+    "en": "Menacing Infernal Sludge",
+    "vi": "Bùn Địa Ngục Đe Dọa",
+    "api_translated": true
+  },
+  {
+    "id": 52466,
+    "en": "Menacing Fallen Deviant II",
+    "vi": "Kẻ Lệch Lạc Sa Ngã Đe Dọa II",
+    "api_translated": true
+  },
+  {
+    "id": 52500,
+    "en": "Sacred Flame Curator",
+    "vi": "Người Giữ Lửa Thiêng",
+    "api_translated": true
+  },
+  {
+    "id": 52501,
+    "en": "Sacred Remnant",
+    "vi": "Tàn Tích Thiêng Liêng",
+    "api_translated": true
+  },
+  {
+    "id": 52502,
+    "en": "Holy Howler",
+    "vi": "Tiếng Hú Thánh Thiện",
+    "api_translated": true
+  },
+  {
+    "id": 52503,
+    "en": "Sacred Flame Servant",
+    "vi": "Người Hầu Lửa Thiêng",
+    "api_translated": true
+  },
+  {
+    "id": 52504,
+    "en": "Holy Cait",
+    "vi": "Cait Thánh Thiện",
+    "api_translated": true
+  },
+  {
+    "id": 52547,
+    "en": "Elemental Prism",
+    "vi": "Lăng Kính Nguyên Tố",
+    "api_translated": true
+  },
+  {
+    "id": 52548,
+    "en": "Divine Soldier (Hammer)",
+    "vi": "Chiến Binh Thần Thánh (Búa)",
+    "api_translated": true
+  },
+  {
+    "id": 52549,
+    "en": "Divine Soldier (Polearm)",
+    "vi": "Chiến Binh Thần Thánh (Thương)",
+    "api_translated": true
+  },
+  {
+    "id": 52550,
+    "en": "Sacral Warrior",
+    "vi": "Chiến Binh Thiêng Liêng",
+    "api_translated": true
+  },
+  {
+    "id": 52551,
+    "en": "Divine Soldier (Axe)",
+    "vi": "Chiến Binh Thần Thánh (Rìu)",
+    "api_translated": true
+  },
+  {
+    "id": 52552,
+    "en": "Celestial White Whale",
+    "vi": "Cá Voi Trắng Thiên Đường",
+    "api_translated": true
+  },
+  {
+    "id": 52553,
+    "en": "Divine Soldier (Bow)",
+    "vi": "Chiến Binh Thần Thánh (Cung)",
+    "api_translated": true
+  },
+  {
+    "id": 52554,
+    "en": "Great Holy Eagle",
+    "vi": "Đại Bàng Thánh Vĩ Đại",
+    "api_translated": true
+  },
+  {
+    "id": 52555,
+    "en": "Sanct Garmr",
+    "vi": "Garmr Thánh",
+    "api_translated": true
+  },
+  {
+    "id": 52556,
+    "en": "Sanct Oliphant",
+    "vi": "Oliphant Thánh",
+    "api_translated": true
+  },
+  {
+    "id": 52557,
+    "en": "Sanct Cauchemar",
+    "vi": "Cauchemar Thánh",
+    "api_translated": true
+  },
+  {
+    "id": 52558,
+    "en": "Sacred Beast of the Sands",
+    "vi": "Thú Thiêng Sa Mạc",
+    "api_translated": true
+  },
+  {
+    "id": 52559,
+    "en": "Sacred Beast of the Seas",
+    "vi": "Thú Thiêng Đại Dương",
+    "api_translated": true
+  },
+  {
+    "id": 52560,
+    "en": "Sacred Beast of the Skies",
+    "vi": "Thú Thiêng Bầu Trời",
+    "api_translated": true
+  },
+  {
+    "id": 98023,
+    "en": "Pufferfish",
+    "vi": "Cá Nóc",
+    "api_translated": true
+  },
+  {
+    "id": 98024,
+    "en": "Seahorse",
+    "vi": "Cá Ngựa",
+    "api_translated": true
+  },
+  {
+    "id": 98025,
+    "en": "Blue Jellyfish",
+    "vi": "Sứa Xanh",
+    "api_translated": true
+  },
+  {
+    "id": 98026,
+    "en": "Scythe Crab",
+    "vi": "Cua Lưỡi Hái",
+    "api_translated": true
+  },
+  {
+    "id": 98027,
+    "en": "Barbed Fish",
+    "vi": "Cá Gai",
+    "api_translated": true
+  },
+  {
+    "id": 98028,
+    "en": "Sea Dragon",
+    "vi": "Rồng Biển",
+    "api_translated": true
+  },
+  {
+    "id": 98029,
+    "en": "Dire Blue Jellyfish",
+    "vi": "Sứa Xanh Độc",
+    "api_translated": true
+  },
+  {
+    "id": 98030,
+    "en": "Maneater",
+    "vi": "Kẻ Ăn Thịt",
+    "api_translated": true
+  },
+  {
+    "id": 98031,
+    "en": "Ducaduca",
+    "vi": "Ducaduca",
+    "api_translated": true
+  },
+  {
+    "id": 98032,
+    "en": "Thorny Eel",
+    "vi": "Lươn Gai",
+    "api_translated": true
+  },
+  {
+    "id": 98033,
+    "en": "Great Landwalker",
+    "vi": "Kẻ Đi Bộ Trên Đất Liền",
+    "api_translated": true
+  },
+  {
+    "id": 98034,
+    "en": "Devious Dolphin",
+    "vi": "Cá Heo Xảo Quyệt",
+    "api_translated": true
+  },
+  {
+    "id": 98035,
+    "en": "Sea Angel",
+    "vi": "Thiên Thần Biển",
+    "api_translated": true
+  },
+  {
+    "id": 98036,
+    "en": "Portly Penguin",
+    "vi": "Chim Cánh Cụt Mũm Mĩm",
+    "api_translated": true
+  },
+  {
+    "id": 98037,
+    "en": "Greater Kingfisher",
+    "vi": "Chim Bói Cá Lớn",
+    "api_translated": true
+  },
+  {
+    "id": 98038,
+    "en": "Sailfish",
+    "vi": "Cá Buồm",
+    "api_translated": true
+  },
+  {
+    "id": 98039,
+    "en": "Duca",
+    "vi": "Duca",
+    "api_translated": true
+  },
+  {
+    "id": 98040,
+    "en": "Blue Betta",
+    "vi": "Cá Chọi Xanh",
+    "api_translated": true
+  },
+  {
+    "id": 98041,
+    "en": "Landwalker",
+    "vi": "Kẻ Đi Bộ Trên Cạn",
+    "api_translated": true
+  },
+  {
+    "id": 98042,
+    "en": "Reptalion",
+    "vi": "Reptalion",
+    "api_translated": true
+  },
+  {
+    "id": 98043,
+    "en": "Barnacle Bat",
+    "vi": "Dơi Hà Mã",
+    "api_translated": true
+  },
+  {
+    "id": 98044,
+    "en": "Ebony Eel",
+    "vi": "Lươn Mun",
+    "api_translated": true
+  },
+  {
+    "id": 98045,
+    "en": "Demon Jellyfish",
+    "vi": "Sứa Quỷ",
+    "api_translated": true
+  },
+  {
+    "id": 98046,
+    "en": "Sapphire Betta",
+    "vi": "Cá Chọi Sapphire",
+    "api_translated": true
+  },
+  {
+    "id": 98047,
+    "en": "Winged Landwalker",
+    "vi": "Kẻ Đi Bộ Trên Cạn Có Cánh",
+    "api_translated": true
+  },
+  {
+    "id": 98048,
+    "en": "Sea Seraphim",
+    "vi": "Thiên Thần Biển",
+    "api_translated": true
+  },
+  {
+    "id": 98049,
+    "en": "Shipeater",
+    "vi": "Kẻ Ăn Tàu",
+    "api_translated": true
+  },
+  {
+    "id": 98050,
+    "en": "Dark Manta",
+    "vi": "Cá Đuối Bóng Tối",
+    "api_translated": true
+  },
+  {
+    "id": 98058,
+    "en": "Menacing Electric Catfish",
+    "vi": "Cá Trê Điện Đáng Sợ",
+    "api_translated": true
+  },
+  {
+    "id": 98139,
+    "en": "Ocean Octopuff Traveler",
+    "vi": "Octopuff Lữ Khách Đại Dương",
+    "api_translated": true
+  },
+  {
+    "id": 98141,
+    "en": "King Octopuff",
+    "vi": "Vua Octopuff",
+    "api_translated": true
+  },
+  {
+    "id": 98425,
+    "en": "Menacing King Octopuff",
+    "vi": "Vua Octopuff Đáng Sợ",
+    "api_translated": true
+  },
+  {
+    "id": 98383,
+    "en": "Giant Eagle",
+    "vi": "Đại Bàng Khổng Lồ",
+    "api_translated": true
+  },
+  {
+    "id": 98384,
+    "en": "Raging Treant",
+    "vi": "Mộc Nhân Cuồng Nộ",
+    "api_translated": true
+  },
+  {
+    "id": 98385,
+    "en": "King Condor",
+    "vi": "Vua Kền Kền",
+    "api_translated": true
+  },
+  {
+    "id": 98386,
+    "en": "Light Curator Mk.II",
+    "vi": "Light Curator Mk.II",
+    "api_translated": true
+  },
+  {
+    "id": 98387,
+    "en": "Light Guardian Mk.II",
+    "vi": "Light Guardian Mk.II",
+    "api_translated": true
+  },
+  {
+    "id": 98388,
+    "en": "Sandworm",
+    "vi": "Sâu Cát",
+    "api_translated": true
+  },
+  {
+    "id": 98389,
+    "en": "Gold Flame Guardian",
+    "vi": "Hộ Vệ Ngọn Lửa Vàng",
+    "api_translated": true
+  },
+  {
+    "id": 98390,
+    "en": "Light Revenant",
+    "vi": "Light Revenant",
+    "api_translated": true
+  },
+  {
+    "id": 98391,
+    "en": "Manticore",
+    "vi": "Manticore",
+    "api_translated": true
+  },
+  {
+    "id": 98392,
+    "en": "Remnant",
+    "vi": "Tàn Tích",
+    "api_translated": true
+  },
+  {
+    "id": 98393,
+    "en": "Thunder Curator",
+    "vi": "Thunder Curator",
+    "api_translated": true
+  },
+  {
+    "id": 98394,
+    "en": "Shield Wielder",
+    "vi": "Kẻ Cầm Khiên",
+    "api_translated": true
+  },
+  {
+    "id": 98395,
+    "en": "Remnant Mk.II",
+    "vi": "Remnant Mk.II",
+    "api_translated": true
+  },
+  {
+    "id": 98396,
+    "en": "Creeping Treant",
+    "vi": "Mộc Nhân Bò Sát",
+    "api_translated": true
+  },
+  {
+    "id": 98397,
+    "en": "Spiked Skink",
+    "vi": "Thằn Lằn Gai",
+    "api_translated": true
+  },
+  {
+    "id": 98398,
+    "en": "Wild Weasel",
+    "vi": "Chồn Hoang",
+    "api_translated": true
+  },
+  {
+    "id": 98399,
+    "en": "Blackhorn",
+    "vi": "Blackhorn",
+    "api_translated": true
+  },
+  {
+    "id": 98400,
+    "en": "Volcano Ratking I",
+    "vi": "Vua Chuột Núi Lửa I",
+    "api_translated": true
+  },
+  {
+    "id": 98401,
+    "en": "Flame Revenant",
+    "vi": "Flame Revenant",
+    "api_translated": true
+  },
+  {
+    "id": 98402,
+    "en": "Thespian (Warrior)",
+    "vi": "Diễn Viên (Chiến Binh)",
+    "api_translated": true
+  },
+  {
+    "id": 98403,
+    "en": "Fire Elemental",
+    "vi": "Nguyên Tố Lửa",
+    "api_translated": true
+  },
+  {
+    "id": 98404,
+    "en": "Bloody Bull",
+    "vi": "Bò Mộng Khát Máu",
+    "api_translated": true
+  },
+  {
+    "id": 98405,
+    "en": "Ettin Serpent",
+    "vi": "Ettin Serpent",
+    "api_translated": true
+  },
+  {
+    "id": 98406,
+    "en": "Master Thief",
+    "vi": "Đại Đạo Tặc",
+    "api_translated": true
+  },
+  {
+    "id": 98407,
+    "en": "Revenant",
+    "vi": "Revenant",
+    "api_translated": true
+  },
+  {
+    "id": 98408,
+    "en": "Rock Tortoise",
+    "vi": "Rùa Đá",
+    "api_translated": true
+  },
+  {
+    "id": 98409,
+    "en": "Light Elemental",
+    "vi": "Nguyên Tố Ánh Sáng",
+    "api_translated": true
+  },
+  {
+    "id": 98410,
+    "en": "Winged Serpent",
+    "vi": "Rắn Có Cánh",
+    "api_translated": true
+  },
+  {
+    "id": 98411,
+    "en": "Animated Armor",
+    "vi": "Giáp Sắt Sống",
+    "api_translated": true
+  },
+  {
+    "id": 98412,
+    "en": "Killer Chameleon",
+    "vi": "Tắc Kè Sát Thủ",
+    "api_translated": true
+  },
+  {
+    "id": 98413,
+    "en": "Snow Yak",
+    "vi": "Bò Yak Tuyết",
+    "api_translated": true
+  },
+  {
+    "id": 98414,
+    "en": "Snow Leopard",
+    "vi": "Báo Tuyết",
+    "api_translated": true
+  },
+  {
+    "id": 98415,
+    "en": "Reptalios",
+    "vi": "Reptalios",
+    "api_translated": true
+  },
+  {
+    "id": 98416,
+    "en": "Ice Lizardking I",
+    "vi": "Vua Thằn Lằn Băng I",
+    "api_translated": true
+  },
+  {
+    "id": 98418,
+    "en": "Manticore Subject",
+    "vi": "Vật Thí Nghiệm Manticore",
+    "api_translated": true
+  },
+  {
+    "id": 98419,
+    "en": "Snowstorm Mushroom",
+    "vi": "Nấm Bão Tuyết",
+    "api_translated": true
+  },
+  {
+    "id": 98420,
+    "en": "Hoary Bear",
+    "vi": "Gấu Trắng",
+    "api_translated": true
+  },
+  {
+    "id": 98421,
+    "en": "Swordfish",
+    "vi": "Cá Kiếm",
+    "api_translated": true
+  },
+  {
+    "id": 98422,
+    "en": "Senior Fellow",
+    "vi": "Tiền Bối",
+    "api_translated": true
+  },
+  {
+    "id": 98423,
+    "en": "Ice Curator",
+    "vi": "Ice Curator",
+    "api_translated": true
+  },
+  {
+    "id": 98424,
+    "en": "Plains Drake",
+    "vi": "Rồng Đồng Bằng",
+    "api_translated": true
+  },
+  {
+    "id": 98448,
+    "en": "Abysmal One",
+    "vi": "Kẻ Vực Thẳm",
+    "api_translated": true
+  },
+  {
+    "id": 98449,
+    "en": "Ruler of the Sands",
+    "vi": "Chúa Tể Cát",
+    "api_translated": true
+  },
+  {
+    "id": 98450,
+    "en": "Mighty Mánagarmr",
+    "vi": "Mánagarmr Hùng Mạnh",
+    "api_translated": true
+  },
+  {
+    "id": 98476,
+    "en": "Fierce Fly",
+    "vi": "Ruồi Hung Dữ",
+    "api_translated": true
+  },
+  {
+    "id": 98477,
+    "en": "Brigand Bones II",
+    "vi": "Xương Cốt Cướp Bóc II",
+    "api_translated": true
+  },
+  {
+    "id": 98478,
+    "en": "Light Revenant",
+    "vi": "Light Revenant",
+    "api_translated": true
+  },
+  {
+    "id": 98479,
+    "en": "Ivory Remnant",
+    "vi": "Ivory Remnant",
+    "api_translated": true
+  },
+  {
+    "id": 98480,
+    "en": "Gold Remnant",
+    "vi": "Gold Remnant",
+    "api_translated": true
+  },
+  {
+    "id": 49569,
+    "en": "Burly Blackrobe",
+    "vi": "Áo Choàng Đen Vạm Vỡ",
+    "api_translated": true
+  },
+  {
+    "id": 49570,
+    "en": "Blackrobe",
+    "vi": "Áo Choàng Đen",
+    "api_translated": true
+  },
+  {
+    "id": 49571,
+    "en": "Captain Tristan",
+    "vi": "Đội Trưởng Tristan",
+    "api_translated": true
+  },
+  {
+    "id": 49572,
+    "en": "Mercenary",
+    "vi": "Lính Đánh Thuê",
+    "api_translated": true
+  },
+  {
+    "id": 49573,
+    "en": "Sonia",
+    "vi": "Sonia",
+    "api_translated": true
+  },
+  {
+    "id": 49574,
+    "en": "Rosso",
+    "vi": "Rosso",
+    "api_translated": true
+  },
+  {
+    "id": 49575,
+    "en": "Lady Herminia",
+    "vi": "Tiểu Thư Herminia",
+    "api_translated": true
+  },
+  {
+    "id": 49576,
+    "en": "Lady-In-Waiting",
+    "vi": "Hầu Gái",
+    "api_translated": true
+  },
+  {
+    "id": 49577,
+    "en": "Herminia the Huntress",
+    "vi": "Thợ Săn Herminia",
+    "api_translated": true
+  },
+  {
+    "id": 98017,
+    "en": "Manifestation of Mental Decay",
+    "vi": "Hiện Thân Của Sự Suy Đồi Tâm Trí",
+    "api_translated": true
+  },
+  {
+    "id": 98018,
+    "en": "Manifestation of Mental Decay",
+    "vi": "Hiện Thân Của Sự Suy Đồi Tâm Trí",
+    "api_translated": true
+  },
+  {
+    "id": 49578,
+    "en": "Abnormal Ruffian",
+    "vi": "Kẻ Côn Đồ Bất Thường",
+    "api_translated": true
+  },
+  {
+    "id": 49579,
+    "en": "Al the Servant",
+    "vi": "Người Hầu Al",
+    "api_translated": true
+  },
+  {
+    "id": 49581,
+    "en": "Jurgen",
+    "vi": "Jurgen",
+    "api_translated": true
+  },
+  {
+    "id": 49582,
+    "en": "Scarlet Wing",
+    "vi": "Scarlet Wing",
+    "api_translated": true
+  },
+  {
+    "id": 49583,
+    "en": "Jurgen",
+    "vi": "Jurgen",
+    "api_translated": true
+  },
+  {
+    "id": 49584,
+    "en": "Commander Tytos",
+    "vi": "Chỉ Huy Tytos",
+    "api_translated": true
+  },
+  {
+    "id": 49585,
+    "en": "Tytos the Thunderblade",
+    "vi": "Tytos Lưỡi Kiếm Sấm Sét",
+    "api_translated": true
+  },
+  {
+    "id": 49586,
+    "en": "Aide (Vanguard)",
+    "vi": "Phụ Tá (Tiền Vệ)",
+    "api_translated": true
+  },
+  {
+    "id": 49587,
+    "en": "Aide (Rearguard)",
+    "vi": "Phụ Tá (Hậu Vệ)",
+    "api_translated": true
+  },
+  {
+    "id": 49588,
+    "en": "Francesca the Actress",
+    "vi": "Nữ Diễn Viên Francesca",
+    "api_translated": true
+  },
+  {
+    "id": 49589,
+    "en": "Auguste the Playwright",
+    "vi": "Nhà Soạn Kịch Auguste",
+    "api_translated": true
+  },
+  {
+    "id": 49590,
+    "en": "Auguste the Prince of Thieves",
+    "vi": "Auguste Hoàng Tử Trộm Cướp",
+    "api_translated": true
+  },
+  {
+    "id": 98021,
+    "en": "Ruinous Rancor",
+    "vi": "Oán Hận Hủy Diệt",
+    "api_translated": true
+  },
+  {
+    "id": 49836,
+    "en": "Ring-Sealed Beast",
+    "vi": "Thú Bị Phong Ấn",
+    "api_translated": true
+  },
+  {
+    "id": 49758,
+    "en": "Mesara the Thief",
+    "vi": "Đạo Tặc Mesara",
+    "api_translated": true
+  },
+  {
+    "id": 49759,
+    "en": "Thief",
+    "vi": "Đạo Tặc"
+  },
+  {
+    "id": 49761,
+    "en": "M'suhi the Viper",
+    "vi": "Rắn Độc M'suhi",
+    "api_translated": true
+  },
+  {
+    "id": 50267,
+    "en": "Thief",
+    "vi": "Đạo Tặc"
+  },
+  {
+    "id": 49762,
+    "en": "Edoras Infantryman I",
+    "vi": "Bộ Binh Edoras I",
+    "api_translated": true
+  },
+  {
+    "id": 49763,
+    "en": "Edoras Infantryman II",
+    "vi": "Bộ Binh Edoras II",
+    "api_translated": true
+  },
+  {
+    "id": 49764,
+    "en": "Gimel the Brigand Leader",
+    "vi": "Thủ Lĩnh Cướp Bóc Gimel",
+    "api_translated": true
+  },
+  {
+    "id": 49765,
+    "en": "Thief",
+    "vi": "Đạo Tặc"
+  },
+  {
+    "id": 49767,
+    "en": "Cerro the Emissary",
+    "vi": "Cerro Sứ Giả",
+    "api_translated": true
+  },
+  {
+    "id": 49769,
+    "en": "Gonzalez the Ironarm",
+    "vi": "Gonzalez Cánh Tay Sắt",
+    "api_translated": true
+  },
+  {
+    "id": 49770,
+    "en": "General Krauser",
+    "vi": "Tướng quân Krauser",
+    "api_translated": true
+  },
+  {
+    "id": 49771,
+    "en": "General's Subordinate",
+    "vi": "Cấp dưới của Tướng quân",
+    "api_translated": true
+  },
+  {
+    "id": 49773,
+    "en": "King Pardis III",
+    "vi": "Vua Pardis III",
+    "api_translated": true
+  },
+  {
+    "id": 49774,
+    "en": "Mysterious Assassin",
+    "vi": "Sát thủ bí ẩn",
+    "api_translated": true
+  },
+  {
+    "id": 49775,
+    "en": "Gonska the Jester",
+    "vi": "Gonska gã Hề",
+    "api_translated": true
+  },
+  {
+    "id": 49776,
+    "en": "General Krauser",
+    "vi": "Tướng quân Krauser",
+    "api_translated": true
+  },
+  {
+    "id": 49777,
+    "en": "General's Subordinate",
+    "vi": "Cấp dưới của Tướng quân",
+    "api_translated": true
+  },
+  {
+    "id": 49779,
+    "en": "King Pardis III",
+    "vi": "Vua Pardis III",
+    "api_translated": true
+  },
+  {
+    "id": 49780,
+    "en": "Pardis the Scholarking",
+    "vi": "Pardis Vua Học Giả",
+    "api_translated": true
+  },
+  {
+    "id": 49781,
+    "en": "Master of All",
+    "vi": "Bậc Thầy Vạn Sự"
+  },
+  {
+    "id": 50335,
+    "en": "Edoras Defender of Fame",
+    "vi": "Người bảo vệ Danh vọng Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 50336,
+    "en": "Edoras Defender of Power",
+    "vi": "Người bảo vệ Quyền lực Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 50334,
+    "en": "Edoras Defender of Wealth",
+    "vi": "Người bảo vệ Của cải Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 50065,
+    "en": "Edoras Soldier",
+    "vi": "Binh lính Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 50200,
+    "en": "Sazantos",
+    "vi": "Sazantos",
+    "api_translated": true
+  },
+  {
+    "id": 50453,
+    "en": "Blackrobe (Axe)",
+    "vi": "Áo choàng đen (Rìu)",
+    "api_translated": true
+  },
+  {
+    "id": 50454,
+    "en": "Blackrobe (Bow)",
+    "vi": "Áo choàng đen (Cung)",
+    "api_translated": true
+  },
+  {
+    "id": 50455,
+    "en": "Blackrobe (Dagger)",
+    "vi": "Áo choàng đen (Dao găm)",
+    "api_translated": true
+  },
+  {
+    "id": 50456,
+    "en": "Delvecchio",
+    "vi": "Delvecchio",
+    "api_translated": true
+  },
+  {
+    "id": 50457,
+    "en": "Mandarino",
+    "vi": "Mandarino",
+    "api_translated": true
+  },
+  {
+    "id": 50458,
+    "en": "Remone",
+    "vi": "Remone",
+    "api_translated": true
+  },
+  {
+    "id": 50459,
+    "en": "Foreign Emissary (Circle Blade)",
+    "vi": "Sứ giả ngoại bang (Kiếm vòng)",
+    "api_translated": true
+  },
+  {
+    "id": 50460,
+    "en": "Foreign Emissary (Staff)",
+    "vi": "Sứ giả ngoại bang (Trượng)",
+    "api_translated": true
+  },
+  {
+    "id": 50461,
+    "en": "Black Scarlet (Polearm)",
+    "vi": "Black Scarlet (Thương)",
+    "api_translated": true
+  },
+  {
+    "id": 50462,
+    "en": "Black Scarlet (Hammer)",
+    "vi": "Black Scarlet (Búa)",
+    "api_translated": true
+  },
+  {
+    "id": 50546,
+    "en": "Delvecchio's Lackey (Axe)",
+    "vi": "Tay sai của Delvecchio (Rìu)",
+    "api_translated": true
+  },
+  {
+    "id": 50547,
+    "en": "Delvecchio's Lackey (Bow)",
+    "vi": "Tay sai của Delvecchio (Cung)",
+    "api_translated": true
+  },
+  {
+    "id": 50548,
+    "en": "Delvecchio's Lackey (Dagger)",
+    "vi": "Tay sai của Delvecchio (Dao găm)",
+    "api_translated": true
+  },
+  {
+    "id": 50636,
+    "en": "Cavalry (Bow)",
+    "vi": "Kỵ binh (Cung)",
+    "api_translated": true
+  },
+  {
+    "id": 50637,
+    "en": "Cavalry (Polearm)",
+    "vi": "Kỵ binh (Thương)",
+    "api_translated": true
+  },
+  {
+    "id": 50638,
+    "en": "Captain Na'gu",
+    "vi": "Đội trưởng Na'gu",
+    "api_translated": true
+  },
+  {
+    "id": 50639,
+    "en": "Empress Tatloch",
+    "vi": "Nữ hoàng Tatloch",
+    "api_translated": true
+  },
+  {
+    "id": 50671,
+    "en": "Monaris the Monstrous",
+    "vi": "Monaris Quái dị",
+    "api_translated": true
+  },
+  {
+    "id": 50672,
+    "en": "Lookout (Whip)",
+    "vi": "Lính canh (Roi)",
+    "api_translated": true
+  },
+  {
+    "id": 50673,
+    "en": "Judah the Believer",
+    "vi": "Judah kẻ Sùng đạo",
+    "api_translated": true
+  },
+  {
+    "id": 50674,
+    "en": "Pelagia the Conjurer",
+    "vi": "Pelagia kẻ Triệu hồi",
+    "api_translated": true
+  },
+  {
+    "id": 50720,
+    "en": "Monster (Man)",
+    "vi": "Quái vật (Đàn ông)",
+    "api_translated": true
+  },
+  {
+    "id": 50768,
+    "en": "Monster (Woman)",
+    "vi": "Quái vật (Đàn bà)",
+    "api_translated": true
+  },
+  {
+    "id": 50769,
+    "en": "Monster (Townsperson)",
+    "vi": "Quái vật (Người dân)",
+    "api_translated": true
+  },
+  {
+    "id": 50779,
+    "en": "Elite Black Scarlet",
+    "vi": "Elite Black Scarlet",
+    "api_translated": true
+  },
+  {
+    "id": 50780,
+    "en": "Monster (Black Scarlet)",
+    "vi": "Quái vật (Black Scarlet)",
+    "api_translated": true
+  },
+  {
+    "id": 50781,
+    "en": "Guardian of the Tainted Flame",
+    "vi": "Người bảo vệ Ngọn lửa vấy bẩn",
+    "api_translated": true
+  },
+  {
+    "id": 50883,
+    "en": "Lookout (Polearm)",
+    "vi": "Lính canh (Thương)",
+    "api_translated": true
+  },
+  {
+    "id": 50892,
+    "en": "Judah's Aide (Axe)",
+    "vi": "Phụ tá của Judah (Rìu)",
+    "api_translated": true
+  },
+  {
+    "id": 50893,
+    "en": "Judah's Aide (Fan)",
+    "vi": "Phụ tá của Judah (Quạt)",
+    "api_translated": true
+  },
+  {
+    "id": 50983,
+    "en": "G'roha Commander",
+    "vi": "Chỉ huy G'roha",
+    "api_translated": true
+  },
+  {
+    "id": 50993,
+    "en": "Dark Wisp of Ruin",
+    "vi": "Đốm sáng đen của sự hủy diệt",
+    "api_translated": true
+  },
+  {
+    "id": 51510,
+    "en": "Dark Wisp of Death",
+    "vi": "Đốm sáng đen của cái chết",
+    "api_translated": true
+  },
+  {
+    "id": 51027,
+    "en": "Oskha the Trader",
+    "vi": "Oskha gã Thương nhân",
+    "api_translated": true
+  },
+  {
+    "id": 51028,
+    "en": "Oskha the Have-Not",
+    "vi": "Oskha kẻ Bần cùng",
+    "api_translated": true
+  },
+  {
+    "id": 51316,
+    "en": "Altered Ivory Remnant",
+    "vi": "Tàn tích ngà voi biến dị",
+    "api_translated": true
+  },
+  {
+    "id": 51317,
+    "en": "Altered Gold Remnant",
+    "vi": "Tàn tích vàng biến dị",
+    "api_translated": true
+  },
+  {
+    "id": 51147,
+    "en": "Tatloch the Lady of Grace",
+    "vi": "Tatloch Quý bà Nhân từ",
+    "api_translated": true
+  },
+  {
+    "id": 51148,
+    "en": "Ceraphina the Charitable",
+    "vi": "Ceraphina kẻ Từ thiện",
+    "api_translated": true
+  },
+  {
+    "id": 51162,
+    "en": "Pelagia the Conjurer (Ruin)",
+    "vi": "Pelagia kẻ Triệu hồi (Tàn tích)",
+    "api_translated": true
+  },
+  {
+    "id": 51163,
+    "en": "Towering Idol",
+    "vi": "Thần tượng sừng sững",
+    "api_translated": true
+  },
+  {
+    "id": 51184,
+    "en": "G'roha Soldier",
+    "vi": "Binh lính G'roha",
+    "api_translated": true
+  },
+  {
+    "id": 51909,
+    "en": "Maa'fa the Black Panther",
+    "vi": "Maa'fa Báo đen",
+    "api_translated": true
+  },
+  {
+    "id": 51910,
+    "en": "Phantom Soldier",
+    "vi": "Binh lính bóng ma",
+    "api_translated": true
+  },
+  {
+    "id": 51938,
+    "en": "G'roha Commander",
+    "vi": "Chỉ huy G'roha",
+    "api_translated": true
+  },
+  {
+    "id": 51939,
+    "en": "G'roha Soldier (Polearm)",
+    "vi": "Binh lính G'roha (Thương)",
+    "api_translated": true
+  },
+  {
+    "id": 51940,
+    "en": "Cavalry (Bow)",
+    "vi": "Kỵ binh (Cung)",
+    "api_translated": true
+  },
+  {
+    "id": 51941,
+    "en": "Cavalry (Polearm)",
+    "vi": "Kỵ binh (Thương)",
+    "api_translated": true
+  },
+  {
+    "id": 51942,
+    "en": "G'roha Soldier (Circle Blade)",
+    "vi": "Binh lính G'roha (Kiếm vòng)",
+    "api_translated": true
+  },
+  {
+    "id": 51943,
+    "en": "G'roha Soldier (Staff)",
+    "vi": "Binh lính G'roha (Trượng)",
+    "api_translated": true
+  },
+  {
+    "id": 51914,
+    "en": "Lyblac",
+    "vi": "Lyblac",
+    "api_translated": true
+  },
+  {
+    "id": 51944,
+    "en": "Fallen Sonia",
+    "vi": "Sonia sa ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52019,
+    "en": "Fallen Mahrez",
+    "vi": "Mahrez sa ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52027,
+    "en": "Vile Memory",
+    "vi": "Ký ức hèn hạ",
+    "api_translated": true
+  },
+  {
+    "id": 52028,
+    "en": "Beloved Memory",
+    "vi": "Ký ức yêu dấu",
+    "api_translated": true
+  },
+  {
+    "id": 52029,
+    "en": "Suffering Soul",
+    "vi": "Linh hồn đau khổ",
+    "api_translated": true
+  },
+  {
+    "id": 52030,
+    "en": "Seething Soul",
+    "vi": "Linh hồn giận dữ",
+    "api_translated": true
+  },
+  {
+    "id": 52031,
+    "en": "Shrieking Soul",
+    "vi": "Linh hồn gào thét",
+    "api_translated": true
+  },
+  {
+    "id": 52065,
+    "en": "Fallen Elrica",
+    "vi": "Elrica sa ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52093,
+    "en": "Power-Drunk Soldier",
+    "vi": "Binh lính say quyền lực",
+    "api_translated": true
+  },
+  {
+    "id": 52094,
+    "en": "Burned Man",
+    "vi": "Người đàn ông bị thiêu cháy",
+    "api_translated": true
+  },
+  {
+    "id": 52123,
+    "en": "Fallen Lebrandt",
+    "vi": "Lebrandt sa ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52124,
+    "en": "Cursed Princess Elrica",
+    "vi": "Công chúa Elrica bị nguyền rủa",
+    "api_translated": true
+  },
+  {
+    "id": 52229,
+    "en": "Rondo of the Knights Ardante",
+    "vi": "Rondo của Hiệp sĩ Ardante",
+    "api_translated": true
+  },
+  {
+    "id": 52230,
+    "en": "Sacred Flame",
+    "vi": "Ngọn lửa thiêng",
+    "api_translated": true
+  },
+  {
+    "id": 52176,
+    "en": "Sonzon the Flameguard",
+    "vi": "Sonzon Vệ binh Ngọn lửa",
+    "api_translated": true
+  },
+  {
+    "id": 52177,
+    "en": "Sacred Flame",
+    "vi": "Ngọn lửa thiêng",
+    "api_translated": true
+  },
+  {
+    "id": 52231,
+    "en": "Fallen Scarlet Wing",
+    "vi": "Cánh đỏ sa ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52232,
+    "en": "Fallen Monster",
+    "vi": "Quái vật sa ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52313,
+    "en": "Cursed Commander Tytos",
+    "vi": "Tytos Chỉ huy bị nguyền rủa",
+    "api_translated": true
+  },
+  {
+    "id": 52142,
+    "en": "Enraged Prostitute",
+    "vi": "Gái điếm phẫn nộ",
+    "api_translated": true
+  },
+  {
+    "id": 52143,
+    "en": "Lord Taviani",
+    "vi": "Lãnh chúa Taviani",
+    "api_translated": true
+  },
+  {
+    "id": 52144,
+    "en": "Fallen Blackrobe (Sword)",
+    "vi": "Áo choàng đen sa ngã (Kiếm)",
+    "api_translated": true
+  },
+  {
+    "id": 52145,
+    "en": "Wounded Syndicate Member",
+    "vi": "Thành viên tổ chức bị thương",
+    "api_translated": true
+  },
+  {
+    "id": 52247,
+    "en": "Cursed Fallen Ratking",
+    "vi": "Vua chuột sa ngã bị nguyền rủa",
+    "api_translated": true
+  },
+  {
+    "id": 52248,
+    "en": "Cursed Fallen Giant Falcon",
+    "vi": "Chim ưng khổng lồ sa ngã bị nguyền rủa",
+    "api_translated": true
+  },
+  {
+    "id": 52356,
+    "en": "Sazantos",
+    "vi": "Sazantos",
+    "api_translated": true
+  },
+  {
+    "id": 52357,
+    "en": "Dark Priestess Signa",
+    "vi": "Nữ tư tế bóng tối Signa",
+    "api_translated": true
+  },
+  {
+    "id": 52397,
+    "en": "Cursed Fallen Soldier",
+    "vi": "Binh lính sa ngã bị nguyền rủa",
+    "api_translated": true
+  },
+  {
+    "id": 52398,
+    "en": "Fallen Lady-in-Waiting",
+    "vi": "Cung nữ sa ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52399,
+    "en": "Fallen Francesca",
+    "vi": "Francesca sa ngã",
+    "api_translated": true
+  },
+  {
+    "id": 52453,
+    "en": "Cursed Master Auguste",
+    "vi": "Auguste Bậc thầy bị nguyền rủa",
+    "api_translated": true
+  },
+  {
+    "id": 52454,
+    "en": "Cursed Lady Herminia",
+    "vi": "Quý bà bị nguyền rủa Herminia",
+    "api_translated": true
+  },
+  {
+    "id": 52489,
+    "en": "Fallen Herminia's Soldier",
+    "vi": "Binh lính sa ngã của Herminia",
+    "api_translated": true
+  },
+  {
+    "id": 52518,
+    "en": "Aelfric the Flamebringer",
+    "vi": "Aelfric Kẻ mang ngọn lửa",
+    "api_translated": true
+  },
+  {
+    "id": 52519,
+    "en": "Great Flame",
+    "vi": "Ngọn lửa vĩ đại",
+    "api_translated": true
+  },
+  {
+    "id": 98016,
+    "en": "<chara_name>",
+    "vi": "<chara_name>",
+    "api_translated": true
+  },
+  {
+    "id": 98485,
+    "en": "Accurst Flame",
+    "vi": "Ngọn lửa bị nguyền rủa",
+    "api_translated": true
+  },
+  {
+    "id": 52523,
+    "en": "Saint Sazantos",
+    "vi": "Thánh Sazantos",
+    "api_translated": true
+  },
+  {
+    "id": 52524,
+    "en": "Creator Orsazantos",
+    "vi": "Đấng sáng tạo Orsazantos",
+    "api_translated": true
+  },
+  {
+    "id": 52525,
+    "en": "Bestower of All",
+    "vi": "Đấng Ban Vạn Sự"
+  },
+  {
+    "id": 52526,
+    "en": "Ring of the Huntress",
+    "vi": "Nhẫn của Nữ thợ săn",
+    "api_translated": true
+  },
+  {
+    "id": 52527,
+    "en": "Ring of the Thunderblade",
+    "vi": "Nhẫn của Kiếm sấm",
+    "api_translated": true
+  },
+  {
+    "id": 52528,
+    "en": "Ring of the Prince of Thieves",
+    "vi": "Nhẫn của Hoàng tử trộm cướp",
+    "api_translated": true
+  },
+  {
+    "id": 52529,
+    "en": "Ring of the Scholarking",
+    "vi": "Nhẫn của Vua học giả",
+    "api_translated": true
+  },
+  {
+    "id": 52530,
+    "en": "Ring of the Charitable",
+    "vi": "Nhẫn của Người nhân ái",
+    "api_translated": true
+  },
+  {
+    "id": 52531,
+    "en": "Ring of the Lady of Grace",
+    "vi": "Nhẫn của Quý bà ân sủng",
+    "api_translated": true
+  },
+  {
+    "id": 52532,
+    "en": "Ring of the Trader",
+    "vi": "Nhẫn của Thương nhân",
+    "api_translated": true
+  },
+  {
+    "id": 98015,
+    "en": "Or'galdera",
+    "vi": "Or'galdera",
+    "api_translated": true
+  },
+  {
+    "id": 98426,
+    "en": "Demonic Spear",
+    "vi": "Thương quỷ",
+    "api_translated": true
+  },
+  {
+    "id": 98427,
+    "en": "Void-Sundering Arm",
+    "vi": "Cánh tay xé toạc hư không",
+    "api_translated": true
+  },
+  {
+    "id": 52632,
+    "en": "Former Edoras Soldier",
+    "vi": "Cựu binh lính Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 98054,
+    "en": "Sentinel",
+    "vi": "Lính canh",
+    "api_translated": true
+  },
+  {
+    "id": 98055,
+    "en": "Guardian",
+    "vi": "Người bảo vệ",
+    "api_translated": true
+  },
+  {
+    "id": 98056,
+    "en": "Gold Remnant",
+    "vi": "Tàn tích vàng",
+    "api_translated": true
+  },
+  {
+    "id": 98057,
+    "en": "Gold Revenant",
+    "vi": "Bóng ma vàng",
+    "api_translated": true
+  },
+  {
+    "id": 98142,
+    "en": "Cardinal",
+    "vi": "Hồng y",
+    "api_translated": true
+  },
+  {
+    "id": 98143,
+    "en": "Cardinal Teragraf",
+    "vi": "Hồng y Teragraf",
+    "api_translated": true
+  },
+  {
+    "id": 98379,
+    "en": "Reime",
+    "vi": "Reime",
+    "api_translated": true
+  },
+  {
+    "id": 98380,
+    "en": "Giant Gator",
+    "vi": "Cá sấu khổng lồ",
+    "api_translated": true
+  },
+  {
+    "id": 98381,
+    "en": "Barenga",
+    "vi": "Barenga",
+    "api_translated": true
+  },
+  {
+    "id": 98382,
+    "en": "Chilritta",
+    "vi": "Chilritta",
+    "api_translated": true
+  },
+  {
+    "id": 98511,
+    "en": "Barenga's Right Arm",
+    "vi": "Tay phải của Barenga",
+    "api_translated": true
+  },
+  {
+    "id": 98512,
+    "en": "Barenga's Left Arm",
+    "vi": "Tay trái của Barenga",
+    "api_translated": true
+  },
+  {
+    "id": 98513,
+    "en": "Chilritta's #1 Apprentice",
+    "vi": "Đệ tử số 1 của Chilritta",
+    "api_translated": true
+  },
+  {
+    "id": 98514,
+    "en": "Chilritta's #2 Apprentice",
+    "vi": "Đệ tử số 2 của Chilritta",
+    "api_translated": true
+  },
+  {
+    "id": 98428,
+    "en": "Heidne",
+    "vi": "Heidne",
+    "api_translated": true
+  },
+  {
+    "id": 98429,
+    "en": "Vaughner's Underling  I",
+    "vi": "Tay sai của Vaughner I",
+    "api_translated": true
+  },
+  {
+    "id": 98430,
+    "en": "Vaughner's Underling  II",
+    "vi": "Tay sai của Vaughner II",
+    "api_translated": true
+  },
+  {
+    "id": 98431,
+    "en": "Vaughner the Man-Eating Miser",
+    "vi": "Vaughner kẻ keo kiệt ăn thịt người",
+    "api_translated": true
+  },
+  {
+    "id": 98432,
+    "en": "Vaughner's Guard",
+    "vi": "Lính canh của Vaughner",
+    "api_translated": true
+  },
+  {
+    "id": 98447,
+    "en": "Colossal Blightant",
+    "vi": "Quái vật khổng lồ",
+    "api_translated": true
+  },
+  {
+    "id": 98433,
+    "en": "Ivory Shadow",
+    "vi": "Bóng ma ngà voi",
+    "api_translated": true
+  },
+  {
+    "id": 98434,
+    "en": "Gluttonous Salamander",
+    "vi": "Kỳ giông tham lam",
+    "api_translated": true
+  },
+  {
+    "id": 98435,
+    "en": "Edwin",
+    "vi": "Edwin",
+    "api_translated": true
+  },
+  {
+    "id": 98436,
+    "en": "Edwin's Subordinate",
+    "vi": "Cấp dưới của Edwin",
+    "api_translated": true
+  },
+  {
+    "id": 98437,
+    "en": "Immoral Noble",
+    "vi": "Quý tộc vô đạo",
+    "api_translated": true
+  },
+  {
+    "id": 98438,
+    "en": "Immoral Noble's Lackey",
+    "vi": "Tay sai của quý tộc vô đạo",
+    "api_translated": true
+  },
+  {
+    "id": 98439,
+    "en": "Dreige",
+    "vi": "Dreige",
+    "api_translated": true
+  },
+  {
+    "id": 98440,
+    "en": "Dreige's Lackey",
+    "vi": "Tay sai của Dreige",
+    "api_translated": true
+  },
+  {
+    "id": 98441,
+    "en": "Imposter Olberic",
+    "vi": "Olberic giả mạo",
+    "api_translated": true
+  },
+  {
+    "id": 98445,
+    "en": "Acdam",
+    "vi": "Acdam",
+    "api_translated": true
+  },
+  {
+    "id": 98446,
+    "en": "Acdam Member",
+    "vi": "Thành viên Acdam",
+    "api_translated": true
+  },
+  {
+    "id": 98451,
+    "en": "Forbidden Magic Guardian",
+    "vi": "Người bảo vệ ma thuật cấm",
+    "api_translated": true
+  },
+  {
+    "id": 98452,
+    "en": "Former Edoras Captain",
+    "vi": "Cựu đội trưởng Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 98453,
+    "en": "The Big 'Un",
+    "vi": "Kẻ to xác",
+    "api_translated": true
+  },
+  {
+    "id": 98481,
+    "en": "Demon Blade's Curse",
+    "vi": "Lời nguyền của Ma kiếm",
+    "api_translated": true
+  },
+  {
+    "id": 98482,
+    "en": "Slave Trader",
+    "vi": "Kẻ buôn nô lệ",
+    "api_translated": true
+  },
+  {
+    "id": 98483,
+    "en": "Sultravi",
+    "vi": "Sultravi",
+    "api_translated": true
+  },
+  {
+    "id": 98484,
+    "en": "Immortal Flame",
+    "vi": "Ngọn lửa bất diệt",
+    "api_translated": true
+  },
+  {
+    "id": 98486,
+    "en": "Thief",
+    "vi": "Đạo Tặc"
+  },
+  {
+    "id": 98487,
+    "en": "Detof Clan Pursuer",
+    "vi": "Kẻ truy đuổi tộc Detof",
+    "api_translated": true
+  },
+  {
+    "id": 98488,
+    "en": "Immoral Scholar",
+    "vi": "Học giả vô đạo",
+    "api_translated": true
+  },
+  {
+    "id": 98489,
+    "en": "Immoral Scholar's Lackey",
+    "vi": "Tay sai của học giả vô đạo",
+    "api_translated": true
+  },
+  {
+    "id": 98490,
+    "en": "Warbringer's Phantom",
+    "vi": "Bóng ma của Kẻ mang chiến tranh",
+    "api_translated": true
+  },
+  {
+    "id": 98497,
+    "en": "Gigantes",
+    "vi": "Gigantes",
+    "api_translated": true
+  },
+  {
+    "id": 98498,
+    "en": "Man-Eating Flora",
+    "vi": "Thực vật ăn thịt",
+    "api_translated": true
+  },
+  {
+    "id": 98503,
+    "en": "Man-Eating Virus",
+    "vi": "Virus ăn thịt",
+    "api_translated": true
+  },
+  {
+    "id": 98499,
+    "en": "Tyrannodrake",
+    "vi": "Rồng bạo chúa",
+    "api_translated": true
+  },
+  {
+    "id": 98500,
+    "en": "Sand Lion",
+    "vi": "Sư tử cát",
+    "api_translated": true
+  },
+  {
+    "id": 98501,
+    "en": "Auðnvarg",
+    "vi": "Auðnvarg",
+    "api_translated": true
+  },
+  {
+    "id": 98502,
+    "en": "Battle-Worn Shark",
+    "vi": "Cá mập chiến chinh",
+    "api_translated": true
+  },
+  {
+    "id": 98504,
+    "en": "Amatsukami no Orochi",
+    "vi": "Amatsukami no Orochi",
+    "api_translated": true
+  },
+  {
+    "id": 98506,
+    "en": "Crimson Dragon Orb",
+    "vi": "Ngọc rồng đỏ",
+    "api_translated": true
+  },
+  {
+    "id": 98507,
+    "en": "Cerulean Dragon Orb",
+    "vi": "Ngọc rồng xanh dương",
+    "api_translated": true
+  },
+  {
+    "id": 98508,
+    "en": "Golden Dragon Orb",
+    "vi": "Ngọc rồng vàng",
+    "api_translated": true
+  },
+  {
+    "id": 98509,
+    "en": "Jade Dragon Orb",
+    "vi": "Ngọc rồng xanh lục",
+    "api_translated": true
+  },
+  {
+    "id": 98510,
+    "en": "???",
+    "vi": "???",
+    "api_translated": true
+  },
+  {
+    "id": 98002,
+    "en": "Emerald Direwolf",
+    "vi": "Sói hoang ngọc lục bảo",
+    "api_translated": true
+  },
+  {
+    "id": 98014,
+    "en": "Scarlet Wings Corporal",
+    "vi": "Hạ sĩ Cánh đỏ",
+    "api_translated": true
+  },
+  {
+    "id": 98144,
+    "en": "Lizardmen Leader",
+    "vi": "Thủ lĩnh người thằn lằn",
+    "api_translated": true
+  },
+  {
+    "id": 98145,
+    "en": "Desert Lizardking",
+    "vi": "Vua thằn lằn sa mạc",
+    "api_translated": true
+  },
+  {
+    "id": 98146,
+    "en": "Desert Lizardking I",
+    "vi": "Vua thằn lằn sa mạc I",
+    "api_translated": true
+  },
+  {
+    "id": 50183,
+    "en": "Scarlet Wing",
+    "vi": "Cánh đỏ",
+    "api_translated": true
+  },
+  {
+    "id": 50202,
+    "en": "Snow Yak",
+    "vi": "Bò Tây Tạng tuyết",
+    "api_translated": true
+  },
+  {
+    "id": 98008,
+    "en": "Watch Captain Fried",
+    "vi": "Đội trưởng lính canh Fried",
+    "api_translated": true
+  },
+  {
+    "id": 98009,
+    "en": "Olive",
+    "vi": "Olive",
+    "api_translated": true
+  },
+  {
+    "id": 98010,
+    "en": "Karan",
+    "vi": "Karan",
+    "api_translated": true
+  },
+  {
+    "id": 98051,
+    "en": "Corrupt Merchant",
+    "vi": "Thương nhân đồi bại",
+    "api_translated": true
+  },
+  {
+    "id": 98052,
+    "en": "Bodyguard",
+    "vi": "Vệ sĩ",
+    "api_translated": true
+  },
+  {
+    "id": 98059,
+    "en": "Karan",
+    "vi": "Karan",
+    "api_translated": true
+  },
+  {
+    "id": 98060,
+    "en": "Tyme",
+    "vi": "Tyme",
+    "api_translated": true
+  },
+  {
+    "id": 98061,
+    "en": "Watch Captain Fried",
+    "vi": "Đội trưởng lính canh Fried",
+    "api_translated": true
+  },
+  {
+    "id": 98062,
+    "en": "Olive",
+    "vi": "Olive",
+    "api_translated": true
+  },
+  {
+    "id": 98063,
+    "en": "Watchman Karan",
+    "vi": "Lính canh Karan",
+    "api_translated": true
+  },
+  {
+    "id": 98064,
+    "en": "Good-Natured Youth",
+    "vi": "Thiếu niên lương thiện",
+    "api_translated": true
+  },
+  {
+    "id": 98065,
+    "en": "Blackrobe",
+    "vi": "Áo choàng đen",
+    "api_translated": true
+  },
+  {
+    "id": 98066,
+    "en": "Blackrobe",
+    "vi": "Áo choàng đen",
+    "api_translated": true
+  },
+  {
+    "id": 98067,
+    "en": "Taciturn Bodyguard",
+    "vi": "Vệ sĩ ít nói",
+    "api_translated": true
+  },
+  {
+    "id": 98068,
+    "en": "Blackrobe",
+    "vi": "Áo choàng đen",
+    "api_translated": true
+  },
+  {
+    "id": 98069,
+    "en": "Ruffian Chef",
+    "vi": "Đầu bếp côn đồ",
+    "api_translated": true
+  },
+  {
+    "id": 98071,
+    "en": "Ruffian",
+    "vi": "Côn đồ",
+    "api_translated": true
+  },
+  {
+    "id": 98072,
+    "en": "Main Street Bartender",
+    "vi": "Người pha chế tại phố chính",
+    "api_translated": true
+  },
+  {
+    "id": 98073,
+    "en": "Man",
+    "vi": "Người đàn ông",
+    "api_translated": true
+  },
+  {
+    "id": 98074,
+    "en": "Woman",
+    "vi": "Người phụ nữ",
+    "api_translated": true
+  },
+  {
+    "id": 98075,
+    "en": "Man with Sorrowful Eyes",
+    "vi": "Người đàn ông với đôi mắt u sầu",
+    "api_translated": true
+  },
+  {
+    "id": 98076,
+    "en": "Impoverished Townsperson",
+    "vi": "Dân nghèo",
+    "api_translated": true
+  },
+  {
+    "id": 98077,
+    "en": "Impoverished Townsperson",
+    "vi": "Dân nghèo",
+    "api_translated": true
+  },
+  {
+    "id": 98078,
+    "en": "Veteran Hunter",
+    "vi": "Thợ săn kỳ cựu",
+    "api_translated": true
+  },
+  {
+    "id": 98079,
+    "en": "Hunter",
+    "vi": "Thợ Săn"
+  },
+  {
+    "id": 98080,
+    "en": "Woman of Faith",
+    "vi": "Người phụ nữ mộ đạo",
+    "api_translated": true
+  },
+  {
+    "id": 98081,
+    "en": "Old Woman",
+    "vi": "Bà lão",
+    "api_translated": true
+  },
+  {
+    "id": 98082,
+    "en": "Old Man",
+    "vi": "Ông lão",
+    "api_translated": true
+  },
+  {
+    "id": 98083,
+    "en": "Great Architect",
+    "vi": "Kiến trúc sư đại tài",
+    "api_translated": true
+  },
+  {
+    "id": 98084,
+    "en": "Rosso",
+    "vi": "Rosso",
+    "api_translated": true
+  },
+  {
+    "id": 98085,
+    "en": "Rosso",
+    "vi": "Rosso",
+    "api_translated": true
+  },
+  {
+    "id": 98086,
+    "en": "Stern Scarlet Wing",
+    "vi": "Cánh Đỏ nghiêm nghị",
+    "api_translated": true
+  },
+  {
+    "id": 98087,
+    "en": "Scarlet Wing",
+    "vi": "Cánh Đỏ",
+    "api_translated": true
+  },
+  {
+    "id": 98088,
+    "en": "Scarlet Wing",
+    "vi": "Cánh Đỏ",
+    "api_translated": true
+  },
+  {
+    "id": 98089,
+    "en": "Man Suspicious of the Hero",
+    "vi": "Người đàn ông nghi ngờ anh hùng",
+    "api_translated": true
+  },
+  {
+    "id": 98090,
+    "en": "Townsperson",
+    "vi": "Dân làng",
+    "api_translated": true
+  },
+  {
+    "id": 98091,
+    "en": "Townsperson",
+    "vi": "Dân làng",
+    "api_translated": true
+  },
+  {
+    "id": 98092,
+    "en": "Scarlet Wing Admirer",
+    "vi": "Người ngưỡng mộ Cánh Đỏ",
+    "api_translated": true
+  },
+  {
+    "id": 98093,
+    "en": "Scarlet Wing",
+    "vi": "Cánh Đỏ",
+    "api_translated": true
+  },
+  {
+    "id": 98094,
+    "en": "Scarlet Wing",
+    "vi": "Cánh Đỏ",
+    "api_translated": true
+  },
+  {
+    "id": 98095,
+    "en": "Faithful Scarlet Wing",
+    "vi": "Cánh Đỏ trung thành",
+    "api_translated": true
+  },
+  {
+    "id": 98096,
+    "en": "Scarlet Wing",
+    "vi": "Cánh Đỏ",
+    "api_translated": true
+  },
+  {
+    "id": 98097,
+    "en": "Scarlet Wing",
+    "vi": "Cánh Đỏ",
+    "api_translated": true
+  },
+  {
+    "id": 98098,
+    "en": "Girl's Caretaker",
+    "vi": "Người chăm sóc cô bé",
+    "api_translated": true
+  },
+  {
+    "id": 98099,
+    "en": "Old Man",
+    "vi": "Ông lão",
+    "api_translated": true
+  },
+  {
+    "id": 98100,
+    "en": "Old Man",
+    "vi": "Ông lão",
+    "api_translated": true
+  },
+  {
+    "id": 98101,
+    "en": "Woman Suspicious of Mansion",
+    "vi": "Người phụ nữ nghi ngờ dinh thự",
+    "api_translated": true
+  },
+  {
+    "id": 98102,
+    "en": "Old Man",
+    "vi": "Ông lão",
+    "api_translated": true
+  },
+  {
+    "id": 98103,
+    "en": "Old Woman",
+    "vi": "Bà lão",
+    "api_translated": true
+  },
+  {
+    "id": 98104,
+    "en": "Woman Who Is Stern to Strangers",
+    "vi": "Người phụ nữ nghiêm khắc với người lạ",
+    "api_translated": true
+  },
+  {
+    "id": 98105,
+    "en": "Old Man",
+    "vi": "Ông lão",
+    "api_translated": true
+  },
+  {
+    "id": 98106,
+    "en": "Old Woman",
+    "vi": "Bà lão",
+    "api_translated": true
+  },
+  {
+    "id": 98107,
+    "en": "Man Distrustful of Laboratory",
+    "vi": "Người đàn ông không tin tưởng phòng thí nghiệm",
+    "api_translated": true
+  },
+  {
+    "id": 98108,
+    "en": "Townsperson",
+    "vi": "Dân làng",
+    "api_translated": true
+  },
+  {
+    "id": 98109,
+    "en": "Townsperson",
+    "vi": "Dân làng",
+    "api_translated": true
+  },
+  {
+    "id": 98110,
+    "en": "Gossipy Woman",
+    "vi": "Người phụ nữ hay ngồi lê đôi mách",
+    "api_translated": true
+  },
+  {
+    "id": 98111,
+    "en": "Matron",
+    "vi": "Bà quản gia",
+    "api_translated": true
+  },
+  {
+    "id": 98112,
+    "en": "Matron",
+    "vi": "Bà quản gia",
+    "api_translated": true
+  },
+  {
+    "id": 98113,
+    "en": "\"The Longbow Master\"",
+    "vi": "Bậc thầy cung dài",
+    "api_translated": true
+  },
+  {
+    "id": 98114,
+    "en": "Hunter Dmitri",
+    "vi": "Thợ săn Dmitri",
+    "api_translated": true
+  },
+  {
+    "id": 98115,
+    "en": "Fellow Hunter",
+    "vi": "Đồng nghiệp thợ săn",
+    "api_translated": true
+  },
+  {
+    "id": 98116,
+    "en": "Fellow Hunter",
+    "vi": "Đồng nghiệp thợ săn",
+    "api_translated": true
+  },
+  {
+    "id": 98117,
+    "en": "Wandering Apothecary",
+    "vi": "Dược sĩ lang thang",
+    "api_translated": true
+  },
+  {
+    "id": 98118,
+    "en": "Cool Hunter",
+    "vi": "Thợ săn điềm tĩnh",
+    "api_translated": true
+  },
+  {
+    "id": 98119,
+    "en": "Delitia",
+    "vi": "Delitia",
+    "api_translated": true
+  },
+  {
+    "id": 98120,
+    "en": "Vigilant Merchant",
+    "vi": "Thương nhân cảnh giác",
+    "api_translated": true
+  },
+  {
+    "id": 98121,
+    "en": "Merchant",
+    "vi": "Thương Nhân"
+  },
+  {
+    "id": 98122,
+    "en": "Merchant",
+    "vi": "Thương Nhân"
+  },
+  {
+    "id": 98123,
+    "en": "Woman Fond of the Coastlands",
+    "vi": "Người phụ nữ yêu mến vùng Coastlands",
+    "api_translated": true
+  },
+  {
+    "id": 98124,
+    "en": "Tavern Patron",
+    "vi": "Khách quán trọ",
+    "api_translated": true
+  },
+  {
+    "id": 98125,
+    "en": "Tavern Patron",
+    "vi": "Khách quán trọ",
+    "api_translated": true
+  },
+  {
+    "id": 98126,
+    "en": "Acerbic Scholar",
+    "vi": "Học giả chua ngoa",
+    "api_translated": true
+  },
+  {
+    "id": 98127,
+    "en": "Master of Books",
+    "vi": "Bậc thầy sách",
+    "api_translated": true
+  },
+  {
+    "id": 98128,
+    "en": "Grounded Aristocrat",
+    "vi": "Quý tộc thực tế",
+    "api_translated": true
+  },
+  {
+    "id": 98129,
+    "en": "Guard",
+    "vi": "Lính canh",
+    "api_translated": true
+  },
+  {
+    "id": 98130,
+    "en": "Guard",
+    "vi": "Lính canh",
+    "api_translated": true
+  },
+  {
+    "id": 98131,
+    "en": "Confident Fisherwoman",
+    "vi": "Nữ ngư dân tự tin",
+    "api_translated": true
+  },
+  {
+    "id": 98132,
+    "en": "Old Woman",
+    "vi": "Bà lão",
+    "api_translated": true
+  },
+  {
+    "id": 98133,
+    "en": "Old Woman",
+    "vi": "Bà lão",
+    "api_translated": true
+  },
+  {
+    "id": 98134,
+    "en": "Energetic Old Woman",
+    "vi": "Bà lão năng nổ",
+    "api_translated": true
+  },
+  {
+    "id": 98135,
+    "en": "Tony's Mother",
+    "vi": "Mẹ của Tony",
+    "api_translated": true
+  },
+  {
+    "id": 98136,
+    "en": "Tony",
+    "vi": "Tony",
+    "api_translated": true
+  },
+  {
+    "id": 98137,
+    "en": "Traveling Writer",
+    "vi": "Nhà văn du hành",
+    "api_translated": true
+  },
+  {
+    "id": 98138,
+    "en": "Olive",
+    "vi": "Olive",
+    "api_translated": true
+  },
+  {
+    "id": 98147,
+    "en": "Capital Guard",
+    "vi": "Lính canh thủ đô",
+    "api_translated": true
+  },
+  {
+    "id": 98148,
+    "en": "Novice Soldier",
+    "vi": "Tân binh",
+    "api_translated": true
+  },
+  {
+    "id": 98149,
+    "en": "Novice Soldier",
+    "vi": "Tân binh",
+    "api_translated": true
+  },
+  {
+    "id": 98150,
+    "en": "Birdian Researcher",
+    "vi": "Nhà nghiên cứu Birdian",
+    "api_translated": true
+  },
+  {
+    "id": 98151,
+    "en": "Townsperson",
+    "vi": "Dân làng",
+    "api_translated": true
+  },
+  {
+    "id": 98152,
+    "en": "Townsperson",
+    "vi": "Dân làng",
+    "api_translated": true
+  },
+  {
+    "id": 98153,
+    "en": "Curious Merchant",
+    "vi": "Thương nhân tò mò",
+    "api_translated": true
+  },
+  {
+    "id": 98155,
+    "en": "Merchant",
+    "vi": "Thương Nhân"
+  },
+  {
+    "id": 98156,
+    "en": "Cynical Pauper",
+    "vi": "Kẻ nghèo khổ hoài nghi",
+    "api_translated": true
+  },
+  {
+    "id": 98157,
+    "en": "Pauper",
+    "vi": "Người nghèo",
+    "api_translated": true
+  },
+  {
+    "id": 98158,
+    "en": "Pauper",
+    "vi": "Người nghèo",
+    "api_translated": true
+  },
+  {
+    "id": 98159,
+    "en": "Debt Collector",
+    "vi": "Kẻ đòi nợ",
+    "api_translated": true
+  },
+  {
+    "id": 98160,
+    "en": "Man",
+    "vi": "Người đàn ông",
+    "api_translated": true
+  },
+  {
+    "id": 98161,
+    "en": "Punching Bag",
+    "vi": "Bao cát",
+    "api_translated": true
+  },
+  {
+    "id": 98162,
+    "en": "Powerful Pauper",
+    "vi": "Kẻ nghèo quyền lực",
+    "api_translated": true
+  },
+  {
+    "id": 98163,
+    "en": "Volunteer Soldier",
+    "vi": "Lính tình nguyện",
+    "api_translated": true
+  },
+  {
+    "id": 98164,
+    "en": "Corrupt Merchant",
+    "vi": "Thương nhân đồi bại",
+    "api_translated": true
+  },
+  {
+    "id": 98165,
+    "en": "Capital Sightseer",
+    "vi": "Khách tham quan thủ đô",
+    "api_translated": true
+  },
+  {
+    "id": 98166,
+    "en": "Resentful Scholar",
+    "vi": "Học giả oán hận",
+    "api_translated": true
+  },
+  {
+    "id": 98167,
+    "en": "Scholar",
+    "vi": "Học Giả"
+  },
+  {
+    "id": 98168,
+    "en": "Edoras Chief Maid",
+    "vi": "Tổng quản gia Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 98169,
+    "en": "Town Watch",
+    "vi": "Lính canh thị trấn",
+    "api_translated": true
+  },
+  {
+    "id": 98170,
+    "en": "Villager",
+    "vi": "Dân làng",
+    "api_translated": true
+  },
+  {
+    "id": 98172,
+    "en": "Zeph",
+    "vi": "Zeph",
+    "api_translated": true
+  },
+  {
+    "id": 98173,
+    "en": "Gertas",
+    "vi": "Gertas",
+    "api_translated": true
+  },
+  {
+    "id": 98174,
+    "en": "Reflective Grandma",
+    "vi": "Bà lão trầm tư",
+    "api_translated": true
+  },
+  {
+    "id": 98175,
+    "en": "Entrance Guard",
+    "vi": "Lính canh cổng",
+    "api_translated": true
+  },
+  {
+    "id": 98176,
+    "en": "Fisherman",
+    "vi": "Ngư dân",
+    "api_translated": true
+  },
+  {
+    "id": 98177,
+    "en": "Guard",
+    "vi": "Lính canh",
+    "api_translated": true
+  },
+  {
+    "id": 98178,
+    "en": "Hotheaded Rancher",
+    "vi": "Chủ trang trại nóng tính",
+    "api_translated": true
+  },
+  {
+    "id": 98179,
+    "en": "Kindly Old Man",
+    "vi": "Ông lão nhân hậu",
+    "api_translated": true
+  },
+  {
+    "id": 98180,
+    "en": "Soldier from the North",
+    "vi": "Người lính từ phương Bắc",
+    "api_translated": true
+  },
+  {
+    "id": 98182,
+    "en": "Soldier",
+    "vi": "Người lính",
+    "api_translated": true
+  },
+  {
+    "id": 98183,
+    "en": "Brave Tavern Maid",
+    "vi": "Nữ phục vụ quán rượu dũng cảm",
+    "api_translated": true
+  },
+  {
+    "id": 98184,
+    "en": "Traveling Matron",
+    "vi": "Người mẹ du hành",
+    "api_translated": true
+  },
+  {
+    "id": 98185,
+    "en": "Middle-Aged Man",
+    "vi": "Người đàn ông trung niên",
+    "api_translated": true
+  },
+  {
+    "id": 98186,
+    "en": "Assiduous Mercenary",
+    "vi": "Lính đánh thuê cần mẫn",
+    "api_translated": true
+  },
+  {
+    "id": 98188,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98189,
+    "en": "Sandcat Dancer",
+    "vi": "Vũ công Sandcat",
+    "api_translated": true
+  },
+  {
+    "id": 98190,
+    "en": "Primrose",
+    "vi": "Primrose",
+    "api_translated": true
+  },
+  {
+    "id": 98191,
+    "en": "Aspiring Leader",
+    "vi": "Thủ lĩnh đầy tham vọng",
+    "api_translated": true
+  },
+  {
+    "id": 98192,
+    "en": "Youth",
+    "vi": "Thanh niên",
+    "api_translated": true
+  },
+  {
+    "id": 98193,
+    "en": "Youth",
+    "vi": "Thanh niên",
+    "api_translated": true
+  },
+  {
+    "id": 98194,
+    "en": "Veggie-Loving Graybeard",
+    "vi": "Ông lão yêu rau củ",
+    "api_translated": true
+  },
+  {
+    "id": 98195,
+    "en": "Old Man",
+    "vi": "Ông lão",
+    "api_translated": true
+  },
+  {
+    "id": 98197,
+    "en": "Chatty Old Woman",
+    "vi": "Bà lão hay chuyện",
+    "api_translated": true
+  },
+  {
+    "id": 98199,
+    "en": "Scholar",
+    "vi": "Học Giả"
+  },
+  {
+    "id": 98200,
+    "en": "Industrious Gardener",
+    "vi": "Người làm vườn chăm chỉ",
+    "api_translated": true
+  },
+  {
+    "id": 98201,
+    "en": "Townsperson",
+    "vi": "Dân làng",
+    "api_translated": true
+  },
+  {
+    "id": 98202,
+    "en": "Townsperson",
+    "vi": "Dân làng",
+    "api_translated": true
+  },
+  {
+    "id": 98203,
+    "en": "Tireless Soldier",
+    "vi": "Người lính không biết mệt mỏi",
+    "api_translated": true
+  },
+  {
+    "id": 98204,
+    "en": "Altinian Infantryman",
+    "vi": "Bộ binh Altinian",
+    "api_translated": true
+  },
+  {
+    "id": 98205,
+    "en": "Altinian Infantryman",
+    "vi": "Bộ binh Altinian",
+    "api_translated": true
+  },
+  {
+    "id": 98206,
+    "en": "Once-Aspiring Knight",
+    "vi": "Cựu hiệp sĩ đầy hoài bão",
+    "api_translated": true
+  },
+  {
+    "id": 98207,
+    "en": "Youth",
+    "vi": "Thanh niên",
+    "api_translated": true
+  },
+  {
+    "id": 98208,
+    "en": "Youth",
+    "vi": "Thanh niên",
+    "api_translated": true
+  },
+  {
+    "id": 98209,
+    "en": "Iron-Loving Merchant",
+    "vi": "Thương nhân yêu sắt thép",
+    "api_translated": true
+  },
+  {
+    "id": 98210,
+    "en": "Bodyguard",
+    "vi": "Vệ sĩ",
+    "api_translated": true
+  },
+  {
+    "id": 98211,
+    "en": "Bodyguard",
+    "vi": "Vệ sĩ",
+    "api_translated": true
+  },
+  {
+    "id": 98212,
+    "en": "Mysterious Dancer",
+    "vi": "Vũ công bí ẩn",
+    "api_translated": true
+  },
+  {
+    "id": 98213,
+    "en": "Youth",
+    "vi": "Thanh niên",
+    "api_translated": true
+  },
+  {
+    "id": 98214,
+    "en": "\"Raging Bird\"",
+    "vi": "\"Chim Ưng Cuồng Nộ\"",
+    "api_translated": true
+  },
+  {
+    "id": 98215,
+    "en": "Cheerful Acrobat",
+    "vi": "Nghệ sĩ nhào lộn vui vẻ",
+    "api_translated": true
+  },
+  {
+    "id": 98217,
+    "en": "Drunken Soldier",
+    "vi": "Người lính say xỉn",
+    "api_translated": true
+  },
+  {
+    "id": 98218,
+    "en": "Tavern Patron",
+    "vi": "Khách quán rượu",
+    "api_translated": true
+  },
+  {
+    "id": 98219,
+    "en": "Tavern Patron",
+    "vi": "Khách quán rượu",
+    "api_translated": true
+  },
+  {
+    "id": 98220,
+    "en": "Stern Knight",
+    "vi": "Hiệp sĩ nghiêm nghị",
+    "api_translated": true
+  },
+  {
+    "id": 98221,
+    "en": "Knight Ardante",
+    "vi": "Hiệp sĩ Ardante",
+    "api_translated": true
+  },
+  {
+    "id": 98222,
+    "en": "Cleric",
+    "vi": "Giáo Sĩ"
+  },
+  {
+    "id": 98223,
+    "en": "Proud Knight Ardante",
+    "vi": "Hiệp sĩ Ardante kiêu hãnh",
+    "api_translated": true
+  },
+  {
+    "id": 98224,
+    "en": "Knight Ardante",
+    "vi": "Hiệp sĩ Ardante",
+    "api_translated": true
+  },
+  {
+    "id": 98225,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98226,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98228,
+    "en": "Bishop Timov",
+    "vi": "Giám mục Timov",
+    "api_translated": true
+  },
+  {
+    "id": 98229,
+    "en": "Cleric",
+    "vi": "Giáo Sĩ"
+  },
+  {
+    "id": 98231,
+    "en": "Bloat Belly Peter",
+    "vi": "Peter Bụng Phệ",
+    "api_translated": true
+  },
+  {
+    "id": 98232,
+    "en": "Gladiator",
+    "vi": "Đấu sĩ",
+    "api_translated": true
+  },
+  {
+    "id": 98233,
+    "en": "Woman",
+    "vi": "Người phụ nữ",
+    "api_translated": true
+  },
+  {
+    "id": 98234,
+    "en": "Twilight Panther",
+    "vi": "Báo đen chạng vạng",
+    "api_translated": true
+  },
+  {
+    "id": 98235,
+    "en": "Dancer",
+    "vi": "Vũ Công"
+  },
+  {
+    "id": 98236,
+    "en": "Spectating Noble",
+    "vi": "Quý tộc quan sát",
+    "api_translated": true
+  },
+  {
+    "id": 98237,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98238,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98239,
+    "en": "Argumentative Man",
+    "vi": "Người đàn ông hay tranh cãi",
+    "api_translated": true
+  },
+  {
+    "id": 98240,
+    "en": "Man",
+    "vi": "Người đàn ông",
+    "api_translated": true
+  },
+  {
+    "id": 98241,
+    "en": "Ironarm Lexi",
+    "vi": "Lexi Tay Sắt",
+    "api_translated": true
+  },
+  {
+    "id": 98242,
+    "en": "Gladiator",
+    "vi": "Đấu sĩ",
+    "api_translated": true
+  },
+  {
+    "id": 98243,
+    "en": "Legendary Swordsman",
+    "vi": "Kiếm sĩ huyền thoại",
+    "api_translated": true
+  },
+  {
+    "id": 98244,
+    "en": "Mont d'Or",
+    "vi": "Mont d'Or",
+    "api_translated": true
+  },
+  {
+    "id": 98245,
+    "en": "Gladiator",
+    "vi": "Đấu sĩ",
+    "api_translated": true
+  },
+  {
+    "id": 98246,
+    "en": "Estadas",
+    "vi": "Estadas",
+    "api_translated": true
+  },
+  {
+    "id": 98247,
+    "en": "Gladiator",
+    "vi": "Đấu sĩ",
+    "api_translated": true
+  },
+  {
+    "id": 98248,
+    "en": "Oswald the Enigma",
+    "vi": "Oswald Bí Ẩn",
+    "api_translated": true
+  },
+  {
+    "id": 98250,
+    "en": "Woman",
+    "vi": "Người phụ nữ",
+    "api_translated": true
+  },
+  {
+    "id": 98251,
+    "en": "Lightfoot Riley",
+    "vi": "Riley Chân Nhẹ",
+    "api_translated": true
+  },
+  {
+    "id": 98252,
+    "en": "Gladiator",
+    "vi": "Đấu sĩ",
+    "api_translated": true
+  },
+  {
+    "id": 98253,
+    "en": "Gladiator",
+    "vi": "Đấu sĩ",
+    "api_translated": true
+  },
+  {
+    "id": 98254,
+    "en": "Arena Gatekeeper",
+    "vi": "Người gác cổng đấu trường",
+    "api_translated": true
+  },
+  {
+    "id": 98255,
+    "en": "Man",
+    "vi": "Người đàn ông",
+    "api_translated": true
+  },
+  {
+    "id": 98257,
+    "en": "Mister Tomahawk",
+    "vi": "Mister Tomahawk",
+    "api_translated": true
+  },
+  {
+    "id": 98258,
+    "en": "Covert Mercenary",
+    "vi": "Lính đánh thuê bí mật",
+    "api_translated": true
+  },
+  {
+    "id": 98259,
+    "en": "Pleasant Goldsmith",
+    "vi": "Thợ kim hoàn dễ mến",
+    "api_translated": true
+  },
+  {
+    "id": 98260,
+    "en": "Distraught Fisherman",
+    "vi": "Ngư dân đau khổ",
+    "api_translated": true
+  },
+  {
+    "id": 98261,
+    "en": "Merchant",
+    "vi": "Thương Nhân"
+  },
+  {
+    "id": 98262,
+    "en": "Man",
+    "vi": "Người đàn ông",
+    "api_translated": true
+  },
+  {
+    "id": 98263,
+    "en": "Military Scholar",
+    "vi": "Học giả quân sự",
+    "api_translated": true
+  },
+  {
+    "id": 98264,
+    "en": "Apprentice",
+    "vi": "Người học việc",
+    "api_translated": true
+  },
+  {
+    "id": 98265,
+    "en": "Resolute Noblewoman",
+    "vi": "Nữ quý tộc kiên định",
+    "api_translated": true
+  },
+  {
+    "id": 98267,
+    "en": "Old Woman",
+    "vi": "Bà lão",
+    "api_translated": true
+  },
+  {
+    "id": 98268,
+    "en": "Cowardly Soldier",
+    "vi": "Người lính hèn nhát",
+    "api_translated": true
+  },
+  {
+    "id": 98269,
+    "en": "Soldier",
+    "vi": "Người lính",
+    "api_translated": true
+  },
+  {
+    "id": 98270,
+    "en": "Soldier",
+    "vi": "Người lính",
+    "api_translated": true
+  },
+  {
+    "id": 98271,
+    "en": "Eagle-Eyed Soldier",
+    "vi": "Người lính mắt đại bàng",
+    "api_translated": true
+  },
+  {
+    "id": 98272,
+    "en": "Soldier",
+    "vi": "Người lính",
+    "api_translated": true
+  },
+  {
+    "id": 98273,
+    "en": "Dutiful Old Guard",
+    "vi": "Người lính già tận tụy",
+    "api_translated": true
+  },
+  {
+    "id": 98274,
+    "en": "Soldier",
+    "vi": "Người lính",
+    "api_translated": true
+  },
+  {
+    "id": 98276,
+    "en": "Angry Soldier",
+    "vi": "Người lính giận dữ",
+    "api_translated": true
+  },
+  {
+    "id": 98278,
+    "en": "Soldier",
+    "vi": "Người lính",
+    "api_translated": true
+  },
+  {
+    "id": 98279,
+    "en": "Roberta of Rapture",
+    "vi": "Roberta của Rapture",
+    "api_translated": true
+  },
+  {
+    "id": 98280,
+    "en": "Woman",
+    "vi": "Người phụ nữ",
+    "api_translated": true
+  },
+  {
+    "id": 98281,
+    "en": "Man",
+    "vi": "Người đàn ông",
+    "api_translated": true
+  },
+  {
+    "id": 98282,
+    "en": "Donescu Syndicate Member",
+    "vi": "Thành viên nghiệp đoàn Donescu",
+    "api_translated": true
+  },
+  {
+    "id": 98284,
+    "en": "Blackrobe",
+    "vi": "Áo choàng đen",
+    "api_translated": true
+  },
+  {
+    "id": 98285,
+    "en": "Hardworking Lumberjack",
+    "vi": "Tiều phu chăm chỉ",
+    "api_translated": true
+  },
+  {
+    "id": 98286,
+    "en": "Timid Novice Knight Ardante",
+    "vi": "Hiệp sĩ Ardante tập sự nhút nhát",
+    "api_translated": true
+  },
+  {
+    "id": 98287,
+    "en": "Knight Ardante",
+    "vi": "Hiệp sĩ Ardante",
+    "api_translated": true
+  },
+  {
+    "id": 98288,
+    "en": "Knight Ardante",
+    "vi": "Hiệp sĩ Ardante",
+    "api_translated": true
+  },
+  {
+    "id": 98289,
+    "en": "Head of the Artisan's Guild",
+    "vi": "Người đứng đầu hội thợ thủ công",
+    "api_translated": true
+  },
+  {
+    "id": 98290,
+    "en": "Man",
+    "vi": "Người đàn ông",
+    "api_translated": true
+  },
+  {
+    "id": 98291,
+    "en": "Man",
+    "vi": "Người đàn ông",
+    "api_translated": true
+  },
+  {
+    "id": 98292,
+    "en": "Hunter Guarding the Town",
+    "vi": "Thợ săn canh giữ thị trấn",
+    "api_translated": true
+  },
+  {
+    "id": 98293,
+    "en": "Hunter",
+    "vi": "Thợ Săn"
+  },
+  {
+    "id": 98295,
+    "en": "Cathedral Guard Captain",
+    "vi": "Đội trưởng đội bảo vệ thánh đường",
+    "api_translated": true
+  },
+  {
+    "id": 98297,
+    "en": "Soldier",
+    "vi": "Binh lính",
+    "api_translated": true
+  },
+  {
+    "id": 98298,
+    "en": "Instructor Rhiom",
+    "vi": "Huấn luyện viên Rhiom",
+    "api_translated": true
+  },
+  {
+    "id": 98299,
+    "en": "Town Watchman",
+    "vi": "Lính gác thị trấn",
+    "api_translated": true
+  },
+  {
+    "id": 98300,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98301,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98302,
+    "en": "Irritated Ruffian",
+    "vi": "Tên côn đồ cáu kỉnh",
+    "api_translated": true
+  },
+  {
+    "id": 98303,
+    "en": "Man",
+    "vi": "Người đàn ông",
+    "api_translated": true
+  },
+  {
+    "id": 98305,
+    "en": "Confident Young Man",
+    "vi": "Chàng trai trẻ tự tin",
+    "api_translated": true
+  },
+  {
+    "id": 98306,
+    "en": "Woman",
+    "vi": "Người phụ nữ",
+    "api_translated": true
+  },
+  {
+    "id": 98307,
+    "en": "Woman",
+    "vi": "Người phụ nữ",
+    "api_translated": true
+  },
+  {
+    "id": 98308,
+    "en": "Detof Bodyguard",
+    "vi": "Vệ sĩ của Detof",
+    "api_translated": true
+  },
+  {
+    "id": 98309,
+    "en": "Bodyguard",
+    "vi": "Vệ sĩ",
+    "api_translated": true
+  },
+  {
+    "id": 98310,
+    "en": "Bodyguard",
+    "vi": "Vệ sĩ",
+    "api_translated": true
+  },
+  {
+    "id": 98311,
+    "en": "Stern Gatekeeper",
+    "vi": "Người gác cổng nghiêm nghị",
+    "api_translated": true
+  },
+  {
+    "id": 98312,
+    "en": "Gatekeeper",
+    "vi": "Người gác cổng",
+    "api_translated": true
+  },
+  {
+    "id": 98313,
+    "en": "Gatekeeper",
+    "vi": "Người gác cổng",
+    "api_translated": true
+  },
+  {
+    "id": 98314,
+    "en": "Tailor Shelito",
+    "vi": "Thợ may Shelito",
+    "api_translated": true
+  },
+  {
+    "id": 98315,
+    "en": "Desert Labor Supervisor",
+    "vi": "Giám sát lao động sa mạc",
+    "api_translated": true
+  },
+  {
+    "id": 98316,
+    "en": "Gruff Laborer",
+    "vi": "Người lao động cộc cằn",
+    "api_translated": true
+  },
+  {
+    "id": 98318,
+    "en": "Man",
+    "vi": "Người đàn ông",
+    "api_translated": true
+  },
+  {
+    "id": 98319,
+    "en": "The Honorable Merchant",
+    "vi": "Thương nhân đáng kính",
+    "api_translated": true
+  },
+  {
+    "id": 98320,
+    "en": "Merchant",
+    "vi": "Thương Nhân"
+  },
+  {
+    "id": 98322,
+    "en": "Diarist",
+    "vi": "Người viết nhật ký",
+    "api_translated": true
+  },
+  {
+    "id": 98323,
+    "en": "Woman",
+    "vi": "Người phụ nữ",
+    "api_translated": true
+  },
+  {
+    "id": 98325,
+    "en": "Fierce-Looking Guard",
+    "vi": "Lính gác hung dữ",
+    "api_translated": true
+  },
+  {
+    "id": 98326,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98327,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98328,
+    "en": "Bejeweled Matron",
+    "vi": "Quý bà đeo trang sức",
+    "api_translated": true
+  },
+  {
+    "id": 98329,
+    "en": "Dancer",
+    "vi": "Vũ Công"
+  },
+  {
+    "id": 98330,
+    "en": "Woman",
+    "vi": "Người phụ nữ",
+    "api_translated": true
+  },
+  {
+    "id": 98331,
+    "en": "Veteran Captain",
+    "vi": "Đội trưởng kỳ cựu",
+    "api_translated": true
+  },
+  {
+    "id": 98332,
+    "en": "Man",
+    "vi": "Người đàn ông",
+    "api_translated": true
+  },
+  {
+    "id": 98334,
+    "en": "Sentry with a Past",
+    "vi": "Lính gác có quá khứ",
+    "api_translated": true
+  },
+  {
+    "id": 98335,
+    "en": "Gatekeeper",
+    "vi": "Người gác cổng",
+    "api_translated": true
+  },
+  {
+    "id": 98336,
+    "en": "Gakko",
+    "vi": "Gakko",
+    "api_translated": true
+  },
+  {
+    "id": 98337,
+    "en": "Ivri",
+    "vi": "Ivri",
+    "api_translated": true
+  },
+  {
+    "id": 98338,
+    "en": "Wappa",
+    "vi": "Wappa",
+    "api_translated": true
+  },
+  {
+    "id": 98339,
+    "en": "Castle Town Guard",
+    "vi": "Lính gác thị trấn lâu đài",
+    "api_translated": true
+  },
+  {
+    "id": 98340,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98341,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98342,
+    "en": "Cow-Loving Farmer",
+    "vi": "Nông dân yêu bò",
+    "api_translated": true
+  },
+  {
+    "id": 98344,
+    "en": "Cook",
+    "vi": "Đầu bếp",
+    "api_translated": true
+  },
+  {
+    "id": 98345,
+    "en": "Badly Wounded Guard",
+    "vi": "Lính gác bị thương nặng",
+    "api_translated": true
+  },
+  {
+    "id": 98346,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98347,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98348,
+    "en": "Diligent Guard",
+    "vi": "Lính gác cần mẫn",
+    "api_translated": true
+  },
+  {
+    "id": 98349,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98350,
+    "en": "Scholar",
+    "vi": "Học Giả"
+  },
+  {
+    "id": 98351,
+    "en": "Good-For-Nothing Guard",
+    "vi": "Lính gác vô dụng",
+    "api_translated": true
+  },
+  {
+    "id": 98352,
+    "en": "Mercenary",
+    "vi": "Lính đánh thuê",
+    "api_translated": true
+  },
+  {
+    "id": 98354,
+    "en": "Long-Standing Divine Scholar",
+    "vi": "Học giả thần học lâu năm",
+    "api_translated": true
+  },
+  {
+    "id": 98355,
+    "en": "Scholar",
+    "vi": "Học Giả"
+  },
+  {
+    "id": 98357,
+    "en": "Headmaster Yvon",
+    "vi": "Hiệu trưởng Yvon",
+    "api_translated": true
+  },
+  {
+    "id": 98358,
+    "en": "Theoretical Military Scholar",
+    "vi": "Học giả quân sự lý thuyết",
+    "api_translated": true
+  },
+  {
+    "id": 98359,
+    "en": "Scholar of Harmony",
+    "vi": "Học giả hòa hợp",
+    "api_translated": true
+  },
+  {
+    "id": 98360,
+    "en": "Scholar",
+    "vi": "Học Giả"
+  },
+  {
+    "id": 98361,
+    "en": "Scholar",
+    "vi": "Học Giả"
+  },
+  {
+    "id": 98362,
+    "en": "Chief's Residence Guard",
+    "vi": "Lính gác tư dinh tộc trưởng",
+    "api_translated": true
+  },
+  {
+    "id": 98363,
+    "en": "Man",
+    "vi": "Người đàn ông",
+    "api_translated": true
+  },
+  {
+    "id": 98365,
+    "en": "Powerful Maiden-in-Training",
+    "vi": "Thiếu nữ tập sự đầy quyền năng",
+    "api_translated": true
+  },
+  {
+    "id": 98366,
+    "en": "Maiden",
+    "vi": "Thiếu nữ",
+    "api_translated": true
+  },
+  {
+    "id": 98367,
+    "en": "Maiden",
+    "vi": "Thiếu nữ",
+    "api_translated": true
+  },
+  {
+    "id": 98368,
+    "en": "Reime",
+    "vi": "Reime",
+    "api_translated": true
+  },
+  {
+    "id": 98369,
+    "en": "Heidne",
+    "vi": "Heidne",
+    "api_translated": true
+  },
+  {
+    "id": 98370,
+    "en": "Esperre",
+    "vi": "Esperre",
+    "api_translated": true
+  },
+  {
+    "id": 98371,
+    "en": "Phenn",
+    "vi": "Phenn",
+    "api_translated": true
+  },
+  {
+    "id": 98372,
+    "en": "Delitia",
+    "vi": "Delitia",
+    "api_translated": true
+  },
+  {
+    "id": 98373,
+    "en": "Olberic",
+    "vi": "Olberic",
+    "api_translated": true
+  },
+  {
+    "id": 98374,
+    "en": "H'aanit",
+    "vi": "H'aanit",
+    "api_translated": true
+  },
+  {
+    "id": 98375,
+    "en": "Primrose",
+    "vi": "Primrose",
+    "api_translated": true
+  },
+  {
+    "id": 98376,
+    "en": "Alaune",
+    "vi": "Alaune",
+    "api_translated": true
+  },
+  {
+    "id": 98377,
+    "en": "Tatloch",
+    "vi": "Tatloch",
+    "api_translated": true
+  },
+  {
+    "id": 98378,
+    "en": "Sazantos",
+    "vi": "Sazantos",
+    "api_translated": true
+  },
+  {
+    "id": 98457,
+    "en": "Deceased Gatekeeper",
+    "vi": "Người gác cổng đã khuất",
+    "api_translated": true
+  },
+  {
+    "id": 98459,
+    "en": "Gatekeeper",
+    "vi": "Người gác cổng",
+    "api_translated": true
+  },
+  {
+    "id": 98460,
+    "en": "Knowledgeable Apothecary",
+    "vi": "Dược sĩ uyên bác",
+    "api_translated": true
+  },
+  {
+    "id": 98461,
+    "en": "Apothecary",
+    "vi": "Dược Sư"
+  },
+  {
+    "id": 98462,
+    "en": "Mighty Turilli",
+    "vi": "Turilli hùng mạnh",
+    "api_translated": true
+  },
+  {
+    "id": 98463,
+    "en": "Syndicate Member",
+    "vi": "Thành viên tổ chức",
+    "api_translated": true
+  },
+  {
+    "id": 98464,
+    "en": "Mesara the Thief",
+    "vi": "Kẻ trộm Mesara",
+    "api_translated": true
+  },
+  {
+    "id": 98465,
+    "en": "Thief",
+    "vi": "Đạo Tặc"
+  },
+  {
+    "id": 98466,
+    "en": "Thief",
+    "vi": "Đạo Tặc"
+  },
+  {
+    "id": 98467,
+    "en": "Burly Soldier",
+    "vi": "Binh lính vạm vỡ",
+    "api_translated": true
+  },
+  {
+    "id": 98468,
+    "en": "Altinian Soldier",
+    "vi": "Binh lính Altinian",
+    "api_translated": true
+  },
+  {
+    "id": 98469,
+    "en": "Altinian Soldier",
+    "vi": "Binh lính Altinian",
+    "api_translated": true
+  },
+  {
+    "id": 98470,
+    "en": "Ulrica's Attendant",
+    "vi": "Người hầu của Ulrica",
+    "api_translated": true
+  },
+  {
+    "id": 98471,
+    "en": "Attendant",
+    "vi": "Người hầu",
+    "api_translated": true
+  },
+  {
+    "id": 98472,
+    "en": "Hornburgian Guard",
+    "vi": "Lính gác Hornburg",
+    "api_translated": true
+  },
+  {
+    "id": 98473,
+    "en": "Gatekeeper",
+    "vi": "Người gác cổng",
+    "api_translated": true
+  },
+  {
+    "id": 98474,
+    "en": "Bard Who Sings of a Dragon Slayer",
+    "vi": "Người hát rong kể về kẻ diệt rồng",
+    "api_translated": true
+  },
+  {
+    "id": 98475,
+    "en": "Bard",
+    "vi": "Người hát rong",
+    "api_translated": true
+  },
+  {
+    "id": 98491,
+    "en": "Shivering Black Cat",
+    "vi": "Chú mèo đen run rẩy",
+    "api_translated": true
+  },
+  {
+    "id": 98492,
+    "en": "Aggressive Alpaca",
+    "vi": "Lạc đà Alpaca hung hăng",
+    "api_translated": true
+  },
+  {
+    "id": 98493,
+    "en": "Self-Indulgent Bovine",
+    "vi": "Chú bò tự mãn",
+    "api_translated": true
+  },
+  {
+    "id": 98494,
+    "en": "Hound of Power",
+    "vi": "Chó săn quyền năng",
+    "api_translated": true
+  },
+  {
+    "id": 98495,
+    "en": "Bloodthirsty Rabbit",
+    "vi": "Thỏ khát máu",
+    "api_translated": true
+  },
+  {
+    "id": 98496,
+    "en": "Octopus Traveler",
+    "vi": "Octopus Traveler",
+    "api_translated": true
+  },
+  {
+    "id": 98505,
+    "en": "Rugis Surra",
+    "vi": "Rugis Surra",
+    "api_translated": true
+  },
+  {
+    "id": 98515,
+    "en": "Lutus",
+    "vi": "Lutus",
+    "api_translated": true
+  }
+]

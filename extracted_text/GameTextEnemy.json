@@ -1,0 +1,7006 @@
+[
+  {
+    "id": 0,
+    "text": [
+      "(Unlocalized)"
+    ],
+    "text_joined": "(Unlocalized)"
+  },
+  {
+    "id": 49277,
+    "text": [
+      "Marmot"
+    ],
+    "text_joined": "Marmot"
+  },
+  {
+    "id": 49278,
+    "text": [
+      "Shambling Weed"
+    ],
+    "text_joined": "Shambling Weed"
+  },
+  {
+    "id": 49279,
+    "text": [
+      "Scaled Viper"
+    ],
+    "text_joined": "Scaled Viper"
+  },
+  {
+    "id": 49280,
+    "text": [
+      "Howler"
+    ],
+    "text_joined": "Howler"
+  },
+  {
+    "id": 49785,
+    "text": [
+      "Menacing Demon Deer"
+    ],
+    "text_joined": "Menacing Demon Deer"
+  },
+  {
+    "id": 49287,
+    "text": [
+      "Forest Ratkin I"
+    ],
+    "text_joined": "Forest Ratkin I"
+  },
+  {
+    "id": 49288,
+    "text": [
+      "Gabbrodillo"
+    ],
+    "text_joined": "Gabbrodillo"
+  },
+  {
+    "id": 49289,
+    "text": [
+      "Mossy Meep"
+    ],
+    "text_joined": "Mossy Meep"
+  },
+  {
+    "id": 49290,
+    "text": [
+      "Spud Bug"
+    ],
+    "text_joined": "Spud Bug"
+  },
+  {
+    "id": 49293,
+    "text": [
+      "Forest Ratkin II"
+    ],
+    "text_joined": "Forest Ratkin II"
+  },
+  {
+    "id": 49294,
+    "text": [
+      "Rampant Weed"
+    ],
+    "text_joined": "Rampant Weed"
+  },
+  {
+    "id": 49295,
+    "text": [
+      "Forest Ratkin III"
+    ],
+    "text_joined": "Forest Ratkin III"
+  },
+  {
+    "id": 49296,
+    "text": [
+      "Majestic Marmot"
+    ],
+    "text_joined": "Majestic Marmot"
+  },
+  {
+    "id": 49299,
+    "text": [
+      "Guard Dog"
+    ],
+    "text_joined": "Guard Dog"
+  },
+  {
+    "id": 49300,
+    "text": [
+      "Bodyguard I"
+    ],
+    "text_joined": "Bodyguard I"
+  },
+  {
+    "id": 49301,
+    "text": [
+      "Thunder Sentinel"
+    ],
+    "text_joined": "Thunder Sentinel"
+  },
+  {
+    "id": 49302,
+    "text": [
+      "Thunder Guardian"
+    ],
+    "text_joined": "Thunder Guardian"
+  },
+  {
+    "id": 49791,
+    "text": [
+      "Menacing Guard Dog"
+    ],
+    "text_joined": "Menacing Guard Dog"
+  },
+  {
+    "id": 49321,
+    "text": [
+      "Flame Remnant"
+    ],
+    "text_joined": "Flame Remnant"
+  },
+  {
+    "id": 49322,
+    "text": [
+      "Ice Remnant"
+    ],
+    "text_joined": "Ice Remnant"
+  },
+  {
+    "id": 49323,
+    "text": [
+      "Vampire Bat"
+    ],
+    "text_joined": "Vampire Bat"
+  },
+  {
+    "id": 49324,
+    "text": [
+      "Mortal Mushroom"
+    ],
+    "text_joined": "Mortal Mushroom"
+  },
+  {
+    "id": 49309,
+    "text": [
+      "Herminia's Soldier I"
+    ],
+    "text_joined": "Herminia's Soldier I"
+  },
+  {
+    "id": 49310,
+    "text": [
+      "Sentinel Mk.II"
+    ],
+    "text_joined": "Sentinel Mk.II"
+  },
+  {
+    "id": 49311,
+    "text": [
+      "Herminia's Soldier II"
+    ],
+    "text_joined": "Herminia's Soldier II"
+  },
+  {
+    "id": 49312,
+    "text": [
+      "Shadow Bat"
+    ],
+    "text_joined": "Shadow Bat"
+  },
+  {
+    "id": 49794,
+    "text": [
+      "Herminia's Mighty Soldier II"
+    ],
+    "text_joined": "Herminia's Mighty Soldier II"
+  },
+  {
+    "id": 49797,
+    "text": [
+      "Menacing Sticky Slug"
+    ],
+    "text_joined": "Menacing Sticky Slug"
+  },
+  {
+    "id": 49326,
+    "text": [
+      "Snow Fox"
+    ],
+    "text_joined": "Snow Fox"
+  },
+  {
+    "id": 49327,
+    "text": [
+      "Researcher I"
+    ],
+    "text_joined": "Researcher I"
+  },
+  {
+    "id": 49328,
+    "text": [
+      "Dark Sentinel"
+    ],
+    "text_joined": "Dark Sentinel"
+  },
+  {
+    "id": 49329,
+    "text": [
+      "White Bat"
+    ],
+    "text_joined": "White Bat"
+  },
+  {
+    "id": 49801,
+    "text": [
+      "Menacing Ice Elemental"
+    ],
+    "text_joined": "Menacing Ice Elemental"
+  },
+  {
+    "id": 49803,
+    "text": [
+      "Menacing Senior Fellow I"
+    ],
+    "text_joined": "Menacing Senior Fellow I"
+  },
+  {
+    "id": 49336,
+    "text": [
+      "Ice Lizardman I"
+    ],
+    "text_joined": "Ice Lizardman I"
+  },
+  {
+    "id": 49337,
+    "text": [
+      "Snow Marmot"
+    ],
+    "text_joined": "Snow Marmot"
+  },
+  {
+    "id": 49338,
+    "text": [
+      "Shadow Wisp"
+    ],
+    "text_joined": "Shadow Wisp"
+  },
+  {
+    "id": 49339,
+    "text": [
+      "Wolf"
+    ],
+    "text_joined": "Wolf"
+  },
+  {
+    "id": 49805,
+    "text": [
+      "Menacing Ice Lizardman IV"
+    ],
+    "text_joined": "Menacing Ice Lizardman IV"
+  },
+  {
+    "id": 49342,
+    "text": [
+      "Majestic Snow Marmot"
+    ],
+    "text_joined": "Majestic Snow Marmot"
+  },
+  {
+    "id": 49343,
+    "text": [
+      "White Howler"
+    ],
+    "text_joined": "White Howler"
+  },
+  {
+    "id": 49344,
+    "text": [
+      "Ash Raven"
+    ],
+    "text_joined": "Ash Raven"
+  },
+  {
+    "id": 49345,
+    "text": [
+      "Ice Lizardman II"
+    ],
+    "text_joined": "Ice Lizardman II"
+  },
+  {
+    "id": 49348,
+    "text": [
+      "High Wolf"
+    ],
+    "text_joined": "High Wolf"
+  },
+  {
+    "id": 49349,
+    "text": [
+      "Albino Bat"
+    ],
+    "text_joined": "Albino Bat"
+  },
+  {
+    "id": 49350,
+    "text": [
+      "Dark Sentinel Mk.II"
+    ],
+    "text_joined": "Dark Sentinel Mk.II"
+  },
+  {
+    "id": 49351,
+    "text": [
+      "Dark Guardian"
+    ],
+    "text_joined": "Dark Guardian"
+  },
+  {
+    "id": 49811,
+    "text": [
+      "Menacing Accursed Armor"
+    ],
+    "text_joined": "Menacing Accursed Armor"
+  },
+  {
+    "id": 49372,
+    "text": [
+      "Ice Wisp"
+    ],
+    "text_joined": "Ice Wisp"
+  },
+  {
+    "id": 49373,
+    "text": [
+      "Avalanche Mushroom"
+    ],
+    "text_joined": "Avalanche Mushroom"
+  },
+  {
+    "id": 49374,
+    "text": [
+      "Ice Lizardman III"
+    ],
+    "text_joined": "Ice Lizardman III"
+  },
+  {
+    "id": 49375,
+    "text": [
+      "Frost Fox"
+    ],
+    "text_joined": "Frost Fox"
+  },
+  {
+    "id": 49817,
+    "text": [
+      "Menacing Frostwing Serpent"
+    ],
+    "text_joined": "Menacing Frostwing Serpent"
+  },
+  {
+    "id": 49819,
+    "text": [
+      "Menacing Frost Bear"
+    ],
+    "text_joined": "Menacing Frost Bear"
+  },
+  {
+    "id": 49360,
+    "text": [
+      "Scarlet Wing Believer"
+    ],
+    "text_joined": "Scarlet Wing Believer"
+  },
+  {
+    "id": 49361,
+    "text": [
+      "Research Fellow"
+    ],
+    "text_joined": "Research Fellow"
+  },
+  {
+    "id": 49362,
+    "text": [
+      "Ice Sentinel"
+    ],
+    "text_joined": "Ice Sentinel"
+  },
+  {
+    "id": 49363,
+    "text": [
+      "Ice Guardian"
+    ],
+    "text_joined": "Ice Guardian"
+  },
+  {
+    "id": 49382,
+    "text": [
+      "Thespian (Dancer)"
+    ],
+    "text_joined": "Thespian (Dancer)"
+  },
+  {
+    "id": 49383,
+    "text": [
+      "Fire Sentinel"
+    ],
+    "text_joined": "Fire Sentinel"
+  },
+  {
+    "id": 49384,
+    "text": [
+      "Thespian (Aristocrat)"
+    ],
+    "text_joined": "Thespian (Aristocrat)"
+  },
+  {
+    "id": 49385,
+    "text": [
+      "Thespian (Scholar)"
+    ],
+    "text_joined": "Thespian (Scholar)"
+  },
+  {
+    "id": 49823,
+    "text": [
+      "Menacing Thespian (Leader)"
+    ],
+    "text_joined": "Menacing Thespian (Leader)"
+  },
+  {
+    "id": 49392,
+    "text": [
+      "Flatlands Froggen I"
+    ],
+    "text_joined": "Flatlands Froggen I"
+  },
+  {
+    "id": 49393,
+    "text": [
+      "Meep"
+    ],
+    "text_joined": "Meep"
+  },
+  {
+    "id": 49394,
+    "text": [
+      "Aggressive Ant"
+    ],
+    "text_joined": "Aggressive Ant"
+  },
+  {
+    "id": 49395,
+    "text": [
+      "Night Raven"
+    ],
+    "text_joined": "Night Raven"
+  },
+  {
+    "id": 49398,
+    "text": [
+      "Shaggy Meep"
+    ],
+    "text_joined": "Shaggy Meep"
+  },
+  {
+    "id": 49399,
+    "text": [
+      "Dire Night Raven"
+    ],
+    "text_joined": "Dire Night Raven"
+  },
+  {
+    "id": 49400,
+    "text": [
+      "Wanderweed"
+    ],
+    "text_joined": "Wanderweed"
+  },
+  {
+    "id": 49401,
+    "text": [
+      "Flatlands Froggen II"
+    ],
+    "text_joined": "Flatlands Froggen II"
+  },
+  {
+    "id": 49404,
+    "text": [
+      "Antagonistic Ant"
+    ],
+    "text_joined": "Antagonistic Ant"
+  },
+  {
+    "id": 49405,
+    "text": [
+      "Venomous Viper"
+    ],
+    "text_joined": "Venomous Viper"
+  },
+  {
+    "id": 49406,
+    "text": [
+      "Wind Guardian"
+    ],
+    "text_joined": "Wind Guardian"
+  },
+  {
+    "id": 49407,
+    "text": [
+      "Wind Sentinel"
+    ],
+    "text_joined": "Wind Sentinel"
+  },
+  {
+    "id": 49829,
+    "text": [
+      "Menacing Wind Elemental"
+    ],
+    "text_joined": "Menacing Wind Elemental"
+  },
+  {
+    "id": 49421,
+    "text": [
+      "Red Viper"
+    ],
+    "text_joined": "Red Viper"
+  },
+  {
+    "id": 49422,
+    "text": [
+      "Wind Wisp"
+    ],
+    "text_joined": "Wind Wisp"
+  },
+  {
+    "id": 49424,
+    "text": [
+      "Flatlands Froggen III"
+    ],
+    "text_joined": "Flatlands Froggen III"
+  },
+  {
+    "id": 49835,
+    "text": [
+      "Menacing Ettin Asp"
+    ],
+    "text_joined": "Menacing Ettin Asp"
+  },
+  {
+    "id": 49409,
+    "text": [
+      "Thespian (Professor)"
+    ],
+    "text_joined": "Thespian (Professor)"
+  },
+  {
+    "id": 49410,
+    "text": [
+      "Thespian (Lecturer)"
+    ],
+    "text_joined": "Thespian (Lecturer)"
+  },
+  {
+    "id": 49411,
+    "text": [
+      "Flame Guardian"
+    ],
+    "text_joined": "Flame Guardian"
+  },
+  {
+    "id": 49412,
+    "text": [
+      "Flame Curator"
+    ],
+    "text_joined": "Flame Curator"
+  },
+  {
+    "id": 49831,
+    "text": [
+      "Menacing Thespian (Ruffian)"
+    ],
+    "text_joined": "Menacing Thespian (Ruffian)"
+  },
+  {
+    "id": 49833,
+    "text": [
+      "Menacing Thespian (Guard)"
+    ],
+    "text_joined": "Menacing Thespian (Guard)"
+  },
+  {
+    "id": 49426,
+    "text": [
+      "Sea Birdian V"
+    ],
+    "text_joined": "Sea Birdian V"
+  },
+  {
+    "id": 49428,
+    "text": [
+      "Barnacle Crab"
+    ],
+    "text_joined": "Barnacle Crab"
+  },
+  {
+    "id": 49429,
+    "text": [
+      "Brine Anemone"
+    ],
+    "text_joined": "Brine Anemone"
+  },
+  {
+    "id": 50001,
+    "text": [
+      "Menacing Barnacle Tortoise"
+    ],
+    "text_joined": "Menacing Barnacle Tortoise"
+  },
+  {
+    "id": 50003,
+    "text": [
+      "Menacing Cetus Maximus"
+    ],
+    "text_joined": "Menacing Cetus Maximus"
+  },
+  {
+    "id": 49436,
+    "text": [
+      "Sea Birdian I"
+    ],
+    "text_joined": "Sea Birdian I"
+  },
+  {
+    "id": 49437,
+    "text": [
+      "Hermit Conch"
+    ],
+    "text_joined": "Hermit Conch"
+  },
+  {
+    "id": 49438,
+    "text": [
+      "Scissor Crab"
+    ],
+    "text_joined": "Scissor Crab"
+  },
+  {
+    "id": 49439,
+    "text": [
+      "Sea Birdian IV"
+    ],
+    "text_joined": "Sea Birdian IV"
+  },
+  {
+    "id": 49442,
+    "text": [
+      "Sea Birdian II"
+    ],
+    "text_joined": "Sea Birdian II"
+  },
+  {
+    "id": 49443,
+    "text": [
+      "Sea Birdian III"
+    ],
+    "text_joined": "Sea Birdian III"
+  },
+  {
+    "id": 49453,
+    "text": [
+      "Cliff Birdian I"
+    ],
+    "text_joined": "Cliff Birdian I"
+  },
+  {
+    "id": 49454,
+    "text": [
+      "Cliff Birdian II"
+    ],
+    "text_joined": "Cliff Birdian II"
+  },
+  {
+    "id": 49455,
+    "text": [
+      "Laughing Hyaena"
+    ],
+    "text_joined": "Laughing Hyaena"
+  },
+  {
+    "id": 49456,
+    "text": [
+      "Lloris"
+    ],
+    "text_joined": "Lloris"
+  },
+  {
+    "id": 49461,
+    "text": [
+      "Cliff Birdian III"
+    ],
+    "text_joined": "Cliff Birdian III"
+  },
+  {
+    "id": 49462,
+    "text": [
+      "Withered Wanderweed"
+    ],
+    "text_joined": "Withered Wanderweed"
+  },
+  {
+    "id": 49463,
+    "text": [
+      "Eggling"
+    ],
+    "text_joined": "Eggling"
+  },
+  {
+    "id": 49464,
+    "text": [
+      "Hatchling"
+    ],
+    "text_joined": "Hatchling"
+  },
+  {
+    "id": 50017,
+    "text": [
+      "Menacing Lightning Elemental"
+    ],
+    "text_joined": "Menacing Lightning Elemental"
+  },
+  {
+    "id": 49469,
+    "text": [
+      "Cliff Birdian IV"
+    ],
+    "text_joined": "Cliff Birdian IV"
+  },
+  {
+    "id": 49470,
+    "text": [
+      "Crawly Fledgling"
+    ],
+    "text_joined": "Crawly Fledgling"
+  },
+  {
+    "id": 49471,
+    "text": [
+      "Long-Eared Lloris"
+    ],
+    "text_joined": "Long-Eared Lloris"
+  },
+  {
+    "id": 49472,
+    "text": [
+      "Armor Eater"
+    ],
+    "text_joined": "Armor Eater"
+  },
+  {
+    "id": 49474,
+    "text": [
+      "Two-Handed Hatchling"
+    ],
+    "text_joined": "Two-Handed Hatchling"
+  },
+  {
+    "id": 49475,
+    "text": [
+      "Great Condor"
+    ],
+    "text_joined": "Great Condor"
+  },
+  {
+    "id": 50021,
+    "text": [
+      "Menacing Carmine Eagle"
+    ],
+    "text_joined": "Menacing Carmine Eagle"
+  },
+  {
+    "id": 49477,
+    "text": [
+      "Cliff Birdkin I"
+    ],
+    "text_joined": "Cliff Birdkin I"
+  },
+  {
+    "id": 49478,
+    "text": [
+      "Cliff Birdkin II"
+    ],
+    "text_joined": "Cliff Birdkin II"
+  },
+  {
+    "id": 49479,
+    "text": [
+      "Cliff Birdkin III"
+    ],
+    "text_joined": "Cliff Birdkin III"
+  },
+  {
+    "id": 49480,
+    "text": [
+      "Ettin Snake"
+    ],
+    "text_joined": "Ettin Snake"
+  },
+  {
+    "id": 50023,
+    "text": [
+      "Menacing Dreadwing"
+    ],
+    "text_joined": "Menacing Dreadwing"
+  },
+  {
+    "id": 49481,
+    "text": [
+      "Edoras Soldier I"
+    ],
+    "text_joined": "Edoras Soldier I"
+  },
+  {
+    "id": 49482,
+    "text": [
+      "Edoras Soldier II"
+    ],
+    "text_joined": "Edoras Soldier II"
+  },
+  {
+    "id": 49483,
+    "text": [
+      "Edoras Soldier III"
+    ],
+    "text_joined": "Edoras Soldier III"
+  },
+  {
+    "id": 49484,
+    "text": [
+      "Edoras Knight I"
+    ],
+    "text_joined": "Edoras Knight I"
+  },
+  {
+    "id": 49491,
+    "text": [
+      "Edoras Knight II"
+    ],
+    "text_joined": "Edoras Knight II"
+  },
+  {
+    "id": 49492,
+    "text": [
+      "Edoras Knight III"
+    ],
+    "text_joined": "Edoras Knight III"
+  },
+  {
+    "id": 49497,
+    "text": [
+      "River Froggen I"
+    ],
+    "text_joined": "River Froggen I"
+  },
+  {
+    "id": 49498,
+    "text": [
+      "River Wasp"
+    ],
+    "text_joined": "River Wasp"
+  },
+  {
+    "id": 49499,
+    "text": [
+      "Giant Slug"
+    ],
+    "text_joined": "Giant Slug"
+  },
+  {
+    "id": 49500,
+    "text": [
+      "River Fly"
+    ],
+    "text_joined": "River Fly"
+  },
+  {
+    "id": 49501,
+    "text": [
+      "River Froggen II"
+    ],
+    "text_joined": "River Froggen II"
+  },
+  {
+    "id": 49503,
+    "text": [
+      "Motley Slug"
+    ],
+    "text_joined": "Motley Slug"
+  },
+  {
+    "id": 49504,
+    "text": [
+      "Killer Bug"
+    ],
+    "text_joined": "Killer Bug"
+  },
+  {
+    "id": 49505,
+    "text": [
+      "River Froggen IV"
+    ],
+    "text_joined": "River Froggen IV"
+  },
+  {
+    "id": 49506,
+    "text": [
+      "Sea Snake"
+    ],
+    "text_joined": "Sea Snake"
+  },
+  {
+    "id": 49507,
+    "text": [
+      "River Bug"
+    ],
+    "text_joined": "River Bug"
+  },
+  {
+    "id": 49508,
+    "text": [
+      "Horse Fly"
+    ],
+    "text_joined": "Horse Fly"
+  },
+  {
+    "id": 49509,
+    "text": [
+      "Thief I"
+    ],
+    "text_joined": "Thief I"
+  },
+  {
+    "id": 49510,
+    "text": [
+      "Thief II"
+    ],
+    "text_joined": "Thief II"
+  },
+  {
+    "id": 49511,
+    "text": [
+      "Thief Leader I"
+    ],
+    "text_joined": "Thief Leader I"
+  },
+  {
+    "id": 49512,
+    "text": [
+      "Thief Leader II"
+    ],
+    "text_joined": "Thief Leader II"
+  },
+  {
+    "id": 50039,
+    "text": [
+      "Menacing Master Thief II"
+    ],
+    "text_joined": "Menacing Master Thief II"
+  },
+  {
+    "id": 49513,
+    "text": [
+      "Wind Remnant"
+    ],
+    "text_joined": "Wind Remnant"
+  },
+  {
+    "id": 49514,
+    "text": [
+      "Thunder Remnant"
+    ],
+    "text_joined": "Thunder Remnant"
+  },
+  {
+    "id": 49515,
+    "text": [
+      "Light Remnant"
+    ],
+    "text_joined": "Light Remnant"
+  },
+  {
+    "id": 49516,
+    "text": [
+      "Shadow Remnant"
+    ],
+    "text_joined": "Shadow Remnant"
+  },
+  {
+    "id": 49517,
+    "text": [
+      "Light Sentinel"
+    ],
+    "text_joined": "Light Sentinel"
+  },
+  {
+    "id": 49518,
+    "text": [
+      "Light Guardian"
+    ],
+    "text_joined": "Light Guardian"
+  },
+  {
+    "id": 49519,
+    "text": [
+      "Riven Soldier I"
+    ],
+    "text_joined": "Riven Soldier I"
+  },
+  {
+    "id": 49520,
+    "text": [
+      "Riven Soldier II"
+    ],
+    "text_joined": "Riven Soldier II"
+  },
+  {
+    "id": 50043,
+    "text": [
+      "Menacing Guardian Mk.II"
+    ],
+    "text_joined": "Menacing Guardian Mk.II"
+  },
+  {
+    "id": 49525,
+    "text": [
+      "Sand Lizardman I"
+    ],
+    "text_joined": "Sand Lizardman I"
+  },
+  {
+    "id": 49526,
+    "text": [
+      "Sand Lizardman II"
+    ],
+    "text_joined": "Sand Lizardman II"
+  },
+  {
+    "id": 49527,
+    "text": [
+      "Cactus Roller"
+    ],
+    "text_joined": "Cactus Roller"
+  },
+  {
+    "id": 49528,
+    "text": [
+      "Dark Roller"
+    ],
+    "text_joined": "Dark Roller"
+  },
+  {
+    "id": 49529,
+    "text": [
+      "Sand Lizardman III"
+    ],
+    "text_joined": "Sand Lizardman III"
+  },
+  {
+    "id": 49530,
+    "text": [
+      "Giant Scorpion"
+    ],
+    "text_joined": "Giant Scorpion"
+  },
+  {
+    "id": 49531,
+    "text": [
+      "Army Ant"
+    ],
+    "text_joined": "Army Ant"
+  },
+  {
+    "id": 49532,
+    "text": [
+      "Dire Army Ant"
+    ],
+    "text_joined": "Dire Army Ant"
+  },
+  {
+    "id": 49541,
+    "text": [
+      "Flame Remnant Mk.II"
+    ],
+    "text_joined": "Flame Remnant Mk.II"
+  },
+  {
+    "id": 49542,
+    "text": [
+      "Blood Remnant"
+    ],
+    "text_joined": "Blood Remnant"
+  },
+  {
+    "id": 49543,
+    "text": [
+      "Dark Remnant"
+    ],
+    "text_joined": "Dark Remnant"
+  },
+  {
+    "id": 49544,
+    "text": [
+      "Carnivorous Bat"
+    ],
+    "text_joined": "Carnivorous Bat"
+  },
+  {
+    "id": 50051,
+    "text": [
+      "Menacing Desert Worm"
+    ],
+    "text_joined": "Menacing Desert Worm"
+  },
+  {
+    "id": 49545,
+    "text": [
+      "Highland Ratkin I"
+    ],
+    "text_joined": "Highland Ratkin I"
+  },
+  {
+    "id": 49546,
+    "text": [
+      "Rockadillo"
+    ],
+    "text_joined": "Rockadillo"
+  },
+  {
+    "id": 49547,
+    "text": [
+      "Giant Falcon"
+    ],
+    "text_joined": "Giant Falcon"
+  },
+  {
+    "id": 49548,
+    "text": [
+      "Dread Falcon"
+    ],
+    "text_joined": "Dread Falcon"
+  },
+  {
+    "id": 49549,
+    "text": [
+      "Highland Ratkin II"
+    ],
+    "text_joined": "Highland Ratkin II"
+  },
+  {
+    "id": 49550,
+    "text": [
+      "Highland Ratkin III"
+    ],
+    "text_joined": "Highland Ratkin III"
+  },
+  {
+    "id": 49551,
+    "text": [
+      "Tempest Falcon"
+    ],
+    "text_joined": "Tempest Falcon"
+  },
+  {
+    "id": 49552,
+    "text": [
+      "Shaggy Aurochs"
+    ],
+    "text_joined": "Shaggy Aurochs"
+  },
+  {
+    "id": 49553,
+    "text": [
+      "Highland Ratkin IV"
+    ],
+    "text_joined": "Highland Ratkin IV"
+  },
+  {
+    "id": 49554,
+    "text": [
+      "Highland Ratkin V"
+    ],
+    "text_joined": "Highland Ratkin V"
+  },
+  {
+    "id": 49555,
+    "text": [
+      "Mountain Goat"
+    ],
+    "text_joined": "Mountain Goat"
+  },
+  {
+    "id": 49556,
+    "text": [
+      "Highland Goat"
+    ],
+    "text_joined": "Highland Goat"
+  },
+  {
+    "id": 50057,
+    "text": [
+      "Menacing Woolly Spider"
+    ],
+    "text_joined": "Menacing Woolly Spider"
+  },
+  {
+    "id": 50059,
+    "text": [
+      "Spiked Skink"
+    ],
+    "text_joined": "Spiked Skink"
+  },
+  {
+    "id": 50061,
+    "text": [
+      "Menacing Highland Ratking I"
+    ],
+    "text_joined": "Menacing Highland Ratking I"
+  },
+  {
+    "id": 49565,
+    "text": [
+      "Bandit I"
+    ],
+    "text_joined": "Bandit I"
+  },
+  {
+    "id": 49566,
+    "text": [
+      "Bandit II"
+    ],
+    "text_joined": "Bandit II"
+  },
+  {
+    "id": 49567,
+    "text": [
+      "Bandit III"
+    ],
+    "text_joined": "Bandit III"
+  },
+  {
+    "id": 49568,
+    "text": [
+      "Blood Viper"
+    ],
+    "text_joined": "Blood Viper"
+  },
+  {
+    "id": 49251,
+    "text": [
+      "Cait",
+      "エネミーテスト（イギリス）",
+      "エネミーテスト（アメリカ）",
+      "エネミーテスト（簡体字）",
+      "エネミーテスト（繁体字）",
+      "エネミーテスト（韓国）",
+      "エネミーテスト（フランス）",
+      "エネミーテスト（ドイツ）",
+      "エネミーテスト（スペイン）",
+      "エネミーテスト（ラテン）",
+      "エネミーテスト（イタリア）",
+      "エネミーテスト（オランダ）"
+    ],
+    "text_joined": "Cait\nエネミーテスト（イギリス）\nエネミーテスト（アメリカ）\nエネミーテスト（簡体字）\nエネミーテスト（繁体字）\nエネミーテスト（韓国）\nエネミーテスト（フランス）\nエネミーテスト（ドイツ）\nエネミーテスト（スペイン）\nエネミーテスト（ラテン）\nエネミーテスト（イタリア）\nエネミーテスト（オランダ）"
+  },
+  {
+    "id": 49252,
+    "text": [
+      "Cultured Cait"
+    ],
+    "text_joined": "Cultured Cait"
+  },
+  {
+    "id": 49253,
+    "text": [
+      "Chubby Cait"
+    ],
+    "text_joined": "Chubby Cait"
+  },
+  {
+    "id": 49838,
+    "text": [
+      "Ice Lizardman IV"
+    ],
+    "text_joined": "Ice Lizardman IV"
+  },
+  {
+    "id": 49839,
+    "text": [
+      "Frost Bear"
+    ],
+    "text_joined": "Frost Bear"
+  },
+  {
+    "id": 49840,
+    "text": [
+      "Snow Lizard"
+    ],
+    "text_joined": "Snow Lizard"
+  },
+  {
+    "id": 49841,
+    "text": [
+      "Winter Wanderweed"
+    ],
+    "text_joined": "Winter Wanderweed"
+  },
+  {
+    "id": 49842,
+    "text": [
+      "War Wolf"
+    ],
+    "text_joined": "War Wolf"
+  },
+  {
+    "id": 49843,
+    "text": [
+      "Hoary Howler"
+    ],
+    "text_joined": "Hoary Howler"
+  },
+  {
+    "id": 49844,
+    "text": [
+      "Frostwing Serpent"
+    ],
+    "text_joined": "Frostwing Serpent"
+  },
+  {
+    "id": 49845,
+    "text": [
+      "Ice Lizardman V"
+    ],
+    "text_joined": "Ice Lizardman V"
+  },
+  {
+    "id": 49846,
+    "text": [
+      "Forest Ratkin IV"
+    ],
+    "text_joined": "Forest Ratkin IV"
+  },
+  {
+    "id": 49847,
+    "text": [
+      "Forest Fox"
+    ],
+    "text_joined": "Forest Fox"
+  },
+  {
+    "id": 49848,
+    "text": [
+      "Horned Howler"
+    ],
+    "text_joined": "Horned Howler"
+  },
+  {
+    "id": 49849,
+    "text": [
+      "Wild Boar"
+    ],
+    "text_joined": "Wild Boar"
+  },
+  {
+    "id": 49850,
+    "text": [
+      "Combatant (Hunter)"
+    ],
+    "text_joined": "Combatant (Hunter)"
+  },
+  {
+    "id": 49851,
+    "text": [
+      "Combatant (Apothecary)"
+    ],
+    "text_joined": "Combatant (Apothecary)"
+  },
+  {
+    "id": 49852,
+    "text": [
+      "Combatant (Scholar)"
+    ],
+    "text_joined": "Combatant (Scholar)"
+  },
+  {
+    "id": 49853,
+    "text": [
+      "Combatant (Dancer)"
+    ],
+    "text_joined": "Combatant (Dancer)"
+  },
+  {
+    "id": 49864,
+    "text": [
+      "Combatant (Thief)"
+    ],
+    "text_joined": "Combatant (Thief)"
+  },
+  {
+    "id": 49865,
+    "text": [
+      "Combatant (Merchant)"
+    ],
+    "text_joined": "Combatant (Merchant)"
+  },
+  {
+    "id": 49867,
+    "text": [
+      "Menacing Combatant (Warrior)"
+    ],
+    "text_joined": "Menacing Combatant (Warrior)"
+  },
+  {
+    "id": 49854,
+    "text": [
+      "Assassin Bug"
+    ],
+    "text_joined": "Assassin Bug"
+  },
+  {
+    "id": 49855,
+    "text": [
+      "Green Scissors"
+    ],
+    "text_joined": "Green Scissors"
+  },
+  {
+    "id": 49856,
+    "text": [
+      "Mutant Mushroom"
+    ],
+    "text_joined": "Mutant Mushroom"
+  },
+  {
+    "id": 49857,
+    "text": [
+      "Skulking Fungoid"
+    ],
+    "text_joined": "Skulking Fungoid"
+  },
+  {
+    "id": 49869,
+    "text": [
+      "Menacing Icky Slug"
+    ],
+    "text_joined": "Menacing Icky Slug"
+  },
+  {
+    "id": 49870,
+    "text": [
+      "Combatant (Cleric)"
+    ],
+    "text_joined": "Combatant (Cleric)"
+  },
+  {
+    "id": 49871,
+    "text": [
+      "River Froggen III"
+    ],
+    "text_joined": "River Froggen III"
+  },
+  {
+    "id": 49872,
+    "text": [
+      "Savage Scorpion"
+    ],
+    "text_joined": "Savage Scorpion"
+  },
+  {
+    "id": 49873,
+    "text": [
+      "Woolly Spider"
+    ],
+    "text_joined": "Woolly Spider"
+  },
+  {
+    "id": 49874,
+    "text": [
+      "Salamander"
+    ],
+    "text_joined": "Salamander"
+  },
+  {
+    "id": 49875,
+    "text": [
+      "Barnacle Tortoise"
+    ],
+    "text_joined": "Barnacle Tortoise"
+  },
+  {
+    "id": 49876,
+    "text": [
+      "Sea Slug"
+    ],
+    "text_joined": "Sea Slug"
+  },
+  {
+    "id": 49877,
+    "text": [
+      "River Froggen V"
+    ],
+    "text_joined": "River Froggen V"
+  },
+  {
+    "id": 49878,
+    "text": [
+      "Collared Salamander"
+    ],
+    "text_joined": "Collared Salamander"
+  },
+  {
+    "id": 49879,
+    "text": [
+      "River Frogking I"
+    ],
+    "text_joined": "River Frogking I"
+  },
+  {
+    "id": 49880,
+    "text": [
+      "Slayer Bug"
+    ],
+    "text_joined": "Slayer Bug"
+  },
+  {
+    "id": 49881,
+    "text": [
+      "Giant Gator"
+    ],
+    "text_joined": "Giant Gator"
+  },
+  {
+    "id": 49882,
+    "text": [
+      "Light Wisp"
+    ],
+    "text_joined": "Light Wisp"
+  },
+  {
+    "id": 49886,
+    "text": [
+      "Menacing River Froggen II"
+    ],
+    "text_joined": "Menacing River Froggen II"
+  },
+  {
+    "id": 49889,
+    "text": [
+      "Mighty Slayer Bug"
+    ],
+    "text_joined": "Mighty Slayer Bug"
+  },
+  {
+    "id": 49890,
+    "text": [
+      "Menacing Reaper Crab"
+    ],
+    "text_joined": "Menacing Reaper Crab"
+  },
+  {
+    "id": 49894,
+    "text": [
+      "Test Subject (Beast)"
+    ],
+    "text_joined": "Test Subject (Beast)"
+  },
+  {
+    "id": 49895,
+    "text": [
+      "Test Subject (Insect)"
+    ],
+    "text_joined": "Test Subject (Insect)"
+  },
+  {
+    "id": 49896,
+    "text": [
+      "Test Subject (Bandit)"
+    ],
+    "text_joined": "Test Subject (Bandit)"
+  },
+  {
+    "id": 49897,
+    "text": [
+      "Test Subject (Thief)"
+    ],
+    "text_joined": "Test Subject (Thief)"
+  },
+  {
+    "id": 49901,
+    "text": [
+      "Menacing Test Subject (Big Beast)"
+    ],
+    "text_joined": "Menacing Test Subject (Big Beast)"
+  },
+  {
+    "id": 50867,
+    "text": [
+      "Ivory Scorpion"
+    ],
+    "text_joined": "Ivory Scorpion"
+  },
+  {
+    "id": 50869,
+    "text": [
+      "Ivory Roller"
+    ],
+    "text_joined": "Ivory Roller"
+  },
+  {
+    "id": 50871,
+    "text": [
+      "Insurgent (Staff)"
+    ],
+    "text_joined": "Insurgent (Staff)"
+  },
+  {
+    "id": 50872,
+    "text": [
+      "Insurgent (Axe)"
+    ],
+    "text_joined": "Insurgent (Axe)"
+  },
+  {
+    "id": 50873,
+    "text": [
+      "Insurgent (Fan)"
+    ],
+    "text_joined": "Insurgent (Fan)"
+  },
+  {
+    "id": 50874,
+    "text": [
+      "Silver Wind Sentinel"
+    ],
+    "text_joined": "Silver Wind Sentinel"
+  },
+  {
+    "id": 50875,
+    "text": [
+      "Assassin Bug (Silversand)"
+    ],
+    "text_joined": "Assassin Bug (Silversand)"
+  },
+  {
+    "id": 50876,
+    "text": [
+      "Silversand Lizardman I"
+    ],
+    "text_joined": "Silversand Lizardman I"
+  },
+  {
+    "id": 50889,
+    "text": [
+      "Menacing Gold Wind Curator"
+    ],
+    "text_joined": "Menacing Gold Wind Curator"
+  },
+  {
+    "id": 50895,
+    "text": [
+      "Stormy Sea Birdian I"
+    ],
+    "text_joined": "Stormy Sea Birdian I"
+  },
+  {
+    "id": 50896,
+    "text": [
+      "Black Scissors"
+    ],
+    "text_joined": "Black Scissors"
+  },
+  {
+    "id": 50897,
+    "text": [
+      "Kingfisher"
+    ],
+    "text_joined": "Kingfisher"
+  },
+  {
+    "id": 50898,
+    "text": [
+      "Cetus Maximus"
+    ],
+    "text_joined": "Cetus Maximus"
+  },
+  {
+    "id": 50899,
+    "text": [
+      "Warrior Bones"
+    ],
+    "text_joined": "Warrior Bones"
+  },
+  {
+    "id": 50900,
+    "text": [
+      "Bandit Bones II"
+    ],
+    "text_joined": "Bandit Bones II"
+  },
+  {
+    "id": 50901,
+    "text": [
+      "Davy Bones"
+    ],
+    "text_joined": "Davy Bones"
+  },
+  {
+    "id": 50902,
+    "text": [
+      "Gooey Slug"
+    ],
+    "text_joined": "Gooey Slug"
+  },
+  {
+    "id": 50903,
+    "text": [
+      "Dark Elemental"
+    ],
+    "text_joined": "Dark Elemental"
+  },
+  {
+    "id": 50905,
+    "text": [
+      "Reaper Crab"
+    ],
+    "text_joined": "Reaper Crab"
+  },
+  {
+    "id": 50906,
+    "text": [
+      "Mossy Tortoise"
+    ],
+    "text_joined": "Mossy Tortoise"
+  },
+  {
+    "id": 50909,
+    "text": [
+      "Menacing Stormy Sea Birdking I"
+    ],
+    "text_joined": "Menacing Stormy Sea Birdking I"
+  },
+  {
+    "id": 50911,
+    "text": [
+      "Menacing Ice Remnant Mk.II"
+    ],
+    "text_joined": "Menacing Ice Remnant Mk.II"
+  },
+  {
+    "id": 50913,
+    "text": [
+      "Menacing Cleaving Armor"
+    ],
+    "text_joined": "Menacing Cleaving Armor"
+  },
+  {
+    "id": 50915,
+    "text": [
+      "Menacing Ettin Boa"
+    ],
+    "text_joined": "Menacing Ettin Boa"
+  },
+  {
+    "id": 51915,
+    "text": [
+      "Stormy Sea Birdian II"
+    ],
+    "text_joined": "Stormy Sea Birdian II"
+  },
+  {
+    "id": 51918,
+    "text": [
+      "Butcher Crab"
+    ],
+    "text_joined": "Butcher Crab"
+  },
+  {
+    "id": 51919,
+    "text": [
+      "Stormy Sea Birdian III"
+    ],
+    "text_joined": "Stormy Sea Birdian III"
+  },
+  {
+    "id": 51921,
+    "text": [
+      "Menacing Stormy Sea Birdking II"
+    ],
+    "text_joined": "Menacing Stormy Sea Birdking II"
+  },
+  {
+    "id": 51922,
+    "text": [
+      "Killer Conch"
+    ],
+    "text_joined": "Killer Conch"
+  },
+  {
+    "id": 51923,
+    "text": [
+      "Cetus Colossus"
+    ],
+    "text_joined": "Cetus Colossus"
+  },
+  {
+    "id": 51925,
+    "text": [
+      "Menacing Treasure Bones"
+    ],
+    "text_joined": "Menacing Treasure Bones"
+  },
+  {
+    "id": 51927,
+    "text": [
+      "Menacing Crested Portly Penguin"
+    ],
+    "text_joined": "Menacing Crested Portly Penguin"
+  },
+  {
+    "id": 50958,
+    "text": [
+      "Ice Lizardman VI"
+    ],
+    "text_joined": "Ice Lizardman VI"
+  },
+  {
+    "id": 50959,
+    "text": [
+      "Ice Lizardking II"
+    ],
+    "text_joined": "Ice Lizardking II"
+  },
+  {
+    "id": 50960,
+    "text": [
+      "Blue Bull"
+    ],
+    "text_joined": "Blue Bull"
+  },
+  {
+    "id": 50961,
+    "text": [
+      "Snow Drake"
+    ],
+    "text_joined": "Snow Drake"
+  },
+  {
+    "id": 50962,
+    "text": [
+      "Ice Remnant Mk.II"
+    ],
+    "text_joined": "Ice Remnant Mk.II"
+  },
+  {
+    "id": 50963,
+    "text": [
+      "Ice Sentinel Mk.II"
+    ],
+    "text_joined": "Ice Sentinel Mk.II"
+  },
+  {
+    "id": 50965,
+    "text": [
+      "Menacing Cait (Snow)"
+    ],
+    "text_joined": "Menacing Cait (Snow)"
+  },
+  {
+    "id": 50968,
+    "text": [
+      "Mighty Ice Lizardman VI"
+    ],
+    "text_joined": "Mighty Ice Lizardman VI"
+  },
+  {
+    "id": 50970,
+    "text": [
+      "Flatlands Froggen V"
+    ],
+    "text_joined": "Flatlands Froggen V"
+  },
+  {
+    "id": 50971,
+    "text": [
+      "Flatlands Frogking I"
+    ],
+    "text_joined": "Flatlands Frogking I"
+  },
+  {
+    "id": 50972,
+    "text": [
+      "Dire Ash Raven"
+    ],
+    "text_joined": "Dire Ash Raven"
+  },
+  {
+    "id": 50973,
+    "text": [
+      "Mammoth Sheep"
+    ],
+    "text_joined": "Mammoth Sheep"
+  },
+  {
+    "id": 50974,
+    "text": [
+      "Shaggy Spider"
+    ],
+    "text_joined": "Shaggy Spider"
+  },
+  {
+    "id": 51067,
+    "text": [
+      "Sentinel Mk.III"
+    ],
+    "text_joined": "Sentinel Mk.III"
+  },
+  {
+    "id": 51068,
+    "text": [
+      "Bodyguard II"
+    ],
+    "text_joined": "Bodyguard II"
+  },
+  {
+    "id": 51069,
+    "text": [
+      "Oskha's Minion"
+    ],
+    "text_joined": "Oskha's Minion"
+  },
+  {
+    "id": 51071,
+    "text": [
+      "Menacing Master Thief III"
+    ],
+    "text_joined": "Menacing Master Thief III"
+  },
+  {
+    "id": 51072,
+    "text": [
+      "Silversand Lizardman II"
+    ],
+    "text_joined": "Silversand Lizardman II"
+  },
+  {
+    "id": 51073,
+    "text": [
+      "Silversand Lizardman III"
+    ],
+    "text_joined": "Silversand Lizardman III"
+  },
+  {
+    "id": 51074,
+    "text": [
+      "Whiteworm"
+    ],
+    "text_joined": "Whiteworm"
+  },
+  {
+    "id": 51075,
+    "text": [
+      "Overlord of the Flies"
+    ],
+    "text_joined": "Overlord of the Flies"
+  },
+  {
+    "id": 51078,
+    "text": [
+      "Skull Roller"
+    ],
+    "text_joined": "Skull Roller"
+  },
+  {
+    "id": 51079,
+    "text": [
+      "Brigand Bones II"
+    ],
+    "text_joined": "Brigand Bones II"
+  },
+  {
+    "id": 51080,
+    "text": [
+      "Ivory Guardian"
+    ],
+    "text_joined": "Ivory Guardian"
+  },
+  {
+    "id": 51081,
+    "text": [
+      "Ivory Remnant"
+    ],
+    "text_joined": "Ivory Remnant"
+  },
+  {
+    "id": 51084,
+    "text": [
+      "Fierce Fly"
+    ],
+    "text_joined": "Fierce Fly"
+  },
+  {
+    "id": 51085,
+    "text": [
+      "Ivory Curator"
+    ],
+    "text_joined": "Ivory Curator"
+  },
+  {
+    "id": 51087,
+    "text": [
+      "Menacing Ivory Revenant"
+    ],
+    "text_joined": "Menacing Ivory Revenant"
+  },
+  {
+    "id": 51088,
+    "text": [
+      "Gold Remnant"
+    ],
+    "text_joined": "Gold Remnant"
+  },
+  {
+    "id": 51090,
+    "text": [
+      "Menacing Gold Revenant"
+    ],
+    "text_joined": "Menacing Gold Revenant"
+  },
+  {
+    "id": 51168,
+    "text": [
+      "Cliff Birdian V"
+    ],
+    "text_joined": "Cliff Birdian V"
+  },
+  {
+    "id": 51979,
+    "text": [
+      "Storm Falcon"
+    ],
+    "text_joined": "Storm Falcon"
+  },
+  {
+    "id": 51980,
+    "text": [
+      "Volcano Ratkin I"
+    ],
+    "text_joined": "Volcano Ratkin I"
+  },
+  {
+    "id": 51981,
+    "text": [
+      "Diabolical Goat"
+    ],
+    "text_joined": "Diabolical Goat"
+  },
+  {
+    "id": 51982,
+    "text": [
+      "Demon Yak"
+    ],
+    "text_joined": "Demon Yak"
+  },
+  {
+    "id": 51985,
+    "text": [
+      "Volcano Ratkin II"
+    ],
+    "text_joined": "Volcano Ratkin II"
+  },
+  {
+    "id": 51988,
+    "text": [
+      "Flesh-Eating Bat"
+    ],
+    "text_joined": "Flesh-Eating Bat"
+  },
+  {
+    "id": 51989,
+    "text": [
+      "Granadillo"
+    ],
+    "text_joined": "Granadillo"
+  },
+  {
+    "id": 51990,
+    "text": [
+      "Silver Eater"
+    ],
+    "text_joined": "Silver Eater"
+  },
+  {
+    "id": 51991,
+    "text": [
+      "Salamandra"
+    ],
+    "text_joined": "Salamandra"
+  },
+  {
+    "id": 51993,
+    "text": [
+      "Menacing Quartz Turtle"
+    ],
+    "text_joined": "Menacing Quartz Turtle"
+  },
+  {
+    "id": 51994,
+    "text": [
+      "Lava Slug"
+    ],
+    "text_joined": "Lava Slug"
+  },
+  {
+    "id": 51995,
+    "text": [
+      "Magma Drake"
+    ],
+    "text_joined": "Magma Drake"
+  },
+  {
+    "id": 51996,
+    "text": [
+      "Fire Sentinel Mk.III"
+    ],
+    "text_joined": "Fire Sentinel Mk.III"
+  },
+  {
+    "id": 51997,
+    "text": [
+      "Shadow Guardian"
+    ],
+    "text_joined": "Shadow Guardian"
+  },
+  {
+    "id": 51998,
+    "text": [
+      "Spirited Armor"
+    ],
+    "text_joined": "Spirited Armor"
+  },
+  {
+    "id": 52000,
+    "text": [
+      "Menacing Ashen Remnant"
+    ],
+    "text_joined": "Menacing Ashen Remnant"
+  },
+  {
+    "id": 52001,
+    "text": [
+      "Shadow Remnant Mk.II"
+    ],
+    "text_joined": "Shadow Remnant Mk.II"
+  },
+  {
+    "id": 52003,
+    "text": [
+      "Menacing Blood Revenant"
+    ],
+    "text_joined": "Menacing Blood Revenant"
+  },
+  {
+    "id": 52005,
+    "text": [
+      "Menacing Deadly Chameleon"
+    ],
+    "text_joined": "Menacing Deadly Chameleon"
+  },
+  {
+    "id": 52073,
+    "text": [
+      "Fallen Laughing Hyaena"
+    ],
+    "text_joined": "Fallen Laughing Hyaena"
+  },
+  {
+    "id": 52074,
+    "text": [
+      "Fallen Birdian I"
+    ],
+    "text_joined": "Fallen Birdian I"
+  },
+  {
+    "id": 52075,
+    "text": [
+      "Fallen Birdian II"
+    ],
+    "text_joined": "Fallen Birdian II"
+  },
+  {
+    "id": 52076,
+    "text": [
+      "Fallen Birdking"
+    ],
+    "text_joined": "Fallen Birdking"
+  },
+  {
+    "id": 52077,
+    "text": [
+      "Fallen Two-Handed Hatchling"
+    ],
+    "text_joined": "Fallen Two-Handed Hatchling"
+  },
+  {
+    "id": 52078,
+    "text": [
+      "Fallen Armor Eater"
+    ],
+    "text_joined": "Fallen Armor Eater"
+  },
+  {
+    "id": 52079,
+    "text": [
+      "Infernal Insect I"
+    ],
+    "text_joined": "Infernal Insect I"
+  },
+  {
+    "id": 52080,
+    "text": [
+      "Fallen Ghoul Weed"
+    ],
+    "text_joined": "Fallen Ghoul Weed"
+  },
+  {
+    "id": 52081,
+    "text": [
+      "Fallen Edoras Soldier I"
+    ],
+    "text_joined": "Fallen Edoras Soldier I"
+  },
+  {
+    "id": 52082,
+    "text": [
+      "Fallen Edoras Soldier II"
+    ],
+    "text_joined": "Fallen Edoras Soldier II"
+  },
+  {
+    "id": 52083,
+    "text": [
+      "Fallen Cait"
+    ],
+    "text_joined": "Fallen Cait"
+  },
+  {
+    "id": 52088,
+    "text": [
+      "Menacing Fallen Edoras Knight I"
+    ],
+    "text_joined": "Menacing Fallen Edoras Knight I"
+  },
+  {
+    "id": 52117,
+    "text": [
+      "Fallen Marmot"
+    ],
+    "text_joined": "Fallen Marmot"
+  },
+  {
+    "id": 52118,
+    "text": [
+      "Fallen Ratkin I"
+    ],
+    "text_joined": "Fallen Ratkin I"
+  },
+  {
+    "id": 52119,
+    "text": [
+      "Fallen Blackrobe (Sword)"
+    ],
+    "text_joined": "Fallen Blackrobe (Sword)"
+  },
+  {
+    "id": 52120,
+    "text": [
+      "Infernal Insect II"
+    ],
+    "text_joined": "Infernal Insect II"
+  },
+  {
+    "id": 52122,
+    "text": [
+      "Menacing Fallen Direfang"
+    ],
+    "text_joined": "Menacing Fallen Direfang"
+  },
+  {
+    "id": 52127,
+    "text": [
+      "Infernal Pest I"
+    ],
+    "text_joined": "Infernal Pest I"
+  },
+  {
+    "id": 52128,
+    "text": [
+      "Fallen Pauper"
+    ],
+    "text_joined": "Fallen Pauper"
+  },
+  {
+    "id": 52129,
+    "text": [
+      "Fallen Edoras Soldier III"
+    ],
+    "text_joined": "Fallen Edoras Soldier III"
+  },
+  {
+    "id": 52131,
+    "text": [
+      "Fallen Edoras Defender of Power"
+    ],
+    "text_joined": "Fallen Edoras Defender of Power"
+  },
+  {
+    "id": 52132,
+    "text": [
+      "Infernal Refuse"
+    ],
+    "text_joined": "Infernal Refuse"
+  },
+  {
+    "id": 52133,
+    "text": [
+      "Fallen Aristocrat"
+    ],
+    "text_joined": "Fallen Aristocrat"
+  },
+  {
+    "id": 52134,
+    "text": [
+      "Fallen Maid"
+    ],
+    "text_joined": "Fallen Maid"
+  },
+  {
+    "id": 52135,
+    "text": [
+      "Cursed Flame Curator"
+    ],
+    "text_joined": "Cursed Flame Curator"
+  },
+  {
+    "id": 52137,
+    "text": [
+      "Fallen Edoras Defender of Fame"
+    ],
+    "text_joined": "Fallen Edoras Defender of Fame"
+  },
+  {
+    "id": 52138,
+    "text": [
+      "Infernal Insect III"
+    ],
+    "text_joined": "Infernal Insect III"
+  },
+  {
+    "id": 52139,
+    "text": [
+      "Fallen Edoras Knight I"
+    ],
+    "text_joined": "Fallen Edoras Knight I"
+  },
+  {
+    "id": 52140,
+    "text": [
+      "Fallen Edoras Knight II"
+    ],
+    "text_joined": "Fallen Edoras Knight II"
+  },
+  {
+    "id": 52141,
+    "text": [
+      "Fallen Edoras Defender of Wealth"
+    ],
+    "text_joined": "Fallen Edoras Defender of Wealth"
+  },
+  {
+    "id": 52233,
+    "text": [
+      "Fallen Ratkin II"
+    ],
+    "text_joined": "Fallen Ratkin II"
+  },
+  {
+    "id": 52234,
+    "text": [
+      "Fallen Highland Goat"
+    ],
+    "text_joined": "Fallen Highland Goat"
+  },
+  {
+    "id": 52235,
+    "text": [
+      "Fallen Giant Falcon"
+    ],
+    "text_joined": "Fallen Giant Falcon"
+  },
+  {
+    "id": 52237,
+    "text": [
+      "Cursed Bones"
+    ],
+    "text_joined": "Cursed Bones"
+  },
+  {
+    "id": 52238,
+    "text": [
+      "Azure Curator"
+    ],
+    "text_joined": "Azure Curator"
+  },
+  {
+    "id": 52239,
+    "text": [
+      "Fallen Guard Hound"
+    ],
+    "text_joined": "Fallen Guard Hound"
+  },
+  {
+    "id": 52240,
+    "text": [
+      "Fallen Hornburg Soldier"
+    ],
+    "text_joined": "Fallen Hornburg Soldier"
+  },
+  {
+    "id": 52242,
+    "text": [
+      "Defending Armor"
+    ],
+    "text_joined": "Defending Armor"
+  },
+  {
+    "id": 52244,
+    "text": [
+      "Menacing Fallen Hornburg Knight"
+    ],
+    "text_joined": "Menacing Fallen Hornburg Knight"
+  },
+  {
+    "id": 52245,
+    "text": [
+      "Menacing Sacred Flame Guardian"
+    ],
+    "text_joined": "Menacing Sacred Flame Guardian"
+  },
+  {
+    "id": 52348,
+    "text": [
+      "Infernal Mite I"
+    ],
+    "text_joined": "Infernal Mite I"
+  },
+  {
+    "id": 52349,
+    "text": [
+      "Infernal Insect IV"
+    ],
+    "text_joined": "Infernal Insect IV"
+  },
+  {
+    "id": 52350,
+    "text": [
+      "Fallen Aberration I"
+    ],
+    "text_joined": "Fallen Aberration I"
+  },
+  {
+    "id": 52351,
+    "text": [
+      "Fallen Aberration II"
+    ],
+    "text_joined": "Fallen Aberration II"
+  },
+  {
+    "id": 52352,
+    "text": [
+      "Fallen Monster"
+    ],
+    "text_joined": "Fallen Monster"
+  },
+  {
+    "id": 52354,
+    "text": [
+      "Menacing Fallen Monster"
+    ],
+    "text_joined": "Menacing Fallen Monster"
+  },
+  {
+    "id": 52358,
+    "text": [
+      "Menacing Infernal Beast"
+    ],
+    "text_joined": "Menacing Infernal Beast"
+  },
+  {
+    "id": 52456,
+    "text": [
+      "Fallen Herminia's Soldier"
+    ],
+    "text_joined": "Fallen Herminia's Soldier"
+  },
+  {
+    "id": 52457,
+    "text": [
+      "Fallen Blackrobe (Bow)"
+    ],
+    "text_joined": "Fallen Blackrobe (Bow)"
+  },
+  {
+    "id": 52458,
+    "text": [
+      "Infernal Insect V"
+    ],
+    "text_joined": "Infernal Insect V"
+  },
+  {
+    "id": 52459,
+    "text": [
+      "Infernal Pest IV"
+    ],
+    "text_joined": "Infernal Pest IV"
+  },
+  {
+    "id": 52460,
+    "text": [
+      "Fallen Thespian (Dancer)"
+    ],
+    "text_joined": "Fallen Thespian (Dancer)"
+  },
+  {
+    "id": 52461,
+    "text": [
+      "Fallen Thespian (Scholar)"
+    ],
+    "text_joined": "Fallen Thespian (Scholar)"
+  },
+  {
+    "id": 52462,
+    "text": [
+      "Fallen Thespian (Leader)"
+    ],
+    "text_joined": "Fallen Thespian (Leader)"
+  },
+  {
+    "id": 52463,
+    "text": [
+      "Menacing Infernal Sludge"
+    ],
+    "text_joined": "Menacing Infernal Sludge"
+  },
+  {
+    "id": 52466,
+    "text": [
+      "Menacing Fallen Deviant II"
+    ],
+    "text_joined": "Menacing Fallen Deviant II"
+  },
+  {
+    "id": 52500,
+    "text": [
+      "Sacred Flame Curator"
+    ],
+    "text_joined": "Sacred Flame Curator"
+  },
+  {
+    "id": 52501,
+    "text": [
+      "Sacred Remnant"
+    ],
+    "text_joined": "Sacred Remnant"
+  },
+  {
+    "id": 52502,
+    "text": [
+      "Holy Howler"
+    ],
+    "text_joined": "Holy Howler"
+  },
+  {
+    "id": 52503,
+    "text": [
+      "Sacred Flame Servant"
+    ],
+    "text_joined": "Sacred Flame Servant"
+  },
+  {
+    "id": 52504,
+    "text": [
+      "Holy Cait"
+    ],
+    "text_joined": "Holy Cait"
+  },
+  {
+    "id": 52547,
+    "text": [
+      "Elemental Prism"
+    ],
+    "text_joined": "Elemental Prism"
+  },
+  {
+    "id": 52548,
+    "text": [
+      "Divine Soldier (Hammer)"
+    ],
+    "text_joined": "Divine Soldier (Hammer)"
+  },
+  {
+    "id": 52549,
+    "text": [
+      "Divine Soldier (Polearm)"
+    ],
+    "text_joined": "Divine Soldier (Polearm)"
+  },
+  {
+    "id": 52550,
+    "text": [
+      "Sacral Warrior"
+    ],
+    "text_joined": "Sacral Warrior"
+  },
+  {
+    "id": 52551,
+    "text": [
+      "Divine Soldier (Axe)"
+    ],
+    "text_joined": "Divine Soldier (Axe)"
+  },
+  {
+    "id": 52552,
+    "text": [
+      "Celestial White Whale"
+    ],
+    "text_joined": "Celestial White Whale"
+  },
+  {
+    "id": 52553,
+    "text": [
+      "Divine Soldier (Bow)"
+    ],
+    "text_joined": "Divine Soldier (Bow)"
+  },
+  {
+    "id": 52554,
+    "text": [
+      "Great Holy Eagle"
+    ],
+    "text_joined": "Great Holy Eagle"
+  },
+  {
+    "id": 52555,
+    "text": [
+      "Sanct Garmr"
+    ],
+    "text_joined": "Sanct Garmr"
+  },
+  {
+    "id": 52556,
+    "text": [
+      "Sanct Oliphant"
+    ],
+    "text_joined": "Sanct Oliphant"
+  },
+  {
+    "id": 52557,
+    "text": [
+      "Sanct Cauchemar"
+    ],
+    "text_joined": "Sanct Cauchemar"
+  },
+  {
+    "id": 52558,
+    "text": [
+      "Sacred Beast of the Sands"
+    ],
+    "text_joined": "Sacred Beast of the Sands"
+  },
+  {
+    "id": 52559,
+    "text": [
+      "Sacred Beast of the Seas"
+    ],
+    "text_joined": "Sacred Beast of the Seas"
+  },
+  {
+    "id": 52560,
+    "text": [
+      "Sacred Beast of the Skies"
+    ],
+    "text_joined": "Sacred Beast of the Skies"
+  },
+  {
+    "id": 98023,
+    "text": [
+      "Pufferfish"
+    ],
+    "text_joined": "Pufferfish"
+  },
+  {
+    "id": 98024,
+    "text": [
+      "Seahorse"
+    ],
+    "text_joined": "Seahorse"
+  },
+  {
+    "id": 98025,
+    "text": [
+      "Blue Jellyfish"
+    ],
+    "text_joined": "Blue Jellyfish"
+  },
+  {
+    "id": 98026,
+    "text": [
+      "Scythe Crab"
+    ],
+    "text_joined": "Scythe Crab"
+  },
+  {
+    "id": 98027,
+    "text": [
+      "Barbed Fish"
+    ],
+    "text_joined": "Barbed Fish"
+  },
+  {
+    "id": 98028,
+    "text": [
+      "Sea Dragon"
+    ],
+    "text_joined": "Sea Dragon"
+  },
+  {
+    "id": 98029,
+    "text": [
+      "Dire Blue Jellyfish"
+    ],
+    "text_joined": "Dire Blue Jellyfish"
+  },
+  {
+    "id": 98030,
+    "text": [
+      "Maneater"
+    ],
+    "text_joined": "Maneater"
+  },
+  {
+    "id": 98031,
+    "text": [
+      "Ducaduca"
+    ],
+    "text_joined": "Ducaduca"
+  },
+  {
+    "id": 98032,
+    "text": [
+      "Thorny Eel"
+    ],
+    "text_joined": "Thorny Eel"
+  },
+  {
+    "id": 98033,
+    "text": [
+      "Great Landwalker"
+    ],
+    "text_joined": "Great Landwalker"
+  },
+  {
+    "id": 98034,
+    "text": [
+      "Devious Dolphin"
+    ],
+    "text_joined": "Devious Dolphin"
+  },
+  {
+    "id": 98035,
+    "text": [
+      "Sea Angel"
+    ],
+    "text_joined": "Sea Angel"
+  },
+  {
+    "id": 98036,
+    "text": [
+      "Portly Penguin"
+    ],
+    "text_joined": "Portly Penguin"
+  },
+  {
+    "id": 98037,
+    "text": [
+      "Greater Kingfisher"
+    ],
+    "text_joined": "Greater Kingfisher"
+  },
+  {
+    "id": 98038,
+    "text": [
+      "Sailfish"
+    ],
+    "text_joined": "Sailfish"
+  },
+  {
+    "id": 98039,
+    "text": [
+      "Duca"
+    ],
+    "text_joined": "Duca"
+  },
+  {
+    "id": 98040,
+    "text": [
+      "Blue Betta"
+    ],
+    "text_joined": "Blue Betta"
+  },
+  {
+    "id": 98041,
+    "text": [
+      "Landwalker"
+    ],
+    "text_joined": "Landwalker"
+  },
+  {
+    "id": 98042,
+    "text": [
+      "Reptalion"
+    ],
+    "text_joined": "Reptalion"
+  },
+  {
+    "id": 98043,
+    "text": [
+      "Barnacle Bat"
+    ],
+    "text_joined": "Barnacle Bat"
+  },
+  {
+    "id": 98044,
+    "text": [
+      "Ebony Eel"
+    ],
+    "text_joined": "Ebony Eel"
+  },
+  {
+    "id": 98045,
+    "text": [
+      "Demon Jellyfish"
+    ],
+    "text_joined": "Demon Jellyfish"
+  },
+  {
+    "id": 98046,
+    "text": [
+      "Sapphire Betta"
+    ],
+    "text_joined": "Sapphire Betta"
+  },
+  {
+    "id": 98047,
+    "text": [
+      "Winged Landwalker"
+    ],
+    "text_joined": "Winged Landwalker"
+  },
+  {
+    "id": 98048,
+    "text": [
+      "Sea Seraphim"
+    ],
+    "text_joined": "Sea Seraphim"
+  },
+  {
+    "id": 98049,
+    "text": [
+      "Shipeater"
+    ],
+    "text_joined": "Shipeater"
+  },
+  {
+    "id": 98050,
+    "text": [
+      "Dark Manta"
+    ],
+    "text_joined": "Dark Manta"
+  },
+  {
+    "id": 98058,
+    "text": [
+      "Menacing Electric Catfish"
+    ],
+    "text_joined": "Menacing Electric Catfish"
+  },
+  {
+    "id": 98139,
+    "text": [
+      "Ocean Octopuff Traveler"
+    ],
+    "text_joined": "Ocean Octopuff Traveler"
+  },
+  {
+    "id": 98141,
+    "text": [
+      "King Octopuff"
+    ],
+    "text_joined": "King Octopuff"
+  },
+  {
+    "id": 98425,
+    "text": [
+      "Menacing King Octopuff"
+    ],
+    "text_joined": "Menacing King Octopuff"
+  },
+  {
+    "id": 98383,
+    "text": [
+      "Giant Eagle"
+    ],
+    "text_joined": "Giant Eagle"
+  },
+  {
+    "id": 98384,
+    "text": [
+      "Raging Treant"
+    ],
+    "text_joined": "Raging Treant"
+  },
+  {
+    "id": 98385,
+    "text": [
+      "King Condor"
+    ],
+    "text_joined": "King Condor"
+  },
+  {
+    "id": 98386,
+    "text": [
+      "Light Curator Mk.II"
+    ],
+    "text_joined": "Light Curator Mk.II"
+  },
+  {
+    "id": 98387,
+    "text": [
+      "Light Guardian Mk.II"
+    ],
+    "text_joined": "Light Guardian Mk.II"
+  },
+  {
+    "id": 98388,
+    "text": [
+      "Sandworm"
+    ],
+    "text_joined": "Sandworm"
+  },
+  {
+    "id": 98389,
+    "text": [
+      "Gold Flame Guardian"
+    ],
+    "text_joined": "Gold Flame Guardian"
+  },
+  {
+    "id": 98390,
+    "text": [
+      "Light Revenant"
+    ],
+    "text_joined": "Light Revenant"
+  },
+  {
+    "id": 98391,
+    "text": [
+      "Manticore"
+    ],
+    "text_joined": "Manticore"
+  },
+  {
+    "id": 98392,
+    "text": [
+      "Remnant"
+    ],
+    "text_joined": "Remnant"
+  },
+  {
+    "id": 98393,
+    "text": [
+      "Thunder Curator"
+    ],
+    "text_joined": "Thunder Curator"
+  },
+  {
+    "id": 98394,
+    "text": [
+      "Shield Wielder"
+    ],
+    "text_joined": "Shield Wielder"
+  },
+  {
+    "id": 98395,
+    "text": [
+      "Remnant Mk.II"
+    ],
+    "text_joined": "Remnant Mk.II"
+  },
+  {
+    "id": 98396,
+    "text": [
+      "Creeping Treant"
+    ],
+    "text_joined": "Creeping Treant"
+  },
+  {
+    "id": 98397,
+    "text": [
+      "Spiked Skink"
+    ],
+    "text_joined": "Spiked Skink"
+  },
+  {
+    "id": 98398,
+    "text": [
+      "Wild Weasel"
+    ],
+    "text_joined": "Wild Weasel"
+  },
+  {
+    "id": 98399,
+    "text": [
+      "Blackhorn"
+    ],
+    "text_joined": "Blackhorn"
+  },
+  {
+    "id": 98400,
+    "text": [
+      "Volcano Ratking I"
+    ],
+    "text_joined": "Volcano Ratking I"
+  },
+  {
+    "id": 98401,
+    "text": [
+      "Flame Revenant"
+    ],
+    "text_joined": "Flame Revenant"
+  },
+  {
+    "id": 98402,
+    "text": [
+      "Thespian (Warrior)"
+    ],
+    "text_joined": "Thespian (Warrior)"
+  },
+  {
+    "id": 98403,
+    "text": [
+      "Fire Elemental"
+    ],
+    "text_joined": "Fire Elemental"
+  },
+  {
+    "id": 98404,
+    "text": [
+      "Bloody Bull"
+    ],
+    "text_joined": "Bloody Bull"
+  },
+  {
+    "id": 98405,
+    "text": [
+      "Ettin Serpent"
+    ],
+    "text_joined": "Ettin Serpent"
+  },
+  {
+    "id": 98406,
+    "text": [
+      "Master Thief"
+    ],
+    "text_joined": "Master Thief"
+  },
+  {
+    "id": 98407,
+    "text": [
+      "Revenant"
+    ],
+    "text_joined": "Revenant"
+  },
+  {
+    "id": 98408,
+    "text": [
+      "Rock Tortoise"
+    ],
+    "text_joined": "Rock Tortoise"
+  },
+  {
+    "id": 98409,
+    "text": [
+      "Light Elemental"
+    ],
+    "text_joined": "Light Elemental"
+  },
+  {
+    "id": 98410,
+    "text": [
+      "Winged Serpent"
+    ],
+    "text_joined": "Winged Serpent"
+  },
+  {
+    "id": 98411,
+    "text": [
+      "Animated Armor"
+    ],
+    "text_joined": "Animated Armor"
+  },
+  {
+    "id": 98412,
+    "text": [
+      "Killer Chameleon"
+    ],
+    "text_joined": "Killer Chameleon"
+  },
+  {
+    "id": 98413,
+    "text": [
+      "Snow Yak"
+    ],
+    "text_joined": "Snow Yak"
+  },
+  {
+    "id": 98414,
+    "text": [
+      "Snow Leopard"
+    ],
+    "text_joined": "Snow Leopard"
+  },
+  {
+    "id": 98415,
+    "text": [
+      "Reptalios"
+    ],
+    "text_joined": "Reptalios"
+  },
+  {
+    "id": 98416,
+    "text": [
+      "Ice Lizardking I"
+    ],
+    "text_joined": "Ice Lizardking I"
+  },
+  {
+    "id": 98418,
+    "text": [
+      "Manticore Subject"
+    ],
+    "text_joined": "Manticore Subject"
+  },
+  {
+    "id": 98419,
+    "text": [
+      "Snowstorm Mushroom"
+    ],
+    "text_joined": "Snowstorm Mushroom"
+  },
+  {
+    "id": 98420,
+    "text": [
+      "Hoary Bear"
+    ],
+    "text_joined": "Hoary Bear"
+  },
+  {
+    "id": 98421,
+    "text": [
+      "Swordfish"
+    ],
+    "text_joined": "Swordfish"
+  },
+  {
+    "id": 98422,
+    "text": [
+      "Senior Fellow"
+    ],
+    "text_joined": "Senior Fellow"
+  },
+  {
+    "id": 98423,
+    "text": [
+      "Ice Curator"
+    ],
+    "text_joined": "Ice Curator"
+  },
+  {
+    "id": 98424,
+    "text": [
+      "Plains Drake"
+    ],
+    "text_joined": "Plains Drake"
+  },
+  {
+    "id": 98448,
+    "text": [
+      "Abysmal One"
+    ],
+    "text_joined": "Abysmal One"
+  },
+  {
+    "id": 98449,
+    "text": [
+      "Ruler of the Sands"
+    ],
+    "text_joined": "Ruler of the Sands"
+  },
+  {
+    "id": 98450,
+    "text": [
+      "Mighty Mánagarmr"
+    ],
+    "text_joined": "Mighty Mánagarmr"
+  },
+  {
+    "id": 98476,
+    "text": [
+      "Fierce Fly"
+    ],
+    "text_joined": "Fierce Fly"
+  },
+  {
+    "id": 98477,
+    "text": [
+      "Brigand Bones II"
+    ],
+    "text_joined": "Brigand Bones II"
+  },
+  {
+    "id": 98478,
+    "text": [
+      "Light Revenant"
+    ],
+    "text_joined": "Light Revenant"
+  },
+  {
+    "id": 98479,
+    "text": [
+      "Ivory Remnant"
+    ],
+    "text_joined": "Ivory Remnant"
+  },
+  {
+    "id": 98480,
+    "text": [
+      "Gold Remnant"
+    ],
+    "text_joined": "Gold Remnant"
+  },
+  {
+    "id": 49569,
+    "text": [
+      "Burly Blackrobe"
+    ],
+    "text_joined": "Burly Blackrobe"
+  },
+  {
+    "id": 49570,
+    "text": [
+      "Blackrobe"
+    ],
+    "text_joined": "Blackrobe"
+  },
+  {
+    "id": 49571,
+    "text": [
+      "Captain Tristan"
+    ],
+    "text_joined": "Captain Tristan"
+  },
+  {
+    "id": 49572,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 49573,
+    "text": [
+      "Sonia"
+    ],
+    "text_joined": "Sonia"
+  },
+  {
+    "id": 49574,
+    "text": [
+      "Rosso"
+    ],
+    "text_joined": "Rosso"
+  },
+  {
+    "id": 49575,
+    "text": [
+      "Lady Herminia"
+    ],
+    "text_joined": "Lady Herminia"
+  },
+  {
+    "id": 49576,
+    "text": [
+      "Lady-In-Waiting"
+    ],
+    "text_joined": "Lady-In-Waiting"
+  },
+  {
+    "id": 49577,
+    "text": [
+      "Herminia the Huntress"
+    ],
+    "text_joined": "Herminia the Huntress"
+  },
+  {
+    "id": 98017,
+    "text": [
+      "Manifestation of Mental Decay"
+    ],
+    "text_joined": "Manifestation of Mental Decay"
+  },
+  {
+    "id": 98018,
+    "text": [
+      "Manifestation of Mental Decay"
+    ],
+    "text_joined": "Manifestation of Mental Decay"
+  },
+  {
+    "id": 49578,
+    "text": [
+      "Abnormal Ruffian"
+    ],
+    "text_joined": "Abnormal Ruffian"
+  },
+  {
+    "id": 49579,
+    "text": [
+      "Al the Servant"
+    ],
+    "text_joined": "Al the Servant"
+  },
+  {
+    "id": 49581,
+    "text": [
+      "Jurgen"
+    ],
+    "text_joined": "Jurgen"
+  },
+  {
+    "id": 49582,
+    "text": [
+      "Scarlet Wing"
+    ],
+    "text_joined": "Scarlet Wing"
+  },
+  {
+    "id": 49583,
+    "text": [
+      "Jurgen"
+    ],
+    "text_joined": "Jurgen"
+  },
+  {
+    "id": 49584,
+    "text": [
+      "Commander Tytos"
+    ],
+    "text_joined": "Commander Tytos"
+  },
+  {
+    "id": 49585,
+    "text": [
+      "Tytos the Thunderblade"
+    ],
+    "text_joined": "Tytos the Thunderblade"
+  },
+  {
+    "id": 49586,
+    "text": [
+      "Aide (Vanguard)"
+    ],
+    "text_joined": "Aide (Vanguard)"
+  },
+  {
+    "id": 49587,
+    "text": [
+      "Aide (Rearguard)"
+    ],
+    "text_joined": "Aide (Rearguard)"
+  },
+  {
+    "id": 49588,
+    "text": [
+      "Francesca the Actress"
+    ],
+    "text_joined": "Francesca the Actress"
+  },
+  {
+    "id": 49589,
+    "text": [
+      "Auguste the Playwright"
+    ],
+    "text_joined": "Auguste the Playwright"
+  },
+  {
+    "id": 49590,
+    "text": [
+      "Auguste the Prince of Thieves"
+    ],
+    "text_joined": "Auguste the Prince of Thieves"
+  },
+  {
+    "id": 98021,
+    "text": [
+      "Ruinous Rancor"
+    ],
+    "text_joined": "Ruinous Rancor"
+  },
+  {
+    "id": 49836,
+    "text": [
+      "Ring-Sealed Beast"
+    ],
+    "text_joined": "Ring-Sealed Beast"
+  },
+  {
+    "id": 49758,
+    "text": [
+      "Mesara the Thief"
+    ],
+    "text_joined": "Mesara the Thief"
+  },
+  {
+    "id": 49759,
+    "text": [
+      "Thief"
+    ],
+    "text_joined": "Thief"
+  },
+  {
+    "id": 49761,
+    "text": [
+      "M'suhi the Viper"
+    ],
+    "text_joined": "M'suhi the Viper"
+  },
+  {
+    "id": 50267,
+    "text": [
+      "Thief"
+    ],
+    "text_joined": "Thief"
+  },
+  {
+    "id": 49762,
+    "text": [
+      "Edoras Infantryman I"
+    ],
+    "text_joined": "Edoras Infantryman I"
+  },
+  {
+    "id": 49763,
+    "text": [
+      "Edoras Infantryman II"
+    ],
+    "text_joined": "Edoras Infantryman II"
+  },
+  {
+    "id": 49764,
+    "text": [
+      "Gimel the Brigand Leader"
+    ],
+    "text_joined": "Gimel the Brigand Leader"
+  },
+  {
+    "id": 49765,
+    "text": [
+      "Thief"
+    ],
+    "text_joined": "Thief"
+  },
+  {
+    "id": 49767,
+    "text": [
+      "Cerro the Emissary"
+    ],
+    "text_joined": "Cerro the Emissary"
+  },
+  {
+    "id": 49769,
+    "text": [
+      "Gonzalez the Ironarm"
+    ],
+    "text_joined": "Gonzalez the Ironarm"
+  },
+  {
+    "id": 49770,
+    "text": [
+      "General Krauser"
+    ],
+    "text_joined": "General Krauser"
+  },
+  {
+    "id": 49771,
+    "text": [
+      "General's Subordinate"
+    ],
+    "text_joined": "General's Subordinate"
+  },
+  {
+    "id": 49773,
+    "text": [
+      "King Pardis III"
+    ],
+    "text_joined": "King Pardis III"
+  },
+  {
+    "id": 49774,
+    "text": [
+      "Mysterious Assassin"
+    ],
+    "text_joined": "Mysterious Assassin"
+  },
+  {
+    "id": 49775,
+    "text": [
+      "Gonska the Jester"
+    ],
+    "text_joined": "Gonska the Jester"
+  },
+  {
+    "id": 49776,
+    "text": [
+      "General Krauser"
+    ],
+    "text_joined": "General Krauser"
+  },
+  {
+    "id": 49777,
+    "text": [
+      "General's Subordinate"
+    ],
+    "text_joined": "General's Subordinate"
+  },
+  {
+    "id": 49779,
+    "text": [
+      "King Pardis III"
+    ],
+    "text_joined": "King Pardis III"
+  },
+  {
+    "id": 49780,
+    "text": [
+      "Pardis the Scholarking"
+    ],
+    "text_joined": "Pardis the Scholarking"
+  },
+  {
+    "id": 49781,
+    "text": [
+      "Master of All"
+    ],
+    "text_joined": "Master of All"
+  },
+  {
+    "id": 50335,
+    "text": [
+      "Edoras Defender of Fame"
+    ],
+    "text_joined": "Edoras Defender of Fame"
+  },
+  {
+    "id": 50336,
+    "text": [
+      "Edoras Defender of Power"
+    ],
+    "text_joined": "Edoras Defender of Power"
+  },
+  {
+    "id": 50334,
+    "text": [
+      "Edoras Defender of Wealth"
+    ],
+    "text_joined": "Edoras Defender of Wealth"
+  },
+  {
+    "id": 50065,
+    "text": [
+      "Edoras Soldier"
+    ],
+    "text_joined": "Edoras Soldier"
+  },
+  {
+    "id": 50200,
+    "text": [
+      "Sazantos"
+    ],
+    "text_joined": "Sazantos"
+  },
+  {
+    "id": 50453,
+    "text": [
+      "Blackrobe (Axe)"
+    ],
+    "text_joined": "Blackrobe (Axe)"
+  },
+  {
+    "id": 50454,
+    "text": [
+      "Blackrobe (Bow)"
+    ],
+    "text_joined": "Blackrobe (Bow)"
+  },
+  {
+    "id": 50455,
+    "text": [
+      "Blackrobe (Dagger)"
+    ],
+    "text_joined": "Blackrobe (Dagger)"
+  },
+  {
+    "id": 50456,
+    "text": [
+      "Delvecchio"
+    ],
+    "text_joined": "Delvecchio"
+  },
+  {
+    "id": 50457,
+    "text": [
+      "Mandarino"
+    ],
+    "text_joined": "Mandarino"
+  },
+  {
+    "id": 50458,
+    "text": [
+      "Remone"
+    ],
+    "text_joined": "Remone"
+  },
+  {
+    "id": 50459,
+    "text": [
+      "Foreign Emissary (Circle Blade)"
+    ],
+    "text_joined": "Foreign Emissary (Circle Blade)"
+  },
+  {
+    "id": 50460,
+    "text": [
+      "Foreign Emissary (Staff)"
+    ],
+    "text_joined": "Foreign Emissary (Staff)"
+  },
+  {
+    "id": 50461,
+    "text": [
+      "Black Scarlet (Polearm)"
+    ],
+    "text_joined": "Black Scarlet (Polearm)"
+  },
+  {
+    "id": 50462,
+    "text": [
+      "Black Scarlet (Hammer)"
+    ],
+    "text_joined": "Black Scarlet (Hammer)"
+  },
+  {
+    "id": 50546,
+    "text": [
+      "Delvecchio's Lackey (Axe)"
+    ],
+    "text_joined": "Delvecchio's Lackey (Axe)"
+  },
+  {
+    "id": 50547,
+    "text": [
+      "Delvecchio's Lackey (Bow)"
+    ],
+    "text_joined": "Delvecchio's Lackey (Bow)"
+  },
+  {
+    "id": 50548,
+    "text": [
+      "Delvecchio's Lackey (Dagger)"
+    ],
+    "text_joined": "Delvecchio's Lackey (Dagger)"
+  },
+  {
+    "id": 50636,
+    "text": [
+      "Cavalry (Bow)"
+    ],
+    "text_joined": "Cavalry (Bow)"
+  },
+  {
+    "id": 50637,
+    "text": [
+      "Cavalry (Polearm)"
+    ],
+    "text_joined": "Cavalry (Polearm)"
+  },
+  {
+    "id": 50638,
+    "text": [
+      "Captain Na'gu"
+    ],
+    "text_joined": "Captain Na'gu"
+  },
+  {
+    "id": 50639,
+    "text": [
+      "Empress Tatloch"
+    ],
+    "text_joined": "Empress Tatloch"
+  },
+  {
+    "id": 50671,
+    "text": [
+      "Monaris the Monstrous"
+    ],
+    "text_joined": "Monaris the Monstrous"
+  },
+  {
+    "id": 50672,
+    "text": [
+      "Lookout (Whip)"
+    ],
+    "text_joined": "Lookout (Whip)"
+  },
+  {
+    "id": 50673,
+    "text": [
+      "Judah the Believer"
+    ],
+    "text_joined": "Judah the Believer"
+  },
+  {
+    "id": 50674,
+    "text": [
+      "Pelagia the Conjurer"
+    ],
+    "text_joined": "Pelagia the Conjurer"
+  },
+  {
+    "id": 50720,
+    "text": [
+      "Monster (Man)"
+    ],
+    "text_joined": "Monster (Man)"
+  },
+  {
+    "id": 50768,
+    "text": [
+      "Monster (Woman)"
+    ],
+    "text_joined": "Monster (Woman)"
+  },
+  {
+    "id": 50769,
+    "text": [
+      "Monster (Townsperson)"
+    ],
+    "text_joined": "Monster (Townsperson)"
+  },
+  {
+    "id": 50779,
+    "text": [
+      "Elite Black Scarlet"
+    ],
+    "text_joined": "Elite Black Scarlet"
+  },
+  {
+    "id": 50780,
+    "text": [
+      "Monster (Black Scarlet)"
+    ],
+    "text_joined": "Monster (Black Scarlet)"
+  },
+  {
+    "id": 50781,
+    "text": [
+      "Guardian of the Tainted Flame"
+    ],
+    "text_joined": "Guardian of the Tainted Flame"
+  },
+  {
+    "id": 50883,
+    "text": [
+      "Lookout (Polearm)"
+    ],
+    "text_joined": "Lookout (Polearm)"
+  },
+  {
+    "id": 50892,
+    "text": [
+      "Judah's Aide (Axe)"
+    ],
+    "text_joined": "Judah's Aide (Axe)"
+  },
+  {
+    "id": 50893,
+    "text": [
+      "Judah's Aide (Fan)"
+    ],
+    "text_joined": "Judah's Aide (Fan)"
+  },
+  {
+    "id": 50983,
+    "text": [
+      "G'roha Commander"
+    ],
+    "text_joined": "G'roha Commander"
+  },
+  {
+    "id": 50993,
+    "text": [
+      "Dark Wisp of Ruin"
+    ],
+    "text_joined": "Dark Wisp of Ruin"
+  },
+  {
+    "id": 51510,
+    "text": [
+      "Dark Wisp of Death"
+    ],
+    "text_joined": "Dark Wisp of Death"
+  },
+  {
+    "id": 51027,
+    "text": [
+      "Oskha the Trader"
+    ],
+    "text_joined": "Oskha the Trader"
+  },
+  {
+    "id": 51028,
+    "text": [
+      "Oskha the Have-Not"
+    ],
+    "text_joined": "Oskha the Have-Not"
+  },
+  {
+    "id": 51316,
+    "text": [
+      "Altered Ivory Remnant"
+    ],
+    "text_joined": "Altered Ivory Remnant"
+  },
+  {
+    "id": 51317,
+    "text": [
+      "Altered Gold Remnant"
+    ],
+    "text_joined": "Altered Gold Remnant"
+  },
+  {
+    "id": 51147,
+    "text": [
+      "Tatloch the Lady of Grace"
+    ],
+    "text_joined": "Tatloch the Lady of Grace"
+  },
+  {
+    "id": 51148,
+    "text": [
+      "Ceraphina the Charitable"
+    ],
+    "text_joined": "Ceraphina the Charitable"
+  },
+  {
+    "id": 51162,
+    "text": [
+      "Pelagia the Conjurer (Ruin)"
+    ],
+    "text_joined": "Pelagia the Conjurer (Ruin)"
+  },
+  {
+    "id": 51163,
+    "text": [
+      "Towering Idol"
+    ],
+    "text_joined": "Towering Idol"
+  },
+  {
+    "id": 51184,
+    "text": [
+      "G'roha Soldier"
+    ],
+    "text_joined": "G'roha Soldier"
+  },
+  {
+    "id": 51909,
+    "text": [
+      "Maa'fa the Black Panther"
+    ],
+    "text_joined": "Maa'fa the Black Panther"
+  },
+  {
+    "id": 51910,
+    "text": [
+      "Phantom Soldier"
+    ],
+    "text_joined": "Phantom Soldier"
+  },
+  {
+    "id": 51938,
+    "text": [
+      "G'roha Commander"
+    ],
+    "text_joined": "G'roha Commander"
+  },
+  {
+    "id": 51939,
+    "text": [
+      "G'roha Soldier (Polearm)"
+    ],
+    "text_joined": "G'roha Soldier (Polearm)"
+  },
+  {
+    "id": 51940,
+    "text": [
+      "Cavalry (Bow)"
+    ],
+    "text_joined": "Cavalry (Bow)"
+  },
+  {
+    "id": 51941,
+    "text": [
+      "Cavalry (Polearm)"
+    ],
+    "text_joined": "Cavalry (Polearm)"
+  },
+  {
+    "id": 51942,
+    "text": [
+      "G'roha Soldier (Circle Blade)"
+    ],
+    "text_joined": "G'roha Soldier (Circle Blade)"
+  },
+  {
+    "id": 51943,
+    "text": [
+      "G'roha Soldier (Staff)"
+    ],
+    "text_joined": "G'roha Soldier (Staff)"
+  },
+  {
+    "id": 51914,
+    "text": [
+      "Lyblac"
+    ],
+    "text_joined": "Lyblac"
+  },
+  {
+    "id": 51944,
+    "text": [
+      "Fallen Sonia"
+    ],
+    "text_joined": "Fallen Sonia"
+  },
+  {
+    "id": 52019,
+    "text": [
+      "Fallen Mahrez"
+    ],
+    "text_joined": "Fallen Mahrez"
+  },
+  {
+    "id": 52027,
+    "text": [
+      "Vile Memory"
+    ],
+    "text_joined": "Vile Memory"
+  },
+  {
+    "id": 52028,
+    "text": [
+      "Beloved Memory"
+    ],
+    "text_joined": "Beloved Memory"
+  },
+  {
+    "id": 52029,
+    "text": [
+      "Suffering Soul"
+    ],
+    "text_joined": "Suffering Soul"
+  },
+  {
+    "id": 52030,
+    "text": [
+      "Seething Soul"
+    ],
+    "text_joined": "Seething Soul"
+  },
+  {
+    "id": 52031,
+    "text": [
+      "Shrieking Soul"
+    ],
+    "text_joined": "Shrieking Soul"
+  },
+  {
+    "id": 52065,
+    "text": [
+      "Fallen Elrica"
+    ],
+    "text_joined": "Fallen Elrica"
+  },
+  {
+    "id": 52093,
+    "text": [
+      "Power-Drunk Soldier"
+    ],
+    "text_joined": "Power-Drunk Soldier"
+  },
+  {
+    "id": 52094,
+    "text": [
+      "Burned Man"
+    ],
+    "text_joined": "Burned Man"
+  },
+  {
+    "id": 52123,
+    "text": [
+      "Fallen Lebrandt"
+    ],
+    "text_joined": "Fallen Lebrandt"
+  },
+  {
+    "id": 52124,
+    "text": [
+      "Cursed Princess Elrica"
+    ],
+    "text_joined": "Cursed Princess Elrica"
+  },
+  {
+    "id": 52229,
+    "text": [
+      "Rondo of the Knights Ardante"
+    ],
+    "text_joined": "Rondo of the Knights Ardante"
+  },
+  {
+    "id": 52230,
+    "text": [
+      "Sacred Flame"
+    ],
+    "text_joined": "Sacred Flame"
+  },
+  {
+    "id": 52176,
+    "text": [
+      "Sonzon the Flameguard"
+    ],
+    "text_joined": "Sonzon the Flameguard"
+  },
+  {
+    "id": 52177,
+    "text": [
+      "Sacred Flame"
+    ],
+    "text_joined": "Sacred Flame"
+  },
+  {
+    "id": 52231,
+    "text": [
+      "Fallen Scarlet Wing"
+    ],
+    "text_joined": "Fallen Scarlet Wing"
+  },
+  {
+    "id": 52232,
+    "text": [
+      "Fallen Monster"
+    ],
+    "text_joined": "Fallen Monster"
+  },
+  {
+    "id": 52313,
+    "text": [
+      "Cursed Commander Tytos"
+    ],
+    "text_joined": "Cursed Commander Tytos"
+  },
+  {
+    "id": 52142,
+    "text": [
+      "Enraged Prostitute"
+    ],
+    "text_joined": "Enraged Prostitute"
+  },
+  {
+    "id": 52143,
+    "text": [
+      "Lord Taviani"
+    ],
+    "text_joined": "Lord Taviani"
+  },
+  {
+    "id": 52144,
+    "text": [
+      "Fallen Blackrobe (Sword)"
+    ],
+    "text_joined": "Fallen Blackrobe (Sword)"
+  },
+  {
+    "id": 52145,
+    "text": [
+      "Wounded Syndicate Member"
+    ],
+    "text_joined": "Wounded Syndicate Member"
+  },
+  {
+    "id": 52247,
+    "text": [
+      "Cursed Fallen Ratking"
+    ],
+    "text_joined": "Cursed Fallen Ratking"
+  },
+  {
+    "id": 52248,
+    "text": [
+      "Cursed Fallen Giant Falcon"
+    ],
+    "text_joined": "Cursed Fallen Giant Falcon"
+  },
+  {
+    "id": 52356,
+    "text": [
+      "Sazantos"
+    ],
+    "text_joined": "Sazantos"
+  },
+  {
+    "id": 52357,
+    "text": [
+      "Dark Priestess Signa"
+    ],
+    "text_joined": "Dark Priestess Signa"
+  },
+  {
+    "id": 52397,
+    "text": [
+      "Cursed Fallen Soldier"
+    ],
+    "text_joined": "Cursed Fallen Soldier"
+  },
+  {
+    "id": 52398,
+    "text": [
+      "Fallen Lady-in-Waiting"
+    ],
+    "text_joined": "Fallen Lady-in-Waiting"
+  },
+  {
+    "id": 52399,
+    "text": [
+      "Fallen Francesca"
+    ],
+    "text_joined": "Fallen Francesca"
+  },
+  {
+    "id": 52453,
+    "text": [
+      "Cursed Master Auguste"
+    ],
+    "text_joined": "Cursed Master Auguste"
+  },
+  {
+    "id": 52454,
+    "text": [
+      "Cursed Lady Herminia"
+    ],
+    "text_joined": "Cursed Lady Herminia"
+  },
+  {
+    "id": 52489,
+    "text": [
+      "Fallen Herminia's Soldier"
+    ],
+    "text_joined": "Fallen Herminia's Soldier"
+  },
+  {
+    "id": 52518,
+    "text": [
+      "Aelfric the Flamebringer"
+    ],
+    "text_joined": "Aelfric the Flamebringer"
+  },
+  {
+    "id": 52519,
+    "text": [
+      "Great Flame"
+    ],
+    "text_joined": "Great Flame"
+  },
+  {
+    "id": 98016,
+    "text": [
+      "<chara_name>"
+    ],
+    "text_joined": "<chara_name>"
+  },
+  {
+    "id": 98485,
+    "text": [
+      "Accurst Flame"
+    ],
+    "text_joined": "Accurst Flame"
+  },
+  {
+    "id": 52523,
+    "text": [
+      "Saint Sazantos"
+    ],
+    "text_joined": "Saint Sazantos"
+  },
+  {
+    "id": 52524,
+    "text": [
+      "Creator Orsazantos"
+    ],
+    "text_joined": "Creator Orsazantos"
+  },
+  {
+    "id": 52525,
+    "text": [
+      "Bestower of All"
+    ],
+    "text_joined": "Bestower of All"
+  },
+  {
+    "id": 52526,
+    "text": [
+      "Ring of the Huntress"
+    ],
+    "text_joined": "Ring of the Huntress"
+  },
+  {
+    "id": 52527,
+    "text": [
+      "Ring of the Thunderblade"
+    ],
+    "text_joined": "Ring of the Thunderblade"
+  },
+  {
+    "id": 52528,
+    "text": [
+      "Ring of the Prince of Thieves"
+    ],
+    "text_joined": "Ring of the Prince of Thieves"
+  },
+  {
+    "id": 52529,
+    "text": [
+      "Ring of the Scholarking"
+    ],
+    "text_joined": "Ring of the Scholarking"
+  },
+  {
+    "id": 52530,
+    "text": [
+      "Ring of the Charitable"
+    ],
+    "text_joined": "Ring of the Charitable"
+  },
+  {
+    "id": 52531,
+    "text": [
+      "Ring of the Lady of Grace"
+    ],
+    "text_joined": "Ring of the Lady of Grace"
+  },
+  {
+    "id": 52532,
+    "text": [
+      "Ring of the Trader"
+    ],
+    "text_joined": "Ring of the Trader"
+  },
+  {
+    "id": 98015,
+    "text": [
+      "Or'galdera"
+    ],
+    "text_joined": "Or'galdera"
+  },
+  {
+    "id": 98426,
+    "text": [
+      "Demonic Spear"
+    ],
+    "text_joined": "Demonic Spear"
+  },
+  {
+    "id": 98427,
+    "text": [
+      "Void-Sundering Arm"
+    ],
+    "text_joined": "Void-Sundering Arm"
+  },
+  {
+    "id": 52632,
+    "text": [
+      "Former Edoras Soldier"
+    ],
+    "text_joined": "Former Edoras Soldier"
+  },
+  {
+    "id": 98054,
+    "text": [
+      "Sentinel"
+    ],
+    "text_joined": "Sentinel"
+  },
+  {
+    "id": 98055,
+    "text": [
+      "Guardian"
+    ],
+    "text_joined": "Guardian"
+  },
+  {
+    "id": 98056,
+    "text": [
+      "Gold Remnant"
+    ],
+    "text_joined": "Gold Remnant"
+  },
+  {
+    "id": 98057,
+    "text": [
+      "Gold Revenant"
+    ],
+    "text_joined": "Gold Revenant"
+  },
+  {
+    "id": 98142,
+    "text": [
+      "Cardinal"
+    ],
+    "text_joined": "Cardinal"
+  },
+  {
+    "id": 98143,
+    "text": [
+      "Cardinal Teragraf"
+    ],
+    "text_joined": "Cardinal Teragraf"
+  },
+  {
+    "id": 98379,
+    "text": [
+      "Reime"
+    ],
+    "text_joined": "Reime"
+  },
+  {
+    "id": 98380,
+    "text": [
+      "Giant Gator"
+    ],
+    "text_joined": "Giant Gator"
+  },
+  {
+    "id": 98381,
+    "text": [
+      "Barenga"
+    ],
+    "text_joined": "Barenga"
+  },
+  {
+    "id": 98382,
+    "text": [
+      "Chilritta"
+    ],
+    "text_joined": "Chilritta"
+  },
+  {
+    "id": 98511,
+    "text": [
+      "Barenga's Right Arm"
+    ],
+    "text_joined": "Barenga's Right Arm"
+  },
+  {
+    "id": 98512,
+    "text": [
+      "Barenga's Left Arm"
+    ],
+    "text_joined": "Barenga's Left Arm"
+  },
+  {
+    "id": 98513,
+    "text": [
+      "Chilritta's #1 Apprentice"
+    ],
+    "text_joined": "Chilritta's #1 Apprentice"
+  },
+  {
+    "id": 98514,
+    "text": [
+      "Chilritta's #2 Apprentice"
+    ],
+    "text_joined": "Chilritta's #2 Apprentice"
+  },
+  {
+    "id": 98428,
+    "text": [
+      "Heidne"
+    ],
+    "text_joined": "Heidne"
+  },
+  {
+    "id": 98429,
+    "text": [
+      "Vaughner's Underling  I"
+    ],
+    "text_joined": "Vaughner's Underling  I"
+  },
+  {
+    "id": 98430,
+    "text": [
+      "Vaughner's Underling  II"
+    ],
+    "text_joined": "Vaughner's Underling  II"
+  },
+  {
+    "id": 98431,
+    "text": [
+      "Vaughner the Man-Eating Miser"
+    ],
+    "text_joined": "Vaughner the Man-Eating Miser"
+  },
+  {
+    "id": 98432,
+    "text": [
+      "Vaughner's Guard"
+    ],
+    "text_joined": "Vaughner's Guard"
+  },
+  {
+    "id": 98447,
+    "text": [
+      "Colossal Blightant"
+    ],
+    "text_joined": "Colossal Blightant"
+  },
+  {
+    "id": 98433,
+    "text": [
+      "Ivory Shadow"
+    ],
+    "text_joined": "Ivory Shadow"
+  },
+  {
+    "id": 98434,
+    "text": [
+      "Gluttonous Salamander"
+    ],
+    "text_joined": "Gluttonous Salamander"
+  },
+  {
+    "id": 98435,
+    "text": [
+      "Edwin"
+    ],
+    "text_joined": "Edwin"
+  },
+  {
+    "id": 98436,
+    "text": [
+      "Edwin's Subordinate"
+    ],
+    "text_joined": "Edwin's Subordinate"
+  },
+  {
+    "id": 98437,
+    "text": [
+      "Immoral Noble"
+    ],
+    "text_joined": "Immoral Noble"
+  },
+  {
+    "id": 98438,
+    "text": [
+      "Immoral Noble's Lackey"
+    ],
+    "text_joined": "Immoral Noble's Lackey"
+  },
+  {
+    "id": 98439,
+    "text": [
+      "Dreige"
+    ],
+    "text_joined": "Dreige"
+  },
+  {
+    "id": 98440,
+    "text": [
+      "Dreige's Lackey"
+    ],
+    "text_joined": "Dreige's Lackey"
+  },
+  {
+    "id": 98441,
+    "text": [
+      "Imposter Olberic"
+    ],
+    "text_joined": "Imposter Olberic"
+  },
+  {
+    "id": 98445,
+    "text": [
+      "Acdam"
+    ],
+    "text_joined": "Acdam"
+  },
+  {
+    "id": 98446,
+    "text": [
+      "Acdam Member"
+    ],
+    "text_joined": "Acdam Member"
+  },
+  {
+    "id": 98451,
+    "text": [
+      "Forbidden Magic Guardian"
+    ],
+    "text_joined": "Forbidden Magic Guardian"
+  },
+  {
+    "id": 98452,
+    "text": [
+      "Former Edoras Captain"
+    ],
+    "text_joined": "Former Edoras Captain"
+  },
+  {
+    "id": 98453,
+    "text": [
+      "The Big 'Un"
+    ],
+    "text_joined": "The Big 'Un"
+  },
+  {
+    "id": 98481,
+    "text": [
+      "Demon Blade's Curse"
+    ],
+    "text_joined": "Demon Blade's Curse"
+  },
+  {
+    "id": 98482,
+    "text": [
+      "Slave Trader"
+    ],
+    "text_joined": "Slave Trader"
+  },
+  {
+    "id": 98483,
+    "text": [
+      "Sultravi"
+    ],
+    "text_joined": "Sultravi"
+  },
+  {
+    "id": 98484,
+    "text": [
+      "Immortal Flame"
+    ],
+    "text_joined": "Immortal Flame"
+  },
+  {
+    "id": 98486,
+    "text": [
+      "Thief"
+    ],
+    "text_joined": "Thief"
+  },
+  {
+    "id": 98487,
+    "text": [
+      "Detof Clan Pursuer"
+    ],
+    "text_joined": "Detof Clan Pursuer"
+  },
+  {
+    "id": 98488,
+    "text": [
+      "Immoral Scholar"
+    ],
+    "text_joined": "Immoral Scholar"
+  },
+  {
+    "id": 98489,
+    "text": [
+      "Immoral Scholar's Lackey"
+    ],
+    "text_joined": "Immoral Scholar's Lackey"
+  },
+  {
+    "id": 98490,
+    "text": [
+      "Warbringer's Phantom"
+    ],
+    "text_joined": "Warbringer's Phantom"
+  },
+  {
+    "id": 98497,
+    "text": [
+      "Gigantes"
+    ],
+    "text_joined": "Gigantes"
+  },
+  {
+    "id": 98498,
+    "text": [
+      "Man-Eating Flora"
+    ],
+    "text_joined": "Man-Eating Flora"
+  },
+  {
+    "id": 98503,
+    "text": [
+      "Man-Eating Virus"
+    ],
+    "text_joined": "Man-Eating Virus"
+  },
+  {
+    "id": 98499,
+    "text": [
+      "Tyrannodrake"
+    ],
+    "text_joined": "Tyrannodrake"
+  },
+  {
+    "id": 98500,
+    "text": [
+      "Sand Lion"
+    ],
+    "text_joined": "Sand Lion"
+  },
+  {
+    "id": 98501,
+    "text": [
+      "Auðnvarg"
+    ],
+    "text_joined": "Auðnvarg"
+  },
+  {
+    "id": 98502,
+    "text": [
+      "Battle-Worn Shark"
+    ],
+    "text_joined": "Battle-Worn Shark"
+  },
+  {
+    "id": 98504,
+    "text": [
+      "Amatsukami no Orochi"
+    ],
+    "text_joined": "Amatsukami no Orochi"
+  },
+  {
+    "id": 98506,
+    "text": [
+      "Crimson Dragon Orb"
+    ],
+    "text_joined": "Crimson Dragon Orb"
+  },
+  {
+    "id": 98507,
+    "text": [
+      "Cerulean Dragon Orb"
+    ],
+    "text_joined": "Cerulean Dragon Orb"
+  },
+  {
+    "id": 98508,
+    "text": [
+      "Golden Dragon Orb"
+    ],
+    "text_joined": "Golden Dragon Orb"
+  },
+  {
+    "id": 98509,
+    "text": [
+      "Jade Dragon Orb"
+    ],
+    "text_joined": "Jade Dragon Orb"
+  },
+  {
+    "id": 98510,
+    "text": [
+      "???"
+    ],
+    "text_joined": "???"
+  },
+  {
+    "id": 98002,
+    "text": [
+      "Emerald Direwolf"
+    ],
+    "text_joined": "Emerald Direwolf"
+  },
+  {
+    "id": 98014,
+    "text": [
+      "Scarlet Wings Corporal"
+    ],
+    "text_joined": "Scarlet Wings Corporal"
+  },
+  {
+    "id": 98144,
+    "text": [
+      "Lizardmen Leader"
+    ],
+    "text_joined": "Lizardmen Leader"
+  },
+  {
+    "id": 98145,
+    "text": [
+      "Desert Lizardking"
+    ],
+    "text_joined": "Desert Lizardking"
+  },
+  {
+    "id": 98146,
+    "text": [
+      "Desert Lizardking I"
+    ],
+    "text_joined": "Desert Lizardking I"
+  },
+  {
+    "id": 50183,
+    "text": [
+      "Scarlet Wing"
+    ],
+    "text_joined": "Scarlet Wing"
+  },
+  {
+    "id": 50202,
+    "text": [
+      "Snow Yak"
+    ],
+    "text_joined": "Snow Yak"
+  },
+  {
+    "id": 98008,
+    "text": [
+      "Watch Captain Fried"
+    ],
+    "text_joined": "Watch Captain Fried"
+  },
+  {
+    "id": 98009,
+    "text": [
+      "Olive"
+    ],
+    "text_joined": "Olive"
+  },
+  {
+    "id": 98010,
+    "text": [
+      "Karan"
+    ],
+    "text_joined": "Karan"
+  },
+  {
+    "id": 98051,
+    "text": [
+      "Corrupt Merchant"
+    ],
+    "text_joined": "Corrupt Merchant"
+  },
+  {
+    "id": 98052,
+    "text": [
+      "Bodyguard"
+    ],
+    "text_joined": "Bodyguard"
+  },
+  {
+    "id": 98059,
+    "text": [
+      "Karan"
+    ],
+    "text_joined": "Karan"
+  },
+  {
+    "id": 98060,
+    "text": [
+      "Tyme"
+    ],
+    "text_joined": "Tyme"
+  },
+  {
+    "id": 98061,
+    "text": [
+      "Watch Captain Fried"
+    ],
+    "text_joined": "Watch Captain Fried"
+  },
+  {
+    "id": 98062,
+    "text": [
+      "Olive"
+    ],
+    "text_joined": "Olive"
+  },
+  {
+    "id": 98063,
+    "text": [
+      "Watchman Karan"
+    ],
+    "text_joined": "Watchman Karan"
+  },
+  {
+    "id": 98064,
+    "text": [
+      "Good-Natured Youth"
+    ],
+    "text_joined": "Good-Natured Youth"
+  },
+  {
+    "id": 98065,
+    "text": [
+      "Blackrobe"
+    ],
+    "text_joined": "Blackrobe"
+  },
+  {
+    "id": 98066,
+    "text": [
+      "Blackrobe"
+    ],
+    "text_joined": "Blackrobe"
+  },
+  {
+    "id": 98067,
+    "text": [
+      "Taciturn Bodyguard"
+    ],
+    "text_joined": "Taciturn Bodyguard"
+  },
+  {
+    "id": 98068,
+    "text": [
+      "Blackrobe"
+    ],
+    "text_joined": "Blackrobe"
+  },
+  {
+    "id": 98069,
+    "text": [
+      "Ruffian Chef"
+    ],
+    "text_joined": "Ruffian Chef"
+  },
+  {
+    "id": 98071,
+    "text": [
+      "Ruffian"
+    ],
+    "text_joined": "Ruffian"
+  },
+  {
+    "id": 98072,
+    "text": [
+      "Main Street Bartender"
+    ],
+    "text_joined": "Main Street Bartender"
+  },
+  {
+    "id": 98073,
+    "text": [
+      "Man"
+    ],
+    "text_joined": "Man"
+  },
+  {
+    "id": 98074,
+    "text": [
+      "Woman"
+    ],
+    "text_joined": "Woman"
+  },
+  {
+    "id": 98075,
+    "text": [
+      "Man with Sorrowful Eyes"
+    ],
+    "text_joined": "Man with Sorrowful Eyes"
+  },
+  {
+    "id": 98076,
+    "text": [
+      "Impoverished Townsperson"
+    ],
+    "text_joined": "Impoverished Townsperson"
+  },
+  {
+    "id": 98077,
+    "text": [
+      "Impoverished Townsperson"
+    ],
+    "text_joined": "Impoverished Townsperson"
+  },
+  {
+    "id": 98078,
+    "text": [
+      "Veteran Hunter"
+    ],
+    "text_joined": "Veteran Hunter"
+  },
+  {
+    "id": 98079,
+    "text": [
+      "Hunter"
+    ],
+    "text_joined": "Hunter"
+  },
+  {
+    "id": 98080,
+    "text": [
+      "Woman of Faith"
+    ],
+    "text_joined": "Woman of Faith"
+  },
+  {
+    "id": 98081,
+    "text": [
+      "Old Woman"
+    ],
+    "text_joined": "Old Woman"
+  },
+  {
+    "id": 98082,
+    "text": [
+      "Old Man"
+    ],
+    "text_joined": "Old Man"
+  },
+  {
+    "id": 98083,
+    "text": [
+      "Great Architect"
+    ],
+    "text_joined": "Great Architect"
+  },
+  {
+    "id": 98084,
+    "text": [
+      "Rosso"
+    ],
+    "text_joined": "Rosso"
+  },
+  {
+    "id": 98085,
+    "text": [
+      "Rosso"
+    ],
+    "text_joined": "Rosso"
+  },
+  {
+    "id": 98086,
+    "text": [
+      "Stern Scarlet Wing"
+    ],
+    "text_joined": "Stern Scarlet Wing"
+  },
+  {
+    "id": 98087,
+    "text": [
+      "Scarlet Wing"
+    ],
+    "text_joined": "Scarlet Wing"
+  },
+  {
+    "id": 98088,
+    "text": [
+      "Scarlet Wing"
+    ],
+    "text_joined": "Scarlet Wing"
+  },
+  {
+    "id": 98089,
+    "text": [
+      "Man Suspicious of the Hero"
+    ],
+    "text_joined": "Man Suspicious of the Hero"
+  },
+  {
+    "id": 98090,
+    "text": [
+      "Townsperson"
+    ],
+    "text_joined": "Townsperson"
+  },
+  {
+    "id": 98091,
+    "text": [
+      "Townsperson"
+    ],
+    "text_joined": "Townsperson"
+  },
+  {
+    "id": 98092,
+    "text": [
+      "Scarlet Wing Admirer"
+    ],
+    "text_joined": "Scarlet Wing Admirer"
+  },
+  {
+    "id": 98093,
+    "text": [
+      "Scarlet Wing"
+    ],
+    "text_joined": "Scarlet Wing"
+  },
+  {
+    "id": 98094,
+    "text": [
+      "Scarlet Wing"
+    ],
+    "text_joined": "Scarlet Wing"
+  },
+  {
+    "id": 98095,
+    "text": [
+      "Faithful Scarlet Wing"
+    ],
+    "text_joined": "Faithful Scarlet Wing"
+  },
+  {
+    "id": 98096,
+    "text": [
+      "Scarlet Wing"
+    ],
+    "text_joined": "Scarlet Wing"
+  },
+  {
+    "id": 98097,
+    "text": [
+      "Scarlet Wing"
+    ],
+    "text_joined": "Scarlet Wing"
+  },
+  {
+    "id": 98098,
+    "text": [
+      "Girl's Caretaker"
+    ],
+    "text_joined": "Girl's Caretaker"
+  },
+  {
+    "id": 98099,
+    "text": [
+      "Old Man"
+    ],
+    "text_joined": "Old Man"
+  },
+  {
+    "id": 98100,
+    "text": [
+      "Old Man"
+    ],
+    "text_joined": "Old Man"
+  },
+  {
+    "id": 98101,
+    "text": [
+      "Woman Suspicious of Mansion"
+    ],
+    "text_joined": "Woman Suspicious of Mansion"
+  },
+  {
+    "id": 98102,
+    "text": [
+      "Old Man"
+    ],
+    "text_joined": "Old Man"
+  },
+  {
+    "id": 98103,
+    "text": [
+      "Old Woman"
+    ],
+    "text_joined": "Old Woman"
+  },
+  {
+    "id": 98104,
+    "text": [
+      "Woman Who Is Stern to Strangers"
+    ],
+    "text_joined": "Woman Who Is Stern to Strangers"
+  },
+  {
+    "id": 98105,
+    "text": [
+      "Old Man"
+    ],
+    "text_joined": "Old Man"
+  },
+  {
+    "id": 98106,
+    "text": [
+      "Old Woman"
+    ],
+    "text_joined": "Old Woman"
+  },
+  {
+    "id": 98107,
+    "text": [
+      "Man Distrustful of Laboratory"
+    ],
+    "text_joined": "Man Distrustful of Laboratory"
+  },
+  {
+    "id": 98108,
+    "text": [
+      "Townsperson"
+    ],
+    "text_joined": "Townsperson"
+  },
+  {
+    "id": 98109,
+    "text": [
+      "Townsperson"
+    ],
+    "text_joined": "Townsperson"
+  },
+  {
+    "id": 98110,
+    "text": [
+      "Gossipy Woman"
+    ],
+    "text_joined": "Gossipy Woman"
+  },
+  {
+    "id": 98111,
+    "text": [
+      "Matron"
+    ],
+    "text_joined": "Matron"
+  },
+  {
+    "id": 98112,
+    "text": [
+      "Matron"
+    ],
+    "text_joined": "Matron"
+  },
+  {
+    "id": 98113,
+    "text": [
+      "\"The Longbow Master\""
+    ],
+    "text_joined": "\"The Longbow Master\""
+  },
+  {
+    "id": 98114,
+    "text": [
+      "Hunter Dmitri"
+    ],
+    "text_joined": "Hunter Dmitri"
+  },
+  {
+    "id": 98115,
+    "text": [
+      "Fellow Hunter"
+    ],
+    "text_joined": "Fellow Hunter"
+  },
+  {
+    "id": 98116,
+    "text": [
+      "Fellow Hunter"
+    ],
+    "text_joined": "Fellow Hunter"
+  },
+  {
+    "id": 98117,
+    "text": [
+      "Wandering Apothecary"
+    ],
+    "text_joined": "Wandering Apothecary"
+  },
+  {
+    "id": 98118,
+    "text": [
+      "Cool Hunter"
+    ],
+    "text_joined": "Cool Hunter"
+  },
+  {
+    "id": 98119,
+    "text": [
+      "Delitia"
+    ],
+    "text_joined": "Delitia"
+  },
+  {
+    "id": 98120,
+    "text": [
+      "Vigilant Merchant"
+    ],
+    "text_joined": "Vigilant Merchant"
+  },
+  {
+    "id": 98121,
+    "text": [
+      "Merchant"
+    ],
+    "text_joined": "Merchant"
+  },
+  {
+    "id": 98122,
+    "text": [
+      "Merchant"
+    ],
+    "text_joined": "Merchant"
+  },
+  {
+    "id": 98123,
+    "text": [
+      "Woman Fond of the Coastlands"
+    ],
+    "text_joined": "Woman Fond of the Coastlands"
+  },
+  {
+    "id": 98124,
+    "text": [
+      "Tavern Patron"
+    ],
+    "text_joined": "Tavern Patron"
+  },
+  {
+    "id": 98125,
+    "text": [
+      "Tavern Patron"
+    ],
+    "text_joined": "Tavern Patron"
+  },
+  {
+    "id": 98126,
+    "text": [
+      "Acerbic Scholar"
+    ],
+    "text_joined": "Acerbic Scholar"
+  },
+  {
+    "id": 98127,
+    "text": [
+      "Master of Books"
+    ],
+    "text_joined": "Master of Books"
+  },
+  {
+    "id": 98128,
+    "text": [
+      "Grounded Aristocrat"
+    ],
+    "text_joined": "Grounded Aristocrat"
+  },
+  {
+    "id": 98129,
+    "text": [
+      "Guard"
+    ],
+    "text_joined": "Guard"
+  },
+  {
+    "id": 98130,
+    "text": [
+      "Guard"
+    ],
+    "text_joined": "Guard"
+  },
+  {
+    "id": 98131,
+    "text": [
+      "Confident Fisherwoman"
+    ],
+    "text_joined": "Confident Fisherwoman"
+  },
+  {
+    "id": 98132,
+    "text": [
+      "Old Woman"
+    ],
+    "text_joined": "Old Woman"
+  },
+  {
+    "id": 98133,
+    "text": [
+      "Old Woman"
+    ],
+    "text_joined": "Old Woman"
+  },
+  {
+    "id": 98134,
+    "text": [
+      "Energetic Old Woman"
+    ],
+    "text_joined": "Energetic Old Woman"
+  },
+  {
+    "id": 98135,
+    "text": [
+      "Tony's Mother"
+    ],
+    "text_joined": "Tony's Mother"
+  },
+  {
+    "id": 98136,
+    "text": [
+      "Tony"
+    ],
+    "text_joined": "Tony"
+  },
+  {
+    "id": 98137,
+    "text": [
+      "Traveling Writer"
+    ],
+    "text_joined": "Traveling Writer"
+  },
+  {
+    "id": 98138,
+    "text": [
+      "Olive"
+    ],
+    "text_joined": "Olive"
+  },
+  {
+    "id": 98147,
+    "text": [
+      "Capital Guard"
+    ],
+    "text_joined": "Capital Guard"
+  },
+  {
+    "id": 98148,
+    "text": [
+      "Novice Soldier"
+    ],
+    "text_joined": "Novice Soldier"
+  },
+  {
+    "id": 98149,
+    "text": [
+      "Novice Soldier"
+    ],
+    "text_joined": "Novice Soldier"
+  },
+  {
+    "id": 98150,
+    "text": [
+      "Birdian Researcher"
+    ],
+    "text_joined": "Birdian Researcher"
+  },
+  {
+    "id": 98151,
+    "text": [
+      "Townsperson"
+    ],
+    "text_joined": "Townsperson"
+  },
+  {
+    "id": 98152,
+    "text": [
+      "Townsperson"
+    ],
+    "text_joined": "Townsperson"
+  },
+  {
+    "id": 98153,
+    "text": [
+      "Curious Merchant"
+    ],
+    "text_joined": "Curious Merchant"
+  },
+  {
+    "id": 98155,
+    "text": [
+      "Merchant"
+    ],
+    "text_joined": "Merchant"
+  },
+  {
+    "id": 98156,
+    "text": [
+      "Cynical Pauper"
+    ],
+    "text_joined": "Cynical Pauper"
+  },
+  {
+    "id": 98157,
+    "text": [
+      "Pauper"
+    ],
+    "text_joined": "Pauper"
+  },
+  {
+    "id": 98158,
+    "text": [
+      "Pauper"
+    ],
+    "text_joined": "Pauper"
+  },
+  {
+    "id": 98159,
+    "text": [
+      "Debt Collector"
+    ],
+    "text_joined": "Debt Collector"
+  },
+  {
+    "id": 98160,
+    "text": [
+      "Man"
+    ],
+    "text_joined": "Man"
+  },
+  {
+    "id": 98161,
+    "text": [
+      "Punching Bag"
+    ],
+    "text_joined": "Punching Bag"
+  },
+  {
+    "id": 98162,
+    "text": [
+      "Powerful Pauper"
+    ],
+    "text_joined": "Powerful Pauper"
+  },
+  {
+    "id": 98163,
+    "text": [
+      "Volunteer Soldier"
+    ],
+    "text_joined": "Volunteer Soldier"
+  },
+  {
+    "id": 98164,
+    "text": [
+      "Corrupt Merchant"
+    ],
+    "text_joined": "Corrupt Merchant"
+  },
+  {
+    "id": 98165,
+    "text": [
+      "Capital Sightseer"
+    ],
+    "text_joined": "Capital Sightseer"
+  },
+  {
+    "id": 98166,
+    "text": [
+      "Resentful Scholar"
+    ],
+    "text_joined": "Resentful Scholar"
+  },
+  {
+    "id": 98167,
+    "text": [
+      "Scholar"
+    ],
+    "text_joined": "Scholar"
+  },
+  {
+    "id": 98168,
+    "text": [
+      "Edoras Chief Maid"
+    ],
+    "text_joined": "Edoras Chief Maid"
+  },
+  {
+    "id": 98169,
+    "text": [
+      "Town Watch"
+    ],
+    "text_joined": "Town Watch"
+  },
+  {
+    "id": 98170,
+    "text": [
+      "Villager"
+    ],
+    "text_joined": "Villager"
+  },
+  {
+    "id": 98172,
+    "text": [
+      "Zeph"
+    ],
+    "text_joined": "Zeph"
+  },
+  {
+    "id": 98173,
+    "text": [
+      "Gertas"
+    ],
+    "text_joined": "Gertas"
+  },
+  {
+    "id": 98174,
+    "text": [
+      "Reflective Grandma"
+    ],
+    "text_joined": "Reflective Grandma"
+  },
+  {
+    "id": 98175,
+    "text": [
+      "Entrance Guard"
+    ],
+    "text_joined": "Entrance Guard"
+  },
+  {
+    "id": 98176,
+    "text": [
+      "Fisherman"
+    ],
+    "text_joined": "Fisherman"
+  },
+  {
+    "id": 98177,
+    "text": [
+      "Guard"
+    ],
+    "text_joined": "Guard"
+  },
+  {
+    "id": 98178,
+    "text": [
+      "Hotheaded Rancher"
+    ],
+    "text_joined": "Hotheaded Rancher"
+  },
+  {
+    "id": 98179,
+    "text": [
+      "Kindly Old Man"
+    ],
+    "text_joined": "Kindly Old Man"
+  },
+  {
+    "id": 98180,
+    "text": [
+      "Soldier from the North"
+    ],
+    "text_joined": "Soldier from the North"
+  },
+  {
+    "id": 98182,
+    "text": [
+      "Soldier"
+    ],
+    "text_joined": "Soldier"
+  },
+  {
+    "id": 98183,
+    "text": [
+      "Brave Tavern Maid"
+    ],
+    "text_joined": "Brave Tavern Maid"
+  },
+  {
+    "id": 98184,
+    "text": [
+      "Traveling Matron"
+    ],
+    "text_joined": "Traveling Matron"
+  },
+  {
+    "id": 98185,
+    "text": [
+      "Middle-Aged Man"
+    ],
+    "text_joined": "Middle-Aged Man"
+  },
+  {
+    "id": 98186,
+    "text": [
+      "Assiduous Mercenary"
+    ],
+    "text_joined": "Assiduous Mercenary"
+  },
+  {
+    "id": 98188,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98189,
+    "text": [
+      "Sandcat Dancer"
+    ],
+    "text_joined": "Sandcat Dancer"
+  },
+  {
+    "id": 98190,
+    "text": [
+      "Primrose"
+    ],
+    "text_joined": "Primrose"
+  },
+  {
+    "id": 98191,
+    "text": [
+      "Aspiring Leader"
+    ],
+    "text_joined": "Aspiring Leader"
+  },
+  {
+    "id": 98192,
+    "text": [
+      "Youth"
+    ],
+    "text_joined": "Youth"
+  },
+  {
+    "id": 98193,
+    "text": [
+      "Youth"
+    ],
+    "text_joined": "Youth"
+  },
+  {
+    "id": 98194,
+    "text": [
+      "Veggie-Loving Graybeard"
+    ],
+    "text_joined": "Veggie-Loving Graybeard"
+  },
+  {
+    "id": 98195,
+    "text": [
+      "Old Man"
+    ],
+    "text_joined": "Old Man"
+  },
+  {
+    "id": 98197,
+    "text": [
+      "Chatty Old Woman"
+    ],
+    "text_joined": "Chatty Old Woman"
+  },
+  {
+    "id": 98199,
+    "text": [
+      "Scholar"
+    ],
+    "text_joined": "Scholar"
+  },
+  {
+    "id": 98200,
+    "text": [
+      "Industrious Gardener"
+    ],
+    "text_joined": "Industrious Gardener"
+  },
+  {
+    "id": 98201,
+    "text": [
+      "Townsperson"
+    ],
+    "text_joined": "Townsperson"
+  },
+  {
+    "id": 98202,
+    "text": [
+      "Townsperson"
+    ],
+    "text_joined": "Townsperson"
+  },
+  {
+    "id": 98203,
+    "text": [
+      "Tireless Soldier"
+    ],
+    "text_joined": "Tireless Soldier"
+  },
+  {
+    "id": 98204,
+    "text": [
+      "Altinian Infantryman"
+    ],
+    "text_joined": "Altinian Infantryman"
+  },
+  {
+    "id": 98205,
+    "text": [
+      "Altinian Infantryman"
+    ],
+    "text_joined": "Altinian Infantryman"
+  },
+  {
+    "id": 98206,
+    "text": [
+      "Once-Aspiring Knight"
+    ],
+    "text_joined": "Once-Aspiring Knight"
+  },
+  {
+    "id": 98207,
+    "text": [
+      "Youth"
+    ],
+    "text_joined": "Youth"
+  },
+  {
+    "id": 98208,
+    "text": [
+      "Youth"
+    ],
+    "text_joined": "Youth"
+  },
+  {
+    "id": 98209,
+    "text": [
+      "Iron-Loving Merchant"
+    ],
+    "text_joined": "Iron-Loving Merchant"
+  },
+  {
+    "id": 98210,
+    "text": [
+      "Bodyguard"
+    ],
+    "text_joined": "Bodyguard"
+  },
+  {
+    "id": 98211,
+    "text": [
+      "Bodyguard"
+    ],
+    "text_joined": "Bodyguard"
+  },
+  {
+    "id": 98212,
+    "text": [
+      "Mysterious Dancer"
+    ],
+    "text_joined": "Mysterious Dancer"
+  },
+  {
+    "id": 98213,
+    "text": [
+      "Youth"
+    ],
+    "text_joined": "Youth"
+  },
+  {
+    "id": 98214,
+    "text": [
+      "\"Raging Bird\""
+    ],
+    "text_joined": "\"Raging Bird\""
+  },
+  {
+    "id": 98215,
+    "text": [
+      "Cheerful Acrobat"
+    ],
+    "text_joined": "Cheerful Acrobat"
+  },
+  {
+    "id": 98217,
+    "text": [
+      "Drunken Soldier"
+    ],
+    "text_joined": "Drunken Soldier"
+  },
+  {
+    "id": 98218,
+    "text": [
+      "Tavern Patron"
+    ],
+    "text_joined": "Tavern Patron"
+  },
+  {
+    "id": 98219,
+    "text": [
+      "Tavern Patron"
+    ],
+    "text_joined": "Tavern Patron"
+  },
+  {
+    "id": 98220,
+    "text": [
+      "Stern Knight"
+    ],
+    "text_joined": "Stern Knight"
+  },
+  {
+    "id": 98221,
+    "text": [
+      "Knight Ardante"
+    ],
+    "text_joined": "Knight Ardante"
+  },
+  {
+    "id": 98222,
+    "text": [
+      "Cleric"
+    ],
+    "text_joined": "Cleric"
+  },
+  {
+    "id": 98223,
+    "text": [
+      "Proud Knight Ardante"
+    ],
+    "text_joined": "Proud Knight Ardante"
+  },
+  {
+    "id": 98224,
+    "text": [
+      "Knight Ardante"
+    ],
+    "text_joined": "Knight Ardante"
+  },
+  {
+    "id": 98225,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98226,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98228,
+    "text": [
+      "Bishop Timov"
+    ],
+    "text_joined": "Bishop Timov"
+  },
+  {
+    "id": 98229,
+    "text": [
+      "Cleric"
+    ],
+    "text_joined": "Cleric"
+  },
+  {
+    "id": 98231,
+    "text": [
+      "Bloat Belly Peter"
+    ],
+    "text_joined": "Bloat Belly Peter"
+  },
+  {
+    "id": 98232,
+    "text": [
+      "Gladiator"
+    ],
+    "text_joined": "Gladiator"
+  },
+  {
+    "id": 98233,
+    "text": [
+      "Woman"
+    ],
+    "text_joined": "Woman"
+  },
+  {
+    "id": 98234,
+    "text": [
+      "Twilight Panther"
+    ],
+    "text_joined": "Twilight Panther"
+  },
+  {
+    "id": 98235,
+    "text": [
+      "Dancer"
+    ],
+    "text_joined": "Dancer"
+  },
+  {
+    "id": 98236,
+    "text": [
+      "Spectating Noble"
+    ],
+    "text_joined": "Spectating Noble"
+  },
+  {
+    "id": 98237,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98238,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98239,
+    "text": [
+      "Argumentative Man"
+    ],
+    "text_joined": "Argumentative Man"
+  },
+  {
+    "id": 98240,
+    "text": [
+      "Man"
+    ],
+    "text_joined": "Man"
+  },
+  {
+    "id": 98241,
+    "text": [
+      "Ironarm Lexi"
+    ],
+    "text_joined": "Ironarm Lexi"
+  },
+  {
+    "id": 98242,
+    "text": [
+      "Gladiator"
+    ],
+    "text_joined": "Gladiator"
+  },
+  {
+    "id": 98243,
+    "text": [
+      "Legendary Swordsman"
+    ],
+    "text_joined": "Legendary Swordsman"
+  },
+  {
+    "id": 98244,
+    "text": [
+      "Mont d'Or"
+    ],
+    "text_joined": "Mont d'Or"
+  },
+  {
+    "id": 98245,
+    "text": [
+      "Gladiator"
+    ],
+    "text_joined": "Gladiator"
+  },
+  {
+    "id": 98246,
+    "text": [
+      "Estadas"
+    ],
+    "text_joined": "Estadas"
+  },
+  {
+    "id": 98247,
+    "text": [
+      "Gladiator"
+    ],
+    "text_joined": "Gladiator"
+  },
+  {
+    "id": 98248,
+    "text": [
+      "Oswald the Enigma"
+    ],
+    "text_joined": "Oswald the Enigma"
+  },
+  {
+    "id": 98250,
+    "text": [
+      "Woman"
+    ],
+    "text_joined": "Woman"
+  },
+  {
+    "id": 98251,
+    "text": [
+      "Lightfoot Riley"
+    ],
+    "text_joined": "Lightfoot Riley"
+  },
+  {
+    "id": 98252,
+    "text": [
+      "Gladiator"
+    ],
+    "text_joined": "Gladiator"
+  },
+  {
+    "id": 98253,
+    "text": [
+      "Gladiator"
+    ],
+    "text_joined": "Gladiator"
+  },
+  {
+    "id": 98254,
+    "text": [
+      "Arena Gatekeeper"
+    ],
+    "text_joined": "Arena Gatekeeper"
+  },
+  {
+    "id": 98255,
+    "text": [
+      "Man"
+    ],
+    "text_joined": "Man"
+  },
+  {
+    "id": 98257,
+    "text": [
+      "Mister Tomahawk"
+    ],
+    "text_joined": "Mister Tomahawk"
+  },
+  {
+    "id": 98258,
+    "text": [
+      "Covert Mercenary"
+    ],
+    "text_joined": "Covert Mercenary"
+  },
+  {
+    "id": 98259,
+    "text": [
+      "Pleasant Goldsmith"
+    ],
+    "text_joined": "Pleasant Goldsmith"
+  },
+  {
+    "id": 98260,
+    "text": [
+      "Distraught Fisherman"
+    ],
+    "text_joined": "Distraught Fisherman"
+  },
+  {
+    "id": 98261,
+    "text": [
+      "Merchant"
+    ],
+    "text_joined": "Merchant"
+  },
+  {
+    "id": 98262,
+    "text": [
+      "Man"
+    ],
+    "text_joined": "Man"
+  },
+  {
+    "id": 98263,
+    "text": [
+      "Military Scholar"
+    ],
+    "text_joined": "Military Scholar"
+  },
+  {
+    "id": 98264,
+    "text": [
+      "Apprentice"
+    ],
+    "text_joined": "Apprentice"
+  },
+  {
+    "id": 98265,
+    "text": [
+      "Resolute Noblewoman"
+    ],
+    "text_joined": "Resolute Noblewoman"
+  },
+  {
+    "id": 98267,
+    "text": [
+      "Old Woman"
+    ],
+    "text_joined": "Old Woman"
+  },
+  {
+    "id": 98268,
+    "text": [
+      "Cowardly Soldier"
+    ],
+    "text_joined": "Cowardly Soldier"
+  },
+  {
+    "id": 98269,
+    "text": [
+      "Soldier"
+    ],
+    "text_joined": "Soldier"
+  },
+  {
+    "id": 98270,
+    "text": [
+      "Soldier"
+    ],
+    "text_joined": "Soldier"
+  },
+  {
+    "id": 98271,
+    "text": [
+      "Eagle-Eyed Soldier"
+    ],
+    "text_joined": "Eagle-Eyed Soldier"
+  },
+  {
+    "id": 98272,
+    "text": [
+      "Soldier"
+    ],
+    "text_joined": "Soldier"
+  },
+  {
+    "id": 98273,
+    "text": [
+      "Dutiful Old Guard"
+    ],
+    "text_joined": "Dutiful Old Guard"
+  },
+  {
+    "id": 98274,
+    "text": [
+      "Soldier"
+    ],
+    "text_joined": "Soldier"
+  },
+  {
+    "id": 98276,
+    "text": [
+      "Angry Soldier"
+    ],
+    "text_joined": "Angry Soldier"
+  },
+  {
+    "id": 98278,
+    "text": [
+      "Soldier"
+    ],
+    "text_joined": "Soldier"
+  },
+  {
+    "id": 98279,
+    "text": [
+      "Roberta of Rapture"
+    ],
+    "text_joined": "Roberta of Rapture"
+  },
+  {
+    "id": 98280,
+    "text": [
+      "Woman"
+    ],
+    "text_joined": "Woman"
+  },
+  {
+    "id": 98281,
+    "text": [
+      "Man"
+    ],
+    "text_joined": "Man"
+  },
+  {
+    "id": 98282,
+    "text": [
+      "Donescu Syndicate Member"
+    ],
+    "text_joined": "Donescu Syndicate Member"
+  },
+  {
+    "id": 98284,
+    "text": [
+      "Blackrobe"
+    ],
+    "text_joined": "Blackrobe"
+  },
+  {
+    "id": 98285,
+    "text": [
+      "Hardworking Lumberjack"
+    ],
+    "text_joined": "Hardworking Lumberjack"
+  },
+  {
+    "id": 98286,
+    "text": [
+      "Timid Novice Knight Ardante"
+    ],
+    "text_joined": "Timid Novice Knight Ardante"
+  },
+  {
+    "id": 98287,
+    "text": [
+      "Knight Ardante"
+    ],
+    "text_joined": "Knight Ardante"
+  },
+  {
+    "id": 98288,
+    "text": [
+      "Knight Ardante"
+    ],
+    "text_joined": "Knight Ardante"
+  },
+  {
+    "id": 98289,
+    "text": [
+      "Head of the Artisan's Guild"
+    ],
+    "text_joined": "Head of the Artisan's Guild"
+  },
+  {
+    "id": 98290,
+    "text": [
+      "Man"
+    ],
+    "text_joined": "Man"
+  },
+  {
+    "id": 98291,
+    "text": [
+      "Man"
+    ],
+    "text_joined": "Man"
+  },
+  {
+    "id": 98292,
+    "text": [
+      "Hunter Guarding the Town"
+    ],
+    "text_joined": "Hunter Guarding the Town"
+  },
+  {
+    "id": 98293,
+    "text": [
+      "Hunter"
+    ],
+    "text_joined": "Hunter"
+  },
+  {
+    "id": 98295,
+    "text": [
+      "Cathedral Guard Captain"
+    ],
+    "text_joined": "Cathedral Guard Captain"
+  },
+  {
+    "id": 98297,
+    "text": [
+      "Soldier"
+    ],
+    "text_joined": "Soldier"
+  },
+  {
+    "id": 98298,
+    "text": [
+      "Instructor Rhiom"
+    ],
+    "text_joined": "Instructor Rhiom"
+  },
+  {
+    "id": 98299,
+    "text": [
+      "Town Watchman"
+    ],
+    "text_joined": "Town Watchman"
+  },
+  {
+    "id": 98300,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98301,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98302,
+    "text": [
+      "Irritated Ruffian"
+    ],
+    "text_joined": "Irritated Ruffian"
+  },
+  {
+    "id": 98303,
+    "text": [
+      "Man"
+    ],
+    "text_joined": "Man"
+  },
+  {
+    "id": 98305,
+    "text": [
+      "Confident Young Man"
+    ],
+    "text_joined": "Confident Young Man"
+  },
+  {
+    "id": 98306,
+    "text": [
+      "Woman"
+    ],
+    "text_joined": "Woman"
+  },
+  {
+    "id": 98307,
+    "text": [
+      "Woman"
+    ],
+    "text_joined": "Woman"
+  },
+  {
+    "id": 98308,
+    "text": [
+      "Detof Bodyguard"
+    ],
+    "text_joined": "Detof Bodyguard"
+  },
+  {
+    "id": 98309,
+    "text": [
+      "Bodyguard"
+    ],
+    "text_joined": "Bodyguard"
+  },
+  {
+    "id": 98310,
+    "text": [
+      "Bodyguard"
+    ],
+    "text_joined": "Bodyguard"
+  },
+  {
+    "id": 98311,
+    "text": [
+      "Stern Gatekeeper"
+    ],
+    "text_joined": "Stern Gatekeeper"
+  },
+  {
+    "id": 98312,
+    "text": [
+      "Gatekeeper"
+    ],
+    "text_joined": "Gatekeeper"
+  },
+  {
+    "id": 98313,
+    "text": [
+      "Gatekeeper"
+    ],
+    "text_joined": "Gatekeeper"
+  },
+  {
+    "id": 98314,
+    "text": [
+      "Tailor Shelito"
+    ],
+    "text_joined": "Tailor Shelito"
+  },
+  {
+    "id": 98315,
+    "text": [
+      "Desert Labor Supervisor"
+    ],
+    "text_joined": "Desert Labor Supervisor"
+  },
+  {
+    "id": 98316,
+    "text": [
+      "Gruff Laborer"
+    ],
+    "text_joined": "Gruff Laborer"
+  },
+  {
+    "id": 98318,
+    "text": [
+      "Man"
+    ],
+    "text_joined": "Man"
+  },
+  {
+    "id": 98319,
+    "text": [
+      "The Honorable Merchant"
+    ],
+    "text_joined": "The Honorable Merchant"
+  },
+  {
+    "id": 98320,
+    "text": [
+      "Merchant"
+    ],
+    "text_joined": "Merchant"
+  },
+  {
+    "id": 98322,
+    "text": [
+      "Diarist"
+    ],
+    "text_joined": "Diarist"
+  },
+  {
+    "id": 98323,
+    "text": [
+      "Woman"
+    ],
+    "text_joined": "Woman"
+  },
+  {
+    "id": 98325,
+    "text": [
+      "Fierce-Looking Guard"
+    ],
+    "text_joined": "Fierce-Looking Guard"
+  },
+  {
+    "id": 98326,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98327,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98328,
+    "text": [
+      "Bejeweled Matron"
+    ],
+    "text_joined": "Bejeweled Matron"
+  },
+  {
+    "id": 98329,
+    "text": [
+      "Dancer"
+    ],
+    "text_joined": "Dancer"
+  },
+  {
+    "id": 98330,
+    "text": [
+      "Woman"
+    ],
+    "text_joined": "Woman"
+  },
+  {
+    "id": 98331,
+    "text": [
+      "Veteran Captain"
+    ],
+    "text_joined": "Veteran Captain"
+  },
+  {
+    "id": 98332,
+    "text": [
+      "Man"
+    ],
+    "text_joined": "Man"
+  },
+  {
+    "id": 98334,
+    "text": [
+      "Sentry with a Past"
+    ],
+    "text_joined": "Sentry with a Past"
+  },
+  {
+    "id": 98335,
+    "text": [
+      "Gatekeeper"
+    ],
+    "text_joined": "Gatekeeper"
+  },
+  {
+    "id": 98336,
+    "text": [
+      "Gakko"
+    ],
+    "text_joined": "Gakko"
+  },
+  {
+    "id": 98337,
+    "text": [
+      "Ivri"
+    ],
+    "text_joined": "Ivri"
+  },
+  {
+    "id": 98338,
+    "text": [
+      "Wappa"
+    ],
+    "text_joined": "Wappa"
+  },
+  {
+    "id": 98339,
+    "text": [
+      "Castle Town Guard"
+    ],
+    "text_joined": "Castle Town Guard"
+  },
+  {
+    "id": 98340,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98341,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98342,
+    "text": [
+      "Cow-Loving Farmer"
+    ],
+    "text_joined": "Cow-Loving Farmer"
+  },
+  {
+    "id": 98344,
+    "text": [
+      "Cook"
+    ],
+    "text_joined": "Cook"
+  },
+  {
+    "id": 98345,
+    "text": [
+      "Badly Wounded Guard"
+    ],
+    "text_joined": "Badly Wounded Guard"
+  },
+  {
+    "id": 98346,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98347,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98348,
+    "text": [
+      "Diligent Guard"
+    ],
+    "text_joined": "Diligent Guard"
+  },
+  {
+    "id": 98349,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98350,
+    "text": [
+      "Scholar"
+    ],
+    "text_joined": "Scholar"
+  },
+  {
+    "id": 98351,
+    "text": [
+      "Good-For-Nothing Guard"
+    ],
+    "text_joined": "Good-For-Nothing Guard"
+  },
+  {
+    "id": 98352,
+    "text": [
+      "Mercenary"
+    ],
+    "text_joined": "Mercenary"
+  },
+  {
+    "id": 98354,
+    "text": [
+      "Long-Standing Divine Scholar"
+    ],
+    "text_joined": "Long-Standing Divine Scholar"
+  },
+  {
+    "id": 98355,
+    "text": [
+      "Scholar"
+    ],
+    "text_joined": "Scholar"
+  },
+  {
+    "id": 98357,
+    "text": [
+      "Headmaster Yvon"
+    ],
+    "text_joined": "Headmaster Yvon"
+  },
+  {
+    "id": 98358,
+    "text": [
+      "Theoretical Military Scholar"
+    ],
+    "text_joined": "Theoretical Military Scholar"
+  },
+  {
+    "id": 98359,
+    "text": [
+      "Scholar of Harmony"
+    ],
+    "text_joined": "Scholar of Harmony"
+  },
+  {
+    "id": 98360,
+    "text": [
+      "Scholar"
+    ],
+    "text_joined": "Scholar"
+  },
+  {
+    "id": 98361,
+    "text": [
+      "Scholar"
+    ],
+    "text_joined": "Scholar"
+  },
+  {
+    "id": 98362,
+    "text": [
+      "Chief's Residence Guard"
+    ],
+    "text_joined": "Chief's Residence Guard"
+  },
+  {
+    "id": 98363,
+    "text": [
+      "Man"
+    ],
+    "text_joined": "Man"
+  },
+  {
+    "id": 98365,
+    "text": [
+      "Powerful Maiden-in-Training"
+    ],
+    "text_joined": "Powerful Maiden-in-Training"
+  },
+  {
+    "id": 98366,
+    "text": [
+      "Maiden"
+    ],
+    "text_joined": "Maiden"
+  },
+  {
+    "id": 98367,
+    "text": [
+      "Maiden"
+    ],
+    "text_joined": "Maiden"
+  },
+  {
+    "id": 98368,
+    "text": [
+      "Reime"
+    ],
+    "text_joined": "Reime"
+  },
+  {
+    "id": 98369,
+    "text": [
+      "Heidne"
+    ],
+    "text_joined": "Heidne"
+  },
+  {
+    "id": 98370,
+    "text": [
+      "Esperre"
+    ],
+    "text_joined": "Esperre"
+  },
+  {
+    "id": 98371,
+    "text": [
+      "Phenn"
+    ],
+    "text_joined": "Phenn"
+  },
+  {
+    "id": 98372,
+    "text": [
+      "Delitia"
+    ],
+    "text_joined": "Delitia"
+  },
+  {
+    "id": 98373,
+    "text": [
+      "Olberic"
+    ],
+    "text_joined": "Olberic"
+  },
+  {
+    "id": 98374,
+    "text": [
+      "H'aanit"
+    ],
+    "text_joined": "H'aanit"
+  },
+  {
+    "id": 98375,
+    "text": [
+      "Primrose"
+    ],
+    "text_joined": "Primrose"
+  },
+  {
+    "id": 98376,
+    "text": [
+      "Alaune"
+    ],
+    "text_joined": "Alaune"
+  },
+  {
+    "id": 98377,
+    "text": [
+      "Tatloch"
+    ],
+    "text_joined": "Tatloch"
+  },
+  {
+    "id": 98378,
+    "text": [
+      "Sazantos"
+    ],
+    "text_joined": "Sazantos"
+  },
+  {
+    "id": 98457,
+    "text": [
+      "Deceased Gatekeeper"
+    ],
+    "text_joined": "Deceased Gatekeeper"
+  },
+  {
+    "id": 98459,
+    "text": [
+      "Gatekeeper"
+    ],
+    "text_joined": "Gatekeeper"
+  },
+  {
+    "id": 98460,
+    "text": [
+      "Knowledgeable Apothecary"
+    ],
+    "text_joined": "Knowledgeable Apothecary"
+  },
+  {
+    "id": 98461,
+    "text": [
+      "Apothecary"
+    ],
+    "text_joined": "Apothecary"
+  },
+  {
+    "id": 98462,
+    "text": [
+      "Mighty Turilli"
+    ],
+    "text_joined": "Mighty Turilli"
+  },
+  {
+    "id": 98463,
+    "text": [
+      "Syndicate Member"
+    ],
+    "text_joined": "Syndicate Member"
+  },
+  {
+    "id": 98464,
+    "text": [
+      "Mesara the Thief"
+    ],
+    "text_joined": "Mesara the Thief"
+  },
+  {
+    "id": 98465,
+    "text": [
+      "Thief"
+    ],
+    "text_joined": "Thief"
+  },
+  {
+    "id": 98466,
+    "text": [
+      "Thief"
+    ],
+    "text_joined": "Thief"
+  },
+  {
+    "id": 98467,
+    "text": [
+      "Burly Soldier"
+    ],
+    "text_joined": "Burly Soldier"
+  },
+  {
+    "id": 98468,
+    "text": [
+      "Altinian Soldier"
+    ],
+    "text_joined": "Altinian Soldier"
+  },
+  {
+    "id": 98469,
+    "text": [
+      "Altinian Soldier"
+    ],
+    "text_joined": "Altinian Soldier"
+  },
+  {
+    "id": 98470,
+    "text": [
+      "Ulrica's Attendant"
+    ],
+    "text_joined": "Ulrica's Attendant"
+  },
+  {
+    "id": 98471,
+    "text": [
+      "Attendant"
+    ],
+    "text_joined": "Attendant"
+  },
+  {
+    "id": 98472,
+    "text": [
+      "Hornburgian Guard"
+    ],
+    "text_joined": "Hornburgian Guard"
+  },
+  {
+    "id": 98473,
+    "text": [
+      "Gatekeeper"
+    ],
+    "text_joined": "Gatekeeper"
+  },
+  {
+    "id": 98474,
+    "text": [
+      "Bard Who Sings of a Dragon Slayer"
+    ],
+    "text_joined": "Bard Who Sings of a Dragon Slayer"
+  },
+  {
+    "id": 98475,
+    "text": [
+      "Bard"
+    ],
+    "text_joined": "Bard"
+  },
+  {
+    "id": 98491,
+    "text": [
+      "Shivering Black Cat"
+    ],
+    "text_joined": "Shivering Black Cat"
+  },
+  {
+    "id": 98492,
+    "text": [
+      "Aggressive Alpaca"
+    ],
+    "text_joined": "Aggressive Alpaca"
+  },
+  {
+    "id": 98493,
+    "text": [
+      "Self-Indulgent Bovine"
+    ],
+    "text_joined": "Self-Indulgent Bovine"
+  },
+  {
+    "id": 98494,
+    "text": [
+      "Hound of Power"
+    ],
+    "text_joined": "Hound of Power"
+  },
+  {
+    "id": 98495,
+    "text": [
+      "Bloodthirsty Rabbit"
+    ],
+    "text_joined": "Bloodthirsty Rabbit"
+  },
+  {
+    "id": 98496,
+    "text": [
+      "Octopus Traveler"
+    ],
+    "text_joined": "Octopus Traveler"
+  },
+  {
+    "id": 98505,
+    "text": [
+      "Rugis Surra"
+    ],
+    "text_joined": "Rugis Surra"
+  },
+  {
+    "id": 98515,
+    "text": [
+      "Lutus"
+    ],
+    "text_joined": "Lutus"
+  }
+]

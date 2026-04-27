@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "text": [
+      "Results"
+    ],
+    "text_joined": "Results"
+  },
+  {
+    "id": 2,
+    "text": [
+      "Level Up"
+    ],
+    "text_joined": "Level Up"
+  },
+  {
+    "id": 3,
+    "text": [
+      "Critical"
+    ],
+    "text_joined": "Critical"
+  },
+  {
+    "id": 4,
+    "text": [
+      "Miss"
+    ],
+    "text_joined": "Miss"
+  },
+  {
+    "id": 5,
+    "text": [
+      "WEAK"
+    ],
+    "text_joined": "WEAK"
+  },
+  {
+    "id": 6,
+    "text": [
+      "Overkill"
+    ],
+    "text_joined": "Overkill"
+  },
+  {
+    "id": 7,
+    "text": [
+      "Shield Guard"
+    ],
+    "text_joined": "Shield Guard"
+  },
+  {
+    "id": 8,
+    "text": [
+      "BP"
+    ],
+    "text_joined": "BP"
+  },
+  {
+    "id": 9,
+    "text": [
+      "SP"
+    ],
+    "text_joined": "SP"
+  },
+  {
+    "id": 10,
+    "text": [
+      "BREAK"
+    ],
+    "text_joined": "BREAK"
+  },
+  {
+    "id": 11,
+    "text": [
+      "Game Over"
+    ],
+    "text_joined": "Game Over"
+  },
+  {
+    "id": 12,
+    "text": [
+      "Town Level"
+    ],
+    "text_joined": "Town Level"
+  },
+  {
+    "id": 13,
+    "text": [
+      "Fame"
+    ],
+    "text_joined": "Fame"
+  },
+  {
+    "id": 14,
+    "text": [
+      "Wealth"
+    ],
+    "text_joined": "Wealth"
+  },
+  {
+    "id": 15,
+    "text": [
+      "Power"
+    ],
+    "text_joined": "Power"
+  },
+  {
+    "id": 18,
+    "text": [
+      "ALL"
+    ],
+    "text_joined": "ALL"
+  },
+  {
+    "id": 19,
+    "text": [
+      "ALL"
+    ],
+    "text_joined": "ALL"
+  },
+  {
+    "id": 20,
+    "text": [
+      "Complete"
+    ],
+    "text_joined": "Complete"
+  },
+  {
+    "id": 21,
+    "text": [
+      "Loading..."
+    ],
+    "text_joined": "Loading..."
+  },
+  {
+    "id": 22,
+    "text": [
+      "Rank Up"
+    ],
+    "text_joined": "Rank Up"
+  },
+  {
+    "id": 23,
+    "text": [
+      "Fin"
+    ],
+    "text_joined": "Fin"
+  },
+  {
+    "id": 24,
+    "text": [
+      "Thank you for traveling with us."
+    ],
+    "text_joined": "Thank you for traveling with us."
+  },
+  {
+    "id": 25,
+    "text": [
+      "You who seek wealth will begin your journey\nin the verdant forests of the Woodlands.\n\nThere, you will cross paths with\nHerminia, \"the Covetous Witch.\"\n\nHer all-consuming desire has stained\nthe town of Valore with darkness and depravity."
+    ],
+    "text_joined": "You who seek wealth will begin your journey\nin the verdant forests of the Woodlands.\n\nThere, you will cross paths with\nHerminia, \"the Covetous Witch.\"\n\nHer all-consuming desire has stained\nthe town of Valore with darkness and depravity."
+  },
+  {
+    "id": 26,
+    "text": [
+      "You who seek fame will begin your journey\nin the grassy meadows of the Flatlands.\n\nThere, you will cross paths with\nAuguste, the genius playwright.\n\nIn Theatropolis, city of the arts, many a poor soul\nhas been led astray by his beguiling words."
+    ],
+    "text_joined": "You who seek fame will begin your journey\nin the grassy meadows of the Flatlands.\n\nThere, you will cross paths with\nAuguste, the genius playwright.\n\nIn Theatropolis, city of the arts, many a poor soul\nhas been led astray by his beguiling words."
+  },
+  {
+    "id": 27,
+    "text": [
+      "You who seek power will begin your journey\nin the snow-swept frontiers of the Frostlands.\n\nThere, you will cross paths with\nTytos, the hero.\n\nLeader of the Scarlet Wings, a band of former\ncriminals, he rules Emberglow with an iron fist."
+    ],
+    "text_joined": "You who seek power will begin your journey\nin the snow-swept frontiers of the Frostlands.\n\nThere, you will cross paths with\nTytos, the hero.\n\nLeader of the Scarlet Wings, a band of former\ncriminals, he rules Emberglow with an iron fist."
+  },
+  {
+    "id": 28,
+    "text": [
+      "Zero"
+    ],
+    "text_joined": "Zero"
+  },
+  {
+    "id": 29,
+    "text": [
+      "Wish Roll"
+    ],
+    "text_joined": "Wish Roll"
+  }
+]

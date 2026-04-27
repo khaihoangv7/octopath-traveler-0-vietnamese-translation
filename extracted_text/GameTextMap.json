@@ -1,0 +1,2326 @@
+[
+  {
+    "id": 3101,
+    "text": [
+      "Frostlands Region"
+    ],
+    "text_joined": "Frostlands Region"
+  },
+  {
+    "id": 3102,
+    "text": [
+      "Flatlands Region"
+    ],
+    "text_joined": "Flatlands Region"
+  },
+  {
+    "id": 3103,
+    "text": [
+      "Coastlands Region"
+    ],
+    "text_joined": "Coastlands Region"
+  },
+  {
+    "id": 3104,
+    "text": [
+      "Highlands Region"
+    ],
+    "text_joined": "Highlands Region"
+  },
+  {
+    "id": 3105,
+    "text": [
+      "Sunlands Region"
+    ],
+    "text_joined": "Sunlands Region"
+  },
+  {
+    "id": 3106,
+    "text": [
+      "Riverlands Region"
+    ],
+    "text_joined": "Riverlands Region"
+  },
+  {
+    "id": 3107,
+    "text": [
+      "Cliftlands Region"
+    ],
+    "text_joined": "Cliftlands Region"
+  },
+  {
+    "id": 3108,
+    "text": [
+      "Woodlands Region"
+    ],
+    "text_joined": "Woodlands Region"
+  },
+  {
+    "id": 16269,
+    "text": [
+      "The Gate of Finis"
+    ],
+    "text_joined": "The Gate of Finis"
+  },
+  {
+    "id": 16270,
+    "text": [
+      "The Heavens"
+    ],
+    "text_joined": "The Heavens"
+  },
+  {
+    "id": 90097,
+    "text": [
+      "???"
+    ],
+    "text_joined": "???"
+  },
+  {
+    "id": 3201,
+    "text": [
+      "Cragspear Pass"
+    ],
+    "text_joined": "Cragspear Pass"
+  },
+  {
+    "id": 3202,
+    "text": [
+      "Cragspear"
+    ],
+    "text_joined": "Cragspear"
+  },
+  {
+    "id": 3203,
+    "text": [
+      "Cragspear: Slums"
+    ],
+    "text_joined": "Cragspear: Slums"
+  },
+  {
+    "id": 3204,
+    "text": [
+      "Castle Edoras: Dungeon"
+    ],
+    "text_joined": "Castle Edoras: Dungeon"
+  },
+  {
+    "id": 3205,
+    "text": [
+      "Gray Grotto"
+    ],
+    "text_joined": "Gray Grotto"
+  },
+  {
+    "id": 3206,
+    "text": [
+      "Gray Grotto: Depths"
+    ],
+    "text_joined": "Gray Grotto: Depths"
+  },
+  {
+    "id": 3207,
+    "text": [
+      "South Cragspear Pass"
+    ],
+    "text_joined": "South Cragspear Pass"
+  },
+  {
+    "id": 3208,
+    "text": [
+      "Geist Canyon: South"
+    ],
+    "text_joined": "Geist Canyon: South"
+  },
+  {
+    "id": 3209,
+    "text": [
+      "Geist Canyon"
+    ],
+    "text_joined": "Geist Canyon"
+  },
+  {
+    "id": 3210,
+    "text": [
+      "Road to Castle Edoras"
+    ],
+    "text_joined": "Road to Castle Edoras"
+  },
+  {
+    "id": 3211,
+    "text": [
+      "Castle Edoras Gate"
+    ],
+    "text_joined": "Castle Edoras Gate"
+  },
+  {
+    "id": 3212,
+    "text": [
+      "Castle Edoras"
+    ],
+    "text_joined": "Castle Edoras"
+  },
+  {
+    "id": 3213,
+    "text": [
+      "Castle Edoras: Upper Floor"
+    ],
+    "text_joined": "Castle Edoras: Upper Floor"
+  },
+  {
+    "id": 3214,
+    "text": [
+      "Castle Edoras: Courtyard"
+    ],
+    "text_joined": "Castle Edoras: Courtyard"
+  },
+  {
+    "id": 3215,
+    "text": [
+      "Castle Edoras: Princess's Chambers"
+    ],
+    "text_joined": "Castle Edoras: Princess's Chambers"
+  },
+  {
+    "id": 3216,
+    "text": [
+      "Castle Edoras: Throne Room"
+    ],
+    "text_joined": "Castle Edoras: Throne Room"
+  },
+  {
+    "id": 3222,
+    "text": [
+      "Rippletide"
+    ],
+    "text_joined": "Rippletide"
+  },
+  {
+    "id": 3223,
+    "text": [
+      "Rippletide Coast"
+    ],
+    "text_joined": "Rippletide Coast"
+  },
+  {
+    "id": 3224,
+    "text": [
+      "North Rippletide Coast"
+    ],
+    "text_joined": "North Rippletide Coast"
+  },
+  {
+    "id": 3225,
+    "text": [
+      "Isle of Orsa"
+    ],
+    "text_joined": "Isle of Orsa"
+  },
+  {
+    "id": 3226,
+    "text": [
+      "Isle of Orsa: Depths"
+    ],
+    "text_joined": "Isle of Orsa: Depths"
+  },
+  {
+    "id": 3363,
+    "text": [
+      "Isle of Orsa: Altar"
+    ],
+    "text_joined": "Isle of Orsa: Altar"
+  },
+  {
+    "id": 3227,
+    "text": [
+      "Sunshade"
+    ],
+    "text_joined": "Sunshade"
+  },
+  {
+    "id": 3228,
+    "text": [
+      "Sunshade Sands"
+    ],
+    "text_joined": "Sunshade Sands"
+  },
+  {
+    "id": 3229,
+    "text": [
+      "Eastern Sunshade Sands"
+    ],
+    "text_joined": "Eastern Sunshade Sands"
+  },
+  {
+    "id": 3237,
+    "text": [
+      "Shepherds Rock Pass"
+    ],
+    "text_joined": "Shepherds Rock Pass"
+  },
+  {
+    "id": 3238,
+    "text": [
+      "North Shepherds Rock Pass"
+    ],
+    "text_joined": "North Shepherds Rock Pass"
+  },
+  {
+    "id": 3239,
+    "text": [
+      "Valley of Death: East"
+    ],
+    "text_joined": "Valley of Death: East"
+  },
+  {
+    "id": 3240,
+    "text": [
+      "Valley of Death"
+    ],
+    "text_joined": "Valley of Death"
+  },
+  {
+    "id": 3241,
+    "text": [
+      "Valley of Death: West"
+    ],
+    "text_joined": "Valley of Death: West"
+  },
+  {
+    "id": 3247,
+    "text": [
+      "Valore"
+    ],
+    "text_joined": "Valore"
+  },
+  {
+    "id": 3248,
+    "text": [
+      "Valore: Main Boulevard"
+    ],
+    "text_joined": "Valore: Main Boulevard"
+  },
+  {
+    "id": 3249,
+    "text": [
+      "Valore Trail"
+    ],
+    "text_joined": "Valore Trail"
+  },
+  {
+    "id": 3250,
+    "text": [
+      "West Valore Trail"
+    ],
+    "text_joined": "West Valore Trail"
+  },
+  {
+    "id": 3251,
+    "text": [
+      "Path to Herminia's Manse"
+    ],
+    "text_joined": "Path to Herminia's Manse"
+  },
+  {
+    "id": 3252,
+    "text": [
+      "Herminia's Manse: Entrance"
+    ],
+    "text_joined": "Herminia's Manse: Entrance"
+  },
+  {
+    "id": 3253,
+    "text": [
+      "Herminia's Manse"
+    ],
+    "text_joined": "Herminia's Manse"
+  },
+  {
+    "id": 3254,
+    "text": [
+      "Herminia's Manse: Cellars"
+    ],
+    "text_joined": "Herminia's Manse: Cellars"
+  },
+  {
+    "id": 3255,
+    "text": [
+      "Auguste's Villa: Entrance"
+    ],
+    "text_joined": "Auguste's Villa: Entrance"
+  },
+  {
+    "id": 3256,
+    "text": [
+      "Auguste's Villa"
+    ],
+    "text_joined": "Auguste's Villa"
+  },
+  {
+    "id": 3257,
+    "text": [
+      "Emberglow"
+    ],
+    "text_joined": "Emberglow"
+  },
+  {
+    "id": 3258,
+    "text": [
+      "Emberglow: East District"
+    ],
+    "text_joined": "Emberglow: East District"
+  },
+  {
+    "id": 3259,
+    "text": [
+      "Emberglow Wilds"
+    ],
+    "text_joined": "Emberglow Wilds"
+  },
+  {
+    "id": 3260,
+    "text": [
+      "West Emberglow Wilds"
+    ],
+    "text_joined": "West Emberglow Wilds"
+  },
+  {
+    "id": 3261,
+    "text": [
+      "Emberglow Laboratory: Entrance"
+    ],
+    "text_joined": "Emberglow Laboratory: Entrance"
+  },
+  {
+    "id": 3262,
+    "text": [
+      "Emberglow Laboratory"
+    ],
+    "text_joined": "Emberglow Laboratory"
+  },
+  {
+    "id": 3263,
+    "text": [
+      "Ceremonial Square"
+    ],
+    "text_joined": "Ceremonial Square"
+  },
+  {
+    "id": 3264,
+    "text": [
+      "Cathedral of Tytos"
+    ],
+    "text_joined": "Cathedral of Tytos"
+  },
+  {
+    "id": 16060,
+    "text": [
+      "Cathedral of Tytos: Entrance"
+    ],
+    "text_joined": "Cathedral of Tytos: Entrance"
+  },
+  {
+    "id": 16061,
+    "text": [
+      "Cathedral of Tytos"
+    ],
+    "text_joined": "Cathedral of Tytos"
+  },
+  {
+    "id": 3265,
+    "text": [
+      "Snowbloom Ruins"
+    ],
+    "text_joined": "Snowbloom Ruins"
+  },
+  {
+    "id": 3266,
+    "text": [
+      "Subterranean Snow Ruins"
+    ],
+    "text_joined": "Subterranean Snow Ruins"
+  },
+  {
+    "id": 3273,
+    "text": [
+      "Clearbrook"
+    ],
+    "text_joined": "Clearbrook"
+  },
+  {
+    "id": 3274,
+    "text": [
+      "Clearbrook Traverse"
+    ],
+    "text_joined": "Clearbrook Traverse"
+  },
+  {
+    "id": 3275,
+    "text": [
+      "East Clearbrook Traverse"
+    ],
+    "text_joined": "East Clearbrook Traverse"
+  },
+  {
+    "id": 3276,
+    "text": [
+      "Path to Waterpool Caves"
+    ],
+    "text_joined": "Path to Waterpool Caves"
+  },
+  {
+    "id": 3277,
+    "text": [
+      "Waterpool Caves"
+    ],
+    "text_joined": "Waterpool Caves"
+  },
+  {
+    "id": 3278,
+    "text": [
+      "Theatropolis"
+    ],
+    "text_joined": "Theatropolis"
+  },
+  {
+    "id": 3279,
+    "text": [
+      "Amphitheatre"
+    ],
+    "text_joined": "Amphitheatre"
+  },
+  {
+    "id": 3334,
+    "text": [
+      "Amphitheatre: Entrance"
+    ],
+    "text_joined": "Amphitheatre: Entrance"
+  },
+  {
+    "id": 3280,
+    "text": [
+      "Theatropolis Plains"
+    ],
+    "text_joined": "Theatropolis Plains"
+  },
+  {
+    "id": 3281,
+    "text": [
+      "North Theatropolis Plains"
+    ],
+    "text_joined": "North Theatropolis Plains"
+  },
+  {
+    "id": 3282,
+    "text": [
+      "Amphitheatre: Rehearsal Room"
+    ],
+    "text_joined": "Amphitheatre: Rehearsal Room"
+  },
+  {
+    "id": 3283,
+    "text": [
+      "Amphitheatre: Dressing Room"
+    ],
+    "text_joined": "Amphitheatre: Dressing Room"
+  },
+  {
+    "id": 3284,
+    "text": [
+      "Amphitheatre: Backstage"
+    ],
+    "text_joined": "Amphitheatre: Backstage"
+  },
+  {
+    "id": 3285,
+    "text": [
+      "Amphitheatre: Underground"
+    ],
+    "text_joined": "Amphitheatre: Underground"
+  },
+  {
+    "id": 3286,
+    "text": [
+      "Knights Ardante Garrison"
+    ],
+    "text_joined": "Knights Ardante Garrison"
+  },
+  {
+    "id": 3320,
+    "text": [
+      "Emberglow Slopes"
+    ],
+    "text_joined": "Emberglow Slopes"
+  },
+  {
+    "id": 3321,
+    "text": [
+      "Shepherds Rock"
+    ],
+    "text_joined": "Shepherds Rock"
+  },
+  {
+    "id": 3322,
+    "text": [
+      "Shepherds Rock: Castle Square"
+    ],
+    "text_joined": "Shepherds Rock: Castle Square"
+  },
+  {
+    "id": 3323,
+    "text": [
+      "Hunter's House"
+    ],
+    "text_joined": "Hunter's House"
+  },
+  {
+    "id": 3324,
+    "text": [
+      "Stillwater Subterrane"
+    ],
+    "text_joined": "Stillwater Subterrane"
+  },
+  {
+    "id": 3325,
+    "text": [
+      "Castle Riven"
+    ],
+    "text_joined": "Castle Riven"
+  },
+  {
+    "id": 3327,
+    "text": [
+      "Finesand Ruins"
+    ],
+    "text_joined": "Finesand Ruins"
+  },
+  {
+    "id": 3329,
+    "text": [
+      "Cavern of Mists"
+    ],
+    "text_joined": "Cavern of Mists"
+  },
+  {
+    "id": 3330,
+    "text": [
+      "Serpent's Burrow"
+    ],
+    "text_joined": "Serpent's Burrow"
+  },
+  {
+    "id": 3333,
+    "text": [
+      "Snowshard Grotto"
+    ],
+    "text_joined": "Snowshard Grotto"
+  },
+  {
+    "id": 10001,
+    "text": [
+      "Victors Hollow"
+    ],
+    "text_joined": "Victors Hollow"
+  },
+  {
+    "id": 10002,
+    "text": [
+      "Victors Hollow: Arena Gate"
+    ],
+    "text_joined": "Victors Hollow: Arena Gate"
+  },
+  {
+    "id": 10003,
+    "text": [
+      "Victors Hollow: Old Quarter"
+    ],
+    "text_joined": "Victors Hollow: Old Quarter"
+  },
+  {
+    "id": 10004,
+    "text": [
+      "Arena"
+    ],
+    "text_joined": "Arena"
+  },
+  {
+    "id": 10005,
+    "text": [
+      "Victors Hollow Trail"
+    ],
+    "text_joined": "Victors Hollow Trail"
+  },
+  {
+    "id": 10006,
+    "text": [
+      "Subterranean Arena"
+    ],
+    "text_joined": "Subterranean Arena"
+  },
+  {
+    "id": 10007,
+    "text": [
+      "Leopaldi's Estate"
+    ],
+    "text_joined": "Leopaldi's Estate"
+  },
+  {
+    "id": 16121,
+    "text": [
+      "Herminia's Former Manse: Terrace"
+    ],
+    "text_joined": "Herminia's Former Manse: Terrace"
+  },
+  {
+    "id": 16119,
+    "text": [
+      "Herminia's Former Manse"
+    ],
+    "text_joined": "Herminia's Former Manse"
+  },
+  {
+    "id": 10008,
+    "text": [
+      "Great Tree's Tears"
+    ],
+    "text_joined": "Great Tree's Tears"
+  },
+  {
+    "id": 16010,
+    "text": [
+      "Flamesgrace"
+    ],
+    "text_joined": "Flamesgrace"
+  },
+  {
+    "id": 16011,
+    "text": [
+      "Flamesgrace Cathedral: Entrance"
+    ],
+    "text_joined": "Flamesgrace Cathedral: Entrance"
+  },
+  {
+    "id": 16012,
+    "text": [
+      "Flamesgrace Cathedral"
+    ],
+    "text_joined": "Flamesgrace Cathedral"
+  },
+  {
+    "id": 16042,
+    "text": [
+      "Flamesgrace Wilds"
+    ],
+    "text_joined": "Flamesgrace Wilds"
+  },
+  {
+    "id": 16063,
+    "text": [
+      "Cathedral of Tytos: Underground"
+    ],
+    "text_joined": "Cathedral of Tytos: Underground"
+  },
+  {
+    "id": 16064,
+    "text": [
+      "Emberglow Laboratory: Inner Chambers"
+    ],
+    "text_joined": "Emberglow Laboratory: Inner Chambers"
+  },
+  {
+    "id": 16106,
+    "text": [
+      "Valley of the Flame"
+    ],
+    "text_joined": "Valley of the Flame"
+  },
+  {
+    "id": 16107,
+    "text": [
+      "Path to the Cave of Origin"
+    ],
+    "text_joined": "Path to the Cave of Origin"
+  },
+  {
+    "id": 16108,
+    "text": [
+      "Cave of Origin"
+    ],
+    "text_joined": "Cave of Origin"
+  },
+  {
+    "id": 16014,
+    "text": [
+      "Sufrataljah"
+    ],
+    "text_joined": "Sufrataljah"
+  },
+  {
+    "id": 16015,
+    "text": [
+      "Sufrataljah: Palace Entrance"
+    ],
+    "text_joined": "Sufrataljah: Palace Entrance"
+  },
+  {
+    "id": 16016,
+    "text": [
+      "Sufrataljah Sands"
+    ],
+    "text_joined": "Sufrataljah Sands"
+  },
+  {
+    "id": 16068,
+    "text": [
+      "Eternal Quicksand"
+    ],
+    "text_joined": "Eternal Quicksand"
+  },
+  {
+    "id": 16017,
+    "text": [
+      "Sufrataljah: Palace"
+    ],
+    "text_joined": "Sufrataljah: Palace"
+  },
+  {
+    "id": 16018,
+    "text": [
+      "Sufrataljah: Palace - Upper Floor"
+    ],
+    "text_joined": "Sufrataljah: Palace - Upper Floor"
+  },
+  {
+    "id": 16115,
+    "text": [
+      "Golden Palace: Upper Floor"
+    ],
+    "text_joined": "Golden Palace: Upper Floor"
+  },
+  {
+    "id": 16116,
+    "text": [
+      "Golden Palace: Middle Floor"
+    ],
+    "text_joined": "Golden Palace: Middle Floor"
+  },
+  {
+    "id": 16117,
+    "text": [
+      "Golden Palace: Lower Floor"
+    ],
+    "text_joined": "Golden Palace: Lower Floor"
+  },
+  {
+    "id": 16141,
+    "text": [
+      "Silver Spring"
+    ],
+    "text_joined": "Silver Spring"
+  },
+  {
+    "id": 16024,
+    "text": [
+      "Donescu"
+    ],
+    "text_joined": "Donescu"
+  },
+  {
+    "id": 16025,
+    "text": [
+      "Donescu Castle"
+    ],
+    "text_joined": "Donescu Castle"
+  },
+  {
+    "id": 16026,
+    "text": [
+      "Donescu Traverse"
+    ],
+    "text_joined": "Donescu Traverse"
+  },
+  {
+    "id": 16027,
+    "text": [
+      "East Cyphlo Banks"
+    ],
+    "text_joined": "East Cyphlo Banks"
+  },
+  {
+    "id": 16028,
+    "text": [
+      "Cyphlo Banks"
+    ],
+    "text_joined": "Cyphlo Banks"
+  },
+  {
+    "id": 16029,
+    "text": [
+      "Misty Falls"
+    ],
+    "text_joined": "Misty Falls"
+  },
+  {
+    "id": 16034,
+    "text": [
+      "Grandport"
+    ],
+    "text_joined": "Grandport"
+  },
+  {
+    "id": 16035,
+    "text": [
+      "Grandport Markets"
+    ],
+    "text_joined": "Grandport Markets"
+  },
+  {
+    "id": 16036,
+    "text": [
+      "Grandport Bazaar"
+    ],
+    "text_joined": "Grandport Bazaar"
+  },
+  {
+    "id": 16087,
+    "text": [
+      "Grandport: Estate Entrance"
+    ],
+    "text_joined": "Grandport: Estate Entrance"
+  },
+  {
+    "id": 16037,
+    "text": [
+      "Grandport Coast"
+    ],
+    "text_joined": "Grandport Coast"
+  },
+  {
+    "id": 16085,
+    "text": [
+      "Grandport Sewers"
+    ],
+    "text_joined": "Grandport Sewers"
+  },
+  {
+    "id": 16086,
+    "text": [
+      "Grandport Sewers: Depths"
+    ],
+    "text_joined": "Grandport Sewers: Depths"
+  },
+  {
+    "id": 16038,
+    "text": [
+      "Sea Cavern"
+    ],
+    "text_joined": "Sea Cavern"
+  },
+  {
+    "id": 16054,
+    "text": [
+      "Atlasdam Flats"
+    ],
+    "text_joined": "Atlasdam Flats"
+  },
+  {
+    "id": 16062,
+    "text": [
+      "West Theatropolis Plains"
+    ],
+    "text_joined": "West Theatropolis Plains"
+  },
+  {
+    "id": 16055,
+    "text": [
+      "Atlasdam"
+    ],
+    "text_joined": "Atlasdam"
+  },
+  {
+    "id": 16056,
+    "text": [
+      "Atlasdam Palace Gate"
+    ],
+    "text_joined": "Atlasdam Palace Gate"
+  },
+  {
+    "id": 16104,
+    "text": [
+      "Atlasdam Palace"
+    ],
+    "text_joined": "Atlasdam Palace"
+  },
+  {
+    "id": 16105,
+    "text": [
+      "Royal Academy of Atlasdam"
+    ],
+    "text_joined": "Royal Academy of Atlasdam"
+  },
+  {
+    "id": 16142,
+    "text": [
+      "Berecain"
+    ],
+    "text_joined": "Berecain"
+  },
+  {
+    "id": 16143,
+    "text": [
+      "Berecain Pass: Base"
+    ],
+    "text_joined": "Berecain Pass: Base"
+  },
+  {
+    "id": 16144,
+    "text": [
+      "Berecain Pass"
+    ],
+    "text_joined": "Berecain Pass"
+  },
+  {
+    "id": 16145,
+    "text": [
+      "Sweltering Cave"
+    ],
+    "text_joined": "Sweltering Cave"
+  },
+  {
+    "id": 16118,
+    "text": [
+      "Mt. Berecain"
+    ],
+    "text_joined": "Mt. Berecain"
+  },
+  {
+    "id": 16146,
+    "text": [
+      "Mt. Berecain: Depths"
+    ],
+    "text_joined": "Mt. Berecain: Depths"
+  },
+  {
+    "id": 16147,
+    "text": [
+      "Forbidden Temple: Upper Floor"
+    ],
+    "text_joined": "Forbidden Temple: Upper Floor"
+  },
+  {
+    "id": 16148,
+    "text": [
+      "Forbidden Temple: Lower Floor"
+    ],
+    "text_joined": "Forbidden Temple: Lower Floor"
+  },
+  {
+    "id": 16162,
+    "text": [
+      "Isle of Orsa: Underground Altar"
+    ],
+    "text_joined": "Isle of Orsa: Underground Altar"
+  },
+  {
+    "id": 16207,
+    "text": [
+      "Isle of Sages"
+    ],
+    "text_joined": "Isle of Sages"
+  },
+  {
+    "id": 16170,
+    "text": [
+      "Tatloch's Ship"
+    ],
+    "text_joined": "Tatloch's Ship"
+  },
+  {
+    "id": 16175,
+    "text": [
+      "Castle Edoras: Courtyard"
+    ],
+    "text_joined": "Castle Edoras: Courtyard"
+  },
+  {
+    "id": 16176,
+    "text": [
+      "Castle Edoras: Queen's Chambers"
+    ],
+    "text_joined": "Castle Edoras: Queen's Chambers"
+  },
+  {
+    "id": 16177,
+    "text": [
+      "Castle Edoras: Throne Room"
+    ],
+    "text_joined": "Castle Edoras: Throne Room"
+  },
+  {
+    "id": 16178,
+    "text": [
+      "Hell: Cragspear"
+    ],
+    "text_joined": "Hell: Cragspear"
+  },
+  {
+    "id": 16179,
+    "text": [
+      "Hell: Cragspear - Slums"
+    ],
+    "text_joined": "Hell: Cragspear - Slums"
+  },
+  {
+    "id": 16180,
+    "text": [
+      "Hell: Cragspear Pass"
+    ],
+    "text_joined": "Hell: Cragspear Pass"
+  },
+  {
+    "id": 16181,
+    "text": [
+      "Hell: South Cragspear Pass"
+    ],
+    "text_joined": "Hell: South Cragspear Pass"
+  },
+  {
+    "id": 16182,
+    "text": [
+      "Hell: Geist Canyon South"
+    ],
+    "text_joined": "Hell: Geist Canyon South"
+  },
+  {
+    "id": 16183,
+    "text": [
+      "Hell: Geist Canyon"
+    ],
+    "text_joined": "Hell: Geist Canyon"
+  },
+  {
+    "id": 16184,
+    "text": [
+      "Hell: Valore"
+    ],
+    "text_joined": "Hell: Valore"
+  },
+  {
+    "id": 16185,
+    "text": [
+      "Hell: Valore - Main Boulevard"
+    ],
+    "text_joined": "Hell: Valore - Main Boulevard"
+  },
+  {
+    "id": 16186,
+    "text": [
+      "Hell: Valore Forest"
+    ],
+    "text_joined": "Hell: Valore Forest"
+  },
+  {
+    "id": 16187,
+    "text": [
+      "Hell: Path to White Grape Hill"
+    ],
+    "text_joined": "Hell: Path to White Grape Hill"
+  },
+  {
+    "id": 16188,
+    "text": [
+      "Hell: White Grape Hill"
+    ],
+    "text_joined": "Hell: White Grape Hill"
+  },
+  {
+    "id": 90082,
+    "text": [
+      "Hell: Castle Edoras - 1F"
+    ],
+    "text_joined": "Hell: Castle Edoras - 1F"
+  },
+  {
+    "id": 90083,
+    "text": [
+      "Hell: Castle Edoras - 2F"
+    ],
+    "text_joined": "Hell: Castle Edoras - 2F"
+  },
+  {
+    "id": 90084,
+    "text": [
+      "Hell: Castle Edoras - Remembrance Hall"
+    ],
+    "text_joined": "Hell: Castle Edoras - Remembrance Hall"
+  },
+  {
+    "id": 90085,
+    "text": [
+      "Hell: Castle Edoras - 3F"
+    ],
+    "text_joined": "Hell: Castle Edoras - 3F"
+  },
+  {
+    "id": 90086,
+    "text": [
+      "Hell: Castle Edoras - Remembrance Hall"
+    ],
+    "text_joined": "Hell: Castle Edoras - Remembrance Hall"
+  },
+  {
+    "id": 90087,
+    "text": [
+      "Hell: Castle Edoras - 4F"
+    ],
+    "text_joined": "Hell: Castle Edoras - 4F"
+  },
+  {
+    "id": 90088,
+    "text": [
+      "Hell: Castle Edoras - Remembrance Hall"
+    ],
+    "text_joined": "Hell: Castle Edoras - Remembrance Hall"
+  },
+  {
+    "id": 90089,
+    "text": [
+      "Hell: Castle Edoras - 5F"
+    ],
+    "text_joined": "Hell: Castle Edoras - 5F"
+  },
+  {
+    "id": 90090,
+    "text": [
+      "Hell: Castle Edoras - 6F"
+    ],
+    "text_joined": "Hell: Castle Edoras - 6F"
+  },
+  {
+    "id": 90091,
+    "text": [
+      "Hell: Castle Edoras - Remembrance Hall"
+    ],
+    "text_joined": "Hell: Castle Edoras - Remembrance Hall"
+  },
+  {
+    "id": 16217,
+    "text": [
+      "Ridge of the Imprisoned God"
+    ],
+    "text_joined": "Ridge of the Imprisoned God"
+  },
+  {
+    "id": 16242,
+    "text": [
+      "Hell: Hornburg Pass"
+    ],
+    "text_joined": "Hell: Hornburg Pass"
+  },
+  {
+    "id": 16219,
+    "text": [
+      "Hell: Hornburg"
+    ],
+    "text_joined": "Hell: Hornburg"
+  },
+  {
+    "id": 16220,
+    "text": [
+      "Hell: Hornburg Castle Gate"
+    ],
+    "text_joined": "Hell: Hornburg Castle Gate"
+  },
+  {
+    "id": 16237,
+    "text": [
+      "Hell: Hornburg Castle"
+    ],
+    "text_joined": "Hell: Hornburg Castle"
+  },
+  {
+    "id": 16304,
+    "text": [
+      "Hell: Hornburg Castle - West"
+    ],
+    "text_joined": "Hell: Hornburg Castle - West"
+  },
+  {
+    "id": 16238,
+    "text": [
+      "Hell: Hornburg Castle - Central Area"
+    ],
+    "text_joined": "Hell: Hornburg Castle - Central Area"
+  },
+  {
+    "id": 16305,
+    "text": [
+      "Hell: Hornburg Castle - Eastern Central Area"
+    ],
+    "text_joined": "Hell: Hornburg Castle - Eastern Central Area"
+  },
+  {
+    "id": 16306,
+    "text": [
+      "Hell: Hornburg Castle - Western Central Area"
+    ],
+    "text_joined": "Hell: Hornburg Castle - Western Central Area"
+  },
+  {
+    "id": 16239,
+    "text": [
+      "Wealth's Dominion"
+    ],
+    "text_joined": "Wealth's Dominion"
+  },
+  {
+    "id": 16247,
+    "text": [
+      "Hornburg Battle Ruins"
+    ],
+    "text_joined": "Hornburg Battle Ruins"
+  },
+  {
+    "id": 16250,
+    "text": [
+      "Corridors of Contrition"
+    ],
+    "text_joined": "Corridors of Contrition"
+  },
+  {
+    "id": 16251,
+    "text": [
+      "Corridors of Contrition: Back Halls"
+    ],
+    "text_joined": "Corridors of Contrition: Back Halls"
+  },
+  {
+    "id": 16252,
+    "text": [
+      "The Bridge Beyond"
+    ],
+    "text_joined": "The Bridge Beyond"
+  },
+  {
+    "id": 16261,
+    "text": [
+      "Fame's Dominion"
+    ],
+    "text_joined": "Fame's Dominion"
+  },
+  {
+    "id": 16271,
+    "text": [
+      "Crimson River Traverse"
+    ],
+    "text_joined": "Crimson River Traverse"
+  },
+  {
+    "id": 16272,
+    "text": [
+      "Hell's Abyss"
+    ],
+    "text_joined": "Hell's Abyss"
+  },
+  {
+    "id": 16341,
+    "text": [
+      "Garden of Sin"
+    ],
+    "text_joined": "Garden of Sin"
+  },
+  {
+    "id": 16273,
+    "text": [
+      "Skies of Vanity"
+    ],
+    "text_joined": "Skies of Vanity"
+  },
+  {
+    "id": 16274,
+    "text": [
+      "Seas of Servility"
+    ],
+    "text_joined": "Seas of Servility"
+  },
+  {
+    "id": 16275,
+    "text": [
+      "Seas of Servility: Hollow Path"
+    ],
+    "text_joined": "Seas of Servility: Hollow Path"
+  },
+  {
+    "id": 16350,
+    "text": [
+      "Seas of Servility: Hollow Path"
+    ],
+    "text_joined": "Seas of Servility: Hollow Path"
+  },
+  {
+    "id": 16351,
+    "text": [
+      "Seas of Servility: Divine Path"
+    ],
+    "text_joined": "Seas of Servility: Divine Path"
+  },
+  {
+    "id": 16357,
+    "text": [
+      "Seas of Servility: Hollow Path"
+    ],
+    "text_joined": "Seas of Servility: Hollow Path"
+  },
+  {
+    "id": 16358,
+    "text": [
+      "Seas of Servility: Hollow Path"
+    ],
+    "text_joined": "Seas of Servility: Hollow Path"
+  },
+  {
+    "id": 16307,
+    "text": [
+      "Sands of Rapacity"
+    ],
+    "text_joined": "Sands of Rapacity"
+  },
+  {
+    "id": 16342,
+    "text": [
+      "Altar of Heavenly Peals"
+    ],
+    "text_joined": "Altar of Heavenly Peals"
+  },
+  {
+    "id": 16310,
+    "text": [
+      "Agapea"
+    ],
+    "text_joined": "Agapea"
+  },
+  {
+    "id": 16311,
+    "text": [
+      "Path to the Flamebearer's Shrine"
+    ],
+    "text_joined": "Path to the Flamebearer's Shrine"
+  },
+  {
+    "id": 16312,
+    "text": [
+      "Flamebearer's Shrine"
+    ],
+    "text_joined": "Flamebearer's Shrine"
+  },
+  {
+    "id": 16315,
+    "text": [
+      "Flamebearer's Shrine: Sanctum"
+    ],
+    "text_joined": "Flamebearer's Shrine: Sanctum"
+  },
+  {
+    "id": 16313,
+    "text": [
+      "Gate of Orsa"
+    ],
+    "text_joined": "Gate of Orsa"
+  },
+  {
+    "id": 16359,
+    "text": [
+      "Cragspear"
+    ],
+    "text_joined": "Cragspear"
+  },
+  {
+    "id": 16361,
+    "text": [
+      "Castle Edoras Gate"
+    ],
+    "text_joined": "Castle Edoras Gate"
+  },
+  {
+    "id": 16363,
+    "text": [
+      "Castle Edoras: Courtyard"
+    ],
+    "text_joined": "Castle Edoras: Courtyard"
+  },
+  {
+    "id": 90011,
+    "text": [
+      "Wishvale Trail"
+    ],
+    "text_joined": "Wishvale Trail"
+  },
+  {
+    "id": 90021,
+    "text": [
+      "Cerulean Caverns"
+    ],
+    "text_joined": "Cerulean Caverns"
+  },
+  {
+    "id": 90031,
+    "text": [
+      "Cathedral of Ash"
+    ],
+    "text_joined": "Cathedral of Ash"
+  },
+  {
+    "id": 90062,
+    "text": [
+      "Cathedral of Ash: Underground"
+    ],
+    "text_joined": "Cathedral of Ash: Underground"
+  },
+  {
+    "id": 90041,
+    "text": [
+      "Utopia: Wishvale"
+    ],
+    "text_joined": "Utopia: Wishvale"
+  },
+  {
+    "id": 90051,
+    "text": [
+      "???"
+    ],
+    "text_joined": "???"
+  },
+  {
+    "id": 90061,
+    "text": [
+      "Sunken Ship"
+    ],
+    "text_joined": "Sunken Ship"
+  },
+  {
+    "id": 90072,
+    "text": [
+      "Middlesea"
+    ],
+    "text_joined": "Middlesea"
+  },
+  {
+    "id": 90081,
+    "text": [
+      "Outersea"
+    ],
+    "text_joined": "Outersea"
+  },
+  {
+    "id": 90073,
+    "text": [
+      "Man-Eating Miser's Hideout"
+    ],
+    "text_joined": "Man-Eating Miser's Hideout"
+  },
+  {
+    "id": 90074,
+    "text": [
+      "Isle in the Middlesea"
+    ],
+    "text_joined": "Isle in the Middlesea"
+  },
+  {
+    "id": 90075,
+    "text": [
+      "Isle in the Outersea: West"
+    ],
+    "text_joined": "Isle in the Outersea: West"
+  },
+  {
+    "id": 90076,
+    "text": [
+      "Shipwreck Island"
+    ],
+    "text_joined": "Shipwreck Island"
+  },
+  {
+    "id": 90077,
+    "text": [
+      "Isle in the Outersea: East"
+    ],
+    "text_joined": "Isle in the Outersea: East"
+  },
+  {
+    "id": 90078,
+    "text": [
+      "Desert Island in the Outersea"
+    ],
+    "text_joined": "Desert Island in the Outersea"
+  },
+  {
+    "id": 90079,
+    "text": [
+      "Isle of Heroes Past"
+    ],
+    "text_joined": "Isle of Heroes Past"
+  },
+  {
+    "id": 90080,
+    "text": [
+      "Cove of Clouds"
+    ],
+    "text_joined": "Cove of Clouds"
+  },
+  {
+    "id": 90092,
+    "text": [
+      "Valore"
+    ],
+    "text_joined": "Valore"
+  },
+  {
+    "id": 90093,
+    "text": [
+      "Valore: Main Boulevard"
+    ],
+    "text_joined": "Valore: Main Boulevard"
+  },
+  {
+    "id": 90094,
+    "text": [
+      "Wishvale"
+    ],
+    "text_joined": "Wishvale"
+  },
+  {
+    "id": 90095,
+    "text": [
+      "Wishvale"
+    ],
+    "text_joined": "Wishvale"
+  },
+  {
+    "id": 90096,
+    "text": [
+      "Wishvale"
+    ],
+    "text_joined": "Wishvale"
+  },
+  {
+    "id": 90098,
+    "text": [
+      "Banquet of Nought: Main Hall"
+    ],
+    "text_joined": "Banquet of Nought: Main Hall"
+  },
+  {
+    "id": 6402,
+    "text": [
+      "Cragspear Pass"
+    ],
+    "text_joined": "Cragspear Pass"
+  },
+  {
+    "id": 6403,
+    "text": [
+      "Cragspear"
+    ],
+    "text_joined": "Cragspear"
+  },
+  {
+    "id": 6404,
+    "text": [
+      "Gray Grotto"
+    ],
+    "text_joined": "Gray Grotto"
+  },
+  {
+    "id": 6405,
+    "text": [
+      "South Cragspear Pass"
+    ],
+    "text_joined": "South Cragspear Pass"
+  },
+  {
+    "id": 6406,
+    "text": [
+      "Geist Canyon"
+    ],
+    "text_joined": "Geist Canyon"
+  },
+  {
+    "id": 6407,
+    "text": [
+      "Road to Castle Edoras"
+    ],
+    "text_joined": "Road to Castle Edoras"
+  },
+  {
+    "id": 6408,
+    "text": [
+      "Castle Edoras"
+    ],
+    "text_joined": "Castle Edoras"
+  },
+  {
+    "id": 6409,
+    "text": [
+      "Rippletide"
+    ],
+    "text_joined": "Rippletide"
+  },
+  {
+    "id": 6410,
+    "text": [
+      "Rippletide Coast"
+    ],
+    "text_joined": "Rippletide Coast"
+  },
+  {
+    "id": 6411,
+    "text": [
+      "North Rippletide Coast"
+    ],
+    "text_joined": "North Rippletide Coast"
+  },
+  {
+    "id": 6412,
+    "text": [
+      "Isle of Orsa"
+    ],
+    "text_joined": "Isle of Orsa"
+  },
+  {
+    "id": 6413,
+    "text": [
+      "Sunshade"
+    ],
+    "text_joined": "Sunshade"
+  },
+  {
+    "id": 6414,
+    "text": [
+      "Sunshade Sands"
+    ],
+    "text_joined": "Sunshade Sands"
+  },
+  {
+    "id": 6415,
+    "text": [
+      "Eastern Sunshade Sands"
+    ],
+    "text_joined": "Eastern Sunshade Sands"
+  },
+  {
+    "id": 6419,
+    "text": [
+      "Shepherds Rock Pass"
+    ],
+    "text_joined": "Shepherds Rock Pass"
+  },
+  {
+    "id": 6420,
+    "text": [
+      "North Shepherds Rock Pass"
+    ],
+    "text_joined": "North Shepherds Rock Pass"
+  },
+  {
+    "id": 6421,
+    "text": [
+      "Valley of Death"
+    ],
+    "text_joined": "Valley of Death"
+  },
+  {
+    "id": 6423,
+    "text": [
+      "Valore"
+    ],
+    "text_joined": "Valore"
+  },
+  {
+    "id": 16112,
+    "text": [
+      "Valore"
+    ],
+    "text_joined": "Valore"
+  },
+  {
+    "id": 6424,
+    "text": [
+      "Valore Trail"
+    ],
+    "text_joined": "Valore Trail"
+  },
+  {
+    "id": 6425,
+    "text": [
+      "West Valore Trail"
+    ],
+    "text_joined": "West Valore Trail"
+  },
+  {
+    "id": 6426,
+    "text": [
+      "Path to Herminia's Manse"
+    ],
+    "text_joined": "Path to Herminia's Manse"
+  },
+  {
+    "id": 6427,
+    "text": [
+      "Herminia's Manse"
+    ],
+    "text_joined": "Herminia's Manse"
+  },
+  {
+    "id": 6428,
+    "text": [
+      "Auguste's Villa"
+    ],
+    "text_joined": "Auguste's Villa"
+  },
+  {
+    "id": 6429,
+    "text": [
+      "Emberglow"
+    ],
+    "text_joined": "Emberglow"
+  },
+  {
+    "id": 6430,
+    "text": [
+      "Emberglow Wilds"
+    ],
+    "text_joined": "Emberglow Wilds"
+  },
+  {
+    "id": 6431,
+    "text": [
+      "West Emberglow Wilds"
+    ],
+    "text_joined": "West Emberglow Wilds"
+  },
+  {
+    "id": 16003,
+    "text": [
+      "Emberglow Laboratory"
+    ],
+    "text_joined": "Emberglow Laboratory"
+  },
+  {
+    "id": 6433,
+    "text": [
+      "Ceremonial Square"
+    ],
+    "text_joined": "Ceremonial Square"
+  },
+  {
+    "id": 16140,
+    "text": [
+      "Cathedral of Tytos"
+    ],
+    "text_joined": "Cathedral of Tytos"
+  },
+  {
+    "id": 16065,
+    "text": [
+      "(Unlocalized)"
+    ],
+    "text_joined": "(Unlocalized)"
+  },
+  {
+    "id": 6434,
+    "text": [
+      "Snowbloom Ruins"
+    ],
+    "text_joined": "Snowbloom Ruins"
+  },
+  {
+    "id": 6438,
+    "text": [
+      "Clearbrook"
+    ],
+    "text_joined": "Clearbrook"
+  },
+  {
+    "id": 6439,
+    "text": [
+      "Clearbrook Traverse"
+    ],
+    "text_joined": "Clearbrook Traverse"
+  },
+  {
+    "id": 6440,
+    "text": [
+      "East Clearbrook Traverse"
+    ],
+    "text_joined": "East Clearbrook Traverse"
+  },
+  {
+    "id": 16004,
+    "text": [
+      "Path to Waterpool Caves"
+    ],
+    "text_joined": "Path to Waterpool Caves"
+  },
+  {
+    "id": 6441,
+    "text": [
+      "Waterpool Caves"
+    ],
+    "text_joined": "Waterpool Caves"
+  },
+  {
+    "id": 6442,
+    "text": [
+      "Theatropolis"
+    ],
+    "text_joined": "Theatropolis"
+  },
+  {
+    "id": 6443,
+    "text": [
+      "Theatropolis Plains"
+    ],
+    "text_joined": "Theatropolis Plains"
+  },
+  {
+    "id": 6444,
+    "text": [
+      "North Theatropolis Plains"
+    ],
+    "text_joined": "North Theatropolis Plains"
+  },
+  {
+    "id": 6445,
+    "text": [
+      "Amphitheatre: Rehearsal Room"
+    ],
+    "text_joined": "Amphitheatre: Rehearsal Room"
+  },
+  {
+    "id": 6446,
+    "text": [
+      "Amphitheatre: Backstage"
+    ],
+    "text_joined": "Amphitheatre: Backstage"
+  },
+  {
+    "id": 6447,
+    "text": [
+      "Knights Ardante Garrison"
+    ],
+    "text_joined": "Knights Ardante Garrison"
+  },
+  {
+    "id": 6464,
+    "text": [
+      "Emberglow Slopes"
+    ],
+    "text_joined": "Emberglow Slopes"
+  },
+  {
+    "id": 6465,
+    "text": [
+      "Shepherds Rock"
+    ],
+    "text_joined": "Shepherds Rock"
+  },
+  {
+    "id": 6466,
+    "text": [
+      "Stillwater Subterrane"
+    ],
+    "text_joined": "Stillwater Subterrane"
+  },
+  {
+    "id": 6468,
+    "text": [
+      "Finesand Ruins"
+    ],
+    "text_joined": "Finesand Ruins"
+  },
+  {
+    "id": 6470,
+    "text": [
+      "Cavern of Mists"
+    ],
+    "text_joined": "Cavern of Mists"
+  },
+  {
+    "id": 6471,
+    "text": [
+      "Serpent's Burrow"
+    ],
+    "text_joined": "Serpent's Burrow"
+  },
+  {
+    "id": 6474,
+    "text": [
+      "Snowshard Grotto"
+    ],
+    "text_joined": "Snowshard Grotto"
+  },
+  {
+    "id": 16001,
+    "text": [
+      "Victors Hollow"
+    ],
+    "text_joined": "Victors Hollow"
+  },
+  {
+    "id": 16007,
+    "text": [
+      "Victors Hollow Trail"
+    ],
+    "text_joined": "Victors Hollow Trail"
+  },
+  {
+    "id": 16008,
+    "text": [
+      "Subterranean Arena"
+    ],
+    "text_joined": "Subterranean Arena"
+  },
+  {
+    "id": 16120,
+    "text": [
+      "Herminia's Former Manse"
+    ],
+    "text_joined": "Herminia's Former Manse"
+  },
+  {
+    "id": 16009,
+    "text": [
+      "Great Tree's Tears"
+    ],
+    "text_joined": "Great Tree's Tears"
+  },
+  {
+    "id": 16013,
+    "text": [
+      "Flamesgrace"
+    ],
+    "text_joined": "Flamesgrace"
+  },
+  {
+    "id": 16044,
+    "text": [
+      "Flamesgrace Wilds"
+    ],
+    "text_joined": "Flamesgrace Wilds"
+  },
+  {
+    "id": 16139,
+    "text": [
+      "Valley of the Flame"
+    ],
+    "text_joined": "Valley of the Flame"
+  },
+  {
+    "id": 16110,
+    "text": [
+      "Path to the Cave of Origin"
+    ],
+    "text_joined": "Path to the Cave of Origin"
+  },
+  {
+    "id": 16109,
+    "text": [
+      "Cave of Origin"
+    ],
+    "text_joined": "Cave of Origin"
+  },
+  {
+    "id": 16020,
+    "text": [
+      "Sufrataljah"
+    ],
+    "text_joined": "Sufrataljah"
+  },
+  {
+    "id": 16021,
+    "text": [
+      "Sufrataljah Sands"
+    ],
+    "text_joined": "Sufrataljah Sands"
+  },
+  {
+    "id": 16022,
+    "text": [
+      "Sufrataljah: Palace"
+    ],
+    "text_joined": "Sufrataljah: Palace"
+  },
+  {
+    "id": 16030,
+    "text": [
+      "Donescu"
+    ],
+    "text_joined": "Donescu"
+  },
+  {
+    "id": 16031,
+    "text": [
+      "Donescu Traverse"
+    ],
+    "text_joined": "Donescu Traverse"
+  },
+  {
+    "id": 16032,
+    "text": [
+      "Cyphlo Banks"
+    ],
+    "text_joined": "Cyphlo Banks"
+  },
+  {
+    "id": 16033,
+    "text": [
+      "Misty Falls"
+    ],
+    "text_joined": "Misty Falls"
+  },
+  {
+    "id": 16039,
+    "text": [
+      "Grandport"
+    ],
+    "text_joined": "Grandport"
+  },
+  {
+    "id": 16040,
+    "text": [
+      "Grandport Coast"
+    ],
+    "text_joined": "Grandport Coast"
+  },
+  {
+    "id": 16041,
+    "text": [
+      "Sea Cavern"
+    ],
+    "text_joined": "Sea Cavern"
+  },
+  {
+    "id": 16057,
+    "text": [
+      "Atlasdam Flats"
+    ],
+    "text_joined": "Atlasdam Flats"
+  },
+  {
+    "id": 16058,
+    "text": [
+      "Atlasdam"
+    ],
+    "text_joined": "Atlasdam"
+  },
+  {
+    "id": 16074,
+    "text": [
+      "Golden Palace"
+    ],
+    "text_joined": "Golden Palace"
+  },
+  {
+    "id": 16075,
+    "text": [
+      "Eternal Quicksand"
+    ],
+    "text_joined": "Eternal Quicksand"
+  },
+  {
+    "id": 16076,
+    "text": [
+      "Mt. Berecain"
+    ],
+    "text_joined": "Mt. Berecain"
+  },
+  {
+    "id": 16149,
+    "text": [
+      "Forbidden Temple"
+    ],
+    "text_joined": "Forbidden Temple"
+  },
+  {
+    "id": 16077,
+    "text": [
+      "Sweltering Cave"
+    ],
+    "text_joined": "Sweltering Cave"
+  },
+  {
+    "id": 16078,
+    "text": [
+      "Berecain Pass: Base"
+    ],
+    "text_joined": "Berecain Pass: Base"
+  },
+  {
+    "id": 16079,
+    "text": [
+      "Berecain Pass"
+    ],
+    "text_joined": "Berecain Pass"
+  },
+  {
+    "id": 16080,
+    "text": [
+      "Berecain"
+    ],
+    "text_joined": "Berecain"
+  },
+  {
+    "id": 16081,
+    "text": [
+      "West Theatropolis Plains"
+    ],
+    "text_joined": "West Theatropolis Plains"
+  },
+  {
+    "id": 16082,
+    "text": [
+      "Grandport Sewers"
+    ],
+    "text_joined": "Grandport Sewers"
+  },
+  {
+    "id": 16083,
+    "text": [
+      "Flamebearer's Shrine"
+    ],
+    "text_joined": "Flamebearer's Shrine"
+  },
+  {
+    "id": 16209,
+    "text": [
+      "Middlesea"
+    ],
+    "text_joined": "Middlesea"
+  },
+  {
+    "id": 16216,
+    "text": [
+      "Castle Edoras"
+    ],
+    "text_joined": "Castle Edoras"
+  },
+  {
+    "id": 16224,
+    "text": [
+      "Hell: Cragspear"
+    ],
+    "text_joined": "Hell: Cragspear"
+  },
+  {
+    "id": 16233,
+    "text": [
+      "Hell: Cragspear Pass"
+    ],
+    "text_joined": "Hell: Cragspear Pass"
+  },
+  {
+    "id": 16241,
+    "text": [
+      "Hell: South Cragspear Pass"
+    ],
+    "text_joined": "Hell: South Cragspear Pass"
+  },
+  {
+    "id": 16225,
+    "text": [
+      "Hell: Geist Canyon"
+    ],
+    "text_joined": "Hell: Geist Canyon"
+  },
+  {
+    "id": 16226,
+    "text": [
+      "Hell: Valore"
+    ],
+    "text_joined": "Hell: Valore"
+  },
+  {
+    "id": 16227,
+    "text": [
+      "Hell: Valore Forest"
+    ],
+    "text_joined": "Hell: Valore Forest"
+  },
+  {
+    "id": 16253,
+    "text": [
+      "Hell: Path to White Grape Hill"
+    ],
+    "text_joined": "Hell: Path to White Grape Hill"
+  },
+  {
+    "id": 16254,
+    "text": [
+      "Hell: White Grape Hill"
+    ],
+    "text_joined": "Hell: White Grape Hill"
+  },
+  {
+    "id": 16257,
+    "text": [
+      "Hell: Castle Edoras"
+    ],
+    "text_joined": "Hell: Castle Edoras"
+  },
+  {
+    "id": 16232,
+    "text": [
+      "Hell: Hornburg"
+    ],
+    "text_joined": "Hell: Hornburg"
+  },
+  {
+    "id": 16255,
+    "text": [
+      "Hell: Hornburg Pass"
+    ],
+    "text_joined": "Hell: Hornburg Pass"
+  },
+  {
+    "id": 16256,
+    "text": [
+      "Hell: Hornburg Castle"
+    ],
+    "text_joined": "Hell: Hornburg Castle"
+  },
+  {
+    "id": 16267,
+    "text": [
+      "Hornburg Battle Ruins"
+    ],
+    "text_joined": "Hornburg Battle Ruins"
+  },
+  {
+    "id": 16268,
+    "text": [
+      "Corridors of Contrition"
+    ],
+    "text_joined": "Corridors of Contrition"
+  },
+  {
+    "id": 16353,
+    "text": [
+      "Agapea"
+    ],
+    "text_joined": "Agapea"
+  },
+  {
+    "id": 16356,
+    "text": [
+      "Gate of Orsa"
+    ],
+    "text_joined": "Gate of Orsa"
+  },
+  {
+    "id": 90099,
+    "text": [
+      "You cannot proceed beyond here in the demo version."
+    ],
+    "text_joined": "You cannot proceed beyond here in the demo version."
+  }
+]

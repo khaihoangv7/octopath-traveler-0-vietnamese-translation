@@ -1,0 +1,5929 @@
+[
+  {
+    "id": 0,
+    "text": [
+      "(Unlocalized)"
+    ],
+    "text_joined": "(Unlocalized)"
+  },
+  {
+    "id": 10105,
+    "text": [
+      "Track this quest?"
+    ],
+    "text_joined": "Track this quest?"
+  },
+  {
+    "id": 10106,
+    "text": [
+      "\"{0}\"\n▼\n\"{1}\""
+    ],
+    "text_joined": "\"{0}\"\n▼\n\"{1}\""
+  },
+  {
+    "id": 10107,
+    "text": [
+      "{0}\n\n{1}"
+    ],
+    "text_joined": "{0}\n\n{1}"
+  },
+  {
+    "id": 10108,
+    "text": [
+      "No"
+    ],
+    "text_joined": "No"
+  },
+  {
+    "id": 10109,
+    "text": [
+      "Yes"
+    ],
+    "text_joined": "Yes"
+  },
+  {
+    "id": 10220,
+    "text": [
+      "Prologue"
+    ],
+    "text_joined": "Prologue"
+  },
+  {
+    "id": 10221,
+    "text": [
+      "Ch. 1"
+    ],
+    "text_joined": "Ch. 1"
+  },
+  {
+    "id": 10222,
+    "text": [
+      "Ch. 2"
+    ],
+    "text_joined": "Ch. 2"
+  },
+  {
+    "id": 10223,
+    "text": [
+      "Ch. 3"
+    ],
+    "text_joined": "Ch. 3"
+  },
+  {
+    "id": 10224,
+    "text": [
+      "Ch. 4"
+    ],
+    "text_joined": "Ch. 4"
+  },
+  {
+    "id": 10225,
+    "text": [
+      "Ch. 5"
+    ],
+    "text_joined": "Ch. 5"
+  },
+  {
+    "id": 10226,
+    "text": [
+      "Ch. 6"
+    ],
+    "text_joined": "Ch. 6"
+  },
+  {
+    "id": 10227,
+    "text": [
+      "Ch. 7"
+    ],
+    "text_joined": "Ch. 7"
+  },
+  {
+    "id": 10228,
+    "text": [
+      "Ch. 8"
+    ],
+    "text_joined": "Ch. 8"
+  },
+  {
+    "id": 10229,
+    "text": [
+      "Finale"
+    ],
+    "text_joined": "Finale"
+  },
+  {
+    "id": 10230,
+    "text": [
+      "A New Tale"
+    ],
+    "text_joined": "A New Tale"
+  },
+  {
+    "id": 90000000,
+    "text": [
+      "Prologue",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "Prologue\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 90000002,
+    "text": [
+      "In the small Woodlands town of Wishvale, the residents prepare for the annual Day of Reverence festival."
+    ],
+    "text_joined": "In the small Woodlands town of Wishvale, the residents prepare for the annual Day of Reverence festival."
+  },
+  {
+    "id": 90000003,
+    "text": [
+      "Go outside and see your father."
+    ],
+    "text_joined": "Go outside and see your father."
+  },
+  {
+    "id": 219104513,
+    "text": [
+      "\"Contend\" with your father to learn from him."
+    ],
+    "text_joined": "\"Contend\" with your father to learn from him."
+  },
+  {
+    "id": 90000005,
+    "text": [
+      "Visit the carpenter Lavore's house."
+    ],
+    "text_joined": "Visit the carpenter Lavore's house."
+  },
+  {
+    "id": 90000007,
+    "text": [
+      "Head to the church."
+    ],
+    "text_joined": "Head to the church."
+  },
+  {
+    "id": 90000009,
+    "text": [
+      "Head to the cavern outside of town."
+    ],
+    "text_joined": "Head to the cavern outside of town."
+  },
+  {
+    "id": 90000011,
+    "text": [
+      "Obtain an azure flamestone."
+    ],
+    "text_joined": "Obtain an azure flamestone."
+  },
+  {
+    "id": 90000013,
+    "text": [
+      "Give the azure flamestone to Laurana."
+    ],
+    "text_joined": "Give the azure flamestone to Laurana."
+  },
+  {
+    "id": 219104467,
+    "text": [
+      "Go home and rest."
+    ],
+    "text_joined": "Go home and rest."
+  },
+  {
+    "id": 90000015,
+    "text": [
+      "Take a walk around Wishvale at night."
+    ],
+    "text_joined": "Take a walk around Wishvale at night."
+  },
+  {
+    "id": 219104469,
+    "text": [
+      "Go home and rest."
+    ],
+    "text_joined": "Go home and rest."
+  },
+  {
+    "id": 90000017,
+    "text": [
+      "Take a look around the festival."
+    ],
+    "text_joined": "Take a look around the festival."
+  },
+  {
+    "id": 90000019,
+    "text": [
+      "Participate in the Enkindling."
+    ],
+    "text_joined": "Participate in the Enkindling."
+  },
+  {
+    "id": 90000021,
+    "text": [
+      "Survive the attack."
+    ],
+    "text_joined": "Survive the attack."
+  },
+  {
+    "id": 219104388,
+    "text": [
+      "Head to Wishvale."
+    ],
+    "text_joined": "Head to Wishvale."
+  },
+  {
+    "id": 919104588,
+    "text": [
+      "Build a workshop."
+    ],
+    "text_joined": "Build a workshop."
+  },
+  {
+    "id": 219104349,
+    "text": [
+      "Kindlers of the Flame"
+    ],
+    "text_joined": "Kindlers of the Flame"
+  },
+  {
+    "id": 219104350,
+    "text": [
+      "The Hunter Phenn"
+    ],
+    "text_joined": "The Hunter Phenn"
+  },
+  {
+    "id": 219104351,
+    "text": [
+      "After their hometown is destroyed, <chara_name> and Stia are determined to restore it to its former glory. Meanwhile, far away in the blistering snow, a troubled hunter questions his way of life."
+    ],
+    "text_joined": "After their hometown is destroyed, <chara_name> and Stia are determined to restore it to its former glory. Meanwhile, far away in the blistering snow, a troubled hunter questions his way of life."
+  },
+  {
+    "id": 219104352,
+    "text": [
+      "Speak to Stia in Wishvale."
+    ],
+    "text_joined": "Speak to Stia in Wishvale."
+  },
+  {
+    "id": 219104354,
+    "text": [
+      "Search for Phenn in the Frostlands."
+    ],
+    "text_joined": "Search for Phenn in the Frostlands."
+  },
+  {
+    "id": 219104356,
+    "text": [
+      "Head deep inside the Snowshard Grotto."
+    ],
+    "text_joined": "Head deep inside the Snowshard Grotto."
+  },
+  {
+    "id": 219104358,
+    "text": [
+      "Invite Phenn."
+    ],
+    "text_joined": "Invite Phenn."
+  },
+  {
+    "id": 219104360,
+    "text": [
+      "Meet with Phenn in Wishvale."
+    ],
+    "text_joined": "Meet with Phenn in Wishvale."
+  },
+  {
+    "id": 219104419,
+    "text": [
+      "Kindlers of the Flame"
+    ],
+    "text_joined": "Kindlers of the Flame"
+  },
+  {
+    "id": 219104420,
+    "text": [
+      "The Young Boy Basil"
+    ],
+    "text_joined": "The Young Boy Basil"
+  },
+  {
+    "id": 219104421,
+    "text": [
+      "As Phenn, a senior member of the watch, returns to town, the restoration of Wishvale takes a big step forward. Around the same time, a small, familiar form casts its shadow in town."
+    ],
+    "text_joined": "As Phenn, a senior member of the watch, returns to town, the restoration of Wishvale takes a big step forward. Around the same time, a small, familiar form casts its shadow in town."
+  },
+  {
+    "id": 219104422,
+    "text": [
+      "Speak to Phenn in Wishvale."
+    ],
+    "text_joined": "Speak to Phenn in Wishvale."
+  },
+  {
+    "id": 219104424,
+    "text": [
+      "Search for Margot in Valore."
+    ],
+    "text_joined": "Search for Margot in Valore."
+  },
+  {
+    "id": 219104426,
+    "text": [
+      "Find Margot on the path to Herminia's Manse."
+    ],
+    "text_joined": "Find Margot on the path to Herminia's Manse."
+  },
+  {
+    "id": 219104428,
+    "text": [
+      "Invite Margot."
+    ],
+    "text_joined": "Invite Margot."
+  },
+  {
+    "id": 219104430,
+    "text": [
+      "Bring Margot back to meet Basil."
+    ],
+    "text_joined": "Bring Margot back to meet Basil."
+  },
+  {
+    "id": 219104432,
+    "text": [
+      "Learn how to grow vegetables from Margot."
+    ],
+    "text_joined": "Learn how to grow vegetables from Margot."
+  },
+  {
+    "id": 219104434,
+    "text": [
+      "Speak to Basil."
+    ],
+    "text_joined": "Speak to Basil."
+  },
+  {
+    "id": 219104559,
+    "text": [
+      "Kindlers of the Flame"
+    ],
+    "text_joined": "Kindlers of the Flame"
+  },
+  {
+    "id": 219104560,
+    "text": [
+      "The Merchant Ludo"
+    ],
+    "text_joined": "The Merchant Ludo"
+  },
+  {
+    "id": 219104561,
+    "text": [
+      "With the construction of the tavern and fields, the town can now produce more than enough food for its residents. The next goal is to find a skilled merchant who can peddle any excess provisions and foodstuffs."
+    ],
+    "text_joined": "With the construction of the tavern and fields, the town can now produce more than enough food for its residents. The next goal is to find a skilled merchant who can peddle any excess provisions and foodstuffs."
+  },
+  {
+    "id": 219104562,
+    "text": [
+      "Speak to Margot in Wishvale."
+    ],
+    "text_joined": "Speak to Margot in Wishvale."
+  },
+  {
+    "id": 219104564,
+    "text": [
+      "Search for skilled merchants in Sunshade."
+    ],
+    "text_joined": "Search for skilled merchants in Sunshade."
+  },
+  {
+    "id": 219104566,
+    "text": [
+      "Search for the merchant Ludo."
+    ],
+    "text_joined": "Search for the merchant Ludo."
+  },
+  {
+    "id": 219104568,
+    "text": [
+      "Defeat the lizardmen infesting the trade route."
+    ],
+    "text_joined": "Defeat the lizardmen infesting the trade route."
+  },
+  {
+    "id": 219104570,
+    "text": [
+      "Speak to Stia in Wishvale."
+    ],
+    "text_joined": "Speak to Stia in Wishvale."
+  },
+  {
+    "id": 219104578,
+    "text": [
+      "Kindlers of the Flame"
+    ],
+    "text_joined": "Kindlers of the Flame"
+  },
+  {
+    "id": 219104579,
+    "text": [
+      "The Cleric Laurana"
+    ],
+    "text_joined": "The Cleric Laurana"
+  },
+  {
+    "id": 219104580,
+    "text": [
+      "Wishvale is slowly coming back to life as the townspeople gradually return. However, one thing is still missing—the blue flame that offers protection to all..."
+    ],
+    "text_joined": "Wishvale is slowly coming back to life as the townspeople gradually return. However, one thing is still missing—the blue flame that offers protection to all..."
+  },
+  {
+    "id": 219104581,
+    "text": [
+      "Speak to Ludo in Wishvale."
+    ],
+    "text_joined": "Speak to Ludo in Wishvale."
+  },
+  {
+    "id": 219104583,
+    "text": [
+      "Search for Laurana in Flamesgrace."
+    ],
+    "text_joined": "Search for Laurana in Flamesgrace."
+  },
+  {
+    "id": 219104585,
+    "text": [
+      "Return to Wishvale."
+    ],
+    "text_joined": "Return to Wishvale."
+  },
+  {
+    "id": 219104587,
+    "text": [
+      "Provide Stia with 3 quality stone."
+    ],
+    "text_joined": "Provide Stia with 3 quality stone."
+  },
+  {
+    "id": 219104589,
+    "text": [
+      "Search for Laurana."
+    ],
+    "text_joined": "Search for Laurana."
+  },
+  {
+    "id": 219104591,
+    "text": [
+      "Kindlers of the Flame"
+    ],
+    "text_joined": "Kindlers of the Flame"
+  },
+  {
+    "id": 219104592,
+    "text": [
+      "<chara_name>"
+    ],
+    "text_joined": "<chara_name>"
+  },
+  {
+    "id": 219104593,
+    "text": [
+      "When Laurana disappeared, she left behind a letter in which she wrote, \"I was the one who destroyed Wishvale.\" <chara_name> returns to a familiar place to uncover the truth behind her words."
+    ],
+    "text_joined": "When Laurana disappeared, she left behind a letter in which she wrote, \"I was the one who destroyed Wishvale.\" <chara_name> returns to a familiar place to uncover the truth behind her words."
+  },
+  {
+    "id": 219104594,
+    "text": [
+      "Examine Laurana's letter."
+    ],
+    "text_joined": "Examine Laurana's letter."
+  },
+  {
+    "id": 219104596,
+    "text": [
+      "Search for clues as to Laurana's whereabouts."
+    ],
+    "text_joined": "Search for clues as to Laurana's whereabouts."
+  },
+  {
+    "id": 219104598,
+    "text": [
+      "Speak to Nomos on Wishvale Trail."
+    ],
+    "text_joined": "Speak to Nomos on Wishvale Trail."
+  },
+  {
+    "id": 219104600,
+    "text": [
+      "Head to the Cerulean Caverns."
+    ],
+    "text_joined": "Head to the Cerulean Caverns."
+  },
+  {
+    "id": 219104602,
+    "text": [
+      "Chase after Laurana."
+    ],
+    "text_joined": "Chase after Laurana."
+  },
+  {
+    "id": 219104604,
+    "text": [
+      "Chase after Laurana."
+    ],
+    "text_joined": "Chase after Laurana."
+  },
+  {
+    "id": 219104606,
+    "text": [
+      "Head to the town square."
+    ],
+    "text_joined": "Head to the town square."
+  },
+  {
+    "id": 219104608,
+    "text": [
+      "Speak to Laurana."
+    ],
+    "text_joined": "Speak to Laurana."
+  },
+  {
+    "id": 10100001,
+    "text": [
+      "Master of Wealth",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "Master of Wealth\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 10101002,
+    "text": [
+      "The Covetous Witch"
+    ],
+    "text_joined": "The Covetous Witch"
+  },
+  {
+    "id": 10101003,
+    "text": [
+      "The wealthiest person in all the realm, Lady Herminia is notorious to all as the \"Covetous Witch.\" Possessing wealth greater than many nations, there is nothing in this world her fortune cannot buy."
+    ],
+    "text_joined": "The wealthiest person in all the realm, Lady Herminia is notorious to all as the \"Covetous Witch.\" Possessing wealth greater than many nations, there is nothing in this world her fortune cannot buy."
+  },
+  {
+    "id": 219104391,
+    "text": [
+      "Gather information about Herminia."
+    ],
+    "text_joined": "Gather information about Herminia."
+  },
+  {
+    "id": 219104395,
+    "text": [
+      "Search for people who oppose Herminia."
+    ],
+    "text_joined": "Search for people who oppose Herminia."
+  },
+  {
+    "id": 10101015,
+    "text": [
+      "Head to Herminia's Manse."
+    ],
+    "text_joined": "Head to Herminia's Manse."
+  },
+  {
+    "id": 10101025,
+    "text": [
+      "Join the party."
+    ],
+    "text_joined": "Join the party."
+  },
+  {
+    "id": 10101035,
+    "text": [
+      "Leave the party."
+    ],
+    "text_joined": "Leave the party."
+  },
+  {
+    "id": 10101045,
+    "text": [
+      "Confront the man who killed the slaves."
+    ],
+    "text_joined": "Confront the man who killed the slaves."
+  },
+  {
+    "id": 10101055,
+    "text": [
+      "Go to Taviani's hideout."
+    ],
+    "text_joined": "Go to Taviani's hideout."
+  },
+  {
+    "id": 10102002,
+    "text": [
+      "A Flower Blooms"
+    ],
+    "text_joined": "A Flower Blooms"
+  },
+  {
+    "id": 10102003,
+    "text": [
+      "At a banquet thrown by Lady Herminia, Bargello impresses the underworld with his bravery. Now, his new boss, Taviani, has an order for him..."
+    ],
+    "text_joined": "At a banquet thrown by Lady Herminia, Bargello impresses the underworld with his bravery. Now, his new boss, Taviani, has an order for him..."
+  },
+  {
+    "id": 919104852,
+    "text": [
+      "Speak to Bargello."
+    ],
+    "text_joined": "Speak to Bargello."
+  },
+  {
+    "id": 10102025,
+    "text": [
+      "Go to Emberglow in the Frostlands."
+    ],
+    "text_joined": "Go to Emberglow in the Frostlands."
+  },
+  {
+    "id": 10102035,
+    "text": [
+      "Meet up with Taviani at the Snowbloom Ruins."
+    ],
+    "text_joined": "Meet up with Taviani at the Snowbloom Ruins."
+  },
+  {
+    "id": 10102045,
+    "text": [
+      "Go to the Subterranean Snow Ruins."
+    ],
+    "text_joined": "Go to the Subterranean Snow Ruins."
+  },
+  {
+    "id": 10102055,
+    "text": [
+      "Interfere with Herminia's business deal."
+    ],
+    "text_joined": "Interfere with Herminia's business deal."
+  },
+  {
+    "id": 10103002,
+    "text": [
+      "Herminia the Huntress"
+    ],
+    "text_joined": "Herminia the Huntress"
+  },
+  {
+    "id": 10103003,
+    "text": [
+      "The siren call of wealth has corrupted Sonia's once-pure heart. Furious at this turn of events, Bargello hatches a plan to overthrow Lady Herminia."
+    ],
+    "text_joined": "The siren call of wealth has corrupted Sonia's once-pure heart. Furious at this turn of events, Bargello hatches a plan to overthrow Lady Herminia."
+  },
+  {
+    "id": 919104853,
+    "text": [
+      "Speak to Bargello."
+    ],
+    "text_joined": "Speak to Bargello."
+  },
+  {
+    "id": 10103015,
+    "text": [
+      "Go to Rosso's hideout."
+    ],
+    "text_joined": "Go to Rosso's hideout."
+  },
+  {
+    "id": 10103025,
+    "text": [
+      "Return to Bargello's hideout."
+    ],
+    "text_joined": "Return to Bargello's hideout."
+  },
+  {
+    "id": 10103035,
+    "text": [
+      "Search for Lady Herminia."
+    ],
+    "text_joined": "Search for Lady Herminia."
+  },
+  {
+    "id": 10103045,
+    "text": [
+      "Search for the key to the locked door."
+    ],
+    "text_joined": "Search for the key to the locked door."
+  },
+  {
+    "id": 10103055,
+    "text": [
+      "Unlock the door."
+    ],
+    "text_joined": "Unlock the door."
+  },
+  {
+    "id": 10103065,
+    "text": [
+      "Confront Lady Herminia."
+    ],
+    "text_joined": "Confront Lady Herminia."
+  },
+  {
+    "id": 10200001,
+    "text": [
+      "Master of Power"
+    ],
+    "text_joined": "Master of Power"
+  },
+  {
+    "id": 10201002,
+    "text": [
+      "The Scarlet Tyrant"
+    ],
+    "text_joined": "The Scarlet Tyrant"
+  },
+  {
+    "id": 10201003,
+    "text": [
+      "Backed by the might of his private army, the Scarlet Wings, the so-called \"hero\" Tytos rules Emberglow with an iron fist. But there are those who would resist his quest for greater and greater power..."
+    ],
+    "text_joined": "Backed by the might of his private army, the Scarlet Wings, the so-called \"hero\" Tytos rules Emberglow with an iron fist. But there are those who would resist his quest for greater and greater power..."
+  },
+  {
+    "id": 10201025,
+    "text": [
+      "Gather information about Tytos."
+    ],
+    "text_joined": "Gather information about Tytos."
+  },
+  {
+    "id": 10201035,
+    "text": [
+      "Talk to the Scarlet Wing."
+    ],
+    "text_joined": "Talk to the Scarlet Wing."
+  },
+  {
+    "id": 10201045,
+    "text": [
+      "Follow Velnorte east."
+    ],
+    "text_joined": "Follow Velnorte east."
+  },
+  {
+    "id": 10201055,
+    "text": [
+      "Go to Velnorte's house."
+    ],
+    "text_joined": "Go to Velnorte's house."
+  },
+  {
+    "id": 10201075,
+    "text": [
+      "Follow Velnorte."
+    ],
+    "text_joined": "Follow Velnorte."
+  },
+  {
+    "id": 10201085,
+    "text": [
+      "Search for the servant Al."
+    ],
+    "text_joined": "Search for the servant Al."
+  },
+  {
+    "id": 10201095,
+    "text": [
+      "Observe Velnorte."
+    ],
+    "text_joined": "Observe Velnorte."
+  },
+  {
+    "id": 10202002,
+    "text": [
+      "A Dream of Snow"
+    ],
+    "text_joined": "A Dream of Snow"
+  },
+  {
+    "id": 10202003,
+    "text": [
+      "Bereft of his beloved Rinyuu, Velnorte has nothing left to lose. And so he resolves to stop Lord Tytos's vile scheme to employ the scarlet elixir once and for all..."
+    ],
+    "text_joined": "Bereft of his beloved Rinyuu, Velnorte has nothing left to lose. And so he resolves to stop Lord Tytos's vile scheme to employ the scarlet elixir once and for all..."
+  },
+  {
+    "id": 919104854,
+    "text": [
+      "Talk to Velnorte."
+    ],
+    "text_joined": "Talk to Velnorte."
+  },
+  {
+    "id": 10202025,
+    "text": [
+      "Give the text to the Flatlands' Knights Ardante."
+    ],
+    "text_joined": "Give the text to the Flatlands' Knights Ardante."
+  },
+  {
+    "id": 10202035,
+    "text": [
+      "Go to the inn in Theatropolis in the Flatlands."
+    ],
+    "text_joined": "Go to the inn in Theatropolis in the Flatlands."
+  },
+  {
+    "id": 10202045,
+    "text": [
+      "Report the incident to Velnorte."
+    ],
+    "text_joined": "Report the incident to Velnorte."
+  },
+  {
+    "id": 10202055,
+    "text": [
+      "Gather information in Emberglow."
+    ],
+    "text_joined": "Gather information in Emberglow."
+  },
+  {
+    "id": 10202065,
+    "text": [
+      "Go to the tavern in Emberglow."
+    ],
+    "text_joined": "Go to the tavern in Emberglow."
+  },
+  {
+    "id": 10202075,
+    "text": [
+      "Follow Velnorte to the mountains."
+    ],
+    "text_joined": "Follow Velnorte to the mountains."
+  },
+  {
+    "id": 10202085,
+    "text": [
+      "Search for Rinyuu in the mountains."
+    ],
+    "text_joined": "Search for Rinyuu in the mountains."
+  },
+  {
+    "id": 10203002,
+    "text": [
+      "Tytos the Thunderblade"
+    ],
+    "text_joined": "Tytos the Thunderblade"
+  },
+  {
+    "id": 10203003,
+    "text": [
+      "Velnorte is devastated as his beloved Rinyuu was pushed off the peaks to her death. Meanwhile, Lord Tytos was proceeding with the final stages of his plan to secure unprecedented power..."
+    ],
+    "text_joined": "Velnorte is devastated as his beloved Rinyuu was pushed off the peaks to her death. Meanwhile, Lord Tytos was proceeding with the final stages of his plan to secure unprecedented power..."
+  },
+  {
+    "id": 919104855,
+    "text": [
+      "Talk to Velnorte."
+    ],
+    "text_joined": "Talk to Velnorte."
+  },
+  {
+    "id": 10203015,
+    "text": [
+      "Aid the hunter in hunting down a snow yak."
+    ],
+    "text_joined": "Aid the hunter in hunting down a snow yak."
+  },
+  {
+    "id": 10203025,
+    "text": [
+      "Go to the house of the hunter Dmitri."
+    ],
+    "text_joined": "Go to the house of the hunter Dmitri."
+  },
+  {
+    "id": 10203035,
+    "text": [
+      "Go to where the monster was heard."
+    ],
+    "text_joined": "Go to where the monster was heard."
+  },
+  {
+    "id": 10203045,
+    "text": [
+      "Go to Velnorte's house."
+    ],
+    "text_joined": "Go to Velnorte's house."
+  },
+  {
+    "id": 10203055,
+    "text": [
+      "Go to the Ceremonial Square."
+    ],
+    "text_joined": "Go to the Ceremonial Square."
+  },
+  {
+    "id": 10203065,
+    "text": [
+      "Confront the hero Tytos."
+    ],
+    "text_joined": "Confront the hero Tytos."
+  },
+  {
+    "id": 10300001,
+    "text": [
+      "Master of Fame"
+    ],
+    "text_joined": "Master of Fame"
+  },
+  {
+    "id": 10301002,
+    "text": [
+      "The Genius Playwright"
+    ],
+    "text_joined": "The Genius Playwright"
+  },
+  {
+    "id": 10301003,
+    "text": [
+      "In Theatropolis, city of the arts, lives Auguste, the most famous playwright in all the realm. His works are praised and loved by all. They are said to even change the hearts of his adoring fans..."
+    ],
+    "text_joined": "In Theatropolis, city of the arts, lives Auguste, the most famous playwright in all the realm. His works are praised and loved by all. They are said to even change the hearts of his adoring fans..."
+  },
+  {
+    "id": 919104856,
+    "text": [
+      "Gather information about Auguste."
+    ],
+    "text_joined": "Gather information about Auguste."
+  },
+  {
+    "id": 10301025,
+    "text": [
+      "Search for Auguste."
+    ],
+    "text_joined": "Search for Auguste."
+  },
+  {
+    "id": 10301035,
+    "text": [
+      "Follow Auguste."
+    ],
+    "text_joined": "Follow Auguste."
+  },
+  {
+    "id": 10301045,
+    "text": [
+      "Follow Auguste."
+    ],
+    "text_joined": "Follow Auguste."
+  },
+  {
+    "id": 10302002,
+    "text": [
+      "Fit for a Tragedy"
+    ],
+    "text_joined": "Fit for a Tragedy"
+  },
+  {
+    "id": 10302003,
+    "text": [
+      "Schwartz, a man whose wife was murdered by Auguste, seeks revenge against the mad playwright. He visits Valore in hopes of finding a means to kill his hated foe..."
+    ],
+    "text_joined": "Schwartz, a man whose wife was murdered by Auguste, seeks revenge against the mad playwright. He visits Valore in hopes of finding a means to kill his hated foe..."
+  },
+  {
+    "id": 919104857,
+    "text": [
+      "Talk to Schwartz."
+    ],
+    "text_joined": "Talk to Schwartz."
+  },
+  {
+    "id": 10302025,
+    "text": [
+      "Head to Auguste's Villa."
+    ],
+    "text_joined": "Head to Auguste's Villa."
+  },
+  {
+    "id": 10302035,
+    "text": [
+      "Head to Auguste's Villa."
+    ],
+    "text_joined": "Head to Auguste's Villa."
+  },
+  {
+    "id": 10302045,
+    "text": [
+      "Go to the cabin."
+    ],
+    "text_joined": "Go to the cabin."
+  },
+  {
+    "id": 10302055,
+    "text": [
+      "Enter Auguste's Villa."
+    ],
+    "text_joined": "Enter Auguste's Villa."
+  },
+  {
+    "id": 10302065,
+    "text": [
+      "Search for Auguste."
+    ],
+    "text_joined": "Search for Auguste."
+  },
+  {
+    "id": 10302075,
+    "text": [
+      "Follow Mikhail's voice."
+    ],
+    "text_joined": "Follow Mikhail's voice."
+  },
+  {
+    "id": 10303002,
+    "text": [
+      "Auguste, Prince of Thieves"
+    ],
+    "text_joined": "Auguste, Prince of Thieves"
+  },
+  {
+    "id": 10303003,
+    "text": [
+      "In the name of writing a tragedy, Auguste has tortured poor Francesca and her child. And so Schwartz sets out for the amphitheatre to snuff out the playwright's fame...and his life."
+    ],
+    "text_joined": "In the name of writing a tragedy, Auguste has tortured poor Francesca and her child. And so Schwartz sets out for the amphitheatre to snuff out the playwright's fame...and his life."
+  },
+  {
+    "id": 919104858,
+    "text": [
+      "Gather information about Auguste."
+    ],
+    "text_joined": "Gather information about Auguste."
+  },
+  {
+    "id": 10303015,
+    "text": [
+      "Make for the amphitheatre."
+    ],
+    "text_joined": "Make for the amphitheatre."
+  },
+  {
+    "id": 10303025,
+    "text": [
+      "Search for Auguste."
+    ],
+    "text_joined": "Search for Auguste."
+  },
+  {
+    "id": 10303035,
+    "text": [
+      "Search for Auguste."
+    ],
+    "text_joined": "Search for Auguste."
+  },
+  {
+    "id": 10303045,
+    "text": [
+      "Confront the playwright Auguste."
+    ],
+    "text_joined": "Confront the playwright Auguste."
+  },
+  {
+    "id": 10400001,
+    "text": [
+      "Finale"
+    ],
+    "text_joined": "Finale"
+  },
+  {
+    "id": 10400002,
+    "text": [
+      "The Rings Sealed Away"
+    ],
+    "text_joined": "The Rings Sealed Away"
+  },
+  {
+    "id": 10400003,
+    "text": [
+      "So did <chara_name> defeat the three greatest villains in the realm—the masters of wealth, power, and fame—and bring peace to their hometown. It is then that a Knight Ardante appears before them."
+    ],
+    "text_joined": "So did <chara_name> defeat the three greatest villains in the realm—the masters of wealth, power, and fame—and bring peace to their hometown. It is then that a Knight Ardante appears before them."
+  },
+  {
+    "id": 219104736,
+    "text": [
+      "Go home to see Stia."
+    ],
+    "text_joined": "Go home to see Stia."
+  },
+  {
+    "id": 219104407,
+    "text": [
+      "Speak with Sazantos."
+    ],
+    "text_joined": "Speak with Sazantos."
+  },
+  {
+    "id": 10400035,
+    "text": [
+      "Go to Rippletide in the Coastlands."
+    ],
+    "text_joined": "Go to Rippletide in the Coastlands."
+  },
+  {
+    "id": 10400045,
+    "text": [
+      "Speak with the Knight Ardante."
+    ],
+    "text_joined": "Speak with the Knight Ardante."
+  },
+  {
+    "id": 10400055,
+    "text": [
+      "Meet the ring maidens and seal away the rings."
+    ],
+    "text_joined": "Meet the ring maidens and seal away the rings."
+  },
+  {
+    "id": 10400065,
+    "text": [
+      "Head to the docks."
+    ],
+    "text_joined": "Head to the docks."
+  },
+  {
+    "id": 10401001,
+    "text": [
+      "Master of All"
+    ],
+    "text_joined": "Master of All"
+  },
+  {
+    "id": 919104859,
+    "text": [
+      "Head to Cragspear."
+    ],
+    "text_joined": "Head to Cragspear."
+  },
+  {
+    "id": 219104409,
+    "text": [
+      "Head to Castle Edoras."
+    ],
+    "text_joined": "Head to Castle Edoras."
+  },
+  {
+    "id": 10401015,
+    "text": [
+      "Go and observe the wedding."
+    ],
+    "text_joined": "Go and observe the wedding."
+  },
+  {
+    "id": 10401012,
+    "text": [
+      "King Pardis III"
+    ],
+    "text_joined": "King Pardis III"
+  },
+  {
+    "id": 10401013,
+    "text": [
+      "<chara_name> and Sazantos the Flameguard arrive in the Cliftlands in pursuit of the captured rings. Here, in Edoras, they have their sights set on King Pardis III..."
+    ],
+    "text_joined": "<chara_name> and Sazantos the Flameguard arrive in the Cliftlands in pursuit of the captured rings. Here, in Edoras, they have their sights set on King Pardis III..."
+  },
+  {
+    "id": 10401025,
+    "text": [
+      "Search for adorablooms."
+    ],
+    "text_joined": "Search for adorablooms."
+  },
+  {
+    "id": 10401035,
+    "text": [
+      "Deliver the flowers to Princess Alaune."
+    ],
+    "text_joined": "Deliver the flowers to Princess Alaune."
+  },
+  {
+    "id": 10401045,
+    "text": [
+      "Speak with General Mahrez."
+    ],
+    "text_joined": "Speak with General Mahrez."
+  },
+  {
+    "id": 919104860,
+    "text": [
+      "Inquire about Edoras's affairs."
+    ],
+    "text_joined": "Inquire about Edoras's affairs."
+  },
+  {
+    "id": 10402015,
+    "text": [
+      "Speak with General Mahrez."
+    ],
+    "text_joined": "Speak with General Mahrez."
+  },
+  {
+    "id": 10402025,
+    "text": [
+      "Go to the Edoras Army's main encampment."
+    ],
+    "text_joined": "Go to the Edoras Army's main encampment."
+  },
+  {
+    "id": 10402022,
+    "text": [
+      "General Mahrez"
+    ],
+    "text_joined": "General Mahrez"
+  },
+  {
+    "id": 10402023,
+    "text": [
+      "Power-hungry King Pardis III invades neighboring nations with no regard for the wishes of his subjects, his soldiers, or even his daughter. So it is that General Mahrez is sent to war against the Westerlings."
+    ],
+    "text_joined": "Power-hungry King Pardis III invades neighboring nations with no regard for the wishes of his subjects, his soldiers, or even his daughter. So it is that General Mahrez is sent to war against the Westerlings."
+  },
+  {
+    "id": 10402035,
+    "text": [
+      "Speak with Captain Barnes."
+    ],
+    "text_joined": "Speak with Captain Barnes."
+  },
+  {
+    "id": 10402045,
+    "text": [
+      "Meet with King Pardis III."
+    ],
+    "text_joined": "Meet with King Pardis III."
+  },
+  {
+    "id": 10402055,
+    "text": [
+      "Search the cell."
+    ],
+    "text_joined": "Search the cell."
+  },
+  {
+    "id": 919104861,
+    "text": [
+      "Investigate the slums."
+    ],
+    "text_joined": "Investigate the slums."
+  },
+  {
+    "id": 10403015,
+    "text": [
+      "Investigate the slums."
+    ],
+    "text_joined": "Investigate the slums."
+  },
+  {
+    "id": 10403025,
+    "text": [
+      "Travel to Clearbrook in the Riverlands."
+    ],
+    "text_joined": "Travel to Clearbrook in the Riverlands."
+  },
+  {
+    "id": 10403035,
+    "text": [
+      "Assail the thieves' hideout."
+    ],
+    "text_joined": "Assail the thieves' hideout."
+  },
+  {
+    "id": 10403032,
+    "text": [
+      "Charles the Traveler"
+    ],
+    "text_joined": "Charles the Traveler"
+  },
+  {
+    "id": 10403033,
+    "text": [
+      "Framed for the assassination of General Mahrez, <chara_name> has no means to approach the mad King Pardis. Meanwhile, a proud swordsman sets off on a journey to save a nation..."
+    ],
+    "text_joined": "Framed for the assassination of General Mahrez, <chara_name> has no means to approach the mad King Pardis. Meanwhile, a proud swordsman sets off on a journey to save a nation..."
+  },
+  {
+    "id": 919104862,
+    "text": [
+      "Meet up with Charles in Sunshade."
+    ],
+    "text_joined": "Meet up with Charles in Sunshade."
+  },
+  {
+    "id": 10404015,
+    "text": [
+      "Search for King Solon."
+    ],
+    "text_joined": "Search for King Solon."
+  },
+  {
+    "id": 10404025,
+    "text": [
+      "Go to the tavern in Sunshade."
+    ],
+    "text_joined": "Go to the tavern in Sunshade."
+  },
+  {
+    "id": 10404035,
+    "text": [
+      "Keep the participants of the meeting safe."
+    ],
+    "text_joined": "Keep the participants of the meeting safe."
+  },
+  {
+    "id": 10404042,
+    "text": [
+      "Wise King Solon"
+    ],
+    "text_joined": "Wise King Solon"
+  },
+  {
+    "id": 10404043,
+    "text": [
+      "When it is discovered that the secret meeting is a ruse to assassinate King Solon, <chara_name> hurries to the desert town of Sunshade with the swordsman El and fellow traveler Charles."
+    ],
+    "text_joined": "When it is discovered that the secret meeting is a ruse to assassinate King Solon, <chara_name> hurries to the desert town of Sunshade with the swordsman El and fellow traveler Charles."
+  },
+  {
+    "id": 919104863,
+    "text": [
+      "Head to the castle in Shepherds Rock."
+    ],
+    "text_joined": "Head to the castle in Shepherds Rock."
+  },
+  {
+    "id": 10405015,
+    "text": [
+      "Search for the swordsman El."
+    ],
+    "text_joined": "Search for the swordsman El."
+  },
+  {
+    "id": 10405025,
+    "text": [
+      "Proceed through the Valley of Death."
+    ],
+    "text_joined": "Proceed through the Valley of Death."
+  },
+  {
+    "id": 10405035,
+    "text": [
+      "Proceed through the Valley of Death."
+    ],
+    "text_joined": "Proceed through the Valley of Death."
+  },
+  {
+    "id": 10405045,
+    "text": [
+      "Head to the main encampment."
+    ],
+    "text_joined": "Head to the main encampment."
+  },
+  {
+    "id": 10405055,
+    "text": [
+      "Enter the main encampment."
+    ],
+    "text_joined": "Enter the main encampment."
+  },
+  {
+    "id": 10405052,
+    "text": [
+      "El the Swordsman"
+    ],
+    "text_joined": "El the Swordsman"
+  },
+  {
+    "id": 10405053,
+    "text": [
+      "Edoras has annihilated Riven and threatens to consolidate its power. In the face of a powerful enemy, King Solon and the swordsman El are forced to fight..."
+    ],
+    "text_joined": "Edoras has annihilated Riven and threatens to consolidate its power. In the face of a powerful enemy, King Solon and the swordsman El are forced to fight..."
+  },
+  {
+    "id": 919104864,
+    "text": [
+      "Gather information about Elrica in the tavern."
+    ],
+    "text_joined": "Gather information about Elrica in the tavern."
+  },
+  {
+    "id": 10406015,
+    "text": [
+      "Speak with Lebrandt."
+    ],
+    "text_joined": "Speak with Lebrandt."
+  },
+  {
+    "id": 10406025,
+    "text": [
+      "Deliver the declaration to Pontiff Julius."
+    ],
+    "text_joined": "Deliver the declaration to Pontiff Julius."
+  },
+  {
+    "id": 10406035,
+    "text": [
+      "Head to Castle Edoras."
+    ],
+    "text_joined": "Head to Castle Edoras."
+  },
+  {
+    "id": 10406045,
+    "text": [
+      "Head to the Castle Edoras gate."
+    ],
+    "text_joined": "Head to the Castle Edoras gate."
+  },
+  {
+    "id": 10406062,
+    "text": [
+      "Princess Elrica"
+    ],
+    "text_joined": "Princess Elrica"
+  },
+  {
+    "id": 10406063,
+    "text": [
+      "It is revealed that the mysterious swordsman El is actually Princess Elrica of Edoras. To save her from the clutches of King Pardis III, Princess Alaune hatches a daring plot..."
+    ],
+    "text_joined": "It is revealed that the mysterious swordsman El is actually Princess Elrica of Edoras. To save her from the clutches of King Pardis III, Princess Alaune hatches a daring plot..."
+  },
+  {
+    "id": 919104865,
+    "text": [
+      "Speak to Lebrandt."
+    ],
+    "text_joined": "Speak to Lebrandt."
+  },
+  {
+    "id": 10407015,
+    "text": [
+      "Meet with your ally in the Riverlands."
+    ],
+    "text_joined": "Meet with your ally in the Riverlands."
+  },
+  {
+    "id": 10407025,
+    "text": [
+      "Go to Castle Riven."
+    ],
+    "text_joined": "Go to Castle Riven."
+  },
+  {
+    "id": 10407035,
+    "text": [
+      "Meet with King Riven."
+    ],
+    "text_joined": "Meet with King Riven."
+  },
+  {
+    "id": 10407045,
+    "text": [
+      "Confront the jester Gonska."
+    ],
+    "text_joined": "Confront the jester Gonska."
+  },
+  {
+    "id": 10407072,
+    "text": [
+      "Princess Alaune"
+    ],
+    "text_joined": "Princess Alaune"
+  },
+  {
+    "id": 10407073,
+    "text": [
+      "Vowing to carry on the mission of her ill-fated sister, Elrica, Princess Alaune resolves to stand against the mad King Pardis. She vows to fight side by side with <chara_name>, and begins preparations for the coming battle..."
+    ],
+    "text_joined": "Vowing to carry on the mission of her ill-fated sister, Elrica, Princess Alaune resolves to stand against the mad King Pardis. She vows to fight side by side with <chara_name>, and begins preparations for the coming battle..."
+  },
+  {
+    "id": 919104866,
+    "text": [
+      "Speak to the apothecary."
+    ],
+    "text_joined": "Speak to the apothecary."
+  },
+  {
+    "id": 10408015,
+    "text": [
+      "Head to Castle Edoras."
+    ],
+    "text_joined": "Head to Castle Edoras."
+  },
+  {
+    "id": 10408025,
+    "text": [
+      "Confront King Pardis III."
+    ],
+    "text_joined": "Confront King Pardis III."
+  },
+  {
+    "id": 10408082,
+    "text": [
+      "Pardis the Scholarking"
+    ],
+    "text_joined": "Pardis the Scholarking"
+  },
+  {
+    "id": 10408083,
+    "text": [
+      "Together with Prince Richard, <chara_name> and Princess Alaune defeat the jester Gonska, who had taken control of the Kingdom of Riven. But as the brave princess faces the decisive battle, she is pierced by a single arrow..."
+    ],
+    "text_joined": "Together with Prince Richard, <chara_name> and Princess Alaune defeat the jester Gonska, who had taken control of the Kingdom of Riven. But as the brave princess faces the decisive battle, she is pierced by a single arrow..."
+  },
+  {
+    "id": 919104867,
+    "text": [
+      "Depart Cragspear."
+    ],
+    "text_joined": "Depart Cragspear."
+  },
+  {
+    "id": 10409015,
+    "text": [
+      "Make for the altar on the Isle of Orsa."
+    ],
+    "text_joined": "Make for the altar on the Isle of Orsa."
+  },
+  {
+    "id": 219104738,
+    "text": [
+      "\"Impress\" Sazantos."
+    ],
+    "text_joined": "\"Impress\" Sazantos."
+  },
+  {
+    "id": 10409091,
+    "text": [
+      "Finale"
+    ],
+    "text_joined": "Finale"
+  },
+  {
+    "id": 10409092,
+    "text": [
+      "Trial of the Ring"
+    ],
+    "text_joined": "Trial of the Ring"
+  },
+  {
+    "id": 10409093,
+    "text": [
+      "With the fall of the mad King Pardis, master of all, Orsterra has at last found a measure of peace. Having collected all four rings, <chara_name> now finds themselves standing before Sazantos once again..."
+    ],
+    "text_joined": "With the fall of the mad King Pardis, master of all, Orsterra has at last found a measure of peace. Having collected all four rings, <chara_name> now finds themselves standing before Sazantos once again..."
+  },
+  {
+    "id": 10500001,
+    "text": [
+      "Bestower of Wealth"
+    ],
+    "text_joined": "Bestower of Wealth"
+  },
+  {
+    "id": 10500002,
+    "text": [
+      "The Witch's Fortune"
+    ],
+    "text_joined": "The Witch's Fortune"
+  },
+  {
+    "id": 10500003,
+    "text": [
+      "By ending Lady Herminia's reign of terror, Bargello and his friends have brought a measure of peace to Valore. But unbeknownst to the loyal band, a new evil is creeping ever closer..."
+    ],
+    "text_joined": "By ending Lady Herminia's reign of terror, Bargello and his friends have brought a measure of peace to Valore. But unbeknownst to the loyal band, a new evil is creeping ever closer..."
+  },
+  {
+    "id": 10500015,
+    "text": [
+      "Speak with the flower girl."
+    ],
+    "text_joined": "Speak with the flower girl."
+  },
+  {
+    "id": 10500025,
+    "text": [
+      "Speak with Delcado at LeRuiz."
+    ],
+    "text_joined": "Speak with Delcado at LeRuiz."
+  },
+  {
+    "id": 10501002,
+    "text": [
+      "The Have-Not"
+    ],
+    "text_joined": "The Have-Not"
+  },
+  {
+    "id": 10501003,
+    "text": [
+      "The wealthy Delcado, whom Bargello was supposed to meet at a feast, has been murdered. In a message writ in blood, the killer identifies themselves only as \"the Have-Not.\""
+    ],
+    "text_joined": "The wealthy Delcado, whom Bargello was supposed to meet at a feast, has been murdered. In a message writ in blood, the killer identifies themselves only as \"the Have-Not.\""
+  },
+  {
+    "id": 919104868,
+    "text": [
+      "Speak to Bargello."
+    ],
+    "text_joined": "Speak to Bargello."
+  },
+  {
+    "id": 10501015,
+    "text": [
+      "Meet with Delvecchio."
+    ],
+    "text_joined": "Meet with Delvecchio."
+  },
+  {
+    "id": 10501025,
+    "text": [
+      "Go to the location identified on the map."
+    ],
+    "text_joined": "Go to the location identified on the map."
+  },
+  {
+    "id": 10501035,
+    "text": [
+      "Head to the tavern."
+    ],
+    "text_joined": "Head to the tavern."
+  },
+  {
+    "id": 10501045,
+    "text": [
+      "Check in on your companions."
+    ],
+    "text_joined": "Check in on your companions."
+  },
+  {
+    "id": 10501055,
+    "text": [
+      "Speak to Bargello."
+    ],
+    "text_joined": "Speak to Bargello."
+  },
+  {
+    "id": 10501075,
+    "text": [
+      "Speak the password to the gatekeeper."
+    ],
+    "text_joined": "Speak the password to the gatekeeper."
+  },
+  {
+    "id": 10501085,
+    "text": [
+      "Search for Leopaldi."
+    ],
+    "text_joined": "Search for Leopaldi."
+  },
+  {
+    "id": 10501095,
+    "text": [
+      "Follow Leopaldi."
+    ],
+    "text_joined": "Follow Leopaldi."
+  },
+  {
+    "id": 212004057,
+    "text": [
+      "Fool's Gold"
+    ],
+    "text_joined": "Fool's Gold"
+  },
+  {
+    "id": 212004058,
+    "text": [
+      "Tiziano lives, known now as Oskha the Have-Not. The gravely injured Bargello has yet to open his eyes."
+    ],
+    "text_joined": "Tiziano lives, known now as Oskha the Have-Not. The gravely injured Bargello has yet to open his eyes."
+  },
+  {
+    "id": 919104869,
+    "text": [
+      "Talk to Pierro."
+    ],
+    "text_joined": "Talk to Pierro."
+  },
+  {
+    "id": 10502015,
+    "text": [
+      "Head to Sufrataljah."
+    ],
+    "text_joined": "Head to Sufrataljah."
+  },
+  {
+    "id": 10502025,
+    "text": [
+      "Head to the palace."
+    ],
+    "text_joined": "Head to the palace."
+  },
+  {
+    "id": 10502035,
+    "text": [
+      "Work together to infiltrate the palace."
+    ],
+    "text_joined": "Work together to infiltrate the palace."
+  },
+  {
+    "id": 10502057,
+    "text": [
+      "Investigate the palace."
+    ],
+    "text_joined": "Investigate the palace."
+  },
+  {
+    "id": 10502045,
+    "text": [
+      "Head to the archives."
+    ],
+    "text_joined": "Head to the archives."
+  },
+  {
+    "id": 10502055,
+    "text": [
+      "Visit the Have-Not."
+    ],
+    "text_joined": "Visit the Have-Not."
+  },
+  {
+    "id": 212004059,
+    "text": [
+      "Oskha the Trader"
+    ],
+    "text_joined": "Oskha the Trader"
+  },
+  {
+    "id": 212004060,
+    "text": [
+      "Oskha, having returned to his hometown of Sufrataljah, orders his devotees to kill Lord Scarabe. And the next target on his list is none other than Valore."
+    ],
+    "text_joined": "Oskha, having returned to his hometown of Sufrataljah, orders his devotees to kill Lord Scarabe. And the next target on his list is none other than Valore."
+  },
+  {
+    "id": 919104870,
+    "text": [
+      "Talk to Pierro."
+    ],
+    "text_joined": "Talk to Pierro."
+  },
+  {
+    "id": 213004078,
+    "text": [
+      "Gather information from the town's residents."
+    ],
+    "text_joined": "Gather information from the town's residents."
+  },
+  {
+    "id": 213004080,
+    "text": [
+      "Report the town's situation to Bargello."
+    ],
+    "text_joined": "Report the town's situation to Bargello."
+  },
+  {
+    "id": 213004082,
+    "text": [
+      "Search for Oskha."
+    ],
+    "text_joined": "Search for Oskha."
+  },
+  {
+    "id": 213004084,
+    "text": [
+      "Go to the location identified on the map."
+    ],
+    "text_joined": "Go to the location identified on the map."
+  },
+  {
+    "id": 213004086,
+    "text": [
+      "Search for the hidden fortune."
+    ],
+    "text_joined": "Search for the hidden fortune."
+  },
+  {
+    "id": 213004088,
+    "text": [
+      "Inspect the statue."
+    ],
+    "text_joined": "Inspect the statue."
+  },
+  {
+    "id": 213004090,
+    "text": [
+      "Proceed through the Golden Palace."
+    ],
+    "text_joined": "Proceed through the Golden Palace."
+  },
+  {
+    "id": 218704061,
+    "text": [
+      "Proceed through the Golden Palace."
+    ],
+    "text_joined": "Proceed through the Golden Palace."
+  },
+  {
+    "id": 218704063,
+    "text": [
+      "Confront Oskha."
+    ],
+    "text_joined": "Confront Oskha."
+  },
+  {
+    "id": 10600001,
+    "text": [
+      "Bestower of Power"
+    ],
+    "text_joined": "Bestower of Power"
+  },
+  {
+    "id": 10600002,
+    "text": [
+      "Empress from Abroad"
+    ],
+    "text_joined": "Empress from Abroad"
+  },
+  {
+    "id": 10600003,
+    "text": [
+      "After the fall of King Pardis III, the realm of Orsterra has found peace once more. In the hopes of making this state of harmony and order permanent, the three rulers are on the verge of signing a peace treaty..."
+    ],
+    "text_joined": "After the fall of King Pardis III, the realm of Orsterra has found peace once more. In the hopes of making this state of harmony and order permanent, the three rulers are on the verge of signing a peace treaty..."
+  },
+  {
+    "id": 919104871,
+    "text": [
+      "Speak to Lebrandt."
+    ],
+    "text_joined": "Speak to Lebrandt."
+  },
+  {
+    "id": 10600015,
+    "text": [
+      "Take part in the peace ceremony."
+    ],
+    "text_joined": "Take part in the peace ceremony."
+  },
+  {
+    "id": 10601002,
+    "text": [
+      "The One That Lays Waste"
+    ],
+    "text_joined": "The One That Lays Waste"
+  },
+  {
+    "id": 10601003,
+    "text": [
+      "An emissary from G'roha, a powerful empire to the west, has declared war on the entire continent of Orsterra. Alaune and the other leaders of nations now rally their troops to fight for their realm."
+    ],
+    "text_joined": "An emissary from G'roha, a powerful empire to the west, has declared war on the entire continent of Orsterra. Alaune and the other leaders of nations now rally their troops to fight for their realm."
+  },
+  {
+    "id": 919104872,
+    "text": [
+      "Talk to Marianne of the Kingsguard."
+    ],
+    "text_joined": "Talk to Marianne of the Kingsguard."
+  },
+  {
+    "id": 10601015,
+    "text": [
+      "Head to Donescu Castle."
+    ],
+    "text_joined": "Head to Donescu Castle."
+  },
+  {
+    "id": 10601025,
+    "text": [
+      "Speak to Alaune."
+    ],
+    "text_joined": "Speak to Alaune."
+  },
+  {
+    "id": 10601035,
+    "text": [
+      "Head to the Cyphlo Banks."
+    ],
+    "text_joined": "Head to the Cyphlo Banks."
+  },
+  {
+    "id": 212004061,
+    "text": [
+      "To Protect What Is Dear"
+    ],
+    "text_joined": "To Protect What Is Dear"
+  },
+  {
+    "id": 212004062,
+    "text": [
+      "Riven's neighbor, Donescu, is overtaken by Tatloch. Alaune flees as she ponders a way to strike back..."
+    ],
+    "text_joined": "Riven's neighbor, Donescu, is overtaken by Tatloch. Alaune flees as she ponders a way to strike back..."
+  },
+  {
+    "id": 919104873,
+    "text": [
+      "Speak to Lebrandt."
+    ],
+    "text_joined": "Speak to Lebrandt."
+  },
+  {
+    "id": 919105042,
+    "text": [
+      "Procure a ship."
+    ],
+    "text_joined": "Procure a ship."
+  },
+  {
+    "id": 211904021,
+    "text": [
+      "Head to Grandport by boat."
+    ],
+    "text_joined": "Head to Grandport by boat."
+  },
+  {
+    "id": 211904023,
+    "text": [
+      "Head to Grandport."
+    ],
+    "text_joined": "Head to Grandport."
+  },
+  {
+    "id": 211904027,
+    "text": [
+      "Speak with Ivri and the others."
+    ],
+    "text_joined": "Speak with Ivri and the others."
+  },
+  {
+    "id": 214804027,
+    "text": [
+      "Head to the lord of Grandport's estate."
+    ],
+    "text_joined": "Head to the lord of Grandport's estate."
+  },
+  {
+    "id": 214804029,
+    "text": [
+      "Speak to Alaune."
+    ],
+    "text_joined": "Speak to Alaune."
+  },
+  {
+    "id": 214804031,
+    "text": [
+      "Head into the sewer depths."
+    ],
+    "text_joined": "Head into the sewer depths."
+  },
+  {
+    "id": 214804033,
+    "text": [
+      "Go to the location identified on the map."
+    ],
+    "text_joined": "Go to the location identified on the map."
+  },
+  {
+    "id": 212004063,
+    "text": [
+      "Tatloch the Lady of Grace"
+    ],
+    "text_joined": "Tatloch the Lady of Grace"
+  },
+  {
+    "id": 212004064,
+    "text": [
+      "Alaune enlists the help of Grandport's Lord Eltrix as G'roha's fleet makes for the Isle of Orsa. The battle for the future of the realm begins..."
+    ],
+    "text_joined": "Alaune enlists the help of Grandport's Lord Eltrix as G'roha's fleet makes for the Isle of Orsa. The battle for the future of the realm begins..."
+  },
+  {
+    "id": 919104874,
+    "text": [
+      "Talk to Eltrix."
+    ],
+    "text_joined": "Talk to Eltrix."
+  },
+  {
+    "id": 215104063,
+    "text": [
+      "Meet up with Eltrix in Rippletide."
+    ],
+    "text_joined": "Meet up with Eltrix in Rippletide."
+  },
+  {
+    "id": 215104065,
+    "text": [
+      "Speak to Lebrandt."
+    ],
+    "text_joined": "Speak to Lebrandt."
+  },
+  {
+    "id": 215104067,
+    "text": [
+      "Claim victory in naval warfare."
+    ],
+    "text_joined": "Claim victory in naval warfare."
+  },
+  {
+    "id": 215104069,
+    "text": [
+      "Claim victory in naval warfare."
+    ],
+    "text_joined": "Claim victory in naval warfare."
+  },
+  {
+    "id": 215104071,
+    "text": [
+      "Make for the enemy fleet's mother ship."
+    ],
+    "text_joined": "Make for the enemy fleet's mother ship."
+  },
+  {
+    "id": 215104073,
+    "text": [
+      "Proceed through the ship."
+    ],
+    "text_joined": "Proceed through the ship."
+  },
+  {
+    "id": 215104075,
+    "text": [
+      "Confront Tatloch."
+    ],
+    "text_joined": "Confront Tatloch."
+  },
+  {
+    "id": 10700001,
+    "text": [
+      "Bestower of Fame"
+    ],
+    "text_joined": "Bestower of Fame"
+  },
+  {
+    "id": 10700002,
+    "text": [
+      "The Shadow Apostate"
+    ],
+    "text_joined": "The Shadow Apostate"
+  },
+  {
+    "id": 10700003,
+    "text": [
+      "Much time has passed since the day the scarlet snow fell, and peaceful times have returned to Emberglow. But alas, the pure white snow is once again to be stained with blood..."
+    ],
+    "text_joined": "Much time has passed since the day the scarlet snow fell, and peaceful times have returned to Emberglow. But alas, the pure white snow is once again to be stained with blood..."
+  },
+  {
+    "id": 919104875,
+    "text": [
+      "Talk to the tavernkeep."
+    ],
+    "text_joined": "Talk to the tavernkeep."
+  },
+  {
+    "id": 10700025,
+    "text": [
+      "Head to Flamesgrace."
+    ],
+    "text_joined": "Head to Flamesgrace."
+  },
+  {
+    "id": 213004044,
+    "text": [
+      "Deliver the results to Pontiff Julius."
+    ],
+    "text_joined": "Deliver the results to Pontiff Julius."
+  },
+  {
+    "id": 10700035,
+    "text": [
+      "\"Inquire\" with the clergy about the situation."
+    ],
+    "text_joined": "\"Inquire\" with the clergy about the situation."
+  },
+  {
+    "id": 10701002,
+    "text": [
+      "A New God"
+    ],
+    "text_joined": "A New God"
+  },
+  {
+    "id": 10701003,
+    "text": [
+      "The mysterious organization known as the Black Scarlet has been assassinating church officials one after another. <chara_name> joins together with Flameguard Sazantos to determine who is behind this dark plot."
+    ],
+    "text_joined": "The mysterious organization known as the Black Scarlet has been assassinating church officials one after another. <chara_name> joins together with Flameguard Sazantos to determine who is behind this dark plot."
+  },
+  {
+    "id": 919104876,
+    "text": [
+      "Talk to Archbishop Josef."
+    ],
+    "text_joined": "Talk to Archbishop Josef."
+  },
+  {
+    "id": 10701015,
+    "text": [
+      "Head to the Cathedral of Tytos."
+    ],
+    "text_joined": "Head to the Cathedral of Tytos."
+  },
+  {
+    "id": 10701025,
+    "text": [
+      "Head to the Cathedral of Tytos."
+    ],
+    "text_joined": "Head to the Cathedral of Tytos."
+  },
+  {
+    "id": 10701035,
+    "text": [
+      "Head to the dining hall."
+    ],
+    "text_joined": "Head to the dining hall."
+  },
+  {
+    "id": 10701415,
+    "text": [
+      "\"Inquire\" about important information."
+    ],
+    "text_joined": "\"Inquire\" about important information."
+  },
+  {
+    "id": 10701425,
+    "text": [
+      "Gather more important information."
+    ],
+    "text_joined": "Gather more important information."
+  },
+  {
+    "id": 10701055,
+    "text": [
+      "Obtain evidence from the Scarlet Wing."
+    ],
+    "text_joined": "Obtain evidence from the Scarlet Wing."
+  },
+  {
+    "id": 10701065,
+    "text": [
+      "Report to Rondo of the Knights Ardante."
+    ],
+    "text_joined": "Report to Rondo of the Knights Ardante."
+  },
+  {
+    "id": 10701715,
+    "text": [
+      "Interrogate Bishop Tarset."
+    ],
+    "text_joined": "Interrogate Bishop Tarset."
+  },
+  {
+    "id": 10701725,
+    "text": [
+      "Obtain testimony from Bishop Tarset."
+    ],
+    "text_joined": "Obtain testimony from Bishop Tarset."
+  },
+  {
+    "id": 10701085,
+    "text": [
+      "Head to the confessional."
+    ],
+    "text_joined": "Head to the confessional."
+  },
+  {
+    "id": 10701095,
+    "text": [
+      "Head to Emberglow Cathedral."
+    ],
+    "text_joined": "Head to Emberglow Cathedral."
+  },
+  {
+    "id": 10701105,
+    "text": [
+      "Search the confessional."
+    ],
+    "text_joined": "Search the confessional."
+  },
+  {
+    "id": 10701115,
+    "text": [
+      "Search for Miza."
+    ],
+    "text_joined": "Search for Miza."
+  },
+  {
+    "id": 10701125,
+    "text": [
+      "Search for Father Monaris."
+    ],
+    "text_joined": "Search for Father Monaris."
+  },
+  {
+    "id": 212004065,
+    "text": [
+      "Sacred Ashes"
+    ],
+    "text_joined": "Sacred Ashes"
+  },
+  {
+    "id": 212004066,
+    "text": [
+      "Father Monaris, the man believed to be leading the Black Scarlet, is revealed to be merely a puppet. The party makes for Atlasdam to learn more about their sole remaining clue: a piece of a manuscript."
+    ],
+    "text_joined": "Father Monaris, the man believed to be leading the Black Scarlet, is revealed to be merely a puppet. The party makes for Atlasdam to learn more about their sole remaining clue: a piece of a manuscript."
+  },
+  {
+    "id": 919104877,
+    "text": [
+      "Speak to Pontiff Julius."
+    ],
+    "text_joined": "Speak to Pontiff Julius."
+  },
+  {
+    "id": 213004048,
+    "text": [
+      "Head to Atlasdam."
+    ],
+    "text_joined": "Head to Atlasdam."
+  },
+  {
+    "id": 213004050,
+    "text": [
+      "Head to the library."
+    ],
+    "text_joined": "Head to the library."
+  },
+  {
+    "id": 213004052,
+    "text": [
+      "Head to Atlasdam Palace."
+    ],
+    "text_joined": "Head to Atlasdam Palace."
+  },
+  {
+    "id": 213004054,
+    "text": [
+      "Speak to Princess Mary."
+    ],
+    "text_joined": "Speak to Princess Mary."
+  },
+  {
+    "id": 213004056,
+    "text": [
+      "Speak to Headmaster Yvon."
+    ],
+    "text_joined": "Speak to Headmaster Yvon."
+  },
+  {
+    "id": 213004058,
+    "text": [
+      "Head to the library."
+    ],
+    "text_joined": "Head to the library."
+  },
+  {
+    "id": 213004060,
+    "text": [
+      "Go to the location identified on the map."
+    ],
+    "text_joined": "Go to the location identified on the map."
+  },
+  {
+    "id": 213004062,
+    "text": [
+      "Head to Flamesgrace."
+    ],
+    "text_joined": "Head to Flamesgrace."
+  },
+  {
+    "id": 213004064,
+    "text": [
+      "Speak to Pontiff Julius."
+    ],
+    "text_joined": "Speak to Pontiff Julius."
+  },
+  {
+    "id": 213004066,
+    "text": [
+      "Speak to Rondo."
+    ],
+    "text_joined": "Speak to Rondo."
+  },
+  {
+    "id": 213004068,
+    "text": [
+      "Head to the altar."
+    ],
+    "text_joined": "Head to the altar."
+  },
+  {
+    "id": 213004070,
+    "text": [
+      "Follow the mastermind."
+    ],
+    "text_joined": "Follow the mastermind."
+  },
+  {
+    "id": 213004072,
+    "text": [
+      "Head to the Cave of Origin."
+    ],
+    "text_joined": "Head to the Cave of Origin."
+  },
+  {
+    "id": 212004067,
+    "text": [
+      "Ceraphina the Charitable"
+    ],
+    "text_joined": "Ceraphina the Charitable"
+  },
+  {
+    "id": 212004068,
+    "text": [
+      "Ceraphina vanishes after stealing the First Flame to become a god. Sazantos and the others now begin their desperate pursuit to stop her."
+    ],
+    "text_joined": "Ceraphina vanishes after stealing the First Flame to become a god. Sazantos and the others now begin their desperate pursuit to stop her."
+  },
+  {
+    "id": 919104878,
+    "text": [
+      "Speak to Rondo."
+    ],
+    "text_joined": "Speak to Rondo."
+  },
+  {
+    "id": 215104077,
+    "text": [
+      "Head to Berecain."
+    ],
+    "text_joined": "Head to Berecain."
+  },
+  {
+    "id": 215104079,
+    "text": [
+      "Gather information about Ceraphina."
+    ],
+    "text_joined": "Gather information about Ceraphina."
+  },
+  {
+    "id": 215104081,
+    "text": [
+      "Head to the Forbidden Temple."
+    ],
+    "text_joined": "Head to the Forbidden Temple."
+  },
+  {
+    "id": 215104083,
+    "text": [
+      "Follow Ceraphina."
+    ],
+    "text_joined": "Follow Ceraphina."
+  },
+  {
+    "id": 215104085,
+    "text": [
+      "Confront Ceraphina."
+    ],
+    "text_joined": "Confront Ceraphina."
+  },
+  {
+    "id": 215504027,
+    "text": [
+      "Finale"
+    ],
+    "text_joined": "Finale"
+  },
+  {
+    "id": 215504028,
+    "text": [
+      "Bestower of All"
+    ],
+    "text_joined": "Bestower of All"
+  },
+  {
+    "id": 215504029,
+    "text": [
+      "Bestower of All"
+    ],
+    "text_joined": "Bestower of All"
+  },
+  {
+    "id": 218704039,
+    "text": [
+      "The Black Flame"
+    ],
+    "text_joined": "The Black Flame"
+  },
+  {
+    "id": 215504030,
+    "text": [
+      "Upon collecting the three rings, <chara_name> receives a letter—a letter that was also sent to the many allies they met along their journey..."
+    ],
+    "text_joined": "Upon collecting the three rings, <chara_name> receives a letter—a letter that was also sent to the many allies they met along their journey..."
+  },
+  {
+    "id": 919104879,
+    "text": [
+      "Speak to Stia in Wishvale."
+    ],
+    "text_joined": "Speak to Stia in Wishvale."
+  },
+  {
+    "id": 215504031,
+    "text": [
+      "Head to the Isle of Orsa."
+    ],
+    "text_joined": "Head to the Isle of Orsa."
+  },
+  {
+    "id": 215504033,
+    "text": [
+      "Speak to the ring maidens."
+    ],
+    "text_joined": "Speak to the ring maidens."
+  },
+  {
+    "id": 215504035,
+    "text": [
+      "Give the rings to Finis."
+    ],
+    "text_joined": "Give the rings to Finis."
+  },
+  {
+    "id": 218704017,
+    "text": [
+      "Between Life and Death"
+    ],
+    "text_joined": "Between Life and Death"
+  },
+  {
+    "id": 218704018,
+    "text": [
+      "Sazantos slays Finis and vanishes with Signa. From the stolen rings to the Accurst Flame, mysterious gate, and the dead... The situation grows ever more dire."
+    ],
+    "text_joined": "Sazantos slays Finis and vanishes with Signa. From the stolen rings to the Accurst Flame, mysterious gate, and the dead... The situation grows ever more dire."
+  },
+  {
+    "id": 919104880,
+    "text": [
+      "Talk to Krauser."
+    ],
+    "text_joined": "Talk to Krauser."
+  },
+  {
+    "id": 218704019,
+    "text": [
+      "Enter the throne room."
+    ],
+    "text_joined": "Enter the throne room."
+  },
+  {
+    "id": 218704021,
+    "text": [
+      "Head to the castle square."
+    ],
+    "text_joined": "Head to the castle square."
+  },
+  {
+    "id": 218704023,
+    "text": [
+      "Go to where the ring points."
+    ],
+    "text_joined": "Go to where the ring points."
+  },
+  {
+    "id": 218704025,
+    "text": [
+      "Go to where the ring points."
+    ],
+    "text_joined": "Go to where the ring points."
+  },
+  {
+    "id": 218704051,
+    "text": [
+      "Hill of the Dead"
+    ],
+    "text_joined": "Hill of the Dead"
+  },
+  {
+    "id": 218704052,
+    "text": [
+      "After Signa and the dead appear in Edoras, <chara_name> travels to Hell and drives back the deceased General Mahrez. Signa makes good her escape, but not before declaring her next stop: Cragspear."
+    ],
+    "text_joined": "After Signa and the dead appear in Edoras, <chara_name> travels to Hell and drives back the deceased General Mahrez. Signa makes good her escape, but not before declaring her next stop: Cragspear."
+  },
+  {
+    "id": 919104881,
+    "text": [
+      "Speak to Alaune."
+    ],
+    "text_joined": "Speak to Alaune."
+  },
+  {
+    "id": 218704053,
+    "text": [
+      "Speak to Stia in Wishvale."
+    ],
+    "text_joined": "Speak to Stia in Wishvale."
+  },
+  {
+    "id": 218704055,
+    "text": [
+      "Head to Bargello's hideout."
+    ],
+    "text_joined": "Head to Bargello's hideout."
+  },
+  {
+    "id": 218704057,
+    "text": [
+      "Head to Hell's White Grape Hill."
+    ],
+    "text_joined": "Head to Hell's White Grape Hill."
+  },
+  {
+    "id": 218704059,
+    "text": [
+      "Enter the throne room."
+    ],
+    "text_joined": "Enter the throne room."
+  },
+  {
+    "id": 218704065,
+    "text": [
+      "Castle of the Hollow Queen"
+    ],
+    "text_joined": "Castle of the Hollow Queen"
+  },
+  {
+    "id": 218704066,
+    "text": [
+      "Much like Sonia, Elrica had also been transformed into a fallen. Determined to make Sazantos answer for his atrocities, the Guardians of Light set out to confront their former companion."
+    ],
+    "text_joined": "Much like Sonia, Elrica had also been transformed into a fallen. Determined to make Sazantos answer for his atrocities, the Guardians of Light set out to confront their former companion."
+  },
+  {
+    "id": 919104882,
+    "text": [
+      "Meet with Alaune."
+    ],
+    "text_joined": "Meet with Alaune."
+  },
+  {
+    "id": 218704067,
+    "text": [
+      "Speak to Rondo."
+    ],
+    "text_joined": "Speak to Rondo."
+  },
+  {
+    "id": 218704069,
+    "text": [
+      "Head to Hell's gate."
+    ],
+    "text_joined": "Head to Hell's gate."
+  },
+  {
+    "id": 218704071,
+    "text": [
+      "Proceed through Castle Edoras in Hell."
+    ],
+    "text_joined": "Proceed through Castle Edoras in Hell."
+  },
+  {
+    "id": 218704073,
+    "text": [
+      "Proceed through Castle Edoras in Hell."
+    ],
+    "text_joined": "Proceed through Castle Edoras in Hell."
+  },
+  {
+    "id": 218704075,
+    "text": [
+      "Proceed through Castle Edoras in Hell."
+    ],
+    "text_joined": "Proceed through Castle Edoras in Hell."
+  },
+  {
+    "id": 219104038,
+    "text": [
+      "Proceed through Castle Edoras in Hell."
+    ],
+    "text_joined": "Proceed through Castle Edoras in Hell."
+  },
+  {
+    "id": 219104040,
+    "text": [
+      "Confront Elrica."
+    ],
+    "text_joined": "Confront Elrica."
+  },
+  {
+    "id": 218704077,
+    "text": [
+      "A Nation Frozen in Time"
+    ],
+    "text_joined": "A Nation Frozen in Time"
+  },
+  {
+    "id": 218704078,
+    "text": [
+      "Together with <chara_name>, Alaune defeats the fallen Elrica and purifies her soul. However, they soon realize that Rinyuu has disappeared into the dark corners of Hell..."
+    ],
+    "text_joined": "Together with <chara_name>, Alaune defeats the fallen Elrica and purifies her soul. However, they soon realize that Rinyuu has disappeared into the dark corners of Hell..."
+  },
+  {
+    "id": 919104883,
+    "text": [
+      "Speak to King Solon."
+    ],
+    "text_joined": "Speak to King Solon."
+  },
+  {
+    "id": 218704079,
+    "text": [
+      "Head to the Valley of Death."
+    ],
+    "text_joined": "Head to the Valley of Death."
+  },
+  {
+    "id": 218704081,
+    "text": [
+      "Search for clues to the Gate of Finis."
+    ],
+    "text_joined": "Search for clues to the Gate of Finis."
+  },
+  {
+    "id": 218704083,
+    "text": [
+      "Proceed through Hornburg in Hell."
+    ],
+    "text_joined": "Proceed through Hornburg in Hell."
+  },
+  {
+    "id": 218704085,
+    "text": [
+      "Proceed through Hornburg in Hell."
+    ],
+    "text_joined": "Proceed through Hornburg in Hell."
+  },
+  {
+    "id": 218704087,
+    "text": [
+      "Undertake Sonzon's trial."
+    ],
+    "text_joined": "Undertake Sonzon's trial."
+  },
+  {
+    "id": 218704089,
+    "text": [
+      "Undertake the final trial."
+    ],
+    "text_joined": "Undertake the final trial."
+  },
+  {
+    "id": 218704091,
+    "text": [
+      "The Gate of Finis"
+    ],
+    "text_joined": "The Gate of Finis"
+  },
+  {
+    "id": 218704092,
+    "text": [
+      "Seeking the Gate of Finis, Rondo ventures to Hell's Hornburg where he undergoes the Sacred Flame's trials and inherits the Blue Flame. The final battle with Sazantos draws near."
+    ],
+    "text_joined": "Seeking the Gate of Finis, Rondo ventures to Hell's Hornburg where he undergoes the Sacred Flame's trials and inherits the Blue Flame. The final battle with Sazantos draws near."
+  },
+  {
+    "id": 919104884,
+    "text": [
+      "Speak to Rondo."
+    ],
+    "text_joined": "Speak to Rondo."
+  },
+  {
+    "id": 218704093,
+    "text": [
+      "Head to the Castle Edoras gate."
+    ],
+    "text_joined": "Head to the Castle Edoras gate."
+  },
+  {
+    "id": 218704095,
+    "text": [
+      "Head to the Gate of Finis."
+    ],
+    "text_joined": "Head to the Gate of Finis."
+  },
+  {
+    "id": 218704097,
+    "text": [
+      "Proceed into the Gate of Finis."
+    ],
+    "text_joined": "Proceed into the Gate of Finis."
+  },
+  {
+    "id": 218704099,
+    "text": [
+      "Precipice of Loss"
+    ],
+    "text_joined": "Precipice of Loss"
+  },
+  {
+    "id": 218704100,
+    "text": [
+      "The Chosen One and their allies enter the Gate of Finis. After defeating the resuscitated Tytos, they press on further into the depths of Hell..."
+    ],
+    "text_joined": "The Chosen One and their allies enter the Gate of Finis. After defeating the resuscitated Tytos, they press on further into the depths of Hell..."
+  },
+  {
+    "id": 919104885,
+    "text": [
+      "Proceed into the Gate of Finis."
+    ],
+    "text_joined": "Proceed into the Gate of Finis."
+  },
+  {
+    "id": 218704101,
+    "text": [
+      "Proceed further into the Gate of Finis."
+    ],
+    "text_joined": "Proceed further into the Gate of Finis."
+  },
+  {
+    "id": 218704103,
+    "text": [
+      "Proceed further into the Gate of Finis."
+    ],
+    "text_joined": "Proceed further into the Gate of Finis."
+  },
+  {
+    "id": 218704105,
+    "text": [
+      "Proceed further into the Gate of Finis."
+    ],
+    "text_joined": "Proceed further into the Gate of Finis."
+  },
+  {
+    "id": 218704107,
+    "text": [
+      "Follow after Auguste."
+    ],
+    "text_joined": "Follow after Auguste."
+  },
+  {
+    "id": 219104051,
+    "text": [
+      "Proceed further into the Gate of Finis."
+    ],
+    "text_joined": "Proceed further into the Gate of Finis."
+  },
+  {
+    "id": 219104053,
+    "text": [
+      "Confront Sazantos."
+    ],
+    "text_joined": "Confront Sazantos."
+  },
+  {
+    "id": 219104057,
+    "text": [
+      "Sazantos"
+    ],
+    "text_joined": "Sazantos"
+  },
+  {
+    "id": 219104058,
+    "text": [
+      "The people of Orsterra go about their days, as the existence of <chara_name> is forgotten..."
+    ],
+    "text_joined": "The people of Orsterra go about their days, as the existence of <chara_name> is forgotten..."
+  },
+  {
+    "id": 919104886,
+    "text": [
+      "Return to Wishvale."
+    ],
+    "text_joined": "Return to Wishvale."
+  },
+  {
+    "id": 919105043,
+    "text": [
+      "Leave the hub."
+    ],
+    "text_joined": "Leave the hub."
+  },
+  {
+    "id": 219104059,
+    "text": [
+      "Search for clues."
+    ],
+    "text_joined": "Search for clues."
+  },
+  {
+    "id": 219104061,
+    "text": [
+      "Head to the Flamebearer's Shrine."
+    ],
+    "text_joined": "Head to the Flamebearer's Shrine."
+  },
+  {
+    "id": 219104065,
+    "text": [
+      "Investigate the Cathedral of Ash."
+    ],
+    "text_joined": "Investigate the Cathedral of Ash."
+  },
+  {
+    "id": 219104815,
+    "text": [
+      "Read the Twelve Heavenly Scriptures."
+    ],
+    "text_joined": "Read the Twelve Heavenly Scriptures."
+  },
+  {
+    "id": 919105048,
+    "text": [
+      "Search the rooms in the Great Cathedral."
+    ],
+    "text_joined": "Search the rooms in the Great Cathedral."
+  },
+  {
+    "id": 219104067,
+    "text": [
+      "Search the hidden room."
+    ],
+    "text_joined": "Search the hidden room."
+  },
+  {
+    "id": 219104069,
+    "text": [
+      "Confront the cardinals."
+    ],
+    "text_joined": "Confront the cardinals."
+  },
+  {
+    "id": 219104071,
+    "text": [
+      "Purge all desire."
+    ],
+    "text_joined": "Purge all desire."
+  },
+  {
+    "id": 219104524,
+    "text": [
+      "Examine the reflecting pool."
+    ],
+    "text_joined": "Examine the reflecting pool."
+  },
+  {
+    "id": 219104526,
+    "text": [
+      "Face off against your shadow."
+    ],
+    "text_joined": "Face off against your shadow."
+  },
+  {
+    "id": 219104528,
+    "text": [
+      "Head further into the sanctum."
+    ],
+    "text_joined": "Head further into the sanctum."
+  },
+  {
+    "id": 219104073,
+    "text": [
+      "At Journey's End"
+    ],
+    "text_joined": "At Journey's End"
+  },
+  {
+    "id": 219104074,
+    "text": [
+      "After overcoming the Flamebringer's trial, <chara_name> travels to the Heavens in pursuit of Sazantos."
+    ],
+    "text_joined": "After overcoming the Flamebringer's trial, <chara_name> travels to the Heavens in pursuit of Sazantos."
+  },
+  {
+    "id": 919104887,
+    "text": [
+      "Head to the Heavens from the shrine."
+    ],
+    "text_joined": "Head to the Heavens from the shrine."
+  },
+  {
+    "id": 219104075,
+    "text": [
+      "Proceed into the Heavens."
+    ],
+    "text_joined": "Proceed into the Heavens."
+  },
+  {
+    "id": 219104077,
+    "text": [
+      "Explore Wishvale."
+    ],
+    "text_joined": "Explore Wishvale."
+  },
+  {
+    "id": 219104079,
+    "text": [
+      "Speak to Sazantos."
+    ],
+    "text_joined": "Speak to Sazantos."
+  },
+  {
+    "id": 219104081,
+    "text": [
+      "\"Illuminate\" everyone."
+    ],
+    "text_joined": "\"Illuminate\" everyone."
+  },
+  {
+    "id": 219104852,
+    "text": [
+      "Speak to Sazantos."
+    ],
+    "text_joined": "Speak to Sazantos."
+  },
+  {
+    "id": 219104083,
+    "text": [
+      "Confront Sazantos."
+    ],
+    "text_joined": "Confront Sazantos."
+  },
+  {
+    "id": 219104085,
+    "text": [
+      "Touch the light."
+    ],
+    "text_joined": "Touch the light."
+  },
+  {
+    "id": 219104087,
+    "text": [
+      "Explore the world."
+    ],
+    "text_joined": "Explore the world."
+  },
+  {
+    "id": 219104344,
+    "text": [
+      "Do what you desire."
+    ],
+    "text_joined": "Do what you desire."
+  },
+  {
+    "id": 919104602,
+    "text": [
+      "(Unlocalized)"
+    ],
+    "text_joined": "(Unlocalized)"
+  },
+  {
+    "id": 219104555,
+    "text": [
+      "Head to Castle Edoras."
+    ],
+    "text_joined": "Head to Castle Edoras."
+  },
+  {
+    "id": 219104557,
+    "text": [
+      "Meet with Alaune."
+    ],
+    "text_joined": "Meet with Alaune."
+  },
+  {
+    "id": 219104216,
+    "text": [
+      "Confront Galdera."
+    ],
+    "text_joined": "Confront Galdera."
+  },
+  {
+    "id": 219104218,
+    "text": [
+      "Depart on a journey from Wishvale."
+    ],
+    "text_joined": "Depart on a journey from Wishvale."
+  },
+  {
+    "id": 219104515,
+    "text": [
+      "An Encounter with Viator",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Viator\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104517,
+    "text": [
+      "Upon hearing a bard's song in the tavern, a swordsman appears before <chara_name>. He possesses the same key they hold and invites them to join him on his journey..."
+    ],
+    "text_joined": "Upon hearing a bard's song in the tavern, a swordsman appears before <chara_name>. He possesses the same key they hold and invites them to join him on his journey..."
+  },
+  {
+    "id": 919105057,
+    "text": [
+      "Head to the tavern in Valore."
+    ],
+    "text_joined": "Head to the tavern in Valore."
+  },
+  {
+    "id": 219104520,
+    "text": [
+      "Speak to Viator."
+    ],
+    "text_joined": "Speak to Viator."
+  },
+  {
+    "id": 219104740,
+    "text": [
+      "An Encounter with Reime",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Reime\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104742,
+    "text": [
+      "Near the arena, <chara_name> encounters Delvecchio, the syndicate member they clashed with in Victors Hollow and who is now part of the Bargello family. With no hesitation, he volunteers <chara_name> to take on the strongest of warriors..."
+    ],
+    "text_joined": "Near the arena, <chara_name> encounters Delvecchio, the syndicate member they clashed with in Victors Hollow and who is now part of the Bargello family. With no hesitation, he volunteers <chara_name> to take on the strongest of warriors..."
+  },
+  {
+    "id": 919105058,
+    "text": [
+      "Head to the Old Quarter in Victors Hollow."
+    ],
+    "text_joined": "Head to the Old Quarter in Victors Hollow."
+  },
+  {
+    "id": 219104745,
+    "text": [
+      "Speak to Delvecchio in the underground arena."
+    ],
+    "text_joined": "Speak to Delvecchio in the underground arena."
+  },
+  {
+    "id": 219104747,
+    "text": [
+      "Speak to Delvecchio before the first match."
+    ],
+    "text_joined": "Speak to Delvecchio before the first match."
+  },
+  {
+    "id": 219104749,
+    "text": [
+      "Speak to Delvecchio before the semifinals."
+    ],
+    "text_joined": "Speak to Delvecchio before the semifinals."
+  },
+  {
+    "id": 219104751,
+    "text": [
+      "Speak to Delvecchio before the finals."
+    ],
+    "text_joined": "Speak to Delvecchio before the finals."
+  },
+  {
+    "id": 219104753,
+    "text": [
+      "Speak to Reime."
+    ],
+    "text_joined": "Speak to Reime."
+  },
+  {
+    "id": 219104536,
+    "text": [
+      "An Encounter with Carinda",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Carinda\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104538,
+    "text": [
+      "Donescu—a nation ravaged by barbarians. Amidst the widespread devastation, a carefree and cheerful woman suddenly appears, as if to drive away the despair that envelops the region."
+    ],
+    "text_joined": "Donescu—a nation ravaged by barbarians. Amidst the widespread devastation, a carefree and cheerful woman suddenly appears, as if to drive away the despair that envelops the region."
+  },
+  {
+    "id": 919105059,
+    "text": [
+      "Head to Donescu."
+    ],
+    "text_joined": "Head to Donescu."
+  },
+  {
+    "id": 219104541,
+    "text": [
+      "Obtain donescia."
+    ],
+    "text_joined": "Obtain donescia."
+  },
+  {
+    "id": 219104543,
+    "text": [
+      "Deliver donescia to the apothecary."
+    ],
+    "text_joined": "Deliver donescia to the apothecary."
+  },
+  {
+    "id": 219104545,
+    "text": [
+      "\"Purchase\" apothecary's tools from Zeph."
+    ],
+    "text_joined": "\"Purchase\" apothecary's tools from Zeph."
+  },
+  {
+    "id": 219104547,
+    "text": [
+      "Deliver the tools to the apothecary."
+    ],
+    "text_joined": "Deliver the tools to the apothecary."
+  },
+  {
+    "id": 219104549,
+    "text": [
+      "Check on the relief mission from Riven."
+    ],
+    "text_joined": "Check on the relief mission from Riven."
+  },
+  {
+    "id": 219104551,
+    "text": [
+      "Speak to the apothecary."
+    ],
+    "text_joined": "Speak to the apothecary."
+  },
+  {
+    "id": 219104553,
+    "text": [
+      "Speak to Carinda."
+    ],
+    "text_joined": "Speak to Carinda."
+  },
+  {
+    "id": 219104448,
+    "text": [
+      "An Encounter with Celsus",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Celsus\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104474,
+    "text": [
+      "Celsus, the muscle hired by the tavern on the outskirts of Valore, renders even the most rowdy patrons speechless with his knife-throwing skills."
+    ],
+    "text_joined": "Celsus, the muscle hired by the tavern on the outskirts of Valore, renders even the most rowdy patrons speechless with his knife-throwing skills."
+  },
+  {
+    "id": 919105060,
+    "text": [
+      "Head to the tavern on Valore's main street."
+    ],
+    "text_joined": "Head to the tavern on Valore's main street."
+  },
+  {
+    "id": 219104471,
+    "text": [
+      "Speak to Celsus."
+    ],
+    "text_joined": "Speak to Celsus."
+  },
+  {
+    "id": 219104451,
+    "text": [
+      "Speak to Celsus."
+    ],
+    "text_joined": "Speak to Celsus."
+  },
+  {
+    "id": 919104604,
+    "text": [
+      "Heidne and the Man-Eating Miser",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "Heidne and the Man-Eating Miser\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 919104606,
+    "text": [
+      "Heidne decides to confront her father Vaughner, a slave trader known as the Man-Eating Miser, and makes her way to his hideout. Their long-standing feud is finally about to reach its conclusion."
+    ],
+    "text_joined": "Heidne decides to confront her father Vaughner, a slave trader known as the Man-Eating Miser, and makes her way to his hideout. Their long-standing feud is finally about to reach its conclusion."
+  },
+  {
+    "id": 919104743,
+    "text": [
+      "Speak to Roneth."
+    ],
+    "text_joined": "Speak to Roneth."
+  },
+  {
+    "id": 919104609,
+    "text": [
+      "Head to Vaughner's hideout."
+    ],
+    "text_joined": "Head to Vaughner's hideout."
+  },
+  {
+    "id": 919104611,
+    "text": [
+      "Search for Vaughner."
+    ],
+    "text_joined": "Search for Vaughner."
+  },
+  {
+    "id": 919104613,
+    "text": [
+      "Rescue the slaves."
+    ],
+    "text_joined": "Rescue the slaves."
+  },
+  {
+    "id": 919104615,
+    "text": [
+      "Speak to Roneth on Wishvale Trail."
+    ],
+    "text_joined": "Speak to Roneth on Wishvale Trail."
+  },
+  {
+    "id": 919104617,
+    "text": [
+      "Speak to Heidne."
+    ],
+    "text_joined": "Speak to Heidne."
+  },
+  {
+    "id": 219104610,
+    "text": [
+      "An Encounter with Esperre",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Esperre\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104612,
+    "text": [
+      "In the white sands of Sufrataljah dwell monsters unseen in other lands. There, <chara_name> meets a young man carrying an apothecary's bag."
+    ],
+    "text_joined": "In the white sands of Sufrataljah dwell monsters unseen in other lands. There, <chara_name> meets a young man carrying an apothecary's bag."
+  },
+  {
+    "id": 919105061,
+    "text": [
+      "Head to the Sufrataljah Sands."
+    ],
+    "text_joined": "Head to the Sufrataljah Sands."
+  },
+  {
+    "id": 219104615,
+    "text": [
+      "Defeat the colossal blightant."
+    ],
+    "text_joined": "Defeat the colossal blightant."
+  },
+  {
+    "id": 219104617,
+    "text": [
+      "Defeat the colossal blightant."
+    ],
+    "text_joined": "Defeat the colossal blightant."
+  },
+  {
+    "id": 219104619,
+    "text": [
+      "Speak to Esperre."
+    ],
+    "text_joined": "Speak to Esperre."
+  },
+  {
+    "id": 219104457,
+    "text": [
+      "An Encounter with Macy",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Macy\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104475,
+    "text": [
+      "A young boy has fallen ill in the snowy town of Emberglow. There, <chara_name> meets an apothecary who is prepared to do everything in her power to see that he is cured."
+    ],
+    "text_joined": "A young boy has fallen ill in the snowy town of Emberglow. There, <chara_name> meets an apothecary who is prepared to do everything in her power to see that he is cured."
+  },
+  {
+    "id": 919105062,
+    "text": [
+      "Head to the Emberglow inn."
+    ],
+    "text_joined": "Head to the Emberglow inn."
+  },
+  {
+    "id": 219104477,
+    "text": [
+      "Head to the house in Emberglow's east district."
+    ],
+    "text_joined": "Head to the house in Emberglow's east district."
+  },
+  {
+    "id": 219104460,
+    "text": [
+      "Give an herb of fortification to Macy."
+    ],
+    "text_joined": "Give an herb of fortification to Macy."
+  },
+  {
+    "id": 219104479,
+    "text": [
+      "Speak to Macy."
+    ],
+    "text_joined": "Speak to Macy."
+  },
+  {
+    "id": 219104621,
+    "text": [
+      "An Encounter with Delitia",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Delitia\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104623,
+    "text": [
+      "A woman arrives in the snowy town of Emberglow, donned in clothing unsuitable for the cold. Who is this mysterious figure and where did she come from...?"
+    ],
+    "text_joined": "A woman arrives in the snowy town of Emberglow, donned in clothing unsuitable for the cold. Who is this mysterious figure and where did she come from...?"
+  },
+  {
+    "id": 919105063,
+    "text": [
+      "Head to Emberglow."
+    ],
+    "text_joined": "Head to Emberglow."
+  },
+  {
+    "id": 219104624,
+    "text": [
+      "\"Contend\" with Delitia for a token."
+    ],
+    "text_joined": "\"Contend\" with Delitia for a token."
+  },
+  {
+    "id": 219104626,
+    "text": [
+      "Speak to Delitia."
+    ],
+    "text_joined": "Speak to Delitia."
+  },
+  {
+    "id": 219104628,
+    "text": [
+      "An Encounter with Pius",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Pius\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104630,
+    "text": [
+      "In Cragspear, <chara_name> meets a familiar face from their childhood days: the cleric Pius. He wishes to accompany <chara_name> to visit their mother's grave. However..."
+    ],
+    "text_joined": "In Cragspear, <chara_name> meets a familiar face from their childhood days: the cleric Pius. He wishes to accompany <chara_name> to visit their mother's grave. However..."
+  },
+  {
+    "id": 919105064,
+    "text": [
+      "Head to Cragspear."
+    ],
+    "text_joined": "Head to Cragspear."
+  },
+  {
+    "id": 219104633,
+    "text": [
+      "Pay your respects with Pius in Wishvale."
+    ],
+    "text_joined": "Pay your respects with Pius in Wishvale."
+  },
+  {
+    "id": 219104635,
+    "text": [
+      "Speak to Pius."
+    ],
+    "text_joined": "Speak to Pius."
+  },
+  {
+    "id": 219104639,
+    "text": [
+      "An Encounter with Xerc",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Xerc\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104641,
+    "text": [
+      "The scholar Xerc is willing to spend whatever it takes for his soulstone research, much to the dismay of his assistant, Athessa—the one responsible for procuring the funds. Now he has his sights set on a certain item at auction..."
+    ],
+    "text_joined": "The scholar Xerc is willing to spend whatever it takes for his soulstone research, much to the dismay of his assistant, Athessa—the one responsible for procuring the funds. Now he has his sights set on a certain item at auction..."
+  },
+  {
+    "id": 919105065,
+    "text": [
+      "Head to the markets in Grandport."
+    ],
+    "text_joined": "Head to the markets in Grandport."
+  },
+  {
+    "id": 219104644,
+    "text": [
+      "Speak to Xerc."
+    ],
+    "text_joined": "Speak to Xerc."
+  },
+  {
+    "id": 219104646,
+    "text": [
+      "Lend Xerc 10,000 leaves."
+    ],
+    "text_joined": "Lend Xerc 10,000 leaves."
+  },
+  {
+    "id": 219104648,
+    "text": [
+      "Search for Xerc's assistant, Athessa."
+    ],
+    "text_joined": "Search for Xerc's assistant, Athessa."
+  },
+  {
+    "id": 219104650,
+    "text": [
+      "Speak to Xerc."
+    ],
+    "text_joined": "Speak to Xerc."
+  },
+  {
+    "id": 219104443,
+    "text": [
+      "An Encounter with Alexia",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Alexia\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104476,
+    "text": [
+      "In the Theatropolis library, a woman frantically wades through their collection of books, but what is it she is searching for...?"
+    ],
+    "text_joined": "In the Theatropolis library, a woman frantically wades through their collection of books, but what is it she is searching for...?"
+  },
+  {
+    "id": 919105066,
+    "text": [
+      "Head to the library in Theatropolis."
+    ],
+    "text_joined": "Head to the library in Theatropolis."
+  },
+  {
+    "id": 219104444,
+    "text": [
+      "\"Entreat\" Alexia for her paper."
+    ],
+    "text_joined": "\"Entreat\" Alexia for her paper."
+  },
+  {
+    "id": 219104446,
+    "text": [
+      "Speak to Alexia."
+    ],
+    "text_joined": "Speak to Alexia."
+  },
+  {
+    "id": 219104652,
+    "text": [
+      "An Encounter with Goodwin",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Goodwin\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104654,
+    "text": [
+      "On a remote isle in the middle of a sea, a starving man longs for food..."
+    ],
+    "text_joined": "On a remote isle in the middle of a sea, a starving man longs for food..."
+  },
+  {
+    "id": 919105067,
+    "text": [
+      "Head to the Shipwreck Island."
+    ],
+    "text_joined": "Head to the Shipwreck Island."
+  },
+  {
+    "id": 219104657,
+    "text": [
+      "\"Inquire further\" with Goodwin."
+    ],
+    "text_joined": "\"Inquire further\" with Goodwin."
+  },
+  {
+    "id": 219104659,
+    "text": [
+      "Speak to Goodwin."
+    ],
+    "text_joined": "Speak to Goodwin."
+  },
+  {
+    "id": 219104661,
+    "text": [
+      "An Encounter with Saoirse",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Saoirse\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104663,
+    "text": [
+      "The songstress Saoirse is ready to take the stage in the Theatropolis Amphitheatre. As the curtains are about to rise, she prompts <chara_name> to join her without any time to rehearse..."
+    ],
+    "text_joined": "The songstress Saoirse is ready to take the stage in the Theatropolis Amphitheatre. As the curtains are about to rise, she prompts <chara_name> to join her without any time to rehearse..."
+  },
+  {
+    "id": 919105077,
+    "text": [
+      "Head to the Theatropolis Amphitheatre."
+    ],
+    "text_joined": "Head to the Theatropolis Amphitheatre."
+  },
+  {
+    "id": 219104664,
+    "text": [
+      "Speak to Saoirse."
+    ],
+    "text_joined": "Speak to Saoirse."
+  },
+  {
+    "id": 219104666,
+    "text": [
+      "An Encounter with Olberic",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Olberic\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104668,
+    "text": [
+      "In a manse in Shepherds Rock, a young man lets out a troubled sigh. What could be bothering this well-dressed youth?"
+    ],
+    "text_joined": "In a manse in Shepherds Rock, a young man lets out a troubled sigh. What could be bothering this well-dressed youth?"
+  },
+  {
+    "id": 919105068,
+    "text": [
+      "Head to the noble's manor in Shepherds Rock."
+    ],
+    "text_joined": "Head to the noble's manor in Shepherds Rock."
+  },
+  {
+    "id": 219104669,
+    "text": [
+      "\"Inquire\" with the noble Ivan."
+    ],
+    "text_joined": "\"Inquire\" with the noble Ivan."
+  },
+  {
+    "id": 219104671,
+    "text": [
+      "Find the Unbending Blade in the pass."
+    ],
+    "text_joined": "Find the Unbending Blade in the pass."
+  },
+  {
+    "id": 919105038,
+    "text": [
+      "Meet the Unbending Blade."
+    ],
+    "text_joined": "Meet the Unbending Blade."
+  },
+  {
+    "id": 219104673,
+    "text": [
+      "Head to Shepherds Rock."
+    ],
+    "text_joined": "Head to Shepherds Rock."
+  },
+  {
+    "id": 219104675,
+    "text": [
+      "Speak to the noble Ivan."
+    ],
+    "text_joined": "Speak to the noble Ivan."
+  },
+  {
+    "id": 219104677,
+    "text": [
+      "Speak to Olberic."
+    ],
+    "text_joined": "Speak to Olberic."
+  },
+  {
+    "id": 919104510,
+    "text": [
+      "An Encounter with Tressa",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Tressa\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 919104512,
+    "text": [
+      "Tressa, the daughter of a Rippletide merchant, is about to make a delivery for her father who has strained his back. <chara_name> decides to join her as her bodyguard as she prepares to make her way to Theatropolis."
+    ],
+    "text_joined": "Tressa, the daughter of a Rippletide merchant, is about to make a delivery for her father who has strained his back. <chara_name> decides to join her as her bodyguard as she prepares to make her way to Theatropolis."
+  },
+  {
+    "id": 919105069,
+    "text": [
+      "Head to Rippletide."
+    ],
+    "text_joined": "Head to Rippletide."
+  },
+  {
+    "id": 919104515,
+    "text": [
+      "Speak to the busy shopkeep."
+    ],
+    "text_joined": "Speak to the busy shopkeep."
+  },
+  {
+    "id": 919104517,
+    "text": [
+      "Speak to the idle shopkeep."
+    ],
+    "text_joined": "Speak to the idle shopkeep."
+  },
+  {
+    "id": 919104519,
+    "text": [
+      "Speak to the busy shopkeep."
+    ],
+    "text_joined": "Speak to the busy shopkeep."
+  },
+  {
+    "id": 919104521,
+    "text": [
+      "Head to Colzione Family Provisioners."
+    ],
+    "text_joined": "Head to Colzione Family Provisioners."
+  },
+  {
+    "id": 919104523,
+    "text": [
+      "Speak to Tressa."
+    ],
+    "text_joined": "Speak to Tressa."
+  },
+  {
+    "id": 219104679,
+    "text": [
+      "An Encounter with Therion",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Therion\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104681,
+    "text": [
+      "In Cragspear, a necklace said to ward off pickpockets is all the rage, with many believing in its effects without a doubt. Perhaps it is worth a close look."
+    ],
+    "text_joined": "In Cragspear, a necklace said to ward off pickpockets is all the rage, with many believing in its effects without a doubt. Perhaps it is worth a close look."
+  },
+  {
+    "id": 919105070,
+    "text": [
+      "Head to Cragspear."
+    ],
+    "text_joined": "Head to Cragspear."
+  },
+  {
+    "id": 219104682,
+    "text": [
+      "\"Purchase\" the Prince of Thieves necklace."
+    ],
+    "text_joined": "\"Purchase\" the Prince of Thieves necklace."
+  },
+  {
+    "id": 219104684,
+    "text": [
+      "Head to the Gray Grotto."
+    ],
+    "text_joined": "Head to the Gray Grotto."
+  },
+  {
+    "id": 219104686,
+    "text": [
+      "Speak to Therion."
+    ],
+    "text_joined": "Speak to Therion."
+  },
+  {
+    "id": 919104538,
+    "text": [
+      "An Encounter with Alfyn",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Alfyn\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 919104540,
+    "text": [
+      "An unlucky encounter has <chara_name> covered in poison. Just then, Alfyn appears and extends an invitation to his home in Clearbrook where he says he can offer treatment."
+    ],
+    "text_joined": "An unlucky encounter has <chara_name> covered in poison. Just then, Alfyn appears and extends an invitation to his home in Clearbrook where he says he can offer treatment."
+  },
+  {
+    "id": 919105071,
+    "text": [
+      "Head to the path to the Waterpool Caves."
+    ],
+    "text_joined": "Head to the path to the Waterpool Caves."
+  },
+  {
+    "id": 919104543,
+    "text": [
+      "Head to Alfyn's house."
+    ],
+    "text_joined": "Head to Alfyn's house."
+  },
+  {
+    "id": 919104545,
+    "text": [
+      "Head to Flamesgrace Wilds."
+    ],
+    "text_joined": "Head to Flamesgrace Wilds."
+  },
+  {
+    "id": 919104547,
+    "text": [
+      "Head to Alfyn's house."
+    ],
+    "text_joined": "Head to Alfyn's house."
+  },
+  {
+    "id": 919104549,
+    "text": [
+      "Speak to Alfyn."
+    ],
+    "text_joined": "Speak to Alfyn."
+  },
+  {
+    "id": 219104688,
+    "text": [
+      "An Encounter with H'aanit",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with H'aanit\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104690,
+    "text": [
+      "The hunter H'aanit loves nothing more than to hunt big game with her partner Linde—and Linde alone. But her master asks <chara_name> to accompany her to defeat a ferocious monster so that she may learn a valuable lesson."
+    ],
+    "text_joined": "The hunter H'aanit loves nothing more than to hunt big game with her partner Linde—and Linde alone. But her master asks <chara_name> to accompany her to defeat a ferocious monster so that she may learn a valuable lesson."
+  },
+  {
+    "id": 919105072,
+    "text": [
+      "Head to the tavern in Victors Hollow."
+    ],
+    "text_joined": "Head to the tavern in Victors Hollow."
+  },
+  {
+    "id": 219104693,
+    "text": [
+      "Search for H'aanit."
+    ],
+    "text_joined": "Search for H'aanit."
+  },
+  {
+    "id": 219104695,
+    "text": [
+      "Chase the ivory shadow."
+    ],
+    "text_joined": "Chase the ivory shadow."
+  },
+  {
+    "id": 219104697,
+    "text": [
+      "Speak to H'aanit."
+    ],
+    "text_joined": "Speak to H'aanit."
+  },
+  {
+    "id": 219104699,
+    "text": [
+      "An Encounter with Ophilia",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Ophilia\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104701,
+    "text": [
+      "The cleric Ophilia is the daughter of the archbishop of Flamesgrace and loves her family with all her heart. One day, a man claiming to be her real father appears before her..."
+    ],
+    "text_joined": "The cleric Ophilia is the daughter of the archbishop of Flamesgrace and loves her family with all her heart. One day, a man claiming to be her real father appears before her..."
+  },
+  {
+    "id": 919105073,
+    "text": [
+      "Head to the Flamesgrace cathedral entrance."
+    ],
+    "text_joined": "Head to the Flamesgrace cathedral entrance."
+  },
+  {
+    "id": 219104704,
+    "text": [
+      "Check on Ophilia."
+    ],
+    "text_joined": "Check on Ophilia."
+  },
+  {
+    "id": 219104706,
+    "text": [
+      "Speak to Edwin."
+    ],
+    "text_joined": "Speak to Edwin."
+  },
+  {
+    "id": 219104708,
+    "text": [
+      "Speak to Ophilia."
+    ],
+    "text_joined": "Speak to Ophilia."
+  },
+  {
+    "id": 219104710,
+    "text": [
+      "An Encounter with Cyrus",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Cyrus\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104712,
+    "text": [
+      "In the Atlasdam Flats, a middle-aged man is offering a reward for anyone who can defeat the ferocious monster that's taken the lives of many travelers..."
+    ],
+    "text_joined": "In the Atlasdam Flats, a middle-aged man is offering a reward for anyone who can defeat the ferocious monster that's taken the lives of many travelers..."
+  },
+  {
+    "id": 919105074,
+    "text": [
+      "Head to the Atlasdam Flats."
+    ],
+    "text_joined": "Head to the Atlasdam Flats."
+  },
+  {
+    "id": 219104715,
+    "text": [
+      "Defeat the monster in the Atlasdam Flats."
+    ],
+    "text_joined": "Defeat the monster in the Atlasdam Flats."
+  },
+  {
+    "id": 219104717,
+    "text": [
+      "Visit Cyrus at the Royal Academy of Atlasdam."
+    ],
+    "text_joined": "Visit Cyrus at the Royal Academy of Atlasdam."
+  },
+  {
+    "id": 219104719,
+    "text": [
+      "Head to the Atlasdam inn."
+    ],
+    "text_joined": "Head to the Atlasdam inn."
+  },
+  {
+    "id": 219104721,
+    "text": [
+      "Speak to Cyrus."
+    ],
+    "text_joined": "Speak to Cyrus."
+  },
+  {
+    "id": 219104723,
+    "text": [
+      "Head to the Atlasdam Flats."
+    ],
+    "text_joined": "Head to the Atlasdam Flats."
+  },
+  {
+    "id": 219104725,
+    "text": [
+      "Speak to Cyrus."
+    ],
+    "text_joined": "Speak to Cyrus."
+  },
+  {
+    "id": 919104557,
+    "text": [
+      "An Encounter with Primrose",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "An Encounter with Primrose\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 919104559,
+    "text": [
+      "Primrose is the most popular dancer in Sunshade, with many patrons drawn to her mysterious charm..."
+    ],
+    "text_joined": "Primrose is the most popular dancer in Sunshade, with many patrons drawn to her mysterious charm..."
+  },
+  {
+    "id": 919105075,
+    "text": [
+      "Head to the tavern in Sunshade."
+    ],
+    "text_joined": "Head to the tavern in Sunshade."
+  },
+  {
+    "id": 919104560,
+    "text": [
+      "\"Inquire\" with Primrose."
+    ],
+    "text_joined": "\"Inquire\" with Primrose."
+  },
+  {
+    "id": 919104830,
+    "text": [
+      "Speak to Primrose."
+    ],
+    "text_joined": "Speak to Primrose."
+  },
+  {
+    "id": 919104562,
+    "text": [
+      "Speak to Pierro in Valore."
+    ],
+    "text_joined": "Speak to Pierro in Valore."
+  },
+  {
+    "id": 919104564,
+    "text": [
+      "Head to the tavern in Sunshade."
+    ],
+    "text_joined": "Head to the tavern in Sunshade."
+  },
+  {
+    "id": 919104566,
+    "text": [
+      "Speak to Primrose."
+    ],
+    "text_joined": "Speak to Primrose."
+  },
+  {
+    "id": 219104727,
+    "text": [
+      "The Sage Beckons",
+      "ボスシナリオテスト（イギリス）",
+      "ボスシナリオテスト（アメリカ）",
+      "ボスシナリオテスト（簡体字）",
+      "ボスシナリオテスト（繁体字）",
+      "ボスシナリオテスト（韓国）",
+      "ボスシナリオテスト（フランス）",
+      "ボスシナリオテスト（ドイツ）",
+      "ボスシナリオテスト（スペイン）",
+      "ボスシナリオテスト（ラテン）",
+      "ボスシナリオテスト（イタリア）",
+      "ボスシナリオテスト（オランダ）"
+    ],
+    "text_joined": "The Sage Beckons\nボスシナリオテスト（イギリス）\nボスシナリオテスト（アメリカ）\nボスシナリオテスト（簡体字）\nボスシナリオテスト（繁体字）\nボスシナリオテスト（韓国）\nボスシナリオテスト（フランス）\nボスシナリオテスト（ドイツ）\nボスシナリオテスト（スペイン）\nボスシナリオテスト（ラテン）\nボスシナリオテスト（イタリア）\nボスシナリオテスト（オランダ）"
+  },
+  {
+    "id": 219104729,
+    "text": [
+      "Scraps of paper are scattered around Orsterra. <chara_name> gathers them and puts them back together to discover what appears to be an invitation. <chara_name> decides to accept and soon finds themself on a mysterious island..."
+    ],
+    "text_joined": "Scraps of paper are scattered around Orsterra. <chara_name> gathers them and puts them back together to discover what appears to be an invitation. <chara_name> decides to accept and soon finds themself on a mysterious island..."
+  },
+  {
+    "id": 919105076,
+    "text": [
+      "Head to the Isle of Sages."
+    ],
+    "text_joined": "Head to the Isle of Sages."
+  },
+  {
+    "id": 219104732,
+    "text": [
+      "Head deep into the Isle of Sages."
+    ],
+    "text_joined": "Head deep into the Isle of Sages."
+  },
+  {
+    "id": 219104734,
+    "text": [
+      "Speak to Isla."
+    ],
+    "text_joined": "Speak to Isla."
+  },
+  {
+    "id": 919104577,
+    "text": [
+      "Rekindling the Flame Pt. 1"
+    ],
+    "text_joined": "Rekindling the Flame Pt. 1"
+  },
+  {
+    "id": 919104579,
+    "text": [
+      "It seems someone is living in the old shack in the North Theatropolis Plains. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+    ],
+    "text_joined": "It seems someone is living in the old shack in the North Theatropolis Plains. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+  },
+  {
+    "id": 919104894,
+    "text": [
+      "Speak to Stia in Wishvale."
+    ],
+    "text_joined": "Speak to Stia in Wishvale."
+  },
+  {
+    "id": 919104582,
+    "text": [
+      "Head to North Theatropolis Plains."
+    ],
+    "text_joined": "Head to North Theatropolis Plains."
+  },
+  {
+    "id": 919104584,
+    "text": [
+      "Invite Tyme."
+    ],
+    "text_joined": "Invite Tyme."
+  },
+  {
+    "id": 919104586,
+    "text": [
+      "Return to Wishvale."
+    ],
+    "text_joined": "Return to Wishvale."
+  },
+  {
+    "id": 919104592,
+    "text": [
+      "Build a house."
+    ],
+    "text_joined": "Build a house."
+  },
+  {
+    "id": 919104594,
+    "text": [
+      "Move Tyme into a house."
+    ],
+    "text_joined": "Move Tyme into a house."
+  },
+  {
+    "id": 919104640,
+    "text": [
+      "Rekindling the Flame Pt. 2"
+    ],
+    "text_joined": "Rekindling the Flame Pt. 2"
+  },
+  {
+    "id": 919104642,
+    "text": [
+      "Rumor has it some former residents of Wishvale currently reside in Rippletide. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+    ],
+    "text_joined": "Rumor has it some former residents of Wishvale currently reside in Rippletide. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+  },
+  {
+    "id": 919104896,
+    "text": [
+      "Head to Rippletide."
+    ],
+    "text_joined": "Head to Rippletide."
+  },
+  {
+    "id": 919104645,
+    "text": [
+      "Invite Illian and Olive."
+    ],
+    "text_joined": "Invite Illian and Olive."
+  },
+  {
+    "id": 919104647,
+    "text": [
+      "Build a large house."
+    ],
+    "text_joined": "Build a large house."
+  },
+  {
+    "id": 919104649,
+    "text": [
+      "Move Illian's family into a large house."
+    ],
+    "text_joined": "Move Illian's family into a large house."
+  },
+  {
+    "id": 919104653,
+    "text": [
+      "Rekindling the Flame Pt. 3"
+    ],
+    "text_joined": "Rekindling the Flame Pt. 3"
+  },
+  {
+    "id": 919104655,
+    "text": [
+      "Rumor has it some former residents of Wishvale currently reside in Cragspear. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+    ],
+    "text_joined": "Rumor has it some former residents of Wishvale currently reside in Cragspear. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+  },
+  {
+    "id": 919104898,
+    "text": [
+      "Head to Cragspear."
+    ],
+    "text_joined": "Head to Cragspear."
+  },
+  {
+    "id": 919104662,
+    "text": [
+      "Speak with the merchant in the tavern."
+    ],
+    "text_joined": "Speak with the merchant in the tavern."
+  },
+  {
+    "id": 919104664,
+    "text": [
+      "\"Inquire\" with the merchant."
+    ],
+    "text_joined": "\"Inquire\" with the merchant."
+  },
+  {
+    "id": 919105044,
+    "text": [
+      "\"Contend\" with the corrupt merchant."
+    ],
+    "text_joined": "\"Contend\" with the corrupt merchant."
+  },
+  {
+    "id": 919104666,
+    "text": [
+      "Speak with Master Benno."
+    ],
+    "text_joined": "Speak with Master Benno."
+  },
+  {
+    "id": 919104668,
+    "text": [
+      "\"Inquire\" with the corrupt merchant."
+    ],
+    "text_joined": "\"Inquire\" with the corrupt merchant."
+  },
+  {
+    "id": 919105046,
+    "text": [
+      "\"Contend\" with the corrupt merchant."
+    ],
+    "text_joined": "\"Contend\" with the corrupt merchant."
+  },
+  {
+    "id": 919104670,
+    "text": [
+      "Give the jewelry box to Master Benno."
+    ],
+    "text_joined": "Give the jewelry box to Master Benno."
+  },
+  {
+    "id": 919104672,
+    "text": [
+      "Speak with Lutus."
+    ],
+    "text_joined": "Speak with Lutus."
+  },
+  {
+    "id": 919104674,
+    "text": [
+      "Invite Lutus."
+    ],
+    "text_joined": "Invite Lutus."
+  },
+  {
+    "id": 919104676,
+    "text": [
+      "Relocate Lutus to Wishvale."
+    ],
+    "text_joined": "Relocate Lutus to Wishvale."
+  },
+  {
+    "id": 919104656,
+    "text": [
+      "Rekindling the Flame Pt. 4"
+    ],
+    "text_joined": "Rekindling the Flame Pt. 4"
+  },
+  {
+    "id": 919104658,
+    "text": [
+      "It seems a traveler visiting Ludo's shop heard a rumor about one of the town's survivors. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+    ],
+    "text_joined": "It seems a traveler visiting Ludo's shop heard a rumor about one of the town's survivors. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+  },
+  {
+    "id": 919104900,
+    "text": [
+      "Visit the shop in Wishvale."
+    ],
+    "text_joined": "Visit the shop in Wishvale."
+  },
+  {
+    "id": 919104680,
+    "text": [
+      "Speak with Zeph the apothecary in Clearbrook."
+    ],
+    "text_joined": "Speak with Zeph the apothecary in Clearbrook."
+  },
+  {
+    "id": 919104682,
+    "text": [
+      "Obtain the herb avinea."
+    ],
+    "text_joined": "Obtain the herb avinea."
+  },
+  {
+    "id": 919104686,
+    "text": [
+      "Go to the inn and give the avinea to Zeph."
+    ],
+    "text_joined": "Go to the inn and give the avinea to Zeph."
+  },
+  {
+    "id": 919104688,
+    "text": [
+      "Invite Lila and Jasper."
+    ],
+    "text_joined": "Invite Lila and Jasper."
+  },
+  {
+    "id": 919104690,
+    "text": [
+      "Relocate Lila and Jasper to Wishvale."
+    ],
+    "text_joined": "Relocate Lila and Jasper to Wishvale."
+  },
+  {
+    "id": 919104659,
+    "text": [
+      "Rekindling the Flame Pt. 5"
+    ],
+    "text_joined": "Rekindling the Flame Pt. 5"
+  },
+  {
+    "id": 919104693,
+    "text": [
+      "Rumor has it some former residents of Wishvale currently reside in Shepherds Rock. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+    ],
+    "text_joined": "Rumor has it some former residents of Wishvale currently reside in Shepherds Rock. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+  },
+  {
+    "id": 919104902,
+    "text": [
+      "Head to Shepherds Rock."
+    ],
+    "text_joined": "Head to Shepherds Rock."
+  },
+  {
+    "id": 919104696,
+    "text": [
+      "Search for Karan on Shepherds Rock Pass."
+    ],
+    "text_joined": "Search for Karan on Shepherds Rock Pass."
+  },
+  {
+    "id": 919104698,
+    "text": [
+      "Speak with Olive."
+    ],
+    "text_joined": "Speak with Olive."
+  },
+  {
+    "id": 919104700,
+    "text": [
+      "Cook <favorite_dish_name>."
+    ],
+    "text_joined": "Cook <favorite_dish_name>."
+  },
+  {
+    "id": 919104702,
+    "text": [
+      "Give <favorite_dish_name> to Carabell."
+    ],
+    "text_joined": "Give <favorite_dish_name> to Carabell."
+  },
+  {
+    "id": 919104704,
+    "text": [
+      "Invite Karan and Carabell."
+    ],
+    "text_joined": "Invite Karan and Carabell."
+  },
+  {
+    "id": 919104706,
+    "text": [
+      "Relocate Karan and Carabell to Wishvale."
+    ],
+    "text_joined": "Relocate Karan and Carabell to Wishvale."
+  },
+  {
+    "id": 219104817,
+    "text": [
+      "The Queen Orsa"
+    ],
+    "text_joined": "The Queen Orsa"
+  },
+  {
+    "id": 219104819,
+    "text": [
+      "In Rippletide, a man standing on the pier looks forlornly at the damaged ship before him. What do his somber eyes see...and feel?"
+    ],
+    "text_joined": "In Rippletide, a man standing on the pier looks forlornly at the damaged ship before him. What do his somber eyes see...and feel?"
+  },
+  {
+    "id": 919104904,
+    "text": [
+      "Head to Rippletide."
+    ],
+    "text_joined": "Head to Rippletide."
+  },
+  {
+    "id": 219104822,
+    "text": [
+      "Search for a way to repair the vessel."
+    ],
+    "text_joined": "Search for a way to repair the vessel."
+  },
+  {
+    "id": 219104824,
+    "text": [
+      "Gather information about Marjim's lover."
+    ],
+    "text_joined": "Gather information about Marjim's lover."
+  },
+  {
+    "id": 219104826,
+    "text": [
+      "Search for Marjim's lover."
+    ],
+    "text_joined": "Search for Marjim's lover."
+  },
+  {
+    "id": 919104551,
+    "text": [
+      "Take Chiara to Marjim."
+    ],
+    "text_joined": "Take Chiara to Marjim."
+  },
+  {
+    "id": 919104710,
+    "text": [
+      "The Hidden Isle"
+    ],
+    "text_joined": "The Hidden Isle"
+  },
+  {
+    "id": 919104712,
+    "text": [
+      "A mysterious voice echoes throughout the Heavens and guides <chara_name> to the place where the rings were once sealed."
+    ],
+    "text_joined": "A mysterious voice echoes throughout the Heavens and guides <chara_name> to the place where the rings were once sealed."
+  },
+  {
+    "id": 919104906,
+    "text": [
+      "Head to the Heavens."
+    ],
+    "text_joined": "Head to the Heavens."
+  },
+  {
+    "id": 919104715,
+    "text": [
+      "Head to the Isle of Orsa."
+    ],
+    "text_joined": "Head to the Isle of Orsa."
+  },
+  {
+    "id": 919104717,
+    "text": [
+      "Head to Agapea."
+    ],
+    "text_joined": "Head to Agapea."
+  },
+  {
+    "id": 919104719,
+    "text": [
+      "Speak with Shrinekeeper Ataraxia."
+    ],
+    "text_joined": "Speak with Shrinekeeper Ataraxia."
+  },
+  {
+    "id": 919104745,
+    "text": [
+      "The Eight Sacred Treasures"
+    ],
+    "text_joined": "The Eight Sacred Treasures"
+  },
+  {
+    "id": 919104747,
+    "text": [
+      "The inscrutable tower has finally been discovered. What mysteries lie within?"
+    ],
+    "text_joined": "The inscrutable tower has finally been discovered. What mysteries lie within?"
+  },
+  {
+    "id": 919104908,
+    "text": [
+      "Search for the isle harboring the sacred treasures."
+    ],
+    "text_joined": "Search for the isle harboring the sacred treasures."
+  },
+  {
+    "id": 919104822,
+    "text": [
+      "Search the inscrutable tower."
+    ],
+    "text_joined": "Search the inscrutable tower."
+  },
+  {
+    "id": 919104826,
+    "text": [
+      "Obtain the eight legendary weapons."
+    ],
+    "text_joined": "Obtain the eight legendary weapons."
+  },
+  {
+    "id": 919104828,
+    "text": [
+      "Examine the statue on the isle."
+    ],
+    "text_joined": "Examine the statue on the isle."
+  },
+  {
+    "id": 219104770,
+    "text": [
+      "A Long-Lost Love"
+    ],
+    "text_joined": "A Long-Lost Love"
+  },
+  {
+    "id": 219104772,
+    "text": [
+      "Ludo once had a love with whom he parted ways after a huge quarrel. Listen to Karan's story, and aim to learn more about her."
+    ],
+    "text_joined": "Ludo once had a love with whom he parted ways after a huge quarrel. Listen to Karan's story, and aim to learn more about her."
+  },
+  {
+    "id": 919104910,
+    "text": [
+      "Speak with Lutus."
+    ],
+    "text_joined": "Speak with Lutus."
+  },
+  {
+    "id": 219104775,
+    "text": [
+      "Visit the Shepherds Rock infirmary."
+    ],
+    "text_joined": "Visit the Shepherds Rock infirmary."
+  },
+  {
+    "id": 219104777,
+    "text": [
+      "Speak with a guard in Shepherds Rock."
+    ],
+    "text_joined": "Speak with a guard in Shepherds Rock."
+  },
+  {
+    "id": 219104779,
+    "text": [
+      "Head to the Cavern of Mists."
+    ],
+    "text_joined": "Head to the Cavern of Mists."
+  },
+  {
+    "id": 219104755,
+    "text": [
+      "The Missing Brother"
+    ],
+    "text_joined": "The Missing Brother"
+  },
+  {
+    "id": 219104757,
+    "text": [
+      "It seems Delitia's brother has been spotted in Atlasdam. Visit the town and seek him out."
+    ],
+    "text_joined": "It seems Delitia's brother has been spotted in Atlasdam. Visit the town and seek him out."
+  },
+  {
+    "id": 919104912,
+    "text": [
+      "Head to Atlasdam."
+    ],
+    "text_joined": "Head to Atlasdam."
+  },
+  {
+    "id": 219104758,
+    "text": [
+      "Lend an ear at the Atlasdam tavern."
+    ],
+    "text_joined": "Lend an ear at the Atlasdam tavern."
+  },
+  {
+    "id": 219104760,
+    "text": [
+      "Gather information about Delitia's brother."
+    ],
+    "text_joined": "Gather information about Delitia's brother."
+  },
+  {
+    "id": 219104762,
+    "text": [
+      "Gather information at the Flamesgrace inn."
+    ],
+    "text_joined": "Gather information at the Flamesgrace inn."
+  },
+  {
+    "id": 219104764,
+    "text": [
+      "Gather information about Delitia's brother."
+    ],
+    "text_joined": "Gather information about Delitia's brother."
+  },
+  {
+    "id": 219104766,
+    "text": [
+      "Chase after Fortis."
+    ],
+    "text_joined": "Chase after Fortis."
+  },
+  {
+    "id": 219104785,
+    "text": [
+      "An Assistant Like No Other"
+    ],
+    "text_joined": "An Assistant Like No Other"
+  },
+  {
+    "id": 219104787,
+    "text": [
+      "In Atlasdam, Xerc's assistant, Athessa, has made arrangements to allow the professor to perform his research on the gargantuan soulstone. Will her hard work pay off?"
+    ],
+    "text_joined": "In Atlasdam, Xerc's assistant, Athessa, has made arrangements to allow the professor to perform his research on the gargantuan soulstone. Will her hard work pay off?"
+  },
+  {
+    "id": 919104914,
+    "text": [
+      "Head to Atlasdam."
+    ],
+    "text_joined": "Head to Atlasdam."
+  },
+  {
+    "id": 219104790,
+    "text": [
+      "Retrieve the necessary materials for Xerc's work."
+    ],
+    "text_joined": "Retrieve the necessary materials for Xerc's work."
+  },
+  {
+    "id": 219104794,
+    "text": [
+      "Deliver the materials and letter to Xerc."
+    ],
+    "text_joined": "Deliver the materials and letter to Xerc."
+  },
+  {
+    "id": 219104796,
+    "text": [
+      "Save Athessa."
+    ],
+    "text_joined": "Save Athessa."
+  },
+  {
+    "id": 219104800,
+    "text": [
+      "Great Expectations"
+    ],
+    "text_joined": "Great Expectations"
+  },
+  {
+    "id": 219104802,
+    "text": [
+      "After deciphering an ancient text, Alexia makes her way to Berecain to uncover the truth..."
+    ],
+    "text_joined": "After deciphering an ancient text, Alexia makes her way to Berecain to uncover the truth..."
+  },
+  {
+    "id": 919104916,
+    "text": [
+      "Speak with the librarian in Theatropolis."
+    ],
+    "text_joined": "Speak with the librarian in Theatropolis."
+  },
+  {
+    "id": 219104805,
+    "text": [
+      "Head to Berecain."
+    ],
+    "text_joined": "Head to Berecain."
+  },
+  {
+    "id": 219104807,
+    "text": [
+      "\"Purchase\" the crimson stone."
+    ],
+    "text_joined": "\"Purchase\" the crimson stone."
+  },
+  {
+    "id": 219104809,
+    "text": [
+      "Head to the Forbidden Temple."
+    ],
+    "text_joined": "Head to the Forbidden Temple."
+  },
+  {
+    "id": 919104748,
+    "text": [
+      "An Indestructible Flame"
+    ],
+    "text_joined": "An Indestructible Flame"
+  },
+  {
+    "id": 919104750,
+    "text": [
+      "Sazantos visits Agapea to cleanse his dark blade, the Demon Blade Fisteralda. However, he learns the ritual requires them to call upon the Sacred Flame..."
+    ],
+    "text_joined": "Sazantos visits Agapea to cleanse his dark blade, the Demon Blade Fisteralda. However, he learns the ritual requires them to call upon the Sacred Flame..."
+  },
+  {
+    "id": 919104918,
+    "text": [
+      "Head to Agapea."
+    ],
+    "text_joined": "Head to Agapea."
+  },
+  {
+    "id": 919104798,
+    "text": [
+      "Speak with Shrinekeeper Ataraxia."
+    ],
+    "text_joined": "Speak with Shrinekeeper Ataraxia."
+  },
+  {
+    "id": 919104800,
+    "text": [
+      "Speak with Shrinekeeper Ataraxia."
+    ],
+    "text_joined": "Speak with Shrinekeeper Ataraxia."
+  },
+  {
+    "id": 219104837,
+    "text": [
+      "What Remains of the Black Scarlet"
+    ],
+    "text_joined": "What Remains of the Black Scarlet"
+  },
+  {
+    "id": 219104839,
+    "text": [
+      "Bishop Tarset, who was discovered to have been colluding with Tytos, is imprisoned for his crime. One day, he is visited by his old friend Pius..."
+    ],
+    "text_joined": "Bishop Tarset, who was discovered to have been colluding with Tytos, is imprisoned for his crime. One day, he is visited by his old friend Pius..."
+  },
+  {
+    "id": 919104920,
+    "text": [
+      "Head to the Flamesgrace cathedral entrance."
+    ],
+    "text_joined": "Head to the Flamesgrace cathedral entrance."
+  },
+  {
+    "id": 219104842,
+    "text": [
+      "Obtain and deliver a warm blanket from a local."
+    ],
+    "text_joined": "Obtain and deliver a warm blanket from a local."
+  },
+  {
+    "id": 219104844,
+    "text": [
+      "Search for Deacon Malm."
+    ],
+    "text_joined": "Search for Deacon Malm."
+  },
+  {
+    "id": 219104846,
+    "text": [
+      "Head to the path to the Cave of Origin."
+    ],
+    "text_joined": "Head to the path to the Cave of Origin."
+  },
+  {
+    "id": 919104525,
+    "text": [
+      "The Blade of the Weak"
+    ],
+    "text_joined": "The Blade of the Weak"
+  },
+  {
+    "id": 919104527,
+    "text": [
+      "A gang of pirates in the Middlesea is causing trouble for local merchants. Go with Viator to take care of the problem."
+    ],
+    "text_joined": "A gang of pirates in the Middlesea is causing trouble for local merchants. Go with Viator to take care of the problem."
+  },
+  {
+    "id": 919104922,
+    "text": [
+      "Head to Rippletide."
+    ],
+    "text_joined": "Head to Rippletide."
+  },
+  {
+    "id": 919104530,
+    "text": [
+      "Set out to defeat the pirates."
+    ],
+    "text_joined": "Set out to defeat the pirates."
+  },
+  {
+    "id": 919104532,
+    "text": [
+      "Defeat the pirates on the isle."
+    ],
+    "text_joined": "Defeat the pirates on the isle."
+  },
+  {
+    "id": 919104536,
+    "text": [
+      "Bring the Pardis loyalists to Castle Edoras."
+    ],
+    "text_joined": "Bring the Pardis loyalists to Castle Edoras."
+  },
+  {
+    "id": 919104623,
+    "text": [
+      "Donescu's Successor"
+    ],
+    "text_joined": "Donescu's Successor"
+  },
+  {
+    "id": 919104625,
+    "text": [
+      "To re-establish an independent government in Donescu, Richard believes King Dudek's nephew is key and asks <chara_name> to find him. Search for clues to his whereabouts with Carinda, who has ties with the town in which he currently resides."
+    ],
+    "text_joined": "To re-establish an independent government in Donescu, Richard believes King Dudek's nephew is key and asks <chara_name> to find him. Search for clues to his whereabouts with Carinda, who has ties with the town in which he currently resides."
+  },
+  {
+    "id": 919104924,
+    "text": [
+      "Speak with Krauser in front of Castle Edoras."
+    ],
+    "text_joined": "Speak with Krauser in front of Castle Edoras."
+  },
+  {
+    "id": 919104628,
+    "text": [
+      "Head to Donescu."
+    ],
+    "text_joined": "Head to Donescu."
+  },
+  {
+    "id": 919104630,
+    "text": [
+      "Search for Ensio."
+    ],
+    "text_joined": "Search for Ensio."
+  },
+  {
+    "id": 919104632,
+    "text": [
+      "Search for Ensio's childhood friend in Donescu."
+    ],
+    "text_joined": "Search for Ensio's childhood friend in Donescu."
+  },
+  {
+    "id": 919104634,
+    "text": [
+      "Take Kalle to Ensio."
+    ],
+    "text_joined": "Take Kalle to Ensio."
+  },
+  {
+    "id": 919104636,
+    "text": [
+      "Head to Donescu."
+    ],
+    "text_joined": "Head to Donescu."
+  },
+  {
+    "id": 219104828,
+    "text": [
+      "Truth of the Departed"
+    ],
+    "text_joined": "Truth of the Departed"
+  },
+  {
+    "id": 219104830,
+    "text": [
+      "A fallen man roams the slums of Hell's Cragspear, while a woman in the slums of Cragspear is tormented by nightmares. There seems to be some sort of connection, but what?"
+    ],
+    "text_joined": "A fallen man roams the slums of Hell's Cragspear, while a woman in the slums of Cragspear is tormented by nightmares. There seems to be some sort of connection, but what?"
+  },
+  {
+    "id": 919104926,
+    "text": [
+      "Head to the Cragspear slums."
+    ],
+    "text_joined": "Head to the Cragspear slums."
+  },
+  {
+    "id": 219104833,
+    "text": [
+      "Search Hell's slums to figure out the cause."
+    ],
+    "text_joined": "Search Hell's slums to figure out the cause."
+  },
+  {
+    "id": 219104835,
+    "text": [
+      "Share the truth with the tormented woman."
+    ],
+    "text_joined": "Share the truth with the tormented woman."
+  },
+  {
+    "id": 219104854,
+    "text": [
+      "A Father's Love"
+    ],
+    "text_joined": "A Father's Love"
+  },
+  {
+    "id": 219104856,
+    "text": [
+      "In Valore, a young hunter chats with Celsus, an old friend of his late father. It seems there was bad blood between the boy and his father, a former syndicate member..."
+    ],
+    "text_joined": "In Valore, a young hunter chats with Celsus, an old friend of his late father. It seems there was bad blood between the boy and his father, a former syndicate member..."
+  },
+  {
+    "id": 919104928,
+    "text": [
+      "Head to the path to Herminia's Manse."
+    ],
+    "text_joined": "Head to the path to Herminia's Manse."
+  },
+  {
+    "id": 219104859,
+    "text": [
+      "Listen to the man's story in Hell's Valore Forest."
+    ],
+    "text_joined": "Listen to the man's story in Hell's Valore Forest."
+  },
+  {
+    "id": 219104861,
+    "text": [
+      "Speak with the young hunter."
+    ],
+    "text_joined": "Speak with the young hunter."
+  },
+  {
+    "id": 919104751,
+    "text": [
+      "To Lift the Town's Spirits"
+    ],
+    "text_joined": "To Lift the Town's Spirits"
+  },
+  {
+    "id": 919104753,
+    "text": [
+      "The people of Donescu have experienced great suffering and loss, and many have lost their will to live. Surely there is something that can be done to lift their spirits."
+    ],
+    "text_joined": "The people of Donescu have experienced great suffering and loss, and many have lost their will to live. Surely there is something that can be done to lift their spirits."
+  },
+  {
+    "id": 919104930,
+    "text": [
+      "Head to Donescu."
+    ],
+    "text_joined": "Head to Donescu."
+  },
+  {
+    "id": 919104808,
+    "text": [
+      "Talk to the people of Wishvale."
+    ],
+    "text_joined": "Talk to the people of Wishvale."
+  },
+  {
+    "id": 919104810,
+    "text": [
+      "Round up actors in Theatropolis."
+    ],
+    "text_joined": "Round up actors in Theatropolis."
+  },
+  {
+    "id": 919104812,
+    "text": [
+      "Head to Donescu."
+    ],
+    "text_joined": "Head to Donescu."
+  },
+  {
+    "id": 219104863,
+    "text": [
+      "A Clan's Pride"
+    ],
+    "text_joined": "A Clan's Pride"
+  },
+  {
+    "id": 219104865,
+    "text": [
+      "The Asul clan pride themselves on living in harmony with nature. Macy, on the other hand, wishes they would allow her to treat them with her medicine..."
+    ],
+    "text_joined": "The Asul clan pride themselves on living in harmony with nature. Macy, on the other hand, wishes they would allow her to treat them with her medicine..."
+  },
+  {
+    "id": 919104932,
+    "text": [
+      "Head to Sunshade."
+    ],
+    "text_joined": "Head to Sunshade."
+  },
+  {
+    "id": 219104868,
+    "text": [
+      "Meet an Asul elder in the Eastern Sunshade Sands."
+    ],
+    "text_joined": "Meet an Asul elder in the Eastern Sunshade Sands."
+  },
+  {
+    "id": 219104870,
+    "text": [
+      "Obtain a rejuvenating seafood sauté."
+    ],
+    "text_joined": "Obtain a rejuvenating seafood sauté."
+  },
+  {
+    "id": 219104872,
+    "text": [
+      "Give the rejuvenating seafood sauté to the elder."
+    ],
+    "text_joined": "Give the rejuvenating seafood sauté to the elder."
+  },
+  {
+    "id": 919104754,
+    "text": [
+      "In Search of What Remains"
+    ],
+    "text_joined": "In Search of What Remains"
+  },
+  {
+    "id": 919104756,
+    "text": [
+      "Within the remains of Tatloch's ship, which was destroyed in the Middlesea, there is said to be a valuable treasure..."
+    ],
+    "text_joined": "Within the remains of Tatloch's ship, which was destroyed in the Middlesea, there is said to be a valuable treasure..."
+  },
+  {
+    "id": 919104934,
+    "text": [
+      "Head to the sunken vessel and meet with Tatloch."
+    ],
+    "text_joined": "Head to the sunken vessel and meet with Tatloch."
+  },
+  {
+    "id": 919104816,
+    "text": [
+      "Search for Tatloch's treasure."
+    ],
+    "text_joined": "Search for Tatloch's treasure."
+  },
+  {
+    "id": 919104757,
+    "text": [
+      "The Last Cask"
+    ],
+    "text_joined": "The Last Cask"
+  },
+  {
+    "id": 919104759,
+    "text": [
+      "In Valore, a distiller of brandy looks to sell his last cask to someone who appreciates fine liquor."
+    ],
+    "text_joined": "In Valore, a distiller of brandy looks to sell his last cask to someone who appreciates fine liquor."
+  },
+  {
+    "id": 919104936,
+    "text": [
+      "Head to Valore."
+    ],
+    "text_joined": "Head to Valore."
+  },
+  {
+    "id": 919104834,
+    "text": [
+      "Search for a buyer for the brandy."
+    ],
+    "text_joined": "Search for a buyer for the brandy."
+  },
+  {
+    "id": 919104836,
+    "text": [
+      "Take the noble to the distiller."
+    ],
+    "text_joined": "Take the noble to the distiller."
+  },
+  {
+    "id": 919104760,
+    "text": [
+      "The Freezing Cold"
+    ],
+    "text_joined": "The Freezing Cold"
+  },
+  {
+    "id": 919104762,
+    "text": [
+      "A compassionate daughter cares for her father, who was left physically disabled. He longs for the return of his son who left town to become a trader."
+    ],
+    "text_joined": "A compassionate daughter cares for her father, who was left physically disabled. He longs for the return of his son who left town to become a trader."
+  },
+  {
+    "id": 919104938,
+    "text": [
+      "Head to Emberglow."
+    ],
+    "text_joined": "Head to Emberglow."
+  },
+  {
+    "id": 919104840,
+    "text": [
+      "Search for the long-lost family member."
+    ],
+    "text_joined": "Search for the long-lost family member."
+  },
+  {
+    "id": 919104842,
+    "text": [
+      "Take the young man back to his family."
+    ],
+    "text_joined": "Take the young man back to his family."
+  },
+  {
+    "id": 919104763,
+    "text": [
+      "Ticket Woes"
+    ],
+    "text_joined": "Ticket Woes"
+  },
+  {
+    "id": 919104765,
+    "text": [
+      "Tickets to Auguste's memorial play are sold out, leaving one woman despondent. Where could she possibly get her hands on one now?"
+    ],
+    "text_joined": "Tickets to Auguste's memorial play are sold out, leaving one woman despondent. Where could she possibly get her hands on one now?"
+  },
+  {
+    "id": 919104940,
+    "text": [
+      "Head to Theatropolis."
+    ],
+    "text_joined": "Head to Theatropolis."
+  },
+  {
+    "id": 919104846,
+    "text": [
+      "Obtain information about a lost ticket."
+    ],
+    "text_joined": "Obtain information about a lost ticket."
+  },
+  {
+    "id": 919104848,
+    "text": [
+      "Search for the ticket in Serpent's Burrow."
+    ],
+    "text_joined": "Search for the ticket in Serpent's Burrow."
+  },
+  {
+    "id": 919104850,
+    "text": [
+      "Give the ticket to the woman in Theatropolis."
+    ],
+    "text_joined": "Give the ticket to the woman in Theatropolis."
+  },
+  {
+    "id": 919104766,
+    "text": [
+      "A Stubborn Master"
+    ],
+    "text_joined": "A Stubborn Master"
+  },
+  {
+    "id": 919104768,
+    "text": [
+      "A master fisherman is in search of an apprentice, but his high standards make for slim pickings..."
+    ],
+    "text_joined": "A master fisherman is in search of an apprentice, but his high standards make for slim pickings..."
+  },
+  {
+    "id": 919104942,
+    "text": [
+      "Head to Rippletide."
+    ],
+    "text_joined": "Head to Rippletide."
+  },
+  {
+    "id": 919104946,
+    "text": [
+      "Search for someone robust."
+    ],
+    "text_joined": "Search for someone robust."
+  },
+  {
+    "id": 919104948,
+    "text": [
+      "Speak with the fisherman's daughter."
+    ],
+    "text_joined": "Speak with the fisherman's daughter."
+  },
+  {
+    "id": 919104950,
+    "text": [
+      "Search for someone with an interest in fish."
+    ],
+    "text_joined": "Search for someone with an interest in fish."
+  },
+  {
+    "id": 919104952,
+    "text": [
+      "Speak with the fisherman's daughter."
+    ],
+    "text_joined": "Speak with the fisherman's daughter."
+  },
+  {
+    "id": 919105055,
+    "text": [
+      "Find someone who meets the requirements."
+    ],
+    "text_joined": "Find someone who meets the requirements."
+  },
+  {
+    "id": 919104954,
+    "text": [
+      "Hire the young man searching for his purpose."
+    ],
+    "text_joined": "Hire the young man searching for his purpose."
+  },
+  {
+    "id": 919104956,
+    "text": [
+      "Take the young man to the fisherman's daughter."
+    ],
+    "text_joined": "Take the young man to the fisherman's daughter."
+  },
+  {
+    "id": 919104769,
+    "text": [
+      "The Rarest of Eggs"
+    ],
+    "text_joined": "The Rarest of Eggs"
+  },
+  {
+    "id": 919104771,
+    "text": [
+      "A wealthy gourmand is in search of a great chef. Who can cook up the eggs of a rare bird in a dish that's a feast for the eyes as well as the stomach?"
+    ],
+    "text_joined": "A wealthy gourmand is in search of a great chef. Who can cook up the eggs of a rare bird in a dish that's a feast for the eyes as well as the stomach?"
+  },
+  {
+    "id": 919104958,
+    "text": [
+      "Head to Cragspear."
+    ],
+    "text_joined": "Head to Cragspear."
+  },
+  {
+    "id": 919104962,
+    "text": [
+      "Search for a chef to satisfy the gourmand."
+    ],
+    "text_joined": "Search for a chef to satisfy the gourmand."
+  },
+  {
+    "id": 919104964,
+    "text": [
+      "Take the chef to the gourmand."
+    ],
+    "text_joined": "Take the chef to the gourmand."
+  },
+  {
+    "id": 919105049,
+    "text": [
+      "Search for another chef to satisfy the gourmand."
+    ],
+    "text_joined": "Search for another chef to satisfy the gourmand."
+  },
+  {
+    "id": 919105051,
+    "text": [
+      "Take the chef to the gourmand."
+    ],
+    "text_joined": "Take the chef to the gourmand."
+  },
+  {
+    "id": 919105053,
+    "text": [
+      "Take both chefs to the gourmand."
+    ],
+    "text_joined": "Take both chefs to the gourmand."
+  },
+  {
+    "id": 919104772,
+    "text": [
+      "The Big 'Un"
+    ],
+    "text_joined": "The Big 'Un"
+  },
+  {
+    "id": 919104774,
+    "text": [
+      "A man has been trying to reel in the big 'un for years. It seems a special kind of bait is required for this special catch."
+    ],
+    "text_joined": "A man has been trying to reel in the big 'un for years. It seems a special kind of bait is required for this special catch."
+  },
+  {
+    "id": 919104966,
+    "text": [
+      "Head to Clearbrook Traverse."
+    ],
+    "text_joined": "Head to Clearbrook Traverse."
+  },
+  {
+    "id": 919104970,
+    "text": [
+      "Obtain some shrimp."
+    ],
+    "text_joined": "Obtain some shrimp."
+  },
+  {
+    "id": 919104972,
+    "text": [
+      "Give the shrimp to the fisherman."
+    ],
+    "text_joined": "Give the shrimp to the fisherman."
+  },
+  {
+    "id": 919104775,
+    "text": [
+      "A Unique Figurine"
+    ],
+    "text_joined": "A Unique Figurine"
+  },
+  {
+    "id": 919104777,
+    "text": [
+      "<chara_name> obtains an item whose purpose is unknown. Is there anyone who would want such a peculiar ornament...?"
+    ],
+    "text_joined": "<chara_name> obtains an item whose purpose is unknown. Is there anyone who would want such a peculiar ornament...?"
+  },
+  {
+    "id": 919104974,
+    "text": [
+      "Head to Sunshade."
+    ],
+    "text_joined": "Head to Sunshade."
+  },
+  {
+    "id": 919104978,
+    "text": [
+      "Search for someone in need of the bisque figure."
+    ],
+    "text_joined": "Search for someone in need of the bisque figure."
+  },
+  {
+    "id": 919104980,
+    "text": [
+      "Recruit the eelfish fisherman."
+    ],
+    "text_joined": "Recruit the eelfish fisherman."
+  },
+  {
+    "id": 919104982,
+    "text": [
+      "Take the fisherman to the corporate scion."
+    ],
+    "text_joined": "Take the fisherman to the corporate scion."
+  },
+  {
+    "id": 919104778,
+    "text": [
+      "Alpaca Roundup"
+    ],
+    "text_joined": "Alpaca Roundup"
+  },
+  {
+    "id": 919104780,
+    "text": [
+      "A sheep farmer has lost his new herd of alpacas. Help the man round them up to put his mind at ease."
+    ],
+    "text_joined": "A sheep farmer has lost his new herd of alpacas. Help the man round them up to put his mind at ease."
+  },
+  {
+    "id": 919104984,
+    "text": [
+      "Head to Shepherds Rock."
+    ],
+    "text_joined": "Head to Shepherds Rock."
+  },
+  {
+    "id": 919104988,
+    "text": [
+      "Capture three alpacas."
+    ],
+    "text_joined": "Capture three alpacas."
+  },
+  {
+    "id": 919104990,
+    "text": [
+      "Report back to the sheep farmer."
+    ],
+    "text_joined": "Report back to the sheep farmer."
+  },
+  {
+    "id": 919104781,
+    "text": [
+      "Fetching Soulstones"
+    ],
+    "text_joined": "Fetching Soulstones"
+  },
+  {
+    "id": 919104783,
+    "text": [
+      "A Knight Ardante is having a difficult time shoveling the icy snow along the pilgrimage roads. Perhaps he could use some help."
+    ],
+    "text_joined": "A Knight Ardante is having a difficult time shoveling the icy snow along the pilgrimage roads. Perhaps he could use some help."
+  },
+  {
+    "id": 919104992,
+    "text": [
+      "Head to Flamesgrace Wilds."
+    ],
+    "text_joined": "Head to Flamesgrace Wilds."
+  },
+  {
+    "id": 919104890,
+    "text": [
+      "Collect three fire soulstones."
+    ],
+    "text_joined": "Collect three fire soulstones."
+  },
+  {
+    "id": 919104892,
+    "text": [
+      "Give the fire soulstones to the Knight Ardante."
+    ],
+    "text_joined": "Give the fire soulstones to the Knight Ardante."
+  },
+  {
+    "id": 919104784,
+    "text": [
+      "A Complete Collection"
+    ],
+    "text_joined": "A Complete Collection"
+  },
+  {
+    "id": 919104786,
+    "text": [
+      "A man is eager to collect all ten arena medals awarded only to the greatest of gladiators. Who possesses the final, precious medal of his collection?"
+    ],
+    "text_joined": "A man is eager to collect all ten arena medals awarded only to the greatest of gladiators. Who possesses the final, precious medal of his collection?"
+  },
+  {
+    "id": 919104994,
+    "text": [
+      "Head to Victors Hollow."
+    ],
+    "text_joined": "Head to Victors Hollow."
+  },
+  {
+    "id": 919104998,
+    "text": [
+      "Obtain an arena medal from a gladiator."
+    ],
+    "text_joined": "Obtain an arena medal from a gladiator."
+  },
+  {
+    "id": 919105000,
+    "text": [
+      "Give the arena medal to the collector."
+    ],
+    "text_joined": "Give the arena medal to the collector."
+  },
+  {
+    "id": 919105002,
+    "text": [
+      "Speak with the gladiator in the Old Quarter."
+    ],
+    "text_joined": "Speak with the gladiator in the Old Quarter."
+  },
+  {
+    "id": 919105004,
+    "text": [
+      "Obtain a real arena medal."
+    ],
+    "text_joined": "Obtain a real arena medal."
+  },
+  {
+    "id": 919105006,
+    "text": [
+      "Give the real arena medal to the collector."
+    ],
+    "text_joined": "Give the real arena medal to the collector."
+  },
+  {
+    "id": 919104787,
+    "text": [
+      "An Un-Fur-gettable Reunion"
+    ],
+    "text_joined": "An Un-Fur-gettable Reunion"
+  },
+  {
+    "id": 919104789,
+    "text": [
+      "In Grandport, a forlorn cat meows woefully as she longs to see a certain someone."
+    ],
+    "text_joined": "In Grandport, a forlorn cat meows woefully as she longs to see a certain someone."
+  },
+  {
+    "id": 919105008,
+    "text": [
+      "Head to Grandport."
+    ],
+    "text_joined": "Head to Grandport."
+  },
+  {
+    "id": 919105012,
+    "text": [
+      "Recruit the forlorn cat."
+    ],
+    "text_joined": "Recruit the forlorn cat."
+  },
+  {
+    "id": 919105014,
+    "text": [
+      "Take the cat to her special someone."
+    ],
+    "text_joined": "Take the cat to her special someone."
+  },
+  {
+    "id": 919104790,
+    "text": [
+      "Books Overdue"
+    ],
+    "text_joined": "Books Overdue"
+  },
+  {
+    "id": 919104792,
+    "text": [
+      "Three books belonging to the Atlasdam library are overdue. The librarian, Mercedes, wants them returned and asks <chara_name> to track them down."
+    ],
+    "text_joined": "Three books belonging to the Atlasdam library are overdue. The librarian, Mercedes, wants them returned and asks <chara_name> to track them down."
+  },
+  {
+    "id": 919105016,
+    "text": [
+      "Head to Atlasdam."
+    ],
+    "text_joined": "Head to Atlasdam."
+  },
+  {
+    "id": 919105020,
+    "text": [
+      "Gather the overdue books."
+    ],
+    "text_joined": "Gather the overdue books."
+  },
+  {
+    "id": 919105022,
+    "text": [
+      "Deliver the books to the librarian Mercedes."
+    ],
+    "text_joined": "Deliver the books to the librarian Mercedes."
+  },
+  {
+    "id": 919104793,
+    "text": [
+      "Unnatural Tremors"
+    ],
+    "text_joined": "Unnatural Tremors"
+  },
+  {
+    "id": 919104795,
+    "text": [
+      "The frequent earthquakes occurring in Berecain have one man anxious and uneasy. Perhaps tracking down the cause will put his mind at ease."
+    ],
+    "text_joined": "The frequent earthquakes occurring in Berecain have one man anxious and uneasy. Perhaps tracking down the cause will put his mind at ease."
+  },
+  {
+    "id": 919105024,
+    "text": [
+      "Head to Berecain"
+    ],
+    "text_joined": "Head to Berecain"
+  },
+  {
+    "id": 919105028,
+    "text": [
+      "Search for a geologist in Atlasdam."
+    ],
+    "text_joined": "Search for a geologist in Atlasdam."
+  },
+  {
+    "id": 919105030,
+    "text": [
+      "Take the geologist to Berecain."
+    ],
+    "text_joined": "Take the geologist to Berecain."
+  },
+  {
+    "id": 919105032,
+    "text": [
+      "Defeat the monster responsible for the tremors."
+    ],
+    "text_joined": "Defeat the monster responsible for the tremors."
+  },
+  {
+    "id": 919105034,
+    "text": [
+      "Return to Berecain."
+    ],
+    "text_joined": "Return to Berecain."
+  },
+  {
+    "id": 919104721,
+    "text": [
+      "The Monster Arena"
+    ],
+    "text_joined": "The Monster Arena"
+  },
+  {
+    "id": 919104723,
+    "text": [
+      "Restoration efforts wind down as Wishvale is transformed into a bustling town. One day, a gentleman visiting the town proposes a plan for a new facility—a monster arena."
+    ],
+    "text_joined": "Restoration efforts wind down as Wishvale is transformed into a bustling town. One day, a gentleman visiting the town proposes a plan for a new facility—a monster arena."
+  },
+  {
+    "id": 919105036,
+    "text": [
+      "Speak with the visitor in Wishvale."
+    ],
+    "text_joined": "Speak with the visitor in Wishvale."
+  },
+  {
+    "id": 919104726,
+    "text": [
+      "Build the monster arena."
+    ],
+    "text_joined": "Build the monster arena."
+  },
+  {
+    "id": 919104728,
+    "text": [
+      "Confirm the list of monsters to capture."
+    ],
+    "text_joined": "Confirm the list of monsters to capture."
+  },
+  {
+    "id": 919104730,
+    "text": [
+      "Capture the desired monsters."
+    ],
+    "text_joined": "Capture the desired monsters."
+  },
+  {
+    "id": 919105040,
+    "text": [
+      "Deliver the monsters to Adrian."
+    ],
+    "text_joined": "Deliver the monsters to Adrian."
+  },
+  {
+    "id": 919104732,
+    "text": [
+      "One's True Worth"
+    ],
+    "text_joined": "One's True Worth"
+  },
+  {
+    "id": 919104734,
+    "text": [
+      "After escaping from slavers, a young boy named Phil begs for someone to rescue his father whom he left behind. Save the young boy's father and reunite the family."
+    ],
+    "text_joined": "After escaping from slavers, a young boy named Phil begs for someone to rescue his father whom he left behind. Save the young boy's father and reunite the family."
+  },
+  {
+    "id": 919104804,
+    "text": [
+      "Speak with the merchant."
+    ],
+    "text_joined": "Speak with the merchant."
+  },
+  {
+    "id": 919104737,
+    "text": [
+      "Rescue the slaves."
+    ],
+    "text_joined": "Rescue the slaves."
+  },
+  {
+    "id": 919104739,
+    "text": [
+      "Head to the Sunshade inn."
+    ],
+    "text_joined": "Head to the Sunshade inn."
+  },
+  {
+    "id": 919104741,
+    "text": [
+      "Take Roneth and the others to Wishvale."
+    ],
+    "text_joined": "Take Roneth and the others to Wishvale."
+  }
+]

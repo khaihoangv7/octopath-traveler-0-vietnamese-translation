@@ -1,0 +1,3957 @@
+[
+  {
+    "id": 1,
+    "text": [
+      "Play \"{0}\"?"
+    ],
+    "text_joined": "Play \"{0}\"?"
+  },
+  {
+    "id": 4,
+    "text": [
+      "All"
+    ],
+    "text_joined": "All"
+  },
+  {
+    "id": 90001,
+    "text": [
+      "Prologue"
+    ],
+    "text_joined": "Prologue"
+  },
+  {
+    "id": 90002,
+    "text": [
+      "Kindlers of the Flame"
+    ],
+    "text_joined": "Kindlers of the Flame"
+  },
+  {
+    "id": 90003,
+    "text": [
+      "Master of Wealth"
+    ],
+    "text_joined": "Master of Wealth"
+  },
+  {
+    "id": 90004,
+    "text": [
+      "Master of Power"
+    ],
+    "text_joined": "Master of Power"
+  },
+  {
+    "id": 90005,
+    "text": [
+      "Master of Fame"
+    ],
+    "text_joined": "Master of Fame"
+  },
+  {
+    "id": 90006,
+    "text": [
+      "Finale"
+    ],
+    "text_joined": "Finale"
+  },
+  {
+    "id": 90007,
+    "text": [
+      "Master of All"
+    ],
+    "text_joined": "Master of All"
+  },
+  {
+    "id": 90008,
+    "text": [
+      "Bestower of Wealth"
+    ],
+    "text_joined": "Bestower of Wealth"
+  },
+  {
+    "id": 90009,
+    "text": [
+      "Bestower of Power"
+    ],
+    "text_joined": "Bestower of Power"
+  },
+  {
+    "id": 90010,
+    "text": [
+      "Bestower of Fame"
+    ],
+    "text_joined": "Bestower of Fame"
+  },
+  {
+    "id": 90011,
+    "text": [
+      "Bestower of All"
+    ],
+    "text_joined": "Bestower of All"
+  },
+  {
+    "id": 90012,
+    "text": [
+      "The Morning It All Began"
+    ],
+    "text_joined": "The Morning It All Began"
+  },
+  {
+    "id": 90013,
+    "text": [
+      "The Duty of the Watch"
+    ],
+    "text_joined": "The Duty of the Watch"
+  },
+  {
+    "id": 90016,
+    "text": [
+      "Together with Stia"
+    ],
+    "text_joined": "Together with Stia"
+  },
+  {
+    "id": 90017,
+    "text": [
+      "Yaya's Favor"
+    ],
+    "text_joined": "Yaya's Favor"
+  },
+  {
+    "id": 90018,
+    "text": [
+      "Nomos the Scholar"
+    ],
+    "text_joined": "Nomos the Scholar"
+  },
+  {
+    "id": 90020,
+    "text": [
+      "The Azure Flamestone"
+    ],
+    "text_joined": "The Azure Flamestone"
+  },
+  {
+    "id": 90021,
+    "text": [
+      "Eager Excitement"
+    ],
+    "text_joined": "Eager Excitement"
+  },
+  {
+    "id": 90022,
+    "text": [
+      "The Night Before"
+    ],
+    "text_joined": "The Night Before"
+  },
+  {
+    "id": 90023,
+    "text": [
+      "The Day of Reverence"
+    ],
+    "text_joined": "The Day of Reverence"
+  },
+  {
+    "id": 90025,
+    "text": [
+      "Margot and Basil"
+    ],
+    "text_joined": "Margot and Basil"
+  },
+  {
+    "id": 90026,
+    "text": [
+      "Lutus and Nellum"
+    ],
+    "text_joined": "Lutus and Nellum"
+  },
+  {
+    "id": 90027,
+    "text": [
+      "Deacon Laurana"
+    ],
+    "text_joined": "Deacon Laurana"
+  },
+  {
+    "id": 90028,
+    "text": [
+      "The Enkindling"
+    ],
+    "text_joined": "The Enkindling"
+  },
+  {
+    "id": 90029,
+    "text": [
+      "Eve of Destruction"
+    ],
+    "text_joined": "Eve of Destruction"
+  },
+  {
+    "id": 90030,
+    "text": [
+      "Flames of Restoration"
+    ],
+    "text_joined": "Flames of Restoration"
+  },
+  {
+    "id": 90031,
+    "text": [
+      "Wishvale of Yesteryear"
+    ],
+    "text_joined": "Wishvale of Yesteryear"
+  },
+  {
+    "id": 90032,
+    "text": [
+      "Reuniting with Phenn"
+    ],
+    "text_joined": "Reuniting with Phenn"
+  },
+  {
+    "id": 90033,
+    "text": [
+      "To Get Stronger"
+    ],
+    "text_joined": "To Get Stronger"
+  },
+  {
+    "id": 90034,
+    "text": [
+      "Phenn's Struggles"
+    ],
+    "text_joined": "Phenn's Struggles"
+  },
+  {
+    "id": 90035,
+    "text": [
+      "Phenn's Return"
+    ],
+    "text_joined": "Phenn's Return"
+  },
+  {
+    "id": 90036,
+    "text": [
+      "Basil's Homecoming"
+    ],
+    "text_joined": "Basil's Homecoming"
+  },
+  {
+    "id": 90037,
+    "text": [
+      "In Search of Margot"
+    ],
+    "text_joined": "In Search of Margot"
+  },
+  {
+    "id": 90039,
+    "text": [
+      "Lost Memories"
+    ],
+    "text_joined": "Lost Memories"
+  },
+  {
+    "id": 90040,
+    "text": [
+      "Reclaimed Memories"
+    ],
+    "text_joined": "Reclaimed Memories"
+  },
+  {
+    "id": 90041,
+    "text": [
+      "Merchant Wanted"
+    ],
+    "text_joined": "Merchant Wanted"
+  },
+  {
+    "id": 90042,
+    "text": [
+      "Merchants of Sunshade"
+    ],
+    "text_joined": "Merchants of Sunshade"
+  },
+  {
+    "id": 90043,
+    "text": [
+      "Ludo"
+    ],
+    "text_joined": "Ludo"
+  },
+  {
+    "id": 90044,
+    "text": [
+      "Defeating the Lizardmen"
+    ],
+    "text_joined": "Defeating the Lizardmen"
+  },
+  {
+    "id": 90045,
+    "text": [
+      "Merchant Ludo's Shop"
+    ],
+    "text_joined": "Merchant Ludo's Shop"
+  },
+  {
+    "id": 90046,
+    "text": [
+      "The Church and Laurana"
+    ],
+    "text_joined": "The Church and Laurana"
+  },
+  {
+    "id": 90047,
+    "text": [
+      "Laurana's Prayers"
+    ],
+    "text_joined": "Laurana's Prayers"
+  },
+  {
+    "id": 90048,
+    "text": [
+      "Rebuilding the Church"
+    ],
+    "text_joined": "Rebuilding the Church"
+  },
+  {
+    "id": 90049,
+    "text": [
+      "The Missing Laurana"
+    ],
+    "text_joined": "The Missing Laurana"
+  },
+  {
+    "id": 90050,
+    "text": [
+      "The Letter"
+    ],
+    "text_joined": "The Letter"
+  },
+  {
+    "id": 90051,
+    "text": [
+      "Atonement"
+    ],
+    "text_joined": "Atonement"
+  },
+  {
+    "id": 90052,
+    "text": [
+      "Laurana's Whereabouts"
+    ],
+    "text_joined": "Laurana's Whereabouts"
+  },
+  {
+    "id": 90053,
+    "text": [
+      "Finding the Flamestone"
+    ],
+    "text_joined": "Finding the Flamestone"
+  },
+  {
+    "id": 90054,
+    "text": [
+      "Flamebearer's Shrine"
+    ],
+    "text_joined": "Flamebearer's Shrine"
+  },
+  {
+    "id": 90056,
+    "text": [
+      "The Emerald Direwolf"
+    ],
+    "text_joined": "The Emerald Direwolf"
+  },
+  {
+    "id": 90057,
+    "text": [
+      "Look to the Future"
+    ],
+    "text_joined": "Look to the Future"
+  },
+  {
+    "id": 90058,
+    "text": [
+      "Wishvale's Tomorrow"
+    ],
+    "text_joined": "Wishvale's Tomorrow"
+  },
+  {
+    "id": 90059,
+    "text": [
+      "The Covetous Witch"
+    ],
+    "text_joined": "The Covetous Witch"
+  },
+  {
+    "id": 90060,
+    "text": [
+      "The Bargello Family"
+    ],
+    "text_joined": "The Bargello Family"
+  },
+  {
+    "id": 90061,
+    "text": [
+      "Herminia's Manse"
+    ],
+    "text_joined": "Herminia's Manse"
+  },
+  {
+    "id": 90062,
+    "text": [
+      "The Banquet"
+    ],
+    "text_joined": "The Banquet"
+  },
+  {
+    "id": 90063,
+    "text": [
+      "A Looming Tragedy"
+    ],
+    "text_joined": "A Looming Tragedy"
+  },
+  {
+    "id": 90064,
+    "text": [
+      "Tragedy at Nightfall"
+    ],
+    "text_joined": "Tragedy at Nightfall"
+  },
+  {
+    "id": 90065,
+    "text": [
+      "Lord Taviani"
+    ],
+    "text_joined": "Lord Taviani"
+  },
+  {
+    "id": 90066,
+    "text": [
+      "Bargello's Resolve"
+    ],
+    "text_joined": "Bargello's Resolve"
+  },
+  {
+    "id": 90067,
+    "text": [
+      "Taviani's Right Hand"
+    ],
+    "text_joined": "Taviani's Right Hand"
+  },
+  {
+    "id": 90068,
+    "text": [
+      "Infiltration"
+    ],
+    "text_joined": "Infiltration"
+  },
+  {
+    "id": 90069,
+    "text": [
+      "House Bertolini"
+    ],
+    "text_joined": "House Bertolini"
+  },
+  {
+    "id": 90070,
+    "text": [
+      "Taviani's Death"
+    ],
+    "text_joined": "Taviani's Death"
+  },
+  {
+    "id": 90071,
+    "text": [
+      "Taviani's Allies"
+    ],
+    "text_joined": "Taviani's Allies"
+  },
+  {
+    "id": 90072,
+    "text": [
+      "Rosso's Powder"
+    ],
+    "text_joined": "Rosso's Powder"
+  },
+  {
+    "id": 90073,
+    "text": [
+      "Revenge"
+    ],
+    "text_joined": "Revenge"
+  },
+  {
+    "id": 90074,
+    "text": [
+      "Rosso Steps Up"
+    ],
+    "text_joined": "Rosso Steps Up"
+  },
+  {
+    "id": 90076,
+    "text": [
+      "Master of Wealth"
+    ],
+    "text_joined": "Master of Wealth"
+  },
+  {
+    "id": 90077,
+    "text": [
+      "The Hero"
+    ],
+    "text_joined": "The Hero"
+  },
+  {
+    "id": 90078,
+    "text": [
+      "The Scarlet Wings"
+    ],
+    "text_joined": "The Scarlet Wings"
+  },
+  {
+    "id": 90079,
+    "text": [
+      "Rinyuu"
+    ],
+    "text_joined": "Rinyuu"
+  },
+  {
+    "id": 90080,
+    "text": [
+      "Rinyuu's Stew"
+    ],
+    "text_joined": "Rinyuu's Stew"
+  },
+  {
+    "id": 90081,
+    "text": [
+      "Velnorte's Worries"
+    ],
+    "text_joined": "Velnorte's Worries"
+  },
+  {
+    "id": 90083,
+    "text": [
+      "The Servant's Fate"
+    ],
+    "text_joined": "The Servant's Fate"
+  },
+  {
+    "id": 90084,
+    "text": [
+      "Farewell"
+    ],
+    "text_joined": "Farewell"
+  },
+  {
+    "id": 90085,
+    "text": [
+      "The Hero's Ambition"
+    ],
+    "text_joined": "The Hero's Ambition"
+  },
+  {
+    "id": 90086,
+    "text": [
+      "A Plan of Sabotage"
+    ],
+    "text_joined": "A Plan of Sabotage"
+  },
+  {
+    "id": 90087,
+    "text": [
+      "Velnorte's Evidence"
+    ],
+    "text_joined": "Velnorte's Evidence"
+  },
+  {
+    "id": 90088,
+    "text": [
+      "The Scorched Garrison"
+    ],
+    "text_joined": "The Scorched Garrison"
+  },
+  {
+    "id": 90089,
+    "text": [
+      "Blood Atonement"
+    ],
+    "text_joined": "Blood Atonement"
+  },
+  {
+    "id": 90091,
+    "text": [
+      "Rinyuu's Truth"
+    ],
+    "text_joined": "Rinyuu's Truth"
+  },
+  {
+    "id": 90092,
+    "text": [
+      "Velnorte's Despair"
+    ],
+    "text_joined": "Velnorte's Despair"
+  },
+  {
+    "id": 90094,
+    "text": [
+      "The Hunter Dmitri"
+    ],
+    "text_joined": "The Hunter Dmitri"
+  },
+  {
+    "id": 90095,
+    "text": [
+      "Hunting Snow Yaks"
+    ],
+    "text_joined": "Hunting Snow Yaks"
+  },
+  {
+    "id": 90096,
+    "text": [
+      "Rinyuu's Fate"
+    ],
+    "text_joined": "Rinyuu's Fate"
+  },
+  {
+    "id": 90097,
+    "text": [
+      "The Sound of the Bell"
+    ],
+    "text_joined": "The Sound of the Bell"
+  },
+  {
+    "id": 90098,
+    "text": [
+      "Velnorte's Letter"
+    ],
+    "text_joined": "Velnorte's Letter"
+  },
+  {
+    "id": 90099,
+    "text": [
+      "The True Serum"
+    ],
+    "text_joined": "The True Serum"
+  },
+  {
+    "id": 90100,
+    "text": [
+      "Master of Power"
+    ],
+    "text_joined": "Master of Power"
+  },
+  {
+    "id": 90101,
+    "text": [
+      "The Greatest Playwright"
+    ],
+    "text_joined": "The Greatest Playwright"
+  },
+  {
+    "id": 90102,
+    "text": [
+      "Schwartz"
+    ],
+    "text_joined": "Schwartz"
+  },
+  {
+    "id": 90103,
+    "text": [
+      "The Great Francesca"
+    ],
+    "text_joined": "The Great Francesca"
+  },
+  {
+    "id": 90104,
+    "text": [
+      "Vengeance"
+    ],
+    "text_joined": "Vengeance"
+  },
+  {
+    "id": 90105,
+    "text": [
+      "Reuniting with Schwartz"
+    ],
+    "text_joined": "Reuniting with Schwartz"
+  },
+  {
+    "id": 90106,
+    "text": [
+      "Mother and Child"
+    ],
+    "text_joined": "Mother and Child"
+  },
+  {
+    "id": 90107,
+    "text": [
+      "The Jennish Gallows"
+    ],
+    "text_joined": "The Jennish Gallows"
+  },
+  {
+    "id": 90108,
+    "text": [
+      "Seeking Thrills"
+    ],
+    "text_joined": "Seeking Thrills"
+  },
+  {
+    "id": 90109,
+    "text": [
+      "New Material"
+    ],
+    "text_joined": "New Material"
+  },
+  {
+    "id": 90111,
+    "text": [
+      "Truth and Pretense"
+    ],
+    "text_joined": "Truth and Pretense"
+  },
+  {
+    "id": 90112,
+    "text": [
+      "Simeon the Poet"
+    ],
+    "text_joined": "Simeon the Poet"
+  },
+  {
+    "id": 90113,
+    "text": [
+      "A Deadly Play"
+    ],
+    "text_joined": "A Deadly Play"
+  },
+  {
+    "id": 90115,
+    "text": [
+      "Master of Fame"
+    ],
+    "text_joined": "Master of Fame"
+  },
+  {
+    "id": 90117,
+    "text": [
+      "The Flameguard"
+    ],
+    "text_joined": "The Flameguard"
+  },
+  {
+    "id": 90118,
+    "text": [
+      "Sazantos's Duty"
+    ],
+    "text_joined": "Sazantos's Duty"
+  },
+  {
+    "id": 90119,
+    "text": [
+      "The Sealing Ritual"
+    ],
+    "text_joined": "The Sealing Ritual"
+  },
+  {
+    "id": 90121,
+    "text": [
+      "The Stolen Rings"
+    ],
+    "text_joined": "The Stolen Rings"
+  },
+  {
+    "id": 90122,
+    "text": [
+      "King Pardis III"
+    ],
+    "text_joined": "King Pardis III"
+  },
+  {
+    "id": 90123,
+    "text": [
+      "The Wedding"
+    ],
+    "text_joined": "The Wedding"
+  },
+  {
+    "id": 90124,
+    "text": [
+      "Princess Alaune"
+    ],
+    "text_joined": "Princess Alaune"
+  },
+  {
+    "id": 90125,
+    "text": [
+      "Adorablooms"
+    ],
+    "text_joined": "Adorablooms"
+  },
+  {
+    "id": 90126,
+    "text": [
+      "Elrica's Counsel"
+    ],
+    "text_joined": "Elrica's Counsel"
+  },
+  {
+    "id": 90127,
+    "text": [
+      "The Lion of Edoras"
+    ],
+    "text_joined": "The Lion of Edoras"
+  },
+  {
+    "id": 90128,
+    "text": [
+      "A Lurking Evil"
+    ],
+    "text_joined": "A Lurking Evil"
+  },
+  {
+    "id": 90129,
+    "text": [
+      "The Trap"
+    ],
+    "text_joined": "The Trap"
+  },
+  {
+    "id": 90130,
+    "text": [
+      "M'suhi the Viper"
+    ],
+    "text_joined": "M'suhi the Viper"
+  },
+  {
+    "id": 90131,
+    "text": [
+      "Mahrez's Assassination"
+    ],
+    "text_joined": "Mahrez's Assassination"
+  },
+  {
+    "id": 90132,
+    "text": [
+      "Behind Bars"
+    ],
+    "text_joined": "Behind Bars"
+  },
+  {
+    "id": 90134,
+    "text": [
+      "Elrica's Resolve"
+    ],
+    "text_joined": "Elrica's Resolve"
+  },
+  {
+    "id": 90135,
+    "text": [
+      "El the Swordsman"
+    ],
+    "text_joined": "El the Swordsman"
+  },
+  {
+    "id": 90136,
+    "text": [
+      "Charles the Traveler"
+    ],
+    "text_joined": "Charles the Traveler"
+  },
+  {
+    "id": 90137,
+    "text": [
+      "A Bandit's Beliefs"
+    ],
+    "text_joined": "A Bandit's Beliefs"
+  },
+  {
+    "id": 90138,
+    "text": [
+      "Riven's Strategy"
+    ],
+    "text_joined": "Riven's Strategy"
+  },
+  {
+    "id": 90139,
+    "text": [
+      "Meeting King Solon"
+    ],
+    "text_joined": "Meeting King Solon"
+  },
+  {
+    "id": 90140,
+    "text": [
+      "The Sunshade Dancer"
+    ],
+    "text_joined": "The Sunshade Dancer"
+  },
+  {
+    "id": 90141,
+    "text": [
+      "The Servant of Edoras"
+    ],
+    "text_joined": "The Servant of Edoras"
+  },
+  {
+    "id": 90142,
+    "text": [
+      "The Troops Approach"
+    ],
+    "text_joined": "The Troops Approach"
+  },
+  {
+    "id": 90143,
+    "text": [
+      "A Secret Plan"
+    ],
+    "text_joined": "A Secret Plan"
+  },
+  {
+    "id": 90144,
+    "text": [
+      "The Wise King"
+    ],
+    "text_joined": "The Wise King"
+  },
+  {
+    "id": 90145,
+    "text": [
+      "The Valley of Death"
+    ],
+    "text_joined": "The Valley of Death"
+  },
+  {
+    "id": 90146,
+    "text": [
+      "Krauser's Struggle"
+    ],
+    "text_joined": "Krauser's Struggle"
+  },
+  {
+    "id": 90147,
+    "text": [
+      "Elrica's Sword"
+    ],
+    "text_joined": "Elrica's Sword"
+  },
+  {
+    "id": 90148,
+    "text": [
+      "The Two Princesses"
+    ],
+    "text_joined": "The Two Princesses"
+  },
+  {
+    "id": 90149,
+    "text": [
+      "A Formal Declaration"
+    ],
+    "text_joined": "A Formal Declaration"
+  },
+  {
+    "id": 90150,
+    "text": [
+      "The Council of Kings"
+    ],
+    "text_joined": "The Council of Kings"
+  },
+  {
+    "id": 90151,
+    "text": [
+      "The Flame of Hope"
+    ],
+    "text_joined": "The Flame of Hope"
+  },
+  {
+    "id": 90152,
+    "text": [
+      "Know Your True Master"
+    ],
+    "text_joined": "Know Your True Master"
+  },
+  {
+    "id": 90153,
+    "text": [
+      "A Mother's Teachings"
+    ],
+    "text_joined": "A Mother's Teachings"
+  },
+  {
+    "id": 90155,
+    "text": [
+      "Reuniting with Charles"
+    ],
+    "text_joined": "Reuniting with Charles"
+  },
+  {
+    "id": 90156,
+    "text": [
+      "A False King"
+    ],
+    "text_joined": "A False King"
+  },
+  {
+    "id": 90157,
+    "text": [
+      "The Truth Revealed"
+    ],
+    "text_joined": "The Truth Revealed"
+  },
+  {
+    "id": 90158,
+    "text": [
+      "Gonska the Jester"
+    ],
+    "text_joined": "Gonska the Jester"
+  },
+  {
+    "id": 90159,
+    "text": [
+      "Allied Forces"
+    ],
+    "text_joined": "Allied Forces"
+  },
+  {
+    "id": 90160,
+    "text": [
+      "The Troops of Riven"
+    ],
+    "text_joined": "The Troops of Riven"
+  },
+  {
+    "id": 90161,
+    "text": [
+      "Master of All"
+    ],
+    "text_joined": "Master of All"
+  },
+  {
+    "id": 90162,
+    "text": [
+      "To Orsa Once More"
+    ],
+    "text_joined": "To Orsa Once More"
+  },
+  {
+    "id": 90163,
+    "text": [
+      "A Chat with Sazantos"
+    ],
+    "text_joined": "A Chat with Sazantos"
+  },
+  {
+    "id": 90164,
+    "text": [
+      "Returning to Slumber"
+    ],
+    "text_joined": "Returning to Slumber"
+  },
+  {
+    "id": 90165,
+    "text": [
+      "A Lost Friend"
+    ],
+    "text_joined": "A Lost Friend"
+  },
+  {
+    "id": 90167,
+    "text": [
+      "The Have-Not"
+    ],
+    "text_joined": "The Have-Not"
+  },
+  {
+    "id": 90168,
+    "text": [
+      "The Vanishing Wealthy"
+    ],
+    "text_joined": "The Vanishing Wealthy"
+  },
+  {
+    "id": 90169,
+    "text": [
+      "Levina's Punishment"
+    ],
+    "text_joined": "Levina's Punishment"
+  },
+  {
+    "id": 90170,
+    "text": [
+      "Delvecchio's Employer"
+    ],
+    "text_joined": "Delvecchio's Employer"
+  },
+  {
+    "id": 90171,
+    "text": [
+      "The Search for Leopaldi"
+    ],
+    "text_joined": "The Search for Leopaldi"
+  },
+  {
+    "id": 90177,
+    "text": [
+      "Blood and Money"
+    ],
+    "text_joined": "Blood and Money"
+  },
+  {
+    "id": 90178,
+    "text": [
+      "Leopaldi the Wealthy"
+    ],
+    "text_joined": "Leopaldi the Wealthy"
+  },
+  {
+    "id": 90179,
+    "text": [
+      "Oskha the Have-Not"
+    ],
+    "text_joined": "Oskha the Have-Not"
+  },
+  {
+    "id": 90180,
+    "text": [
+      "A Slumbering Bargello"
+    ],
+    "text_joined": "A Slumbering Bargello"
+  },
+  {
+    "id": 90181,
+    "text": [
+      "Town of White Sands"
+    ],
+    "text_joined": "Town of White Sands"
+  },
+  {
+    "id": 90182,
+    "text": [
+      "Pierro and Rosso"
+    ],
+    "text_joined": "Pierro and Rosso"
+  },
+  {
+    "id": 90183,
+    "text": [
+      "To Lord Scarabe (Pierro)"
+    ],
+    "text_joined": "To Lord Scarabe (Pierro)"
+  },
+  {
+    "id": 90184,
+    "text": [
+      "To Lord Scarabe (Rosso)"
+    ],
+    "text_joined": "To Lord Scarabe (Rosso)"
+  },
+  {
+    "id": 90185,
+    "text": [
+      "A Perfect Team"
+    ],
+    "text_joined": "A Perfect Team"
+  },
+  {
+    "id": 90187,
+    "text": [
+      "Judah the Devout"
+    ],
+    "text_joined": "Judah the Devout"
+  },
+  {
+    "id": 90188,
+    "text": [
+      "The Hüseynov Family"
+    ],
+    "text_joined": "The Hüseynov Family"
+  },
+  {
+    "id": 90189,
+    "text": [
+      "Betrayed by Wealth"
+    ],
+    "text_joined": "Betrayed by Wealth"
+  },
+  {
+    "id": 90190,
+    "text": [
+      "Bargello Awakens"
+    ],
+    "text_joined": "Bargello Awakens"
+  },
+  {
+    "id": 90191,
+    "text": [
+      "Valore's Affairs"
+    ],
+    "text_joined": "Valore's Affairs"
+  },
+  {
+    "id": 90192,
+    "text": [
+      "What Ought Be Shared"
+    ],
+    "text_joined": "What Ought Be Shared"
+  },
+  {
+    "id": 90194,
+    "text": [
+      "Eternal Quicksand"
+    ],
+    "text_joined": "Eternal Quicksand"
+  },
+  {
+    "id": 90197,
+    "text": [
+      "Bestower of Wealth"
+    ],
+    "text_joined": "Bestower of Wealth"
+  },
+  {
+    "id": 90198,
+    "text": [
+      "The Peace Treaty"
+    ],
+    "text_joined": "The Peace Treaty"
+  },
+  {
+    "id": 90199,
+    "text": [
+      "G'roha's Emissary"
+    ],
+    "text_joined": "G'roha's Emissary"
+  },
+  {
+    "id": 90200,
+    "text": [
+      "Empress Tatloch"
+    ],
+    "text_joined": "Empress Tatloch"
+  },
+  {
+    "id": 90201,
+    "text": [
+      "King Dudek"
+    ],
+    "text_joined": "King Dudek"
+  },
+  {
+    "id": 90202,
+    "text": [
+      "Orsterra's Hope"
+    ],
+    "text_joined": "Orsterra's Hope"
+  },
+  {
+    "id": 90203,
+    "text": [
+      "A Declaration of War"
+    ],
+    "text_joined": "A Declaration of War"
+  },
+  {
+    "id": 90204,
+    "text": [
+      "A Strategy Meeting"
+    ],
+    "text_joined": "A Strategy Meeting"
+  },
+  {
+    "id": 90205,
+    "text": [
+      "Bounty Hunter Krauser"
+    ],
+    "text_joined": "Bounty Hunter Krauser"
+  },
+  {
+    "id": 90206,
+    "text": [
+      "Lord Eltrix"
+    ],
+    "text_joined": "Lord Eltrix"
+  },
+  {
+    "id": 90207,
+    "text": [
+      "Grandport's Way"
+    ],
+    "text_joined": "Grandport's Way"
+  },
+  {
+    "id": 90208,
+    "text": [
+      "Eltrix and Her Father"
+    ],
+    "text_joined": "Eltrix and Her Father"
+  },
+  {
+    "id": 90209,
+    "text": [
+      "To Protect What Is Dear"
+    ],
+    "text_joined": "To Protect What Is Dear"
+  },
+  {
+    "id": 90210,
+    "text": [
+      "Battle at Sea"
+    ],
+    "text_joined": "Battle at Sea"
+  },
+  {
+    "id": 90211,
+    "text": [
+      "Pelagia the Conjurer"
+    ],
+    "text_joined": "Pelagia the Conjurer"
+  },
+  {
+    "id": 90212,
+    "text": [
+      "Protectors of the Rings"
+    ],
+    "text_joined": "Protectors of the Rings"
+  },
+  {
+    "id": 90213,
+    "text": [
+      "The Ports of Rippletide"
+    ],
+    "text_joined": "The Ports of Rippletide"
+  },
+  {
+    "id": 90214,
+    "text": [
+      "The Great Battle"
+    ],
+    "text_joined": "The Great Battle"
+  },
+  {
+    "id": 90215,
+    "text": [
+      "Desperate Measures"
+    ],
+    "text_joined": "Desperate Measures"
+  },
+  {
+    "id": 90216,
+    "text": [
+      "Krauser's Musings"
+    ],
+    "text_joined": "Krauser's Musings"
+  },
+  {
+    "id": 90217,
+    "text": [
+      "A Lesson to Be Learned"
+    ],
+    "text_joined": "A Lesson to Be Learned"
+  },
+  {
+    "id": 90219,
+    "text": [
+      "For All You Believe In"
+    ],
+    "text_joined": "For All You Believe In"
+  },
+  {
+    "id": 90220,
+    "text": [
+      "Bestower of Power"
+    ],
+    "text_joined": "Bestower of Power"
+  },
+  {
+    "id": 90221,
+    "text": [
+      "The Black Scarlet"
+    ],
+    "text_joined": "The Black Scarlet"
+  },
+  {
+    "id": 90222,
+    "text": [
+      "Reuniting with Rinyuu"
+    ],
+    "text_joined": "Reuniting with Rinyuu"
+  },
+  {
+    "id": 90223,
+    "text": [
+      "To State Their Name"
+    ],
+    "text_joined": "To State Their Name"
+  },
+  {
+    "id": 90224,
+    "text": [
+      "Sazantos and Rondo"
+    ],
+    "text_joined": "Sazantos and Rondo"
+  },
+  {
+    "id": 90225,
+    "text": [
+      "Echoing Screams"
+    ],
+    "text_joined": "Echoing Screams"
+  },
+  {
+    "id": 90227,
+    "text": [
+      "The Mastermind?"
+    ],
+    "text_joined": "The Mastermind?"
+  },
+  {
+    "id": 90228,
+    "text": [
+      "Miza's Disappearance"
+    ],
+    "text_joined": "Miza's Disappearance"
+  },
+  {
+    "id": 90229,
+    "text": [
+      "Gathered Testimonies"
+    ],
+    "text_joined": "Gathered Testimonies"
+  },
+  {
+    "id": 90233,
+    "text": [
+      "Key to the Confessional"
+    ],
+    "text_joined": "Key to the Confessional"
+  },
+  {
+    "id": 90236,
+    "text": [
+      "A Journal Fragment and the Hidden Door"
+    ],
+    "text_joined": "A Journal Fragment and the Hidden Door"
+  },
+  {
+    "id": 90237,
+    "text": [
+      "The Mastermind"
+    ],
+    "text_joined": "The Mastermind"
+  },
+  {
+    "id": 90238,
+    "text": [
+      "Father and Daughter"
+    ],
+    "text_joined": "Father and Daughter"
+  },
+  {
+    "id": 90239,
+    "text": [
+      "The New God"
+    ],
+    "text_joined": "The New God"
+  },
+  {
+    "id": 90240,
+    "text": [
+      "Turning to Knowledge"
+    ],
+    "text_joined": "Turning to Knowledge"
+  },
+  {
+    "id": 90242,
+    "text": [
+      "The Legend of Saint Odypus"
+    ],
+    "text_joined": "The Legend of Saint Odypus"
+  },
+  {
+    "id": 90244,
+    "text": [
+      "The Three Flames"
+    ],
+    "text_joined": "The Three Flames"
+  },
+  {
+    "id": 90245,
+    "text": [
+      "The Accursed Night"
+    ],
+    "text_joined": "The Accursed Night"
+  },
+  {
+    "id": 90246,
+    "text": [
+      "The Black Scarlet Strikes"
+    ],
+    "text_joined": "The Black Scarlet Strikes"
+  },
+  {
+    "id": 90247,
+    "text": [
+      "The Knights Assemble"
+    ],
+    "text_joined": "The Knights Assemble"
+  },
+  {
+    "id": 90248,
+    "text": [
+      "A Pontiff in Peril"
+    ],
+    "text_joined": "A Pontiff in Peril"
+  },
+  {
+    "id": 90249,
+    "text": [
+      "Ceraphina"
+    ],
+    "text_joined": "Ceraphina"
+  },
+  {
+    "id": 90250,
+    "text": [
+      "The Fallen Flame"
+    ],
+    "text_joined": "The Fallen Flame"
+  },
+  {
+    "id": 90251,
+    "text": [
+      "The Time Has Come"
+    ],
+    "text_joined": "The Time Has Come"
+  },
+  {
+    "id": 90252,
+    "text": [
+      "Uninvited Guests"
+    ],
+    "text_joined": "Uninvited Guests"
+  },
+  {
+    "id": 90256,
+    "text": [
+      "Salomon's Journal"
+    ],
+    "text_joined": "Salomon's Journal"
+  },
+  {
+    "id": 90257,
+    "text": [
+      "The Forbidden Temple"
+    ],
+    "text_joined": "The Forbidden Temple"
+  },
+  {
+    "id": 90259,
+    "text": [
+      "A False God"
+    ],
+    "text_joined": "A False God"
+  },
+  {
+    "id": 90260,
+    "text": [
+      "Bestower of Fame"
+    ],
+    "text_joined": "Bestower of Fame"
+  },
+  {
+    "id": 90261,
+    "text": [
+      "A Letter from Finis"
+    ],
+    "text_joined": "A Letter from Finis"
+  },
+  {
+    "id": 90262,
+    "text": [
+      "Returning the Ring"
+    ],
+    "text_joined": "Returning the Ring"
+  },
+  {
+    "id": 90264,
+    "text": [
+      "Guardians of Light"
+    ],
+    "text_joined": "Guardians of Light"
+  },
+  {
+    "id": 90265,
+    "text": [
+      "A Tormented Shadow"
+    ],
+    "text_joined": "A Tormented Shadow"
+  },
+  {
+    "id": 90266,
+    "text": [
+      "Yea or Nay"
+    ],
+    "text_joined": "Yea or Nay"
+  },
+  {
+    "id": 90267,
+    "text": [
+      "Path of Righteousness"
+    ],
+    "text_joined": "Path of Righteousness"
+  },
+  {
+    "id": 90268,
+    "text": [
+      "The Words of Pathos"
+    ],
+    "text_joined": "The Words of Pathos"
+  },
+  {
+    "id": 90270,
+    "text": [
+      "A Man Obsessed"
+    ],
+    "text_joined": "A Man Obsessed"
+  },
+  {
+    "id": 90273,
+    "text": [
+      "The Lion Returns"
+    ],
+    "text_joined": "The Lion Returns"
+  },
+  {
+    "id": 90274,
+    "text": [
+      "A New Guardian"
+    ],
+    "text_joined": "A New Guardian"
+  },
+  {
+    "id": 90275,
+    "text": [
+      "We're in This Together"
+    ],
+    "text_joined": "We're in This Together"
+  },
+  {
+    "id": 90276,
+    "text": [
+      "White Grape Blossoms"
+    ],
+    "text_joined": "White Grape Blossoms"
+  },
+  {
+    "id": 90277,
+    "text": [
+      "Honoring Taviani"
+    ],
+    "text_joined": "Honoring Taviani"
+  },
+  {
+    "id": 90278,
+    "text": [
+      "Pride of the Family"
+    ],
+    "text_joined": "Pride of the Family"
+  },
+  {
+    "id": 90281,
+    "text": [
+      "On the Flowery Hill"
+    ],
+    "text_joined": "On the Flowery Hill"
+  },
+  {
+    "id": 90282,
+    "text": [
+      "Unexpected Hostility"
+    ],
+    "text_joined": "Unexpected Hostility"
+  },
+  {
+    "id": 90283,
+    "text": [
+      "The Realm of the Dead"
+    ],
+    "text_joined": "The Realm of the Dead"
+  },
+  {
+    "id": 90284,
+    "text": [
+      "Sazantos's Puppets"
+    ],
+    "text_joined": "Sazantos's Puppets"
+  },
+  {
+    "id": 90285,
+    "text": [
+      "The Door to Hell"
+    ],
+    "text_joined": "The Door to Hell"
+  },
+  {
+    "id": 90286,
+    "text": [
+      "That Which Must Perish"
+    ],
+    "text_joined": "That Which Must Perish"
+  },
+  {
+    "id": 90287,
+    "text": [
+      "Elrica's Wish"
+    ],
+    "text_joined": "Elrica's Wish"
+  },
+  {
+    "id": 90290,
+    "text": [
+      "Elrica's Desire"
+    ],
+    "text_joined": "Elrica's Desire"
+  },
+  {
+    "id": 90292,
+    "text": [
+      "Elrica's Sentiment"
+    ],
+    "text_joined": "Elrica's Sentiment"
+  },
+  {
+    "id": 90294,
+    "text": [
+      "Along Greed's Path"
+    ],
+    "text_joined": "Along Greed's Path"
+  },
+  {
+    "id": 90295,
+    "text": [
+      "Eternity"
+    ],
+    "text_joined": "Eternity"
+  },
+  {
+    "id": 90296,
+    "text": [
+      "The Search for Clues"
+    ],
+    "text_joined": "The Search for Clues"
+  },
+  {
+    "id": 90297,
+    "text": [
+      "Beyond Hell's Gates"
+    ],
+    "text_joined": "Beyond Hell's Gates"
+  },
+  {
+    "id": 90298,
+    "text": [
+      "Bearers of the Curse"
+    ],
+    "text_joined": "Bearers of the Curse"
+  },
+  {
+    "id": 90300,
+    "text": [
+      "The Hornburg Door"
+    ],
+    "text_joined": "The Hornburg Door"
+  },
+  {
+    "id": 90301,
+    "text": [
+      "Richard's Wisdom"
+    ],
+    "text_joined": "Richard's Wisdom"
+  },
+  {
+    "id": 90302,
+    "text": [
+      "Bargello's Sharp Eye"
+    ],
+    "text_joined": "Bargello's Sharp Eye"
+  },
+  {
+    "id": 90304,
+    "text": [
+      "Bridge to the Throne"
+    ],
+    "text_joined": "Bridge to the Throne"
+  },
+  {
+    "id": 90306,
+    "text": [
+      "King Alfred"
+    ],
+    "text_joined": "King Alfred"
+  },
+  {
+    "id": 90307,
+    "text": [
+      "The Flame's Trials"
+    ],
+    "text_joined": "The Flame's Trials"
+  },
+  {
+    "id": 90623,
+    "text": [
+      "A New Flame"
+    ],
+    "text_joined": "A New Flame"
+  },
+  {
+    "id": 90308,
+    "text": [
+      "Flameguard Sonzon"
+    ],
+    "text_joined": "Flameguard Sonzon"
+  },
+  {
+    "id": 90309,
+    "text": [
+      "Velnorte's Dream"
+    ],
+    "text_joined": "Velnorte's Dream"
+  },
+  {
+    "id": 90310,
+    "text": [
+      "No Matter the Cost"
+    ],
+    "text_joined": "No Matter the Cost"
+  },
+  {
+    "id": 90311,
+    "text": [
+      "The Gate of Finis"
+    ],
+    "text_joined": "The Gate of Finis"
+  },
+  {
+    "id": 90312,
+    "text": [
+      "Even Beyond Death"
+    ],
+    "text_joined": "Even Beyond Death"
+  },
+  {
+    "id": 90313,
+    "text": [
+      "The Depths of Hell"
+    ],
+    "text_joined": "The Depths of Hell"
+  },
+  {
+    "id": 90314,
+    "text": [
+      "Changes and Differences"
+    ],
+    "text_joined": "Changes and Differences"
+  },
+  {
+    "id": 90315,
+    "text": [
+      "The Golden Banquet"
+    ],
+    "text_joined": "The Golden Banquet"
+  },
+  {
+    "id": 90316,
+    "text": [
+      "The Curtains Soon Rise"
+    ],
+    "text_joined": "The Curtains Soon Rise"
+  },
+  {
+    "id": 90317,
+    "text": [
+      "The Tale of a Saint"
+    ],
+    "text_joined": "The Tale of a Saint"
+  },
+  {
+    "id": 90318,
+    "text": [
+      "Within the Abyss"
+    ],
+    "text_joined": "Within the Abyss"
+  },
+  {
+    "id": 90319,
+    "text": [
+      "The Edge of Oblivion"
+    ],
+    "text_joined": "The Edge of Oblivion"
+  },
+  {
+    "id": 90320,
+    "text": [
+      "To Awaken"
+    ],
+    "text_joined": "To Awaken"
+  },
+  {
+    "id": 90321,
+    "text": [
+      "A Stranger to All"
+    ],
+    "text_joined": "A Stranger to All"
+  },
+  {
+    "id": 90322,
+    "text": [
+      "The Flame's Guidance"
+    ],
+    "text_joined": "The Flame's Guidance"
+  },
+  {
+    "id": 90323,
+    "text": [
+      "Cathedral of Ash"
+    ],
+    "text_joined": "Cathedral of Ash"
+  },
+  {
+    "id": 90324,
+    "text": [
+      "Researcher of the Flame"
+    ],
+    "text_joined": "Researcher of the Flame"
+  },
+  {
+    "id": 90325,
+    "text": [
+      "The Twelve Scriptures"
+    ],
+    "text_joined": "The Twelve Scriptures"
+  },
+  {
+    "id": 90326,
+    "text": [
+      "The Hidden Books"
+    ],
+    "text_joined": "The Hidden Books"
+  },
+  {
+    "id": 90327,
+    "text": [
+      "Born of Blood"
+    ],
+    "text_joined": "Born of Blood"
+  },
+  {
+    "id": 90328,
+    "text": [
+      "Pharamea's Flame"
+    ],
+    "text_joined": "Pharamea's Flame"
+  },
+  {
+    "id": 90330,
+    "text": [
+      "Cardinal Teragraf"
+    ],
+    "text_joined": "Cardinal Teragraf"
+  },
+  {
+    "id": 90331,
+    "text": [
+      "The Trials"
+    ],
+    "text_joined": "The Trials"
+  },
+  {
+    "id": 90332,
+    "text": [
+      "The Power of Creation"
+    ],
+    "text_joined": "The Power of Creation"
+  },
+  {
+    "id": 90333,
+    "text": [
+      "To the Heavens"
+    ],
+    "text_joined": "To the Heavens"
+  },
+  {
+    "id": 90334,
+    "text": [
+      "A World Without Desire"
+    ],
+    "text_joined": "A World Without Desire"
+  },
+  {
+    "id": 90335,
+    "text": [
+      "Utopia"
+    ],
+    "text_joined": "Utopia"
+  },
+  {
+    "id": 90336,
+    "text": [
+      "The Honorable Hero"
+    ],
+    "text_joined": "The Honorable Hero"
+  },
+  {
+    "id": 90337,
+    "text": [
+      "The Selfless Noble"
+    ],
+    "text_joined": "The Selfless Noble"
+  },
+  {
+    "id": 90338,
+    "text": [
+      "The Peaceful Playwright"
+    ],
+    "text_joined": "The Peaceful Playwright"
+  },
+  {
+    "id": 90339,
+    "text": [
+      "The Royal Princesses"
+    ],
+    "text_joined": "The Royal Princesses"
+  },
+  {
+    "id": 90340,
+    "text": [
+      "The Days That Were"
+    ],
+    "text_joined": "The Days That Were"
+  },
+  {
+    "id": 90341,
+    "text": [
+      "A Decision to Be Made"
+    ],
+    "text_joined": "A Decision to Be Made"
+  },
+  {
+    "id": 90342,
+    "text": [
+      "The Flame's Chosen Path"
+    ],
+    "text_joined": "The Flame's Chosen Path"
+  },
+  {
+    "id": 90343,
+    "text": [
+      "The Creator Orsazantos"
+    ],
+    "text_joined": "The Creator Orsazantos"
+  },
+  {
+    "id": 90344,
+    "text": [
+      "In a Closed-Off World"
+    ],
+    "text_joined": "In a Closed-Off World"
+  },
+  {
+    "id": 90346,
+    "text": [
+      "Sazantos's Plea"
+    ],
+    "text_joined": "Sazantos's Plea"
+  },
+  {
+    "id": 90349,
+    "text": [
+      "Illuminating the Child"
+    ],
+    "text_joined": "Illuminating the Child"
+  },
+  {
+    "id": 90350,
+    "text": [
+      "Illuminating Pharamea"
+    ],
+    "text_joined": "Illuminating Pharamea"
+  },
+  {
+    "id": 90351,
+    "text": [
+      "Illuminating Sazantos"
+    ],
+    "text_joined": "Illuminating Sazantos"
+  },
+  {
+    "id": 90352,
+    "text": [
+      "Bestower of All"
+    ],
+    "text_joined": "Bestower of All"
+  },
+  {
+    "id": 90353,
+    "text": [
+      "The Safeguarded Light"
+    ],
+    "text_joined": "The Safeguarded Light"
+  },
+  {
+    "id": 90354,
+    "text": [
+      "Ties Restored"
+    ],
+    "text_joined": "Ties Restored"
+  },
+  {
+    "id": 90355,
+    "text": [
+      "Hand in Hand"
+    ],
+    "text_joined": "Hand in Hand"
+  },
+  {
+    "id": 90357,
+    "text": [
+      "Aelfric the Flamebringer"
+    ],
+    "text_joined": "Aelfric the Flamebringer"
+  },
+  {
+    "id": 90358,
+    "text": [
+      "Or'galdera"
+    ],
+    "text_joined": "Or'galdera"
+  },
+  {
+    "id": 90359,
+    "text": [
+      "A Journey Imagined"
+    ],
+    "text_joined": "A Journey Imagined"
+  },
+  {
+    "id": 90360,
+    "text": [
+      "The Frostlands"
+    ],
+    "text_joined": "The Frostlands"
+  },
+  {
+    "id": 90361,
+    "text": [
+      "The Flatlands"
+    ],
+    "text_joined": "The Flatlands"
+  },
+  {
+    "id": 90362,
+    "text": [
+      "The Coastlands"
+    ],
+    "text_joined": "The Coastlands"
+  },
+  {
+    "id": 90363,
+    "text": [
+      "The Highlands"
+    ],
+    "text_joined": "The Highlands"
+  },
+  {
+    "id": 90364,
+    "text": [
+      "The Sunlands"
+    ],
+    "text_joined": "The Sunlands"
+  },
+  {
+    "id": 90365,
+    "text": [
+      "The Riverlands"
+    ],
+    "text_joined": "The Riverlands"
+  },
+  {
+    "id": 90366,
+    "text": [
+      "The Cliftlands"
+    ],
+    "text_joined": "The Cliftlands"
+  },
+  {
+    "id": 90367,
+    "text": [
+      "The Woodlands"
+    ],
+    "text_joined": "The Woodlands"
+  },
+  {
+    "id": 90368,
+    "text": [
+      "Bonds of Fellowship"
+    ],
+    "text_joined": "Bonds of Fellowship"
+  },
+  {
+    "id": 90369,
+    "text": [
+      "Everyday Life"
+    ],
+    "text_joined": "Everyday Life"
+  },
+  {
+    "id": 90370,
+    "text": [
+      "Before the Great Battle"
+    ],
+    "text_joined": "Before the Great Battle"
+  },
+  {
+    "id": 90372,
+    "text": [
+      "Ch. 1: The Hunter Phenn"
+    ],
+    "text_joined": "Ch. 1: The Hunter Phenn"
+  },
+  {
+    "id": 90373,
+    "text": [
+      "Ch. 2: The Young Boy Basil"
+    ],
+    "text_joined": "Ch. 2: The Young Boy Basil"
+  },
+  {
+    "id": 90374,
+    "text": [
+      "Ch. 3: The Merchant Ludo"
+    ],
+    "text_joined": "Ch. 3: The Merchant Ludo"
+  },
+  {
+    "id": 90375,
+    "text": [
+      "Ch. 4: The Cleric Laurana"
+    ],
+    "text_joined": "Ch. 4: The Cleric Laurana"
+  },
+  {
+    "id": 90376,
+    "text": [
+      "Ch. 5: <chara_name>"
+    ],
+    "text_joined": "Ch. 5: <chara_name>"
+  },
+  {
+    "id": 90377,
+    "text": [
+      "Ch. 1: The Covetous Witch"
+    ],
+    "text_joined": "Ch. 1: The Covetous Witch"
+  },
+  {
+    "id": 90378,
+    "text": [
+      "Ch. 2: A Flower Blooms"
+    ],
+    "text_joined": "Ch. 2: A Flower Blooms"
+  },
+  {
+    "id": 90379,
+    "text": [
+      "Ch. 3: Herminia the Huntress"
+    ],
+    "text_joined": "Ch. 3: Herminia the Huntress"
+  },
+  {
+    "id": 90380,
+    "text": [
+      "Ch. 1: The Scarlet Tyrant"
+    ],
+    "text_joined": "Ch. 1: The Scarlet Tyrant"
+  },
+  {
+    "id": 90381,
+    "text": [
+      "Ch. 2: A Dream of Snow"
+    ],
+    "text_joined": "Ch. 2: A Dream of Snow"
+  },
+  {
+    "id": 90382,
+    "text": [
+      "Ch. 3: Tytos the Thunderblade"
+    ],
+    "text_joined": "Ch. 3: Tytos the Thunderblade"
+  },
+  {
+    "id": 90383,
+    "text": [
+      "Ch. 1: The Genius Playwright"
+    ],
+    "text_joined": "Ch. 1: The Genius Playwright"
+  },
+  {
+    "id": 90384,
+    "text": [
+      "Ch. 2: Fit for a Tragedy"
+    ],
+    "text_joined": "Ch. 2: Fit for a Tragedy"
+  },
+  {
+    "id": 90385,
+    "text": [
+      "Ch. 3: Auguste, Prince of Thieves"
+    ],
+    "text_joined": "Ch. 3: Auguste, Prince of Thieves"
+  },
+  {
+    "id": 90386,
+    "text": [
+      "Finale: The Rings Sealed Away"
+    ],
+    "text_joined": "Finale: The Rings Sealed Away"
+  },
+  {
+    "id": 90387,
+    "text": [
+      "Ch. 1: King Pardis III"
+    ],
+    "text_joined": "Ch. 1: King Pardis III"
+  },
+  {
+    "id": 90388,
+    "text": [
+      "Ch. 2: General Mahrez"
+    ],
+    "text_joined": "Ch. 2: General Mahrez"
+  },
+  {
+    "id": 90389,
+    "text": [
+      "Ch. 3: Charles the Traveler"
+    ],
+    "text_joined": "Ch. 3: Charles the Traveler"
+  },
+  {
+    "id": 90390,
+    "text": [
+      "Ch. 4: Wise King Solon"
+    ],
+    "text_joined": "Ch. 4: Wise King Solon"
+  },
+  {
+    "id": 90391,
+    "text": [
+      "Ch. 5: El the Swordsman"
+    ],
+    "text_joined": "Ch. 5: El the Swordsman"
+  },
+  {
+    "id": 90392,
+    "text": [
+      "Ch. 6: Princess Elrica"
+    ],
+    "text_joined": "Ch. 6: Princess Elrica"
+  },
+  {
+    "id": 90393,
+    "text": [
+      "Ch. 7: Princess Alaune"
+    ],
+    "text_joined": "Ch. 7: Princess Alaune"
+  },
+  {
+    "id": 90394,
+    "text": [
+      "Ch. 8: Pardis the Scholarking"
+    ],
+    "text_joined": "Ch. 8: Pardis the Scholarking"
+  },
+  {
+    "id": 90395,
+    "text": [
+      "Finale: Trial of the Ring"
+    ],
+    "text_joined": "Finale: Trial of the Ring"
+  },
+  {
+    "id": 90396,
+    "text": [
+      "Prologue: The Witch's Fortune"
+    ],
+    "text_joined": "Prologue: The Witch's Fortune"
+  },
+  {
+    "id": 90397,
+    "text": [
+      "Ch. 1: The Have-Not"
+    ],
+    "text_joined": "Ch. 1: The Have-Not"
+  },
+  {
+    "id": 90398,
+    "text": [
+      "Ch. 2: Fool's Gold"
+    ],
+    "text_joined": "Ch. 2: Fool's Gold"
+  },
+  {
+    "id": 90399,
+    "text": [
+      "Ch. 3: Oskha the Trader"
+    ],
+    "text_joined": "Ch. 3: Oskha the Trader"
+  },
+  {
+    "id": 90400,
+    "text": [
+      "Prologue: Empress from Abroad"
+    ],
+    "text_joined": "Prologue: Empress from Abroad"
+  },
+  {
+    "id": 90401,
+    "text": [
+      "Ch. 1: The One That Lays Waste"
+    ],
+    "text_joined": "Ch. 1: The One That Lays Waste"
+  },
+  {
+    "id": 90402,
+    "text": [
+      "Ch. 2: To Protect What Is Dear"
+    ],
+    "text_joined": "Ch. 2: To Protect What Is Dear"
+  },
+  {
+    "id": 90403,
+    "text": [
+      "Ch. 3: Tatloch the Lady of Grace"
+    ],
+    "text_joined": "Ch. 3: Tatloch the Lady of Grace"
+  },
+  {
+    "id": 90404,
+    "text": [
+      "Prologue: The Shadow Apostate"
+    ],
+    "text_joined": "Prologue: The Shadow Apostate"
+  },
+  {
+    "id": 90405,
+    "text": [
+      "Ch. 1: A New God"
+    ],
+    "text_joined": "Ch. 1: A New God"
+  },
+  {
+    "id": 90406,
+    "text": [
+      "Ch. 2: Sacred Ashes"
+    ],
+    "text_joined": "Ch. 2: Sacred Ashes"
+  },
+  {
+    "id": 90407,
+    "text": [
+      "Ch. 3: Ceraphina the Charitable"
+    ],
+    "text_joined": "Ch. 3: Ceraphina the Charitable"
+  },
+  {
+    "id": 90408,
+    "text": [
+      "Finale: Bestower of All"
+    ],
+    "text_joined": "Finale: Bestower of All"
+  },
+  {
+    "id": 90622,
+    "text": [
+      "Prologue: The Black Flame"
+    ],
+    "text_joined": "Prologue: The Black Flame"
+  },
+  {
+    "id": 90409,
+    "text": [
+      "Ch. 1: Hell"
+    ],
+    "text_joined": "Ch. 1: Hell"
+  },
+  {
+    "id": 90410,
+    "text": [
+      "Ch. 2: Hill of the Dead"
+    ],
+    "text_joined": "Ch. 2: Hill of the Dead"
+  },
+  {
+    "id": 90411,
+    "text": [
+      "Ch. 3: Castle of the Hollow Queen"
+    ],
+    "text_joined": "Ch. 3: Castle of the Hollow Queen"
+  },
+  {
+    "id": 90412,
+    "text": [
+      "Ch. 4: A Nation Frozen in Time"
+    ],
+    "text_joined": "Ch. 4: A Nation Frozen in Time"
+  },
+  {
+    "id": 90413,
+    "text": [
+      "Ch. 5: The Gate of Finis"
+    ],
+    "text_joined": "Ch. 5: The Gate of Finis"
+  },
+  {
+    "id": 90414,
+    "text": [
+      "Ch. 6: Precipice of Loss"
+    ],
+    "text_joined": "Ch. 6: Precipice of Loss"
+  },
+  {
+    "id": 90415,
+    "text": [
+      "Ch. 7: Sazantos"
+    ],
+    "text_joined": "Ch. 7: Sazantos"
+  },
+  {
+    "id": 90416,
+    "text": [
+      "Ch. 8: At Journey's End"
+    ],
+    "text_joined": "Ch. 8: At Journey's End"
+  },
+  {
+    "id": 90417,
+    "text": [
+      "An Encounter with Viator"
+    ],
+    "text_joined": "An Encounter with Viator"
+  },
+  {
+    "id": 90418,
+    "text": [
+      "An Encounter with Reime"
+    ],
+    "text_joined": "An Encounter with Reime"
+  },
+  {
+    "id": 90419,
+    "text": [
+      "An Encounter with Carinda"
+    ],
+    "text_joined": "An Encounter with Carinda"
+  },
+  {
+    "id": 90420,
+    "text": [
+      "An Encounter with Celsus"
+    ],
+    "text_joined": "An Encounter with Celsus"
+  },
+  {
+    "id": 90421,
+    "text": [
+      "Heidne and the Man-Eating Miser"
+    ],
+    "text_joined": "Heidne and the Man-Eating Miser"
+  },
+  {
+    "id": 90422,
+    "text": [
+      "An Encounter with Esperre"
+    ],
+    "text_joined": "An Encounter with Esperre"
+  },
+  {
+    "id": 90423,
+    "text": [
+      "An Encounter with Macy"
+    ],
+    "text_joined": "An Encounter with Macy"
+  },
+  {
+    "id": 90424,
+    "text": [
+      "An Encounter with Delitia"
+    ],
+    "text_joined": "An Encounter with Delitia"
+  },
+  {
+    "id": 90425,
+    "text": [
+      "An Encounter with Pius"
+    ],
+    "text_joined": "An Encounter with Pius"
+  },
+  {
+    "id": 90426,
+    "text": [
+      "An Encounter with Xerc"
+    ],
+    "text_joined": "An Encounter with Xerc"
+  },
+  {
+    "id": 90427,
+    "text": [
+      "An Encounter with Alexia"
+    ],
+    "text_joined": "An Encounter with Alexia"
+  },
+  {
+    "id": 90428,
+    "text": [
+      "An Encounter with Goodwin"
+    ],
+    "text_joined": "An Encounter with Goodwin"
+  },
+  {
+    "id": 90429,
+    "text": [
+      "An Encounter with Saoirse"
+    ],
+    "text_joined": "An Encounter with Saoirse"
+  },
+  {
+    "id": 90430,
+    "text": [
+      "An Encounter with Olberic"
+    ],
+    "text_joined": "An Encounter with Olberic"
+  },
+  {
+    "id": 90431,
+    "text": [
+      "An Encounter with Tressa"
+    ],
+    "text_joined": "An Encounter with Tressa"
+  },
+  {
+    "id": 90432,
+    "text": [
+      "An Encounter with Therion"
+    ],
+    "text_joined": "An Encounter with Therion"
+  },
+  {
+    "id": 90433,
+    "text": [
+      "An Encounter with Alfyn"
+    ],
+    "text_joined": "An Encounter with Alfyn"
+  },
+  {
+    "id": 90434,
+    "text": [
+      "An Encounter with H'aanit"
+    ],
+    "text_joined": "An Encounter with H'aanit"
+  },
+  {
+    "id": 90435,
+    "text": [
+      "An Encounter with Ophilia"
+    ],
+    "text_joined": "An Encounter with Ophilia"
+  },
+  {
+    "id": 90436,
+    "text": [
+      "An Encounter with Cyrus"
+    ],
+    "text_joined": "An Encounter with Cyrus"
+  },
+  {
+    "id": 90437,
+    "text": [
+      "An Encounter with Primrose"
+    ],
+    "text_joined": "An Encounter with Primrose"
+  },
+  {
+    "id": 90438,
+    "text": [
+      "The Sage Beckons"
+    ],
+    "text_joined": "The Sage Beckons"
+  },
+  {
+    "id": 90440,
+    "text": [
+      "Rekindling the Flame Pt. 1"
+    ],
+    "text_joined": "Rekindling the Flame Pt. 1"
+  },
+  {
+    "id": 90441,
+    "text": [
+      "Rekindling the Flame Pt. 2"
+    ],
+    "text_joined": "Rekindling the Flame Pt. 2"
+  },
+  {
+    "id": 90442,
+    "text": [
+      "Rekindling the Flame Pt. 3"
+    ],
+    "text_joined": "Rekindling the Flame Pt. 3"
+  },
+  {
+    "id": 90443,
+    "text": [
+      "Rekindling the Flame Pt. 4"
+    ],
+    "text_joined": "Rekindling the Flame Pt. 4"
+  },
+  {
+    "id": 90444,
+    "text": [
+      "Rekindling the Flame Pt. 5"
+    ],
+    "text_joined": "Rekindling the Flame Pt. 5"
+  },
+  {
+    "id": 90445,
+    "text": [
+      "The Queen Orsa"
+    ],
+    "text_joined": "The Queen Orsa"
+  },
+  {
+    "id": 90446,
+    "text": [
+      "The Hidden Isle"
+    ],
+    "text_joined": "The Hidden Isle"
+  },
+  {
+    "id": 90447,
+    "text": [
+      "The Monster Arena"
+    ],
+    "text_joined": "The Monster Arena"
+  },
+  {
+    "id": 90448,
+    "text": [
+      "One's True Worth"
+    ],
+    "text_joined": "One's True Worth"
+  },
+  {
+    "id": 90449,
+    "text": [
+      "The Eight Sacred Treasures"
+    ],
+    "text_joined": "The Eight Sacred Treasures"
+  },
+  {
+    "id": 90450,
+    "text": [
+      "A Long-Lost Love"
+    ],
+    "text_joined": "A Long-Lost Love"
+  },
+  {
+    "id": 90451,
+    "text": [
+      "The Missing Brother"
+    ],
+    "text_joined": "The Missing Brother"
+  },
+  {
+    "id": 90452,
+    "text": [
+      "An Assistant Like No Other"
+    ],
+    "text_joined": "An Assistant Like No Other"
+  },
+  {
+    "id": 90453,
+    "text": [
+      "Great Expectations"
+    ],
+    "text_joined": "Great Expectations"
+  },
+  {
+    "id": 90454,
+    "text": [
+      "An Indestructible Flame"
+    ],
+    "text_joined": "An Indestructible Flame"
+  },
+  {
+    "id": 90455,
+    "text": [
+      "What Remains of the Black Scarlet"
+    ],
+    "text_joined": "What Remains of the Black Scarlet"
+  },
+  {
+    "id": 90456,
+    "text": [
+      "The Blade of the Weak"
+    ],
+    "text_joined": "The Blade of the Weak"
+  },
+  {
+    "id": 90457,
+    "text": [
+      "Donescu's Successor"
+    ],
+    "text_joined": "Donescu's Successor"
+  },
+  {
+    "id": 90458,
+    "text": [
+      "Truth of the Departed"
+    ],
+    "text_joined": "Truth of the Departed"
+  },
+  {
+    "id": 90459,
+    "text": [
+      "A Father's Love"
+    ],
+    "text_joined": "A Father's Love"
+  },
+  {
+    "id": 90460,
+    "text": [
+      "To Lift the Town's Spirits"
+    ],
+    "text_joined": "To Lift the Town's Spirits"
+  },
+  {
+    "id": 90461,
+    "text": [
+      "A Clan's Pride"
+    ],
+    "text_joined": "A Clan's Pride"
+  },
+  {
+    "id": 90462,
+    "text": [
+      "In Search of What Remains"
+    ],
+    "text_joined": "In Search of What Remains"
+  },
+  {
+    "id": 90463,
+    "text": [
+      "The Last Cask"
+    ],
+    "text_joined": "The Last Cask"
+  },
+  {
+    "id": 90464,
+    "text": [
+      "The Freezing Cold"
+    ],
+    "text_joined": "The Freezing Cold"
+  },
+  {
+    "id": 90465,
+    "text": [
+      "Ticket Woes"
+    ],
+    "text_joined": "Ticket Woes"
+  },
+  {
+    "id": 90466,
+    "text": [
+      "A Stubborn Master"
+    ],
+    "text_joined": "A Stubborn Master"
+  },
+  {
+    "id": 90467,
+    "text": [
+      "The Rarest of Eggs"
+    ],
+    "text_joined": "The Rarest of Eggs"
+  },
+  {
+    "id": 90468,
+    "text": [
+      "The Big 'Un"
+    ],
+    "text_joined": "The Big 'Un"
+  },
+  {
+    "id": 90469,
+    "text": [
+      "A Unique Figurine"
+    ],
+    "text_joined": "A Unique Figurine"
+  },
+  {
+    "id": 90470,
+    "text": [
+      "Alpaca Roundup"
+    ],
+    "text_joined": "Alpaca Roundup"
+  },
+  {
+    "id": 90471,
+    "text": [
+      "Fetching Soulstones"
+    ],
+    "text_joined": "Fetching Soulstones"
+  },
+  {
+    "id": 90472,
+    "text": [
+      "A Complete Collection"
+    ],
+    "text_joined": "A Complete Collection"
+  },
+  {
+    "id": 90473,
+    "text": [
+      "An Un-Fur-gettable Reunion"
+    ],
+    "text_joined": "An Un-Fur-gettable Reunion"
+  },
+  {
+    "id": 90474,
+    "text": [
+      "Books Overdue"
+    ],
+    "text_joined": "Books Overdue"
+  },
+  {
+    "id": 90475,
+    "text": [
+      "Unnatural Tremors"
+    ],
+    "text_joined": "Unnatural Tremors"
+  },
+  {
+    "id": 90476,
+    "text": [
+      "Upon hearing a bard's song in the tavern, a swordsman appears before <chara_name>. He possesses the same key they hold and invites them to join him on his journey..."
+    ],
+    "text_joined": "Upon hearing a bard's song in the tavern, a swordsman appears before <chara_name>. He possesses the same key they hold and invites them to join him on his journey..."
+  },
+  {
+    "id": 90477,
+    "text": [
+      "Near the arena, <chara_name> encounters Delvecchio, the syndicate member they clashed with in Victors Hollow and who is now part of the Bargello family. With no hesitation, he volunteers <chara_name> to take on the strongest of warriors..."
+    ],
+    "text_joined": "Near the arena, <chara_name> encounters Delvecchio, the syndicate member they clashed with in Victors Hollow and who is now part of the Bargello family. With no hesitation, he volunteers <chara_name> to take on the strongest of warriors..."
+  },
+  {
+    "id": 90478,
+    "text": [
+      "Donescu—a nation ravaged by barbarians. Amidst the widespread devastation, a carefree and cheerful woman suddenly appears, as if to drive away the despair that envelops the region."
+    ],
+    "text_joined": "Donescu—a nation ravaged by barbarians. Amidst the widespread devastation, a carefree and cheerful woman suddenly appears, as if to drive away the despair that envelops the region."
+  },
+  {
+    "id": 90479,
+    "text": [
+      "Celsus, the muscle hired by the tavern on the outskirts of Valore, renders even the most rowdy patrons speechless with his knife-throwing skills."
+    ],
+    "text_joined": "Celsus, the muscle hired by the tavern on the outskirts of Valore, renders even the most rowdy patrons speechless with his knife-throwing skills."
+  },
+  {
+    "id": 90480,
+    "text": [
+      "Heidne decides to confront her father Vaughner, a slave trader known as the Man-Eating Miser, and makes her way to his hideout. Their long-standing feud is finally about to reach its conclusion."
+    ],
+    "text_joined": "Heidne decides to confront her father Vaughner, a slave trader known as the Man-Eating Miser, and makes her way to his hideout. Their long-standing feud is finally about to reach its conclusion."
+  },
+  {
+    "id": 90481,
+    "text": [
+      "In the white sands of Sufrataljah dwell monsters unseen in other lands. There, <chara_name> meets a young man carrying an apothecary's bag."
+    ],
+    "text_joined": "In the white sands of Sufrataljah dwell monsters unseen in other lands. There, <chara_name> meets a young man carrying an apothecary's bag."
+  },
+  {
+    "id": 90482,
+    "text": [
+      "A young boy has fallen ill in the snowy town of Emberglow. There, <chara_name> meets an apothecary who is prepared to do everything in her power to see that he is cured."
+    ],
+    "text_joined": "A young boy has fallen ill in the snowy town of Emberglow. There, <chara_name> meets an apothecary who is prepared to do everything in her power to see that he is cured."
+  },
+  {
+    "id": 90483,
+    "text": [
+      "A woman arrives in the snowy town of Emberglow, donned in clothing unsuitable for the cold. Who is this mysterious figure and where did she come from...?"
+    ],
+    "text_joined": "A woman arrives in the snowy town of Emberglow, donned in clothing unsuitable for the cold. Who is this mysterious figure and where did she come from...?"
+  },
+  {
+    "id": 90484,
+    "text": [
+      "In Cragspear, <chara_name> meets a familiar face from their childhood days: the cleric Pius. He wishes to accompany <chara_name> to visit their mother's grave. However..."
+    ],
+    "text_joined": "In Cragspear, <chara_name> meets a familiar face from their childhood days: the cleric Pius. He wishes to accompany <chara_name> to visit their mother's grave. However..."
+  },
+  {
+    "id": 90485,
+    "text": [
+      "The scholar Xerc is willing to spend whatever it takes for his soulstone research, much to the dismay of his assistant, Athessa—the one responsible for procuring the funds. Now he has his sights set on a certain item at auction..."
+    ],
+    "text_joined": "The scholar Xerc is willing to spend whatever it takes for his soulstone research, much to the dismay of his assistant, Athessa—the one responsible for procuring the funds. Now he has his sights set on a certain item at auction..."
+  },
+  {
+    "id": 90486,
+    "text": [
+      "In the Theatropolis library, a woman frantically wades through their collection of books, but what is it she is searching for...?"
+    ],
+    "text_joined": "In the Theatropolis library, a woman frantically wades through their collection of books, but what is it she is searching for...?"
+  },
+  {
+    "id": 90487,
+    "text": [
+      "On a remote isle in the middle of a sea, a starving man longs for food..."
+    ],
+    "text_joined": "On a remote isle in the middle of a sea, a starving man longs for food..."
+  },
+  {
+    "id": 90488,
+    "text": [
+      "The songstress Saoirse is ready to take the stage in the Theatropolis Amphitheatre. As the curtains are about to rise, she prompts <chara_name> to join her without any time to rehearse..."
+    ],
+    "text_joined": "The songstress Saoirse is ready to take the stage in the Theatropolis Amphitheatre. As the curtains are about to rise, she prompts <chara_name> to join her without any time to rehearse..."
+  },
+  {
+    "id": 90489,
+    "text": [
+      "In a manse in Shepherds Rock, a young man lets out a troubled sigh. What could be bothering this well-dressed youth?"
+    ],
+    "text_joined": "In a manse in Shepherds Rock, a young man lets out a troubled sigh. What could be bothering this well-dressed youth?"
+  },
+  {
+    "id": 90490,
+    "text": [
+      "Tressa, the daughter of a Rippletide merchant, is about to make a delivery for her father who has strained his back. <chara_name> decides to join her as her bodyguard as she prepares to make her way to Theatropolis."
+    ],
+    "text_joined": "Tressa, the daughter of a Rippletide merchant, is about to make a delivery for her father who has strained his back. <chara_name> decides to join her as her bodyguard as she prepares to make her way to Theatropolis."
+  },
+  {
+    "id": 90491,
+    "text": [
+      "In Cragspear, a necklace said to ward off pickpockets is all the rage, with many believing in its effects without a doubt. Perhaps it is worth a close look."
+    ],
+    "text_joined": "In Cragspear, a necklace said to ward off pickpockets is all the rage, with many believing in its effects without a doubt. Perhaps it is worth a close look."
+  },
+  {
+    "id": 90492,
+    "text": [
+      "An unlucky encounter has <chara_name> covered in poison. Just then, Alfyn appears and extends an invitation to his home in Clearbrook where he says he can offer treatment."
+    ],
+    "text_joined": "An unlucky encounter has <chara_name> covered in poison. Just then, Alfyn appears and extends an invitation to his home in Clearbrook where he says he can offer treatment."
+  },
+  {
+    "id": 90493,
+    "text": [
+      "The hunter H'aanit loves nothing more than to hunt big game with her partner Linde—and Linde alone. But her master asks <chara_name> to accompany her to defeat a ferocious monster so that she may learn a valuable lesson."
+    ],
+    "text_joined": "The hunter H'aanit loves nothing more than to hunt big game with her partner Linde—and Linde alone. But her master asks <chara_name> to accompany her to defeat a ferocious monster so that she may learn a valuable lesson."
+  },
+  {
+    "id": 90494,
+    "text": [
+      "The cleric Ophilia is the daughter of the archbishop of Flamesgrace and loves her family with all her heart. One day, a man claiming to be her real father appears before her..."
+    ],
+    "text_joined": "The cleric Ophilia is the daughter of the archbishop of Flamesgrace and loves her family with all her heart. One day, a man claiming to be her real father appears before her..."
+  },
+  {
+    "id": 90495,
+    "text": [
+      "In the Atlasdam Flats, a middle-aged man is offering a reward for anyone who can defeat the ferocious monster that's taken the lives of many travelers..."
+    ],
+    "text_joined": "In the Atlasdam Flats, a middle-aged man is offering a reward for anyone who can defeat the ferocious monster that's taken the lives of many travelers..."
+  },
+  {
+    "id": 90496,
+    "text": [
+      "Primrose is the most popular dancer in Sunshade, with many patrons drawn to her mysterious charm..."
+    ],
+    "text_joined": "Primrose is the most popular dancer in Sunshade, with many patrons drawn to her mysterious charm..."
+  },
+  {
+    "id": 90497,
+    "text": [
+      "Scraps of paper are scattered around Orsterra. <chara_name> gathers them and puts them back together to discover what appears to be an invitation. <chara_name> decides to accept and soon finds themselves on a mysterious island..."
+    ],
+    "text_joined": "Scraps of paper are scattered around Orsterra. <chara_name> gathers them and puts them back together to discover what appears to be an invitation. <chara_name> decides to accept and soon finds themselves on a mysterious island..."
+  },
+  {
+    "id": 90499,
+    "text": [
+      "It seems someone is living in the old shack in the North Theatropolis Plains. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+    ],
+    "text_joined": "It seems someone is living in the old shack in the North Theatropolis Plains. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+  },
+  {
+    "id": 90500,
+    "text": [
+      "Rumor has it some former residents of Wishvale currently reside in Rippletide. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+    ],
+    "text_joined": "Rumor has it some former residents of Wishvale currently reside in Rippletide. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+  },
+  {
+    "id": 90501,
+    "text": [
+      "Rumor has it some former residents of Wishvale currently reside in Cragspear. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+    ],
+    "text_joined": "Rumor has it some former residents of Wishvale currently reside in Cragspear. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+  },
+  {
+    "id": 90502,
+    "text": [
+      "It seems a traveler visiting Ludo's shop heard a rumor about one of the town's survivors. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+    ],
+    "text_joined": "It seems a traveler visiting Ludo's shop heard a rumor about one of the town's survivors. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+  },
+  {
+    "id": 90503,
+    "text": [
+      "Rumor has it some former residents of Wishvale currently reside in Shepherds Rock. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+    ],
+    "text_joined": "Rumor has it some former residents of Wishvale currently reside in Shepherds Rock. Perhaps pursuing this lead will help facilitate the restoration of Wishvale."
+  },
+  {
+    "id": 90504,
+    "text": [
+      "In Rippletide, a man standing on the pier looks forlornly at the damaged ship before him. What do his somber eyes see...and feel?"
+    ],
+    "text_joined": "In Rippletide, a man standing on the pier looks forlornly at the damaged ship before him. What do his somber eyes see...and feel?"
+  },
+  {
+    "id": 90505,
+    "text": [
+      "A mysterious voice echoes throughout the Heavens and guides <chara_name> to the place where the rings were once sealed."
+    ],
+    "text_joined": "A mysterious voice echoes throughout the Heavens and guides <chara_name> to the place where the rings were once sealed."
+  },
+  {
+    "id": 90506,
+    "text": [
+      "Restoration efforts wind down as Wishvale is transformed into a bustling town. One day, a gentleman visiting the town proposes a plan for a new facility—a monster arena."
+    ],
+    "text_joined": "Restoration efforts wind down as Wishvale is transformed into a bustling town. One day, a gentleman visiting the town proposes a plan for a new facility—a monster arena."
+  },
+  {
+    "id": 90507,
+    "text": [
+      "After escaping from slavers, a young boy named Phil begs for someone to rescue his father whom he left behind. Save the young boy's father and reunite the family."
+    ],
+    "text_joined": "After escaping from slavers, a young boy named Phil begs for someone to rescue his father whom he left behind. Save the young boy's father and reunite the family."
+  },
+  {
+    "id": 90508,
+    "text": [
+      "The inscrutable tower has finally been discovered. What mysteries lie within?"
+    ],
+    "text_joined": "The inscrutable tower has finally been discovered. What mysteries lie within?"
+  },
+  {
+    "id": 90509,
+    "text": [
+      "Ludo once had a love with whom he parted ways after a huge quarrel. Listen to Karan's story, and aim to learn more about her."
+    ],
+    "text_joined": "Ludo once had a love with whom he parted ways after a huge quarrel. Listen to Karan's story, and aim to learn more about her."
+  },
+  {
+    "id": 90510,
+    "text": [
+      "It seems Delitia's brother has been spotted in Atlasdam. Visit the town and seek him out."
+    ],
+    "text_joined": "It seems Delitia's brother has been spotted in Atlasdam. Visit the town and seek him out."
+  },
+  {
+    "id": 90511,
+    "text": [
+      "In Atlasdam, Xerc's assistant, Athessa, has made arrangements to allow the professor to perform his research on the gargantuan soulstone. Will her hard work pay off?"
+    ],
+    "text_joined": "In Atlasdam, Xerc's assistant, Athessa, has made arrangements to allow the professor to perform his research on the gargantuan soulstone. Will her hard work pay off?"
+  },
+  {
+    "id": 90512,
+    "text": [
+      "After deciphering an ancient text, Alexia makes her way to Berecain to uncover the truth..."
+    ],
+    "text_joined": "After deciphering an ancient text, Alexia makes her way to Berecain to uncover the truth..."
+  },
+  {
+    "id": 90513,
+    "text": [
+      "Sazantos visits Agapea to cleanse his dark blade, the Demon Blade Fisteralda. However, he learns the ritual requires them to call upon the Sacred Flame..."
+    ],
+    "text_joined": "Sazantos visits Agapea to cleanse his dark blade, the Demon Blade Fisteralda. However, he learns the ritual requires them to call upon the Sacred Flame..."
+  },
+  {
+    "id": 90514,
+    "text": [
+      "Bishop Tarset, who was discovered to have been colluding with Tytos, is imprisoned for his crime. One day, he is visited by his old friend Pius..."
+    ],
+    "text_joined": "Bishop Tarset, who was discovered to have been colluding with Tytos, is imprisoned for his crime. One day, he is visited by his old friend Pius..."
+  },
+  {
+    "id": 90515,
+    "text": [
+      "A gang of pirates in the Middlesea is causing trouble for local merchants. Go with Viator to take care of the problem."
+    ],
+    "text_joined": "A gang of pirates in the Middlesea is causing trouble for local merchants. Go with Viator to take care of the problem."
+  },
+  {
+    "id": 90516,
+    "text": [
+      "To re-establish an independent government in Donescu, Richard believes King Dudek's nephew is key and asks <chara_name> to find him. Search for clues to his whereabouts with Carinda, who has ties with the town in which he currently resides."
+    ],
+    "text_joined": "To re-establish an independent government in Donescu, Richard believes King Dudek's nephew is key and asks <chara_name> to find him. Search for clues to his whereabouts with Carinda, who has ties with the town in which he currently resides."
+  },
+  {
+    "id": 90517,
+    "text": [
+      "A fallen man roams the slums of Hell's Cragspear, while a woman in the slums of Cragspear is tormented by nightmares. There seems to be some sort of connection, but what?"
+    ],
+    "text_joined": "A fallen man roams the slums of Hell's Cragspear, while a woman in the slums of Cragspear is tormented by nightmares. There seems to be some sort of connection, but what?"
+  },
+  {
+    "id": 90518,
+    "text": [
+      "In Valore, a young hunter chats with Celsus, an old friend of his late father. It seems there was bad blood between the boy and his father, a former syndicate member..."
+    ],
+    "text_joined": "In Valore, a young hunter chats with Celsus, an old friend of his late father. It seems there was bad blood between the boy and his father, a former syndicate member..."
+  },
+  {
+    "id": 90519,
+    "text": [
+      "The people of Donescu have experienced great suffering and loss, and many have lost their will to live. Surely there is something that can be done to lift their spirits."
+    ],
+    "text_joined": "The people of Donescu have experienced great suffering and loss, and many have lost their will to live. Surely there is something that can be done to lift their spirits."
+  },
+  {
+    "id": 90520,
+    "text": [
+      "The Asul clan pride themselves on living in harmony with nature. Macy, on the other hand, wishes they would allow her to treat them with her medicine..."
+    ],
+    "text_joined": "The Asul clan pride themselves on living in harmony with nature. Macy, on the other hand, wishes they would allow her to treat them with her medicine..."
+  },
+  {
+    "id": 90521,
+    "text": [
+      "Within the remains of Tatloch's ship, which was destroyed in the Middlesea, there is said to be a valuable treasure..."
+    ],
+    "text_joined": "Within the remains of Tatloch's ship, which was destroyed in the Middlesea, there is said to be a valuable treasure..."
+  },
+  {
+    "id": 90522,
+    "text": [
+      "In Valore, a distiller of brandy looks to sell his last cask to someone who appreciates fine liquor."
+    ],
+    "text_joined": "In Valore, a distiller of brandy looks to sell his last cask to someone who appreciates fine liquor."
+  },
+  {
+    "id": 90523,
+    "text": [
+      "A compassionate daughter cares for her father, who was left physically disabled. He longs for the return of his son who left town to become a trader."
+    ],
+    "text_joined": "A compassionate daughter cares for her father, who was left physically disabled. He longs for the return of his son who left town to become a trader."
+  },
+  {
+    "id": 90524,
+    "text": [
+      "Tickets to Auguste's memorial play are sold out, leaving one woman despondent. Where could she possibly get her hands on one now?"
+    ],
+    "text_joined": "Tickets to Auguste's memorial play are sold out, leaving one woman despondent. Where could she possibly get her hands on one now?"
+  },
+  {
+    "id": 90525,
+    "text": [
+      "A master fisherman is in search of an apprentice, but his high standards make for slim pickings..."
+    ],
+    "text_joined": "A master fisherman is in search of an apprentice, but his high standards make for slim pickings..."
+  },
+  {
+    "id": 90526,
+    "text": [
+      "A wealthy gourmand is in search of a great chef. Who can cook up the eggs of a rare bird in a dish that's a feast for the eyes as well as the stomach?"
+    ],
+    "text_joined": "A wealthy gourmand is in search of a great chef. Who can cook up the eggs of a rare bird in a dish that's a feast for the eyes as well as the stomach?"
+  },
+  {
+    "id": 90527,
+    "text": [
+      "A man has been trying to reel in the big 'un for years. It seems a special kind of bait is required for this special catch."
+    ],
+    "text_joined": "A man has been trying to reel in the big 'un for years. It seems a special kind of bait is required for this special catch."
+  },
+  {
+    "id": 90528,
+    "text": [
+      "<chara_name> obtains an item whose purpose is unknown. Is there anyone who would want such a peculiar ornament...?"
+    ],
+    "text_joined": "<chara_name> obtains an item whose purpose is unknown. Is there anyone who would want such a peculiar ornament...?"
+  },
+  {
+    "id": 90529,
+    "text": [
+      "A sheep farmer has lost his new herd of alpacas. Help the man round them up to put his mind at ease."
+    ],
+    "text_joined": "A sheep farmer has lost his new herd of alpacas. Help the man round them up to put his mind at ease."
+  },
+  {
+    "id": 90530,
+    "text": [
+      "A Knight Ardante is having a difficult time shoveling the icy snow along the pilgrimage roads. Perhaps he could use some help."
+    ],
+    "text_joined": "A Knight Ardante is having a difficult time shoveling the icy snow along the pilgrimage roads. Perhaps he could use some help."
+  },
+  {
+    "id": 90531,
+    "text": [
+      "A man is eager to collect all ten arena medals awarded only to the greatest of gladiators. Who possesses the final, precious medal of his collection?"
+    ],
+    "text_joined": "A man is eager to collect all ten arena medals awarded only to the greatest of gladiators. Who possesses the final, precious medal of his collection?"
+  },
+  {
+    "id": 90532,
+    "text": [
+      "In Grandport, a forlorn cat meows woefully as she longs to see a certain someone."
+    ],
+    "text_joined": "In Grandport, a forlorn cat meows woefully as she longs to see a certain someone."
+  },
+  {
+    "id": 90533,
+    "text": [
+      "Three books belonging to the Atlasdam library are overdue. The librarian, Mercedes, wants them returned and asks <chara_name> to track them down."
+    ],
+    "text_joined": "Three books belonging to the Atlasdam library are overdue. The librarian, Mercedes, wants them returned and asks <chara_name> to track them down."
+  },
+  {
+    "id": 90534,
+    "text": [
+      "The frequent earthquakes occurring in Berecain have one man anxious and uneasy. Perhaps tracking down the cause will put his mind at ease."
+    ],
+    "text_joined": "The frequent earthquakes occurring in Berecain have one man anxious and uneasy. Perhaps tracking down the cause will put his mind at ease."
+  },
+  {
+    "id": 90621,
+    "text": [
+      "To Whom the Rings Belong"
+    ],
+    "text_joined": "To Whom the Rings Belong"
+  },
+  {
+    "id": 90535,
+    "text": [
+      "New Companions"
+    ],
+    "text_joined": "New Companions"
+  },
+  {
+    "id": 90536,
+    "text": [
+      "An Important Quality for a King"
+    ],
+    "text_joined": "An Important Quality for a King"
+  },
+  {
+    "id": 90537,
+    "text": [
+      "A Kinship with Viator"
+    ],
+    "text_joined": "A Kinship with Viator"
+  },
+  {
+    "id": 90538,
+    "text": [
+      "A Kinship with Reime"
+    ],
+    "text_joined": "A Kinship with Reime"
+  },
+  {
+    "id": 90539,
+    "text": [
+      "A Kinship with Ludo"
+    ],
+    "text_joined": "A Kinship with Ludo"
+  },
+  {
+    "id": 90540,
+    "text": [
+      "A Kinship with Carinda"
+    ],
+    "text_joined": "A Kinship with Carinda"
+  },
+  {
+    "id": 90541,
+    "text": [
+      "A Kinship with Celsus"
+    ],
+    "text_joined": "A Kinship with Celsus"
+  },
+  {
+    "id": 90542,
+    "text": [
+      "A Kinship with Heidne"
+    ],
+    "text_joined": "A Kinship with Heidne"
+  },
+  {
+    "id": 90543,
+    "text": [
+      "A Kinship with Esperre"
+    ],
+    "text_joined": "A Kinship with Esperre"
+  },
+  {
+    "id": 90544,
+    "text": [
+      "A Kinship with Macy"
+    ],
+    "text_joined": "A Kinship with Macy"
+  },
+  {
+    "id": 90545,
+    "text": [
+      "A Kinship with Phenn"
+    ],
+    "text_joined": "A Kinship with Phenn"
+  },
+  {
+    "id": 90546,
+    "text": [
+      "A Kinship with Delitia"
+    ],
+    "text_joined": "A Kinship with Delitia"
+  },
+  {
+    "id": 90547,
+    "text": [
+      "A Kinship with Pius"
+    ],
+    "text_joined": "A Kinship with Pius"
+  },
+  {
+    "id": 90548,
+    "text": [
+      "A Kinship with Laurana"
+    ],
+    "text_joined": "A Kinship with Laurana"
+  },
+  {
+    "id": 90549,
+    "text": [
+      "A Kinship with Xerc"
+    ],
+    "text_joined": "A Kinship with Xerc"
+  },
+  {
+    "id": 90550,
+    "text": [
+      "A Kinship with Alexia"
+    ],
+    "text_joined": "A Kinship with Alexia"
+  },
+  {
+    "id": 90551,
+    "text": [
+      "A Kinship with Goodwin"
+    ],
+    "text_joined": "A Kinship with Goodwin"
+  },
+  {
+    "id": 90552,
+    "text": [
+      "A Kinship with Saoirse"
+    ],
+    "text_joined": "A Kinship with Saoirse"
+  },
+  {
+    "id": 90553,
+    "text": [
+      "A Kinship with Olberic"
+    ],
+    "text_joined": "A Kinship with Olberic"
+  },
+  {
+    "id": 90554,
+    "text": [
+      "A Kinship with Tressa"
+    ],
+    "text_joined": "A Kinship with Tressa"
+  },
+  {
+    "id": 90555,
+    "text": [
+      "A Kinship with Therion"
+    ],
+    "text_joined": "A Kinship with Therion"
+  },
+  {
+    "id": 90556,
+    "text": [
+      "A Kinship with Alfyn"
+    ],
+    "text_joined": "A Kinship with Alfyn"
+  },
+  {
+    "id": 90557,
+    "text": [
+      "A Kinship with H'aanit"
+    ],
+    "text_joined": "A Kinship with H'aanit"
+  },
+  {
+    "id": 90558,
+    "text": [
+      "A Kinship with Ophilia"
+    ],
+    "text_joined": "A Kinship with Ophilia"
+  },
+  {
+    "id": 90559,
+    "text": [
+      "A Kinship with Cyrus"
+    ],
+    "text_joined": "A Kinship with Cyrus"
+  },
+  {
+    "id": 90560,
+    "text": [
+      "A Kinship with Primrose"
+    ],
+    "text_joined": "A Kinship with Primrose"
+  },
+  {
+    "id": 90561,
+    "text": [
+      "A Kinship with Bargello"
+    ],
+    "text_joined": "A Kinship with Bargello"
+  },
+  {
+    "id": 90562,
+    "text": [
+      "A Kinship with Alaune"
+    ],
+    "text_joined": "A Kinship with Alaune"
+  },
+  {
+    "id": 90563,
+    "text": [
+      "A Kinship with Richard"
+    ],
+    "text_joined": "A Kinship with Richard"
+  },
+  {
+    "id": 90564,
+    "text": [
+      "A Kinship with Solon"
+    ],
+    "text_joined": "A Kinship with Solon"
+  },
+  {
+    "id": 90565,
+    "text": [
+      "A Kinship with Eltrix"
+    ],
+    "text_joined": "A Kinship with Eltrix"
+  },
+  {
+    "id": 90566,
+    "text": [
+      "A Kinship with Rondo"
+    ],
+    "text_joined": "A Kinship with Rondo"
+  },
+  {
+    "id": 90567,
+    "text": [
+      "A Kinship with Tatloch"
+    ],
+    "text_joined": "A Kinship with Tatloch"
+  },
+  {
+    "id": 90568,
+    "text": [
+      "A Kinship with Stia"
+    ],
+    "text_joined": "A Kinship with Stia"
+  },
+  {
+    "id": 90569,
+    "text": [
+      "A Kinship with Sazantos"
+    ],
+    "text_joined": "A Kinship with Sazantos"
+  },
+  {
+    "id": 90570,
+    "text": [
+      "A Kinship with Isla"
+    ],
+    "text_joined": "A Kinship with Isla"
+  },
+  {
+    "id": 90571,
+    "text": [
+      "Tending Wounds"
+    ],
+    "text_joined": "Tending Wounds"
+  },
+  {
+    "id": 90572,
+    "text": [
+      "Interests of a Scholar"
+    ],
+    "text_joined": "Interests of a Scholar"
+  },
+  {
+    "id": 90573,
+    "text": [
+      "Protection Against the Cold"
+    ],
+    "text_joined": "Protection Against the Cold"
+  },
+  {
+    "id": 90574,
+    "text": [
+      "One's Talents"
+    ],
+    "text_joined": "One's Talents"
+  },
+  {
+    "id": 90575,
+    "text": [
+      "The Mystery of Saoirse's Song"
+    ],
+    "text_joined": "The Mystery of Saoirse's Song"
+  },
+  {
+    "id": 90576,
+    "text": [
+      "Aiding the Gods"
+    ],
+    "text_joined": "Aiding the Gods"
+  },
+  {
+    "id": 90577,
+    "text": [
+      "A Forgotten Memory"
+    ],
+    "text_joined": "A Forgotten Memory"
+  },
+  {
+    "id": 90578,
+    "text": [
+      "An Unexpected Treasure"
+    ],
+    "text_joined": "An Unexpected Treasure"
+  },
+  {
+    "id": 90579,
+    "text": [
+      "For the Future of Wishvale"
+    ],
+    "text_joined": "For the Future of Wishvale"
+  },
+  {
+    "id": 90580,
+    "text": [
+      "A Love for Alpacas"
+    ],
+    "text_joined": "A Love for Alpacas"
+  },
+  {
+    "id": 90581,
+    "text": [
+      "An Earnest Apothecary"
+    ],
+    "text_joined": "An Earnest Apothecary"
+  },
+  {
+    "id": 90582,
+    "text": [
+      "Heidne's Shortcoming"
+    ],
+    "text_joined": "Heidne's Shortcoming"
+  },
+  {
+    "id": 90583,
+    "text": [
+      "Xerc's Experiment"
+    ],
+    "text_joined": "Xerc's Experiment"
+  },
+  {
+    "id": 90584,
+    "text": [
+      "Show Me Your Smile"
+    ],
+    "text_joined": "Show Me Your Smile"
+  },
+  {
+    "id": 90585,
+    "text": [
+      "The Shipwreck King and Treasure"
+    ],
+    "text_joined": "The Shipwreck King and Treasure"
+  },
+  {
+    "id": 90586,
+    "text": [
+      "Welcome, Caits"
+    ],
+    "text_joined": "Welcome, Caits"
+  },
+  {
+    "id": 90587,
+    "text": [
+      "A Swordsman's Wisdom"
+    ],
+    "text_joined": "A Swordsman's Wisdom"
+  },
+  {
+    "id": 90588,
+    "text": [
+      "A Merchant's Wisdom"
+    ],
+    "text_joined": "A Merchant's Wisdom"
+  },
+  {
+    "id": 90589,
+    "text": [
+      "A Thief's Wisdom"
+    ],
+    "text_joined": "A Thief's Wisdom"
+  },
+  {
+    "id": 90590,
+    "text": [
+      "An Apothecary's Wisdom"
+    ],
+    "text_joined": "An Apothecary's Wisdom"
+  },
+  {
+    "id": 90591,
+    "text": [
+      "A Hunter's Wisdom"
+    ],
+    "text_joined": "A Hunter's Wisdom"
+  },
+  {
+    "id": 90592,
+    "text": [
+      "A Cleric's Wisdom"
+    ],
+    "text_joined": "A Cleric's Wisdom"
+  },
+  {
+    "id": 90593,
+    "text": [
+      "A Scholar's Wisdom"
+    ],
+    "text_joined": "A Scholar's Wisdom"
+  },
+  {
+    "id": 90594,
+    "text": [
+      "A Dancer's Wisdom"
+    ],
+    "text_joined": "A Dancer's Wisdom"
+  },
+  {
+    "id": 90595,
+    "text": [
+      "A Gift"
+    ],
+    "text_joined": "A Gift"
+  },
+  {
+    "id": 90596,
+    "text": [
+      "A Second Home"
+    ],
+    "text_joined": "A Second Home"
+  },
+  {
+    "id": 90597,
+    "text": [
+      "A Remedy for Stiffness"
+    ],
+    "text_joined": "A Remedy for Stiffness"
+  },
+  {
+    "id": 90598,
+    "text": [
+      "A Ring's Master"
+    ],
+    "text_joined": "A Ring's Master"
+  },
+  {
+    "id": 90599,
+    "text": [
+      "Hand in Hand"
+    ],
+    "text_joined": "Hand in Hand"
+  },
+  {
+    "id": 90600,
+    "text": [
+      "Brother and Sister"
+    ],
+    "text_joined": "Brother and Sister"
+  },
+  {
+    "id": 90601,
+    "text": [
+      "A True Contest"
+    ],
+    "text_joined": "A True Contest"
+  },
+  {
+    "id": 90602,
+    "text": [
+      "A Kingdom of Sheep"
+    ],
+    "text_joined": "A Kingdom of Sheep"
+  },
+  {
+    "id": 90603,
+    "text": [
+      "Dark Secrets of the Order"
+    ],
+    "text_joined": "Dark Secrets of the Order"
+  },
+  {
+    "id": 90604,
+    "text": [
+      "The Strange House"
+    ],
+    "text_joined": "The Strange House"
+  },
+  {
+    "id": 90605,
+    "text": [
+      "The Ring's Tale"
+    ],
+    "text_joined": "The Ring's Tale"
+  },
+  {
+    "id": 90606,
+    "text": [
+      "Marriage Is..."
+    ],
+    "text_joined": "Marriage Is..."
+  },
+  {
+    "id": 90607,
+    "text": [
+      "Different Hobbies"
+    ],
+    "text_joined": "Different Hobbies"
+  },
+  {
+    "id": 90608,
+    "text": [
+      "A Song from Home"
+    ],
+    "text_joined": "A Song from Home"
+  },
+  {
+    "id": 90609,
+    "text": [
+      "The \"Wish\" in Wishvale"
+    ],
+    "text_joined": "The \"Wish\" in Wishvale"
+  },
+  {
+    "id": 90610,
+    "text": [
+      "The Resilient Shipwreck King"
+    ],
+    "text_joined": "The Resilient Shipwreck King"
+  },
+  {
+    "id": 90611,
+    "text": [
+      "Reclaiming the Future"
+    ],
+    "text_joined": "Reclaiming the Future"
+  },
+  {
+    "id": 90612,
+    "text": [
+      "Exploring the Heavens"
+    ],
+    "text_joined": "Exploring the Heavens"
+  },
+  {
+    "id": 90613,
+    "text": [
+      "Remembering the Past"
+    ],
+    "text_joined": "Remembering the Past"
+  },
+  {
+    "id": 90614,
+    "text": [
+      "A Path of Your Own"
+    ],
+    "text_joined": "A Path of Your Own"
+  },
+  {
+    "id": 90615,
+    "text": [
+      "Under the Rings' Control"
+    ],
+    "text_joined": "Under the Rings' Control"
+  },
+  {
+    "id": 90616,
+    "text": [
+      "May the Light Shine Upon Orsterra"
+    ],
+    "text_joined": "May the Light Shine Upon Orsterra"
+  },
+  {
+    "id": 90617,
+    "text": [
+      "A True Paradise"
+    ],
+    "text_joined": "A True Paradise"
+  },
+  {
+    "id": 90618,
+    "text": [
+      "His Perfect World"
+    ],
+    "text_joined": "His Perfect World"
+  },
+  {
+    "id": 90619,
+    "text": [
+      "Letten Us Go Forth"
+    ],
+    "text_joined": "Letten Us Go Forth"
+  },
+  {
+    "id": 90620,
+    "text": [
+      "Resolve"
+    ],
+    "text_joined": "Resolve"
+  }
+]

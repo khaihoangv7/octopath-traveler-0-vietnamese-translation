@@ -1,0 +1,3667 @@
+[
+  {
+    "id": 100020,
+    "text": [
+      "Facilities"
+    ],
+    "text_joined": "Facilities"
+  },
+  {
+    "id": 100030,
+    "text": [
+      "Man-Made Decorations"
+    ],
+    "text_joined": "Man-Made Decorations"
+  },
+  {
+    "id": 100040,
+    "text": [
+      "Natural Decorations"
+    ],
+    "text_joined": "Natural Decorations"
+  },
+  {
+    "id": 100045,
+    "text": [
+      "Decorations (Special)"
+    ],
+    "text_joined": "Decorations (Special)"
+  },
+  {
+    "id": 100060,
+    "text": [
+      "Ground Tiles"
+    ],
+    "text_joined": "Ground Tiles"
+  },
+  {
+    "id": 100065,
+    "text": [
+      "Residents"
+    ],
+    "text_joined": "Residents"
+  },
+  {
+    "id": 100070,
+    "text": [
+      "開発用",
+      "開発用",
+      "開発用",
+      "開発用",
+      "開発用",
+      "開発用",
+      "開発用",
+      "開発用",
+      "開発用",
+      "開発用",
+      "開発用",
+      "開発用"
+    ],
+    "text_joined": "開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用"
+  },
+  {
+    "id": 901093,
+    "text": [
+      "Grade"
+    ],
+    "text_joined": "Grade"
+  },
+  {
+    "id": 901057,
+    "text": [
+      "I"
+    ],
+    "text_joined": "I"
+  },
+  {
+    "id": 901058,
+    "text": [
+      "II"
+    ],
+    "text_joined": "II"
+  },
+  {
+    "id": 901059,
+    "text": [
+      "III"
+    ],
+    "text_joined": "III"
+  },
+  {
+    "id": 901091,
+    "text": [
+      "Size"
+    ],
+    "text_joined": "Size"
+  },
+  {
+    "id": 901092,
+    "text": [
+      "{0}×{1}"
+    ],
+    "text_joined": "{0}×{1}"
+  },
+  {
+    "id": 901094,
+    "text": [
+      "Other Features"
+    ],
+    "text_joined": "Other Features"
+  },
+  {
+    "id": 901095,
+    "text": [
+      "Select a style."
+    ],
+    "text_joined": "Select a style."
+  },
+  {
+    "id": 901099,
+    "text": [
+      "Outside"
+    ],
+    "text_joined": "Outside"
+  },
+  {
+    "id": 901151,
+    "text": [
+      "Placed: {0}/{1}"
+    ],
+    "text_joined": "Placed: {0}/{1}"
+  },
+  {
+    "id": 13,
+    "text": [
+      "Grass"
+    ],
+    "text_joined": "Grass"
+  },
+  {
+    "id": 14,
+    "text": [
+      "Dirt"
+    ],
+    "text_joined": "Dirt"
+  },
+  {
+    "id": 15,
+    "text": [
+      "Cobblestone"
+    ],
+    "text_joined": "Cobblestone"
+  },
+  {
+    "id": 116,
+    "text": [
+      "White Cobblestone"
+    ],
+    "text_joined": "White Cobblestone"
+  },
+  {
+    "id": 117,
+    "text": [
+      "Sand"
+    ],
+    "text_joined": "Sand"
+  },
+  {
+    "id": 118,
+    "text": [
+      "White Sand"
+    ],
+    "text_joined": "White Sand"
+  },
+  {
+    "id": 119,
+    "text": [
+      "Yellow Cobblestone"
+    ],
+    "text_joined": "Yellow Cobblestone"
+  },
+  {
+    "id": 120,
+    "text": [
+      "Snow"
+    ],
+    "text_joined": "Snow"
+  },
+  {
+    "id": 121,
+    "text": [
+      "Volcanic Soil"
+    ],
+    "text_joined": "Volcanic Soil"
+  },
+  {
+    "id": 122,
+    "text": [
+      "Fan Motif Cobblestone"
+    ],
+    "text_joined": "Fan Motif Cobblestone"
+  },
+  {
+    "id": 11000,
+    "text": [
+      "Workshop"
+    ],
+    "text_joined": "Workshop"
+  },
+  {
+    "id": 11001,
+    "text": [
+      "Hub"
+    ],
+    "text_joined": "Hub"
+  },
+  {
+    "id": 11028,
+    "text": [
+      "Shop"
+    ],
+    "text_joined": "Shop"
+  },
+  {
+    "id": 11031,
+    "text": [
+      "Church"
+    ],
+    "text_joined": "Church"
+  },
+  {
+    "id": 11055,
+    "text": [
+      "Sacred Flame Dais"
+    ],
+    "text_joined": "Sacred Flame Dais"
+  },
+  {
+    "id": 11058,
+    "text": [
+      "Ranch"
+    ],
+    "text_joined": "Ranch"
+  },
+  {
+    "id": 11618,
+    "text": [
+      "Training Ground"
+    ],
+    "text_joined": "Training Ground"
+  },
+  {
+    "id": 11064,
+    "text": [
+      "Salon"
+    ],
+    "text_joined": "Salon"
+  },
+  {
+    "id": 11067,
+    "text": [
+      "Museum"
+    ],
+    "text_joined": "Museum"
+  },
+  {
+    "id": 11070,
+    "text": [
+      "Strange House"
+    ],
+    "text_joined": "Strange House"
+  },
+  {
+    "id": 11073,
+    "text": [
+      "Monster Arena"
+    ],
+    "text_joined": "Monster Arena"
+  },
+  {
+    "id": 11076,
+    "text": [
+      "Fields"
+    ],
+    "text_joined": "Fields"
+  },
+  {
+    "id": 11081,
+    "text": [
+      "House"
+    ],
+    "text_joined": "House"
+  },
+  {
+    "id": 11089,
+    "text": [
+      "House (Large)"
+    ],
+    "text_joined": "House (Large)"
+  },
+  {
+    "id": 11097,
+    "text": [
+      "House (Grand)"
+    ],
+    "text_joined": "House (Grand)"
+  },
+  {
+    "id": 11101,
+    "text": [
+      "Fresh Foods Stall"
+    ],
+    "text_joined": "Fresh Foods Stall"
+  },
+  {
+    "id": 11102,
+    "text": [
+      "Antiques Stall"
+    ],
+    "text_joined": "Antiques Stall"
+  },
+  {
+    "id": 11103,
+    "text": [
+      "Firewood Rack"
+    ],
+    "text_joined": "Firewood Rack"
+  },
+  {
+    "id": 11104,
+    "text": [
+      "Windmill"
+    ],
+    "text_joined": "Windmill"
+  },
+  {
+    "id": 12001,
+    "text": [
+      "Well"
+    ],
+    "text_joined": "Well"
+  },
+  {
+    "id": 12003,
+    "text": [
+      "Fountain"
+    ],
+    "text_joined": "Fountain"
+  },
+  {
+    "id": 12004,
+    "text": [
+      "Small Fountain"
+    ],
+    "text_joined": "Small Fountain"
+  },
+  {
+    "id": 12005,
+    "text": [
+      "Grand Fountain"
+    ],
+    "text_joined": "Grand Fountain"
+  },
+  {
+    "id": 12201,
+    "text": [
+      "Lavish Fountain"
+    ],
+    "text_joined": "Lavish Fountain"
+  },
+  {
+    "id": 12006,
+    "text": [
+      "Decorative Stone Marker"
+    ],
+    "text_joined": "Decorative Stone Marker"
+  },
+  {
+    "id": 12007,
+    "text": [
+      "Simple Vase"
+    ],
+    "text_joined": "Simple Vase"
+  },
+  {
+    "id": 12202,
+    "text": [
+      "Lavish Vase"
+    ],
+    "text_joined": "Lavish Vase"
+  },
+  {
+    "id": 12203,
+    "text": [
+      "Tall Vase"
+    ],
+    "text_joined": "Tall Vase"
+  },
+  {
+    "id": 12204,
+    "text": [
+      "Flower Pot"
+    ],
+    "text_joined": "Flower Pot"
+  },
+  {
+    "id": 12205,
+    "text": [
+      "Ceramic Vase"
+    ],
+    "text_joined": "Ceramic Vase"
+  },
+  {
+    "id": 12206,
+    "text": [
+      "Porcelain Vase"
+    ],
+    "text_joined": "Porcelain Vase"
+  },
+  {
+    "id": 12009,
+    "text": [
+      "Bench"
+    ],
+    "text_joined": "Bench"
+  },
+  {
+    "id": 12010,
+    "text": [
+      "Table"
+    ],
+    "text_joined": "Table"
+  },
+  {
+    "id": 12013,
+    "text": [
+      "Chair"
+    ],
+    "text_joined": "Chair"
+  },
+  {
+    "id": 12015,
+    "text": [
+      "Barrel (Vertical)"
+    ],
+    "text_joined": "Barrel (Vertical)"
+  },
+  {
+    "id": 12016,
+    "text": [
+      "Barrel (Horizontal)"
+    ],
+    "text_joined": "Barrel (Horizontal)"
+  },
+  {
+    "id": 12017,
+    "text": [
+      "Piled Barrels"
+    ],
+    "text_joined": "Piled Barrels"
+  },
+  {
+    "id": 12018,
+    "text": [
+      "Wooden Crate"
+    ],
+    "text_joined": "Wooden Crate"
+  },
+  {
+    "id": 12019,
+    "text": [
+      "Piled Wooden Crates"
+    ],
+    "text_joined": "Piled Wooden Crates"
+  },
+  {
+    "id": 12020,
+    "text": [
+      "Pot"
+    ],
+    "text_joined": "Pot"
+  },
+  {
+    "id": 12021,
+    "text": [
+      "Large Pot"
+    ],
+    "text_joined": "Large Pot"
+  },
+  {
+    "id": 12022,
+    "text": [
+      "Rope"
+    ],
+    "text_joined": "Rope"
+  },
+  {
+    "id": 12023,
+    "text": [
+      "Bottle"
+    ],
+    "text_joined": "Bottle"
+  },
+  {
+    "id": 12024,
+    "text": [
+      "Large Bottle"
+    ],
+    "text_joined": "Large Bottle"
+  },
+  {
+    "id": 12025,
+    "text": [
+      "Sandbag"
+    ],
+    "text_joined": "Sandbag"
+  },
+  {
+    "id": 12026,
+    "text": [
+      "Piled Sandbags"
+    ],
+    "text_joined": "Piled Sandbags"
+  },
+  {
+    "id": 12027,
+    "text": [
+      "Firewood"
+    ],
+    "text_joined": "Firewood"
+  },
+  {
+    "id": 12028,
+    "text": [
+      "Clothesline"
+    ],
+    "text_joined": "Clothesline"
+  },
+  {
+    "id": 12029,
+    "text": [
+      "Western Clothesline"
+    ],
+    "text_joined": "Western Clothesline"
+  },
+  {
+    "id": 12030,
+    "text": [
+      "Beast Pelt"
+    ],
+    "text_joined": "Beast Pelt"
+  },
+  {
+    "id": 12031,
+    "text": [
+      "Bulletin Board"
+    ],
+    "text_joined": "Bulletin Board"
+  },
+  {
+    "id": 12033,
+    "text": [
+      "Cart"
+    ],
+    "text_joined": "Cart"
+  },
+  {
+    "id": 12207,
+    "text": [
+      "Wagon"
+    ],
+    "text_joined": "Wagon"
+  },
+  {
+    "id": 12209,
+    "text": [
+      "Stagecoach"
+    ],
+    "text_joined": "Stagecoach"
+  },
+  {
+    "id": 12210,
+    "text": [
+      "Basket of Eggs"
+    ],
+    "text_joined": "Basket of Eggs"
+  },
+  {
+    "id": 12211,
+    "text": [
+      "Basket of Grapes"
+    ],
+    "text_joined": "Basket of Grapes"
+  },
+  {
+    "id": 12212,
+    "text": [
+      "Basket of Red Apples"
+    ],
+    "text_joined": "Basket of Red Apples"
+  },
+  {
+    "id": 12213,
+    "text": [
+      "Basket of Green Apples"
+    ],
+    "text_joined": "Basket of Green Apples"
+  },
+  {
+    "id": 12044,
+    "text": [
+      "Food Basket"
+    ],
+    "text_joined": "Food Basket"
+  },
+  {
+    "id": 12215,
+    "text": [
+      "Bag of Onions"
+    ],
+    "text_joined": "Bag of Onions"
+  },
+  {
+    "id": 12216,
+    "text": [
+      "Bag of Apples"
+    ],
+    "text_joined": "Bag of Apples"
+  },
+  {
+    "id": 12217,
+    "text": [
+      "Bag of Bread"
+    ],
+    "text_joined": "Bag of Bread"
+  },
+  {
+    "id": 12046,
+    "text": [
+      "Chicken Run"
+    ],
+    "text_joined": "Chicken Run"
+  },
+  {
+    "id": 12047,
+    "text": [
+      "Crate of Bottles"
+    ],
+    "text_joined": "Crate of Bottles"
+  },
+  {
+    "id": 12048,
+    "text": [
+      "Game Hoist"
+    ],
+    "text_joined": "Game Hoist"
+  },
+  {
+    "id": 12049,
+    "text": [
+      "Crate of Crabs"
+    ],
+    "text_joined": "Crate of Crabs"
+  },
+  {
+    "id": 12050,
+    "text": [
+      "Gladiator Statue (Left)"
+    ],
+    "text_joined": "Gladiator Statue (Left)"
+  },
+  {
+    "id": 12150,
+    "text": [
+      "Gladiator Statue (Right)"
+    ],
+    "text_joined": "Gladiator Statue (Right)"
+  },
+  {
+    "id": 12051,
+    "text": [
+      "Theatrical Statue (Left)"
+    ],
+    "text_joined": "Theatrical Statue (Left)"
+  },
+  {
+    "id": 12151,
+    "text": [
+      "Theatrical Statue (Right)"
+    ],
+    "text_joined": "Theatrical Statue (Right)"
+  },
+  {
+    "id": 12052,
+    "text": [
+      "Angel Statue (Left)"
+    ],
+    "text_joined": "Angel Statue (Left)"
+  },
+  {
+    "id": 12152,
+    "text": [
+      "Angel Statue (Right)"
+    ],
+    "text_joined": "Angel Statue (Right)"
+  },
+  {
+    "id": 12053,
+    "text": [
+      "Pardis Statue"
+    ],
+    "text_joined": "Pardis Statue"
+  },
+  {
+    "id": 12054,
+    "text": [
+      "Westerling Statue"
+    ],
+    "text_joined": "Westerling Statue"
+  },
+  {
+    "id": 12055,
+    "text": [
+      "Sacred Beast Statue (Left)"
+    ],
+    "text_joined": "Sacred Beast Statue (Left)"
+  },
+  {
+    "id": 12155,
+    "text": [
+      "Sacred Beast Statue (Right)"
+    ],
+    "text_joined": "Sacred Beast Statue (Right)"
+  },
+  {
+    "id": 12056,
+    "text": [
+      "Snowman"
+    ],
+    "text_joined": "Snowman"
+  },
+  {
+    "id": 12232,
+    "text": [
+      "Flag of Victors Hollow"
+    ],
+    "text_joined": "Flag of Victors Hollow"
+  },
+  {
+    "id": 12057,
+    "text": [
+      "Flag of Theatropolis"
+    ],
+    "text_joined": "Flag of Theatropolis"
+  },
+  {
+    "id": 12058,
+    "text": [
+      "Flag of Wold"
+    ],
+    "text_joined": "Flag of Wold"
+  },
+  {
+    "id": 12059,
+    "text": [
+      "Flag of Emberglow"
+    ],
+    "text_joined": "Flag of Emberglow"
+  },
+  {
+    "id": 12060,
+    "text": [
+      "Flag of Grandport"
+    ],
+    "text_joined": "Flag of Grandport"
+  },
+  {
+    "id": 12061,
+    "text": [
+      "Grandport Naval Flag"
+    ],
+    "text_joined": "Grandport Naval Flag"
+  },
+  {
+    "id": 12062,
+    "text": [
+      "Flag of Edoras"
+    ],
+    "text_joined": "Flag of Edoras"
+  },
+  {
+    "id": 12063,
+    "text": [
+      "Flag of Altinia"
+    ],
+    "text_joined": "Flag of Altinia"
+  },
+  {
+    "id": 12064,
+    "text": [
+      "Flag of Riven"
+    ],
+    "text_joined": "Flag of Riven"
+  },
+  {
+    "id": 12065,
+    "text": [
+      "Bonfire"
+    ],
+    "text_joined": "Bonfire"
+  },
+  {
+    "id": 12066,
+    "text": [
+      "Stone Bonfire"
+    ],
+    "text_joined": "Stone Bonfire"
+  },
+  {
+    "id": 12415,
+    "text": [
+      "Decorated Streetlight"
+    ],
+    "text_joined": "Decorated Streetlight"
+  },
+  {
+    "id": 12416,
+    "text": [
+      "Eerie Streetlight"
+    ],
+    "text_joined": "Eerie Streetlight"
+  },
+  {
+    "id": 12073,
+    "text": [
+      "Sword Display"
+    ],
+    "text_joined": "Sword Display"
+  },
+  {
+    "id": 12074,
+    "text": [
+      "Bow Display"
+    ],
+    "text_joined": "Bow Display"
+  },
+  {
+    "id": 12075,
+    "text": [
+      "Axe Display"
+    ],
+    "text_joined": "Axe Display"
+  },
+  {
+    "id": 12076,
+    "text": [
+      "Polearm Display"
+    ],
+    "text_joined": "Polearm Display"
+  },
+  {
+    "id": 12077,
+    "text": [
+      "Shield Display"
+    ],
+    "text_joined": "Shield Display"
+  },
+  {
+    "id": 12078,
+    "text": [
+      "Helm Display"
+    ],
+    "text_joined": "Helm Display"
+  },
+  {
+    "id": 12079,
+    "text": [
+      "Armor Display"
+    ],
+    "text_joined": "Armor Display"
+  },
+  {
+    "id": 12080,
+    "text": [
+      "Barrel of Weapons"
+    ],
+    "text_joined": "Barrel of Weapons"
+  },
+  {
+    "id": 12081,
+    "text": [
+      "Weapon Rack"
+    ],
+    "text_joined": "Weapon Rack"
+  },
+  {
+    "id": 12082,
+    "text": [
+      "Barricade"
+    ],
+    "text_joined": "Barricade"
+  },
+  {
+    "id": 12083,
+    "text": [
+      "Wooden Fence"
+    ],
+    "text_joined": "Wooden Fence"
+  },
+  {
+    "id": 12084,
+    "text": [
+      "Ranch Fence"
+    ],
+    "text_joined": "Ranch Fence"
+  },
+  {
+    "id": 12085,
+    "text": [
+      "Rope Fence"
+    ],
+    "text_joined": "Rope Fence"
+  },
+  {
+    "id": 12086,
+    "text": [
+      "Log Fence"
+    ],
+    "text_joined": "Log Fence"
+  },
+  {
+    "id": 12087,
+    "text": [
+      "Stone Railing"
+    ],
+    "text_joined": "Stone Railing"
+  },
+  {
+    "id": 12088,
+    "text": [
+      "Stone Fence"
+    ],
+    "text_joined": "Stone Fence"
+  },
+  {
+    "id": 12233,
+    "text": [
+      "Metal Fence"
+    ],
+    "text_joined": "Metal Fence"
+  },
+  {
+    "id": 12235,
+    "text": [
+      "Sundries Bag"
+    ],
+    "text_joined": "Sundries Bag"
+  },
+  {
+    "id": 12236,
+    "text": [
+      "Flower Bouquet"
+    ],
+    "text_joined": "Flower Bouquet"
+  },
+  {
+    "id": 12417,
+    "text": [
+      "Ornate Cobblestone"
+    ],
+    "text_joined": "Ornate Cobblestone"
+  },
+  {
+    "id": 12418,
+    "text": [
+      "Big Ornate Cobblestone"
+    ],
+    "text_joined": "Big Ornate Cobblestone"
+  },
+  {
+    "id": 12419,
+    "text": [
+      "Church Motif Cobblestone"
+    ],
+    "text_joined": "Church Motif Cobblestone"
+  },
+  {
+    "id": 12420,
+    "text": [
+      "Big Church Motif Cobblestone"
+    ],
+    "text_joined": "Big Church Motif Cobblestone"
+  },
+  {
+    "id": 12421,
+    "text": [
+      "Desert Motif Cobblestone"
+    ],
+    "text_joined": "Desert Motif Cobblestone"
+  },
+  {
+    "id": 12422,
+    "text": [
+      "Cobbles"
+    ],
+    "text_joined": "Cobbles"
+  },
+  {
+    "id": 12095,
+    "text": [
+      "Conifer Tree"
+    ],
+    "text_joined": "Conifer Tree"
+  },
+  {
+    "id": 12096,
+    "text": [
+      "Snowy Conifer Tree"
+    ],
+    "text_joined": "Snowy Conifer Tree"
+  },
+  {
+    "id": 12098,
+    "text": [
+      "Large Hardwood Tree"
+    ],
+    "text_joined": "Large Hardwood Tree"
+  },
+  {
+    "id": 12099,
+    "text": [
+      "Grand Hardwood Tree"
+    ],
+    "text_joined": "Grand Hardwood Tree"
+  },
+  {
+    "id": 12100,
+    "text": [
+      "Hardwood Tree"
+    ],
+    "text_joined": "Hardwood Tree"
+  },
+  {
+    "id": 12101,
+    "text": [
+      "Cactus"
+    ],
+    "text_joined": "Cactus"
+  },
+  {
+    "id": 12102,
+    "text": [
+      "Barren Tree"
+    ],
+    "text_joined": "Barren Tree"
+  },
+  {
+    "id": 12103,
+    "text": [
+      "Bush"
+    ],
+    "text_joined": "Bush"
+  },
+  {
+    "id": 12104,
+    "text": [
+      "Large Bush"
+    ],
+    "text_joined": "Large Bush"
+  },
+  {
+    "id": 12106,
+    "text": [
+      "Underbrush"
+    ],
+    "text_joined": "Underbrush"
+  },
+  {
+    "id": 12107,
+    "text": [
+      "Brushwood"
+    ],
+    "text_joined": "Brushwood"
+  },
+  {
+    "id": 12108,
+    "text": [
+      "White Flowers"
+    ],
+    "text_joined": "White Flowers"
+  },
+  {
+    "id": 12109,
+    "text": [
+      "Purple Flowers"
+    ],
+    "text_joined": "Purple Flowers"
+  },
+  {
+    "id": 12110,
+    "text": [
+      "Blue Flowers"
+    ],
+    "text_joined": "Blue Flowers"
+  },
+  {
+    "id": 12111,
+    "text": [
+      "Yellow Flowers"
+    ],
+    "text_joined": "Yellow Flowers"
+  },
+  {
+    "id": 12112,
+    "text": [
+      "Lilac Flowers"
+    ],
+    "text_joined": "Lilac Flowers"
+  },
+  {
+    "id": 12301,
+    "text": [
+      "Red Flower Patch"
+    ],
+    "text_joined": "Red Flower Patch"
+  },
+  {
+    "id": 12302,
+    "text": [
+      "Lavender Patch"
+    ],
+    "text_joined": "Lavender Patch"
+  },
+  {
+    "id": 12303,
+    "text": [
+      "White and Purple Flower Patch"
+    ],
+    "text_joined": "White and Purple Flower Patch"
+  },
+  {
+    "id": 12113,
+    "text": [
+      "Tree Stump"
+    ],
+    "text_joined": "Tree Stump"
+  },
+  {
+    "id": 12114,
+    "text": [
+      "Log"
+    ],
+    "text_joined": "Log"
+  },
+  {
+    "id": 12115,
+    "text": [
+      "Stone Flower Bed"
+    ],
+    "text_joined": "Stone Flower Bed"
+  },
+  {
+    "id": 12412,
+    "text": [
+      "Brick Flower Bed"
+    ],
+    "text_joined": "Brick Flower Bed"
+  },
+  {
+    "id": 12413,
+    "text": [
+      "Stone Planter"
+    ],
+    "text_joined": "Stone Planter"
+  },
+  {
+    "id": 12414,
+    "text": [
+      "Brick Planter"
+    ],
+    "text_joined": "Brick Planter"
+  },
+  {
+    "id": 12304,
+    "text": [
+      "Fir Tree"
+    ],
+    "text_joined": "Fir Tree"
+  },
+  {
+    "id": 12305,
+    "text": [
+      "Exotic Tree"
+    ],
+    "text_joined": "Exotic Tree"
+  },
+  {
+    "id": 12306,
+    "text": [
+      "Rock"
+    ],
+    "text_joined": "Rock"
+  },
+  {
+    "id": 12035,
+    "text": [
+      "Eerie Statue"
+    ],
+    "text_joined": "Eerie Statue"
+  },
+  {
+    "id": 12036,
+    "text": [
+      "Silver Octopuff Statue"
+    ],
+    "text_joined": "Silver Octopuff Statue"
+  },
+  {
+    "id": 12037,
+    "text": [
+      "Gold Octopuff Statue"
+    ],
+    "text_joined": "Gold Octopuff Statue"
+  },
+  {
+    "id": 12038,
+    "text": [
+      "Silver Cait Statue"
+    ],
+    "text_joined": "Silver Cait Statue"
+  },
+  {
+    "id": 12039,
+    "text": [
+      "Gold Cait Statue"
+    ],
+    "text_joined": "Gold Cait Statue"
+  },
+  {
+    "id": 12040,
+    "text": [
+      "Silver Scales"
+    ],
+    "text_joined": "Silver Scales"
+  },
+  {
+    "id": 12041,
+    "text": [
+      "Gold Scales"
+    ],
+    "text_joined": "Gold Scales"
+  },
+  {
+    "id": 12089,
+    "text": [
+      "Tome of Records"
+    ],
+    "text_joined": "Tome of Records"
+  },
+  {
+    "id": 12091,
+    "text": [
+      "Treasure Chest"
+    ],
+    "text_joined": "Treasure Chest"
+  },
+  {
+    "id": 12410,
+    "text": [
+      "Margot's Farming Tool"
+    ],
+    "text_joined": "Margot's Farming Tool"
+  },
+  {
+    "id": 12401,
+    "text": [
+      "Silver Farming Tool"
+    ],
+    "text_joined": "Silver Farming Tool"
+  },
+  {
+    "id": 12094,
+    "text": [
+      "Gold Farming Tool"
+    ],
+    "text_joined": "Gold Farming Tool"
+  },
+  {
+    "id": 12411,
+    "text": [
+      "Margot's Food Trough"
+    ],
+    "text_joined": "Margot's Food Trough"
+  },
+  {
+    "id": 12402,
+    "text": [
+      "Silver Food Trough"
+    ],
+    "text_joined": "Silver Food Trough"
+  },
+  {
+    "id": 12403,
+    "text": [
+      "Gold Food Trough"
+    ],
+    "text_joined": "Gold Food Trough"
+  },
+  {
+    "id": 12404,
+    "text": [
+      "Harvest Box"
+    ],
+    "text_joined": "Harvest Box"
+  },
+  {
+    "id": 12405,
+    "text": [
+      "Harvest Box (Large)"
+    ],
+    "text_joined": "Harvest Box (Large)"
+  },
+  {
+    "id": 12406,
+    "text": [
+      "Harvest Box (Massive)"
+    ],
+    "text_joined": "Harvest Box (Massive)"
+  },
+  {
+    "id": 12407,
+    "text": [
+      "Storage Box"
+    ],
+    "text_joined": "Storage Box"
+  },
+  {
+    "id": 12408,
+    "text": [
+      "Storage Box (Large)"
+    ],
+    "text_joined": "Storage Box (Large)"
+  },
+  {
+    "id": 12409,
+    "text": [
+      "Storage Box (Massive)"
+    ],
+    "text_joined": "Storage Box (Massive)"
+  },
+  {
+    "id": 12539,
+    "text": [
+      "Slope"
+    ],
+    "text_joined": "Slope"
+  },
+  {
+    "id": 12423,
+    "text": [
+      "Stairs"
+    ],
+    "text_joined": "Stairs"
+  },
+  {
+    "id": 12540,
+    "text": [
+      "Slope"
+    ],
+    "text_joined": "Slope"
+  },
+  {
+    "id": 12538,
+    "text": [
+      "Stairs"
+    ],
+    "text_joined": "Stairs"
+  },
+  {
+    "id": 12541,
+    "text": [
+      "Slope"
+    ],
+    "text_joined": "Slope"
+  },
+  {
+    "id": 12542,
+    "text": [
+      "Bridge"
+    ],
+    "text_joined": "Bridge"
+  },
+  {
+    "id": 901098,
+    "text": [
+      "Rubble"
+    ],
+    "text_joined": "Rubble"
+  },
+  {
+    "id": 901100,
+    "text": [
+      "Blue Octopuff Statue"
+    ],
+    "text_joined": "Blue Octopuff Statue"
+  },
+  {
+    "id": 901101,
+    "text": [
+      "Blue Cait Statue"
+    ],
+    "text_joined": "Blue Cait Statue"
+  },
+  {
+    "id": 901104,
+    "text": [
+      "Table with Roasted Chicken"
+    ],
+    "text_joined": "Table with Roasted Chicken"
+  },
+  {
+    "id": 901105,
+    "text": [
+      "Table with a Feast"
+    ],
+    "text_joined": "Table with a Feast"
+  },
+  {
+    "id": 901106,
+    "text": [
+      "Table with Wine"
+    ],
+    "text_joined": "Table with Wine"
+  },
+  {
+    "id": 901107,
+    "text": [
+      "Table with Whiskey"
+    ],
+    "text_joined": "Table with Whiskey"
+  },
+  {
+    "id": 901108,
+    "text": [
+      "Table with Bread"
+    ],
+    "text_joined": "Table with Bread"
+  },
+  {
+    "id": 901109,
+    "text": [
+      "Festive Arch"
+    ],
+    "text_joined": "Festive Arch"
+  },
+  {
+    "id": 901110,
+    "text": [
+      "Large Festive Arch"
+    ],
+    "text_joined": "Large Festive Arch"
+  },
+  {
+    "id": 901111,
+    "text": [
+      "Festive Flag"
+    ],
+    "text_joined": "Festive Flag"
+  },
+  {
+    "id": 901112,
+    "text": [
+      "Grand Vase"
+    ],
+    "text_joined": "Grand Vase"
+  },
+  {
+    "id": 901113,
+    "text": [
+      "Large Turnip"
+    ],
+    "text_joined": "Large Turnip"
+  },
+  {
+    "id": 901114,
+    "text": [
+      "Fresh Tomatoes"
+    ],
+    "text_joined": "Fresh Tomatoes"
+  },
+  {
+    "id": 901115,
+    "text": [
+      "Fresh Potatoes"
+    ],
+    "text_joined": "Fresh Potatoes"
+  },
+  {
+    "id": 901116,
+    "text": [
+      "Mystical Bonfire"
+    ],
+    "text_joined": "Mystical Bonfire"
+  },
+  {
+    "id": 901117,
+    "text": [
+      "Mystical Plant"
+    ],
+    "text_joined": "Mystical Plant"
+  },
+  {
+    "id": 901118,
+    "text": [
+      "Large Mystical Plant"
+    ],
+    "text_joined": "Large Mystical Plant"
+  },
+  {
+    "id": 901119,
+    "text": [
+      "Shade Plant"
+    ],
+    "text_joined": "Shade Plant"
+  },
+  {
+    "id": 901120,
+    "text": [
+      "Large Shade Plant"
+    ],
+    "text_joined": "Large Shade Plant"
+  },
+  {
+    "id": 901121,
+    "text": [
+      "Mystical Vase"
+    ],
+    "text_joined": "Mystical Vase"
+  },
+  {
+    "id": 901122,
+    "text": [
+      "Tranquil Plant"
+    ],
+    "text_joined": "Tranquil Plant"
+  },
+  {
+    "id": 901123,
+    "text": [
+      "Tranquil Bonfire"
+    ],
+    "text_joined": "Tranquil Bonfire"
+  },
+  {
+    "id": 901124,
+    "text": [
+      "Herald's Horn Statue (Left)"
+    ],
+    "text_joined": "Herald's Horn Statue (Left)"
+  },
+  {
+    "id": 901125,
+    "text": [
+      "Herald's Horn Statue (Right)"
+    ],
+    "text_joined": "Herald's Horn Statue (Right)"
+  },
+  {
+    "id": 901126,
+    "text": [
+      "Sacred Candlestick"
+    ],
+    "text_joined": "Sacred Candlestick"
+  },
+  {
+    "id": 213,
+    "text": [
+      "A patch of grass that exudes a pleasant smell."
+    ],
+    "text_joined": "A patch of grass that exudes a pleasant smell."
+  },
+  {
+    "id": 214,
+    "text": [
+      "A patch of dirt that makes for a muddy play area."
+    ],
+    "text_joined": "A patch of dirt that makes for a muddy play area."
+  },
+  {
+    "id": 215,
+    "text": [
+      "A patch of paved stone that is easy to walk on, but hurts if one should fall."
+    ],
+    "text_joined": "A patch of paved stone that is easy to walk on, but hurts if one should fall."
+  },
+  {
+    "id": 316,
+    "text": [
+      "A decorative patch of paved stone that exudes a regal charm."
+    ],
+    "text_joined": "A decorative patch of paved stone that exudes a regal charm."
+  },
+  {
+    "id": 317,
+    "text": [
+      "A patch of sand that feels good on bare feet."
+    ],
+    "text_joined": "A patch of sand that feels good on bare feet."
+  },
+  {
+    "id": 318,
+    "text": [
+      "A patch of fine sand imported from Sufrataljah."
+    ],
+    "text_joined": "A patch of fine sand imported from Sufrataljah."
+  },
+  {
+    "id": 319,
+    "text": [
+      "A patch of yellow paved stone mixed with ocher from the Sunlands."
+    ],
+    "text_joined": "A patch of yellow paved stone mixed with ocher from the Sunlands."
+  },
+  {
+    "id": 320,
+    "text": [
+      "A patch of snow from the Frostlands. A bit tricky to walk across."
+    ],
+    "text_joined": "A patch of snow from the Frostlands. A bit tricky to walk across."
+  },
+  {
+    "id": 321,
+    "text": [
+      "A patch of soil from Berecain. Surprisingly good for farming."
+    ],
+    "text_joined": "A patch of soil from Berecain. Surprisingly good for farming."
+  },
+  {
+    "id": 901097,
+    "text": [
+      "A patch of paved stone with a decorative fan motif that exudes a metropolitan feel."
+    ],
+    "text_joined": "A patch of paved stone with a decorative fan motif that exudes a metropolitan feel."
+  },
+  {
+    "id": 21000,
+    "text": [
+      "The workshop built by Stia. Unlocks \"town building.\""
+    ],
+    "text_joined": "The workshop built by Stia. Unlocks \"town building.\""
+  },
+  {
+    "id": 21001,
+    "text": [
+      "The central area of Wishvale that houses the tavern and dining hall. A place where one can cook and rest."
+    ],
+    "text_joined": "The central area of Wishvale that houses the tavern and dining hall. A place where one can cook and rest."
+  },
+  {
+    "id": 21028,
+    "text": [
+      "Wishvale's one and only shop. A place where one can buy and sell various goods."
+    ],
+    "text_joined": "Wishvale's one and only shop. A place where one can buy and sell various goods."
+  },
+  {
+    "id": 21031,
+    "text": [
+      "A haven for those who pray for peace. A place where one can increase their number of helpers."
+    ],
+    "text_joined": "A haven for those who pray for peace. A place where one can increase their number of helpers."
+  },
+  {
+    "id": 21055,
+    "text": [
+      "A dais passed down through the ages. Grants a mysterious power with the use of an azure flamestone."
+    ],
+    "text_joined": "A dais passed down through the ages. Grants a mysterious power with the use of an azure flamestone."
+  },
+  {
+    "id": 21058,
+    "text": [
+      "A place to raise livestock. Yields meat and milk."
+    ],
+    "text_joined": "A place to raise livestock. Yields meat and milk."
+  },
+  {
+    "id": 21618,
+    "text": [
+      "A place to train one's body and skills. Allies not participating in battle can train here to obtain EXP and JP."
+    ],
+    "text_joined": "A place to train one's body and skills. Allies not participating in battle can train here to obtain EXP and JP."
+  },
+  {
+    "id": 21064,
+    "text": [
+      "A studio for those who want to present their best selves to the world. A place where one can change their appearance."
+    ],
+    "text_joined": "A studio for those who want to present their best selves to the world. A place where one can change their appearance."
+  },
+  {
+    "id": 21067,
+    "text": [
+      "A place filled with records, music, and decorations where one can reflect on past events."
+    ],
+    "text_joined": "A place filled with records, music, and decorations where one can reflect on past events."
+  },
+  {
+    "id": 21070,
+    "text": [
+      "A strangely shaped, oddly decorated house."
+    ],
+    "text_joined": "A strangely shaped, oddly decorated house."
+  },
+  {
+    "id": 21073,
+    "text": [
+      "A revolutionary arena where one can fight captured monsters."
+    ],
+    "text_joined": "A revolutionary arena where one can fight captured monsters."
+  },
+  {
+    "id": 21076,
+    "text": [
+      "Fields brought back to life by Basil. Can be used to plant seeds and harvest crops."
+    ],
+    "text_joined": "Fields brought back to life by Basil. Can be used to plant seeds and harvest crops."
+  },
+  {
+    "id": 21081,
+    "text": [
+      "An ordinary house for the town's residents."
+    ],
+    "text_joined": "An ordinary house for the town's residents."
+  },
+  {
+    "id": 21089,
+    "text": [
+      "A large house for the town's residents."
+    ],
+    "text_joined": "A large house for the town's residents."
+  },
+  {
+    "id": 21097,
+    "text": [
+      "A grand house for the town's residents."
+    ],
+    "text_joined": "A grand house for the town's residents."
+  },
+  {
+    "id": 21101,
+    "text": [
+      "A stall lined with foodstuffs straight from the farm."
+    ],
+    "text_joined": "A stall lined with foodstuffs straight from the farm."
+  },
+  {
+    "id": 21102,
+    "text": [
+      "A stall lined with beautiful antiques."
+    ],
+    "text_joined": "A stall lined with beautiful antiques."
+  },
+  {
+    "id": 21103,
+    "text": [
+      "A rack to store firewood. The cover keeps the wood dry."
+    ],
+    "text_joined": "A rack to store firewood. The cover keeps the wood dry."
+  },
+  {
+    "id": 21104,
+    "text": [
+      "A windmill with large sails. A necessary industrial power source."
+    ],
+    "text_joined": "A windmill with large sails. A necessary industrial power source."
+  },
+  {
+    "id": 22001,
+    "text": [
+      "A stone well complete with a bucket."
+    ],
+    "text_joined": "A stone well complete with a bucket."
+  },
+  {
+    "id": 22003,
+    "text": [
+      "A fountain that brightens up the town. A perfect place for people to sit and rest."
+    ],
+    "text_joined": "A fountain that brightens up the town. A perfect place for people to sit and rest."
+  },
+  {
+    "id": 22004,
+    "text": [
+      "A small fountain that makes for a great place to take a break."
+    ],
+    "text_joined": "A small fountain that makes for a great place to take a break."
+  },
+  {
+    "id": 22005,
+    "text": [
+      "An elaborate fountain that generates soothing sounds of flowing water."
+    ],
+    "text_joined": "An elaborate fountain that generates soothing sounds of flowing water."
+  },
+  {
+    "id": 22201,
+    "text": [
+      "An enormous and lavish fountain. A mesmerizing structure."
+    ],
+    "text_joined": "An enormous and lavish fountain. A mesmerizing structure."
+  },
+  {
+    "id": 22006,
+    "text": [
+      "A beautifully decorated stone marker suited for memorials."
+    ],
+    "text_joined": "A beautifully decorated stone marker suited for memorials."
+  },
+  {
+    "id": 22007,
+    "text": [
+      "A vase filled with flowers. A great way to brighten up the town."
+    ],
+    "text_joined": "A vase filled with flowers. A great way to brighten up the town."
+  },
+  {
+    "id": 22202,
+    "text": [
+      "An exquisite vase filled with flowers. An even better way to brighten up the town."
+    ],
+    "text_joined": "An exquisite vase filled with flowers. An even better way to brighten up the town."
+  },
+  {
+    "id": 22203,
+    "text": [
+      "A tall vase that can also be used as a flower pot. Keeps the flowers vibrant and fresh."
+    ],
+    "text_joined": "A tall vase that can also be used as a flower pot. Keeps the flowers vibrant and fresh."
+  },
+  {
+    "id": 22204,
+    "text": [
+      "A pot filled with flowers. Adds beauty to any situation."
+    ],
+    "text_joined": "A pot filled with flowers. Adds beauty to any situation."
+  },
+  {
+    "id": 22205,
+    "text": [
+      "A sturdy ceramic vase filled with flowers."
+    ],
+    "text_joined": "A sturdy ceramic vase filled with flowers."
+  },
+  {
+    "id": 22206,
+    "text": [
+      "An elegant, white porcelain vase filled with flowers."
+    ],
+    "text_joined": "An elegant, white porcelain vase filled with flowers."
+  },
+  {
+    "id": 22009,
+    "text": [
+      "A wooden bench. A nice place to take a break."
+    ],
+    "text_joined": "A wooden bench. A nice place to take a break."
+  },
+  {
+    "id": 22010,
+    "text": [
+      "A wooden table. A suitable size for a party."
+    ],
+    "text_joined": "A wooden table. A suitable size for a party."
+  },
+  {
+    "id": 22013,
+    "text": [
+      "A wooden chair. A convenient size for anyone."
+    ],
+    "text_joined": "A wooden chair. A convenient size for anyone."
+  },
+  {
+    "id": 22015,
+    "text": [
+      "A barrel made of wood. Useful for storage."
+    ],
+    "text_joined": "A barrel made of wood. Useful for storage."
+  },
+  {
+    "id": 22016,
+    "text": [
+      "A barrel made of wood. Useful for storage."
+    ],
+    "text_joined": "A barrel made of wood. Useful for storage."
+  },
+  {
+    "id": 22017,
+    "text": [
+      "A pile of wooden barrels. Great for long-term storage."
+    ],
+    "text_joined": "A pile of wooden barrels. Great for long-term storage."
+  },
+  {
+    "id": 22018,
+    "text": [
+      "A crate made of wood. Convenient for storage and transportation."
+    ],
+    "text_joined": "A crate made of wood. Convenient for storage and transportation."
+  },
+  {
+    "id": 22019,
+    "text": [
+      "A pile of wooden crates that have been stacked and forgotten."
+    ],
+    "text_joined": "A pile of wooden crates that have been stacked and forgotten."
+  },
+  {
+    "id": 22020,
+    "text": [
+      "A ceramic pot. Great for holding liquids."
+    ],
+    "text_joined": "A ceramic pot. Great for holding liquids."
+  },
+  {
+    "id": 22021,
+    "text": [
+      "A large ceramic pot. Great for storing water."
+    ],
+    "text_joined": "A large ceramic pot. Great for storing water."
+  },
+  {
+    "id": 22022,
+    "text": [
+      "A rope created from braiding tough string together. Can be used for various purposes."
+    ],
+    "text_joined": "A rope created from braiding tough string together. Can be used for various purposes."
+  },
+  {
+    "id": 22023,
+    "text": [
+      "A glass bottle that affords a clear view of the contents."
+    ],
+    "text_joined": "A glass bottle that affords a clear view of the contents."
+  },
+  {
+    "id": 22024,
+    "text": [
+      "A large glass bottle. Suitable for making wine."
+    ],
+    "text_joined": "A large glass bottle. Suitable for making wine."
+  },
+  {
+    "id": 22025,
+    "text": [
+      "A sturdy cloth bag filled with dirt. Used to control flood damage."
+    ],
+    "text_joined": "A sturdy cloth bag filled with dirt. Used to control flood damage."
+  },
+  {
+    "id": 22026,
+    "text": [
+      "A pile of sandbags. Used to further control flood damage."
+    ],
+    "text_joined": "A pile of sandbags. Used to further control flood damage."
+  },
+  {
+    "id": 22027,
+    "text": [
+      "A bundle of wood for fuel. One can never be too prepared."
+    ],
+    "text_joined": "A bundle of wood for fuel. One can never be too prepared."
+  },
+  {
+    "id": 22028,
+    "text": [
+      "A clothesline made from wood and rope. A necessary item for hanging wet clothes."
+    ],
+    "text_joined": "A clothesline made from wood and rope. A necessary item for hanging wet clothes."
+  },
+  {
+    "id": 22029,
+    "text": [
+      "A large clothesline set up on the west side to get plenty of sun."
+    ],
+    "text_joined": "A large clothesline set up on the west side to get plenty of sun."
+  },
+  {
+    "id": 22030,
+    "text": [
+      "The pelt of a beast killed by a proficient hunter. Used for cold weather gear and rugs."
+    ],
+    "text_joined": "The pelt of a beast killed by a proficient hunter. Used for cold weather gear and rugs."
+  },
+  {
+    "id": 22031,
+    "text": [
+      "The town's bulletin board posted with notices and announcements. Make sure to check it periodically so as not to miss anything important."
+    ],
+    "text_joined": "The town's bulletin board posted with notices and announcements. Make sure to check it periodically so as not to miss anything important."
+  },
+  {
+    "id": 22033,
+    "text": [
+      "A cart to transport items for agriculture and trade."
+    ],
+    "text_joined": "A cart to transport items for agriculture and trade."
+  },
+  {
+    "id": 22207,
+    "text": [
+      "A covered wagon. Horse not included."
+    ],
+    "text_joined": "A covered wagon. Horse not included."
+  },
+  {
+    "id": 22209,
+    "text": [
+      "A stagecoach that travels between towns. Horse and coachman not included."
+    ],
+    "text_joined": "A stagecoach that travels between towns. Horse and coachman not included."
+  },
+  {
+    "id": 22210,
+    "text": [
+      "A basket filled with eggs. A must-have item for cooking."
+    ],
+    "text_joined": "A basket filled with eggs. A must-have item for cooking."
+  },
+  {
+    "id": 22211,
+    "text": [
+      "A basket filled with grapes. To cook, or not to cook, that is the question."
+    ],
+    "text_joined": "A basket filled with grapes. To cook, or not to cook, that is the question."
+  },
+  {
+    "id": 22212,
+    "text": [
+      "A basket filled with delicious-looking red apples."
+    ],
+    "text_joined": "A basket filled with delicious-looking red apples."
+  },
+  {
+    "id": 22213,
+    "text": [
+      "A basket filled with tangy green apples."
+    ],
+    "text_joined": "A basket filled with tangy green apples."
+  },
+  {
+    "id": 22044,
+    "text": [
+      "An empty basket for food."
+    ],
+    "text_joined": "An empty basket for food."
+  },
+  {
+    "id": 22215,
+    "text": [
+      "A bag of onions. A glorious gift from the earth."
+    ],
+    "text_joined": "A bag of onions. A glorious gift from the earth."
+  },
+  {
+    "id": 22216,
+    "text": [
+      "A bag of apples. Great for sharing with a neighbor."
+    ],
+    "text_joined": "A bag of apples. Great for sharing with a neighbor."
+  },
+  {
+    "id": 22217,
+    "text": [
+      "A bag of freshly baked bread."
+    ],
+    "text_joined": "A bag of freshly baked bread."
+  },
+  {
+    "id": 22046,
+    "text": [
+      "A small enclosure for chickens. The birds believe it to be their nest and are surprisingly calm."
+    ],
+    "text_joined": "A small enclosure for chickens. The birds believe it to be their nest and are surprisingly calm."
+  },
+  {
+    "id": 22047,
+    "text": [
+      "A crate filled with bottles. Keeps even the most fragile bottles safe."
+    ],
+    "text_joined": "A crate filled with bottles. Keeps even the most fragile bottles safe."
+  },
+  {
+    "id": 22048,
+    "text": [
+      "A stand for hunters to hang their prey and give thanks to the bounty of nature."
+    ],
+    "text_joined": "A stand for hunters to hang their prey and give thanks to the bounty of nature."
+  },
+  {
+    "id": 22049,
+    "text": [
+      "A crate filled with crabs, the finest of ingredients."
+    ],
+    "text_joined": "A crate filled with crabs, the finest of ingredients."
+  },
+  {
+    "id": 22050,
+    "text": [
+      "One of a pair of statues honoring gladiators. Simply looking at it kindles one's fighting spirit."
+    ],
+    "text_joined": "One of a pair of statues honoring gladiators. Simply looking at it kindles one's fighting spirit."
+  },
+  {
+    "id": 22150,
+    "text": [
+      "One of a pair of statues honoring gladiators. Simply looking at it kindles one's fighting spirit."
+    ],
+    "text_joined": "One of a pair of statues honoring gladiators. Simply looking at it kindles one's fighting spirit."
+  },
+  {
+    "id": 22051,
+    "text": [
+      "One of a pair of statues embodying art. It reeks of sophistication."
+    ],
+    "text_joined": "One of a pair of statues embodying art. It reeks of sophistication."
+  },
+  {
+    "id": 22151,
+    "text": [
+      "One of a pair of statues embodying art. It reeks of sophistication."
+    ],
+    "text_joined": "One of a pair of statues embodying art. It reeks of sophistication."
+  },
+  {
+    "id": 22052,
+    "text": [
+      "One of a pair of statues in the image of an angel. It exudes a divine aura."
+    ],
+    "text_joined": "One of a pair of statues in the image of an angel. It exudes a divine aura."
+  },
+  {
+    "id": 22152,
+    "text": [
+      "One of a pair of statues in the image of an angel. It exudes a divine aura."
+    ],
+    "text_joined": "One of a pair of statues in the image of an angel. It exudes a divine aura."
+  },
+  {
+    "id": 22053,
+    "text": [
+      "A statue of King Pardis III. A symbol of tremendous influence and authority."
+    ],
+    "text_joined": "A statue of King Pardis III. A symbol of tremendous influence and authority."
+  },
+  {
+    "id": 22054,
+    "text": [
+      "A unique statue of the Westerlings."
+    ],
+    "text_joined": "A unique statue of the Westerlings."
+  },
+  {
+    "id": 22055,
+    "text": [
+      "One of a pair of statues depicting the sacred beast guarding the entrance to the desert palace. Has no particular demands."
+    ],
+    "text_joined": "One of a pair of statues depicting the sacred beast guarding the entrance to the desert palace. Has no particular demands."
+  },
+  {
+    "id": 22155,
+    "text": [
+      "One of a pair of statues depicting the sacred beast guarding the entrance to the desert palace. Has no particular demands."
+    ],
+    "text_joined": "One of a pair of statues depicting the sacred beast guarding the entrance to the desert palace. Has no particular demands."
+  },
+  {
+    "id": 22056,
+    "text": [
+      "A snowman that never melts. Brings the Frostlands to you."
+    ],
+    "text_joined": "A snowman that never melts. Brings the Frostlands to you."
+  },
+  {
+    "id": 22232,
+    "text": [
+      "The flag of the Victors Hollow arena. Greatly inspires the gladiators who have come to test their mettle."
+    ],
+    "text_joined": "The flag of the Victors Hollow arena. Greatly inspires the gladiators who have come to test their mettle."
+  },
+  {
+    "id": 22057,
+    "text": [
+      "The flag of the Theatropolis Amphitheatre. Honors artists from all walks of life."
+    ],
+    "text_joined": "The flag of the Theatropolis Amphitheatre. Honors artists from all walks of life."
+  },
+  {
+    "id": 22058,
+    "text": [
+      "The flag of the Kingdom of Wold. Depicts a creature with the body of a lion and tail of a serpent, along with flowers representing each of the eight clans."
+    ],
+    "text_joined": "The flag of the Kingdom of Wold. Depicts a creature with the body of a lion and tail of a serpent, along with flowers representing each of the eight clans."
+  },
+  {
+    "id": 22059,
+    "text": [
+      "The flag of the Scarlet Wings led by Tytos. Depicts a pair of scarlet-colored wings."
+    ],
+    "text_joined": "The flag of the Scarlet Wings led by Tytos. Depicts a pair of scarlet-colored wings."
+  },
+  {
+    "id": 22060,
+    "text": [
+      "The flag of Grandport adorning the town, flapping in the ocean breeze."
+    ],
+    "text_joined": "The flag of Grandport adorning the town, flapping in the ocean breeze."
+  },
+  {
+    "id": 22061,
+    "text": [
+      "The flag of the Grandport navy. Depicts a sword and anchor, both essential for safeguarding and upholding the coastal town."
+    ],
+    "text_joined": "The flag of the Grandport navy. Depicts a sword and anchor, both essential for safeguarding and upholding the coastal town."
+  },
+  {
+    "id": 22062,
+    "text": [
+      "The flag of the Kingdom of Edoras. Depicts a suit of battle armor adorned with maple leaves."
+    ],
+    "text_joined": "The flag of the Kingdom of Edoras. Depicts a suit of battle armor adorned with maple leaves."
+  },
+  {
+    "id": 22063,
+    "text": [
+      "The flag of the Kingdom of Altinia. Depicts a fortress and sheep."
+    ],
+    "text_joined": "The flag of the Kingdom of Altinia. Depicts a fortress and sheep."
+  },
+  {
+    "id": 22064,
+    "text": [
+      "The flag of the Kingdom of Riven. Depicts a shield crest featuring the Sacred Flame and water."
+    ],
+    "text_joined": "The flag of the Kingdom of Riven. Depicts a shield crest featuring the Sacred Flame and water."
+  },
+  {
+    "id": 22065,
+    "text": [
+      "A bonfire that illuminates the town. Keeps the townspeople safe even at night."
+    ],
+    "text_joined": "A bonfire that illuminates the town. Keeps the townspeople safe even at night."
+  },
+  {
+    "id": 22066,
+    "text": [
+      "A bonfire burning brightly in a stone firepit."
+    ],
+    "text_joined": "A bonfire burning brightly in a stone firepit."
+  },
+  {
+    "id": 22415,
+    "text": [
+      "An intricately decorated streetlight that would look at home in a sophisticated, metropolitan city."
+    ],
+    "text_joined": "An intricately decorated streetlight that would look at home in a sophisticated, metropolitan city."
+  },
+  {
+    "id": 22416,
+    "text": [
+      "An eerie streetlight that emits a bright yet somehow dull glow."
+    ],
+    "text_joined": "An eerie streetlight that emits a bright yet somehow dull glow."
+  },
+  {
+    "id": 22073,
+    "text": [
+      "A decorative sword for display. Cannot be used in combat."
+    ],
+    "text_joined": "A decorative sword for display. Cannot be used in combat."
+  },
+  {
+    "id": 22074,
+    "text": [
+      "A decorative bow for display. Cannot be used in combat."
+    ],
+    "text_joined": "A decorative bow for display. Cannot be used in combat."
+  },
+  {
+    "id": 22075,
+    "text": [
+      "A decorative axe for display. Cannot be used in combat."
+    ],
+    "text_joined": "A decorative axe for display. Cannot be used in combat."
+  },
+  {
+    "id": 22076,
+    "text": [
+      "A decorative polearm for display. Cannot be used in combat."
+    ],
+    "text_joined": "A decorative polearm for display. Cannot be used in combat."
+  },
+  {
+    "id": 22077,
+    "text": [
+      "A decorative shield for display. Cannot be used in combat."
+    ],
+    "text_joined": "A decorative shield for display. Cannot be used in combat."
+  },
+  {
+    "id": 22078,
+    "text": [
+      "A decorative helm for display. Cannot be used in combat."
+    ],
+    "text_joined": "A decorative helm for display. Cannot be used in combat."
+  },
+  {
+    "id": 22079,
+    "text": [
+      "A decorative suit of armor for display. Cannot be used in combat."
+    ],
+    "text_joined": "A decorative suit of armor for display. Cannot be used in combat."
+  },
+  {
+    "id": 22080,
+    "text": [
+      "A barrel filled with weapons. It never hurts to be prepared."
+    ],
+    "text_joined": "A barrel filled with weapons. It never hurts to be prepared."
+  },
+  {
+    "id": 22081,
+    "text": [
+      "A rack lined with various weapons. Used to temporarily store weapons during training."
+    ],
+    "text_joined": "A rack lined with various weapons. Used to temporarily store weapons during training."
+  },
+  {
+    "id": 22082,
+    "text": [
+      "A wooden barricade used to prevent enemy invasions."
+    ],
+    "text_joined": "A wooden barricade used to prevent enemy invasions."
+  },
+  {
+    "id": 22083,
+    "text": [
+      "A simple and sturdy fence made of wood."
+    ],
+    "text_joined": "A simple and sturdy fence made of wood."
+  },
+  {
+    "id": 22084,
+    "text": [
+      "A fence made of wood. Used on ranches."
+    ],
+    "text_joined": "A fence made of wood. Used on ranches."
+  },
+  {
+    "id": 22085,
+    "text": [
+      "A fence made of rope and wood that children can easily pass through."
+    ],
+    "text_joined": "A fence made of rope and wood that children can easily pass through."
+  },
+  {
+    "id": 22086,
+    "text": [
+      "An intricate fence made from logs and wooden boards."
+    ],
+    "text_joined": "An intricate fence made from logs and wooden boards."
+  },
+  {
+    "id": 22087,
+    "text": [
+      "A railing made of stone. Both functional and aesthetically pleasing."
+    ],
+    "text_joined": "A railing made of stone. Both functional and aesthetically pleasing."
+  },
+  {
+    "id": 22088,
+    "text": [
+      "A solid-looking fence made of stone."
+    ],
+    "text_joined": "A solid-looking fence made of stone."
+  },
+  {
+    "id": 22233,
+    "text": [
+      "A fence made of metal and stone. Keeps everyone away."
+    ],
+    "text_joined": "A fence made of metal and stone. Keeps everyone away."
+  },
+  {
+    "id": 22235,
+    "text": [
+      "A sturdy cloth bag. Useful for any purpose."
+    ],
+    "text_joined": "A sturdy cloth bag. Useful for any purpose."
+  },
+  {
+    "id": 22236,
+    "text": [
+      "A bouquet of flowers. A great gift for someone special."
+    ],
+    "text_joined": "A bouquet of flowers. A great gift for someone special."
+  },
+  {
+    "id": 22417,
+    "text": [
+      "A patch of paved stone with a beautiful design. Perfect for adding a little flair to the town."
+    ],
+    "text_joined": "A patch of paved stone with a beautiful design. Perfect for adding a little flair to the town."
+  },
+  {
+    "id": 22418,
+    "text": [
+      "A large patch of paved stone with a beautiful design. Adds a little style to the town."
+    ],
+    "text_joined": "A large patch of paved stone with a beautiful design. Adds a little style to the town."
+  },
+  {
+    "id": 22419,
+    "text": [
+      "A patch of paved stone designed with the church motif. Simply gazing upon it grants one a sense of purification."
+    ],
+    "text_joined": "A patch of paved stone designed with the church motif. Simply gazing upon it grants one a sense of purification."
+  },
+  {
+    "id": 22420,
+    "text": [
+      "A large patch of paved stone designed with the church motif. Simply gazing upon it grants one a sense of divinity."
+    ],
+    "text_joined": "A large patch of paved stone designed with the church motif. Simply gazing upon it grants one a sense of divinity."
+  },
+  {
+    "id": 22421,
+    "text": [
+      "An exotic-looking patch of paved stone designed with the motif of a desert region."
+    ],
+    "text_joined": "An exotic-looking patch of paved stone designed with the motif of a desert region."
+  },
+  {
+    "id": 22422,
+    "text": [
+      "A patch of dirt covered in cobbles. Perfect for a footpath."
+    ],
+    "text_joined": "A patch of dirt covered in cobbles. Perfect for a footpath."
+  },
+  {
+    "id": 22095,
+    "text": [
+      "A tall tree with needle-like leaves."
+    ],
+    "text_joined": "A tall tree with needle-like leaves."
+  },
+  {
+    "id": 22096,
+    "text": [
+      "A conifer tree covered in snow."
+    ],
+    "text_joined": "A conifer tree covered in snow."
+  },
+  {
+    "id": 22098,
+    "text": [
+      "A large hardwood tree with thick roots."
+    ],
+    "text_joined": "A large hardwood tree with thick roots."
+  },
+  {
+    "id": 22099,
+    "text": [
+      "A grand and mighty hardwood tree that provides much-needed shade during the summer months."
+    ],
+    "text_joined": "A grand and mighty hardwood tree that provides much-needed shade during the summer months."
+  },
+  {
+    "id": 22100,
+    "text": [
+      "A luscious green tree with flat, broad leaves."
+    ],
+    "text_joined": "A luscious green tree with flat, broad leaves."
+  },
+  {
+    "id": 22101,
+    "text": [
+      "A prickly plant that even grows in the desert."
+    ],
+    "text_joined": "A prickly plant that even grows in the desert."
+  },
+  {
+    "id": 22102,
+    "text": [
+      "A withered tree. Likely dangerous to climb."
+    ],
+    "text_joined": "A withered tree. Likely dangerous to climb."
+  },
+  {
+    "id": 22103,
+    "text": [
+      "A woody plant big enough for children to hide in."
+    ],
+    "text_joined": "A woody plant big enough for children to hide in."
+  },
+  {
+    "id": 22104,
+    "text": [
+      "A large woody plant big enough for adults to hide in."
+    ],
+    "text_joined": "A large woody plant big enough for adults to hide in."
+  },
+  {
+    "id": 22106,
+    "text": [
+      "A clump of shrubs. Difficult to walk through."
+    ],
+    "text_joined": "A clump of shrubs. Difficult to walk through."
+  },
+  {
+    "id": 22107,
+    "text": [
+      "A dense clump of shrubs. Nearly impossible to walk through."
+    ],
+    "text_joined": "A dense clump of shrubs. Nearly impossible to walk through."
+  },
+  {
+    "id": 22108,
+    "text": [
+      "A bunch of lovely white flowers that puts people at peace."
+    ],
+    "text_joined": "A bunch of lovely white flowers that puts people at peace."
+  },
+  {
+    "id": 22109,
+    "text": [
+      "A bunch of elegant purple flowers swaying in the breeze."
+    ],
+    "text_joined": "A bunch of elegant purple flowers swaying in the breeze."
+  },
+  {
+    "id": 22110,
+    "text": [
+      "A bunch of brilliant blue flowers that catches everyone's eye."
+    ],
+    "text_joined": "A bunch of brilliant blue flowers that catches everyone's eye."
+  },
+  {
+    "id": 22111,
+    "text": [
+      "A bunch of bright yellow flowers that puts a smile on people's faces."
+    ],
+    "text_joined": "A bunch of bright yellow flowers that puts a smile on people's faces."
+  },
+  {
+    "id": 22112,
+    "text": [
+      "A bunch of exquisite lilac flowers that radiates an elegant charm."
+    ],
+    "text_joined": "A bunch of exquisite lilac flowers that radiates an elegant charm."
+  },
+  {
+    "id": 22301,
+    "text": [
+      "A patch of beautiful red flowers that radiates strength and resilience."
+    ],
+    "text_joined": "A patch of beautiful red flowers that radiates strength and resilience."
+  },
+  {
+    "id": 22302,
+    "text": [
+      "A patch of majestic lavender flowers with a classy and sophisticated feel."
+    ],
+    "text_joined": "A patch of majestic lavender flowers with a classy and sophisticated feel."
+  },
+  {
+    "id": 22303,
+    "text": [
+      "A patch of delicate white and purple flowers with a plain yet resplendent presentation."
+    ],
+    "text_joined": "A patch of delicate white and purple flowers with a plain yet resplendent presentation."
+  },
+  {
+    "id": 22113,
+    "text": [
+      "The stump of a tree. Used to sit and rest."
+    ],
+    "text_joined": "The stump of a tree. Used to sit and rest."
+  },
+  {
+    "id": 22114,
+    "text": [
+      "The trunk of a tree. Will eventually be used as building material."
+    ],
+    "text_joined": "The trunk of a tree. Will eventually be used as building material."
+  },
+  {
+    "id": 22115,
+    "text": [
+      "A charming flower bed made of stone."
+    ],
+    "text_joined": "A charming flower bed made of stone."
+  },
+  {
+    "id": 22412,
+    "text": [
+      "A simple flower bed made of brick."
+    ],
+    "text_joined": "A simple flower bed made of brick."
+  },
+  {
+    "id": 22413,
+    "text": [
+      "A planter made of stone. A great way to decorate the town."
+    ],
+    "text_joined": "A planter made of stone. A great way to decorate the town."
+  },
+  {
+    "id": 22414,
+    "text": [
+      "A planter made of brick. A great way to decorate the town."
+    ],
+    "text_joined": "A planter made of brick. A great way to decorate the town."
+  },
+  {
+    "id": 22304,
+    "text": [
+      "A type of conifer tree that maintains its green leaves even in the winter."
+    ],
+    "text_joined": "A type of conifer tree that maintains its green leaves even in the winter."
+  },
+  {
+    "id": 22305,
+    "text": [
+      "A tropical tree that grows in the southern region."
+    ],
+    "text_joined": "A tropical tree that grows in the southern region."
+  },
+  {
+    "id": 22306,
+    "text": [
+      "A plain old rock that can be whatever you want it to be."
+    ],
+    "text_joined": "A plain old rock that can be whatever you want it to be."
+  },
+  {
+    "id": 22035,
+    "text": [
+      "A strange and disturbing statue.\n<span color=\"#DA5959FF\">No EXP can be obtained while placed in town.</>"
+    ],
+    "text_joined": "A strange and disturbing statue.\n<span color=\"#DA5959FF\">No EXP can be obtained while placed in town.</>"
+  },
+  {
+    "id": 22036,
+    "text": [
+      "A statue depicting an octopoid demihuman. Increases JP obtained while placed.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "A statue depicting an octopoid demihuman. Increases JP obtained while placed.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 22037,
+    "text": [
+      "A statue depicting an octopoid demihuman. Greatly increases JP obtained while placed.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "A statue depicting an octopoid demihuman. Greatly increases JP obtained while placed.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 22038,
+    "text": [
+      "A statue depicting a cait demihuman. Increases EXP and leaves obtained while placed.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "A statue depicting a cait demihuman. Increases EXP and leaves obtained while placed.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 22039,
+    "text": [
+      "A statue depicting a cait demihuman. Greatly increases EXP and leaves obtained while placed.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "A statue depicting a cait demihuman. Greatly increases EXP and leaves obtained while placed.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 22040,
+    "text": [
+      "A set of shining silver scales. Increases item drop rate while placed.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "A set of shining silver scales. Increases item drop rate while placed.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 22041,
+    "text": [
+      "A set of shining gold scales. Greatly increases item drop rate while placed.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "A set of shining gold scales. Greatly increases item drop rate while placed.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 22089,
+    "text": [
+      "A log for travelers to record their journey. Can be used to save game progress."
+    ],
+    "text_joined": "A log for travelers to record their journey. Can be used to save game progress."
+  },
+  {
+    "id": 22091,
+    "text": [
+      "An empty chest that gives the illusion of holding treasure. Lining them up can make one feel as though they're surrounded by riches...or not."
+    ],
+    "text_joined": "An empty chest that gives the illusion of holding treasure. Lining them up can make one feel as though they're surrounded by riches...or not."
+  },
+  {
+    "id": 22410,
+    "text": [
+      "Margot's beloved hoe. Slighty increases harvest speed in the fields while placed.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "Margot's beloved hoe. Slighty increases harvest speed in the fields while placed.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 22401,
+    "text": [
+      "A silver hoe. Increases harvest speed in the fields while placed.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "A silver hoe. Increases harvest speed in the fields while placed.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 22094,
+    "text": [
+      "A gold hoe. Greatly increases harvest speed in the fields while placed.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "A gold hoe. Greatly increases harvest speed in the fields while placed.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 22411,
+    "text": [
+      "Margot's beloved food trough. Slightly increases harvest speed on the ranch.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "Margot's beloved food trough. Slightly increases harvest speed on the ranch.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 22402,
+    "text": [
+      "A silver food trough. Increases harvest speed on the ranch.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "A silver food trough. Increases harvest speed on the ranch.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 22403,
+    "text": [
+      "A gold food trough. Greatly increases harvest speed on the ranch.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "A gold food trough. Greatly increases harvest speed on the ranch.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 22404,
+    "text": [
+      "A box for storing foods harvested from the fields and ranch. Foods are stored automatically.\nCapacity: 10 items"
+    ],
+    "text_joined": "A box for storing foods harvested from the fields and ranch. Foods are stored automatically.\nCapacity: 10 items"
+  },
+  {
+    "id": 22405,
+    "text": [
+      "A large box for storing foods harvested from the fields and ranch. Foods are stored automatically.\nCapacity: 30 items"
+    ],
+    "text_joined": "A large box for storing foods harvested from the fields and ranch. Foods are stored automatically.\nCapacity: 30 items"
+  },
+  {
+    "id": 22406,
+    "text": [
+      "A massive box for storing foods harvested from the fields and ranch. Foods are stored automatically.\nCapacity: 100 items"
+    ],
+    "text_joined": "A massive box for storing foods harvested from the fields and ranch. Foods are stored automatically.\nCapacity: 100 items"
+  },
+  {
+    "id": 22407,
+    "text": [
+      "A box for storing various items collected by the town's residents. Items are stored automatically.\nCapacity: 10 items / ➓25,000"
+    ],
+    "text_joined": "A box for storing various items collected by the town's residents. Items are stored automatically.\nCapacity: 10 items / ➓25,000"
+  },
+  {
+    "id": 22408,
+    "text": [
+      "A large box for storing various items collected by the town's residents. Items are stored automatically.\nCapacity: 30 items / ➓60,000"
+    ],
+    "text_joined": "A large box for storing various items collected by the town's residents. Items are stored automatically.\nCapacity: 30 items / ➓60,000"
+  },
+  {
+    "id": 22409,
+    "text": [
+      "A massive box for storing various items collected by the town's residents. Items are stored automatically.\nCapacity: 100 items / ➓100,000"
+    ],
+    "text_joined": "A massive box for storing various items collected by the town's residents. Items are stored automatically.\nCapacity: 100 items / ➓100,000"
+  },
+  {
+    "id": 901102,
+    "text": [
+      "A statue depicting an octopoid demihuman. Slightly increases JP obtained while placed.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "A statue depicting an octopoid demihuman. Slightly increases JP obtained while placed.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 901103,
+    "text": [
+      "A statue depicting a cait demihuman. Slightly increases EXP and leaves obtained while placed.\n*Effects from decorations of the same type do not stack."
+    ],
+    "text_joined": "A statue depicting a cait demihuman. Slightly increases EXP and leaves obtained while placed.\n*Effects from decorations of the same type do not stack."
+  },
+  {
+    "id": 901127,
+    "text": [
+      "A table with a plate of roasted chicken—a festival favorite."
+    ],
+    "text_joined": "A table with a plate of roasted chicken—a festival favorite."
+  },
+  {
+    "id": 901128,
+    "text": [
+      "A table with a grand spread that puts a smile on everyone's face."
+    ],
+    "text_joined": "A table with a grand spread that puts a smile on everyone's face."
+  },
+  {
+    "id": 901129,
+    "text": [
+      "A table that serves wine. Definitely not for children."
+    ],
+    "text_joined": "A table that serves wine. Definitely not for children."
+  },
+  {
+    "id": 901130,
+    "text": [
+      "A table that serves whiskey. Moderation is key!"
+    ],
+    "text_joined": "A table that serves whiskey. Moderation is key!"
+  },
+  {
+    "id": 901131,
+    "text": [
+      "A table topped with bread. Bon appétit!"
+    ],
+    "text_joined": "A table topped with bread. Bon appétit!"
+  },
+  {
+    "id": 901132,
+    "text": [
+      "An arch adorned with flowers. A perfect festival decoration."
+    ],
+    "text_joined": "An arch adorned with flowers. A perfect festival decoration."
+  },
+  {
+    "id": 901133,
+    "text": [
+      "An arch adorned with flowers and greenery. A perfect festival decoration."
+    ],
+    "text_joined": "An arch adorned with flowers and greenery. A perfect festival decoration."
+  },
+  {
+    "id": 901134,
+    "text": [
+      "A flag designed with the wreath of the Day of Reverence. A perfect festival decoration."
+    ],
+    "text_joined": "A flag designed with the wreath of the Day of Reverence. A perfect festival decoration."
+  },
+  {
+    "id": 901135,
+    "text": [
+      "A vase filled with colorful flowers that can brighten up any space."
+    ],
+    "text_joined": "A vase filled with colorful flowers that can brighten up any space."
+  },
+  {
+    "id": 901136,
+    "text": [
+      "A turnip of enormous size that was a hassle to harvest."
+    ],
+    "text_joined": "A turnip of enormous size that was a hassle to harvest."
+  },
+  {
+    "id": 901137,
+    "text": [
+      "Freshly harvested tomatoes with a beautiful red hue."
+    ],
+    "text_joined": "Freshly harvested tomatoes with a beautiful red hue."
+  },
+  {
+    "id": 901138,
+    "text": [
+      "Freshly harvested potatoes great for boiling or frying."
+    ],
+    "text_joined": "Freshly harvested potatoes great for boiling or frying."
+  },
+  {
+    "id": 901139,
+    "text": [
+      "A bonfire of an otherworldly color. Staring at it will put anyone in a somber mood."
+    ],
+    "text_joined": "A bonfire of an otherworldly color. Staring at it will put anyone in a somber mood."
+  },
+  {
+    "id": 901140,
+    "text": [
+      "A plant with an otherworldly air. Whether it grows flowers is unknown."
+    ],
+    "text_joined": "A plant with an otherworldly air. Whether it grows flowers is unknown."
+  },
+  {
+    "id": 901141,
+    "text": [
+      "A plant with an otherworldly air. Its full size is unknown."
+    ],
+    "text_joined": "A plant with an otherworldly air. Its full size is unknown."
+  },
+  {
+    "id": 901142,
+    "text": [
+      "A plant that thrives in shaded areas. Whether it grows flowers is unknown."
+    ],
+    "text_joined": "A plant that thrives in shaded areas. Whether it grows flowers is unknown."
+  },
+  {
+    "id": 901143,
+    "text": [
+      "A plant that thrives in shaded areas. Its full size is unknown."
+    ],
+    "text_joined": "A plant that thrives in shaded areas. Its full size is unknown."
+  },
+  {
+    "id": 901144,
+    "text": [
+      "A vase with an otherworldly air that shadows any flowers it holds."
+    ],
+    "text_joined": "A vase with an otherworldly air that shadows any flowers it holds."
+  },
+  {
+    "id": 901145,
+    "text": [
+      "A plant that has transcended worldly concerns and simply is."
+    ],
+    "text_joined": "A plant that has transcended worldly concerns and simply is."
+  },
+  {
+    "id": 901146,
+    "text": [
+      "A flickering bonfire that can incinerate any regrets and obsessions."
+    ],
+    "text_joined": "A flickering bonfire that can incinerate any regrets and obsessions."
+  },
+  {
+    "id": 901147,
+    "text": [
+      "One of a pair of statues by the gates of Hornburg Castle. A symbol of the nation."
+    ],
+    "text_joined": "One of a pair of statues by the gates of Hornburg Castle. A symbol of the nation."
+  },
+  {
+    "id": 901148,
+    "text": [
+      "One of a pair of statues by the gates of Hornburg Castle. A symbol of the nation."
+    ],
+    "text_joined": "One of a pair of statues by the gates of Hornburg Castle. A symbol of the nation."
+  },
+  {
+    "id": 901149,
+    "text": [
+      "A device that holds a candle to provide a warm and comforting light to all."
+    ],
+    "text_joined": "A device that holds a candle to provide a warm and comforting light to all."
+  },
+  {
+    "id": 900000,
+    "text": [
+      "The Restoration Begins"
+    ],
+    "text_joined": "The Restoration Begins"
+  },
+  {
+    "id": 900001,
+    "text": [
+      "Path to Self-Sustainability"
+    ],
+    "text_joined": "Path to Self-Sustainability"
+  },
+  {
+    "id": 900002,
+    "text": [
+      "To Enrich the Town"
+    ],
+    "text_joined": "To Enrich the Town"
+  },
+  {
+    "id": 900003,
+    "text": [
+      "Opening Trade Routes"
+    ],
+    "text_joined": "Opening Trade Routes"
+  },
+  {
+    "id": 900004,
+    "text": [
+      "Wishvale Restored"
+    ],
+    "text_joined": "Wishvale Restored"
+  },
+  {
+    "id": 900005,
+    "text": [
+      "A Flourishing Town"
+    ],
+    "text_joined": "A Flourishing Town"
+  },
+  {
+    "id": 900006,
+    "text": [
+      "A Thriving and Prosperous Town"
+    ],
+    "text_joined": "A Thriving and Prosperous Town"
+  },
+  {
+    "id": 900007,
+    "text": [
+      "A Town of Hope"
+    ],
+    "text_joined": "A Town of Hope"
+  },
+  {
+    "id": 1001,
+    "text": [
+      "Talk to Stia."
+    ],
+    "text_joined": "Talk to Stia."
+  },
+  {
+    "id": 1002,
+    "text": [
+      "Remove the rubble and clear the land."
+    ],
+    "text_joined": "Remove the rubble and clear the land."
+  },
+  {
+    "id": 1003,
+    "text": [
+      "Collect 6 pieces of lumber for the workshop."
+    ],
+    "text_joined": "Collect 6 pieces of lumber for the workshop."
+  },
+  {
+    "id": 1004,
+    "text": [
+      "Talk to Stia and build the workshop."
+    ],
+    "text_joined": "Talk to Stia and build the workshop."
+  },
+  {
+    "id": 1005,
+    "text": [
+      "Progress through the side story\n\"Rekindling the Flame.\""
+    ],
+    "text_joined": "Progress through the side story\n\"Rekindling the Flame.\""
+  },
+  {
+    "id": 1006,
+    "text": [
+      "Set up the tome of records."
+    ],
+    "text_joined": "Set up the tome of records."
+  },
+  {
+    "id": 1007,
+    "text": [
+      "Progress through the main story\n\"Kindlers of the Flame.\""
+    ],
+    "text_joined": "Progress through the main story\n\"Kindlers of the Flame.\""
+  },
+  {
+    "id": 1008,
+    "text": [
+      "Cook a dish at the hub."
+    ],
+    "text_joined": "Cook a dish at the hub."
+  },
+  {
+    "id": 1009,
+    "text": [
+      "Invite 5 people to Wishvale."
+    ],
+    "text_joined": "Invite 5 people to Wishvale."
+  },
+  {
+    "id": 1010,
+    "text": [
+      "Build a house."
+    ],
+    "text_joined": "Build a house."
+  },
+  {
+    "id": 2001,
+    "text": [
+      "Remove the rubble and clear the land."
+    ],
+    "text_joined": "Remove the rubble and clear the land."
+  },
+  {
+    "id": 2002,
+    "text": [
+      "Progress through the main story\n\"Kindlers of the Flame.\""
+    ],
+    "text_joined": "Progress through the main story\n\"Kindlers of the Flame.\""
+  },
+  {
+    "id": 2003,
+    "text": [
+      "Plant 2 seeds in the fields."
+    ],
+    "text_joined": "Plant 2 seeds in the fields."
+  },
+  {
+    "id": 2004,
+    "text": [
+      "Obtain 2 yields from the fields."
+    ],
+    "text_joined": "Obtain 2 yields from the fields."
+  },
+  {
+    "id": 2005,
+    "text": [
+      "Build a ranch."
+    ],
+    "text_joined": "Build a ranch."
+  },
+  {
+    "id": 2006,
+    "text": [
+      "Raise 2 animals on the ranch."
+    ],
+    "text_joined": "Raise 2 animals on the ranch."
+  },
+  {
+    "id": 2007,
+    "text": [
+      "Obtain 2 yields from the ranch."
+    ],
+    "text_joined": "Obtain 2 yields from the ranch."
+  },
+  {
+    "id": 2008,
+    "text": [
+      "Build a house."
+    ],
+    "text_joined": "Build a house."
+  },
+  {
+    "id": 20081,
+    "text": [
+      "Upgrade the hub."
+    ],
+    "text_joined": "Upgrade the hub."
+  },
+  {
+    "id": 2009,
+    "text": [
+      "Place 20 decorations."
+    ],
+    "text_joined": "Place 20 decorations."
+  },
+  {
+    "id": 2010,
+    "text": [
+      "Invite 15 people to Wishvale."
+    ],
+    "text_joined": "Invite 15 people to Wishvale."
+  },
+  {
+    "id": 2011,
+    "text": [
+      "Progress through the side story\n\"Rekindling the Flame.\""
+    ],
+    "text_joined": "Progress through the side story\n\"Rekindling the Flame.\""
+  },
+  {
+    "id": 3001,
+    "text": [
+      "Remove the rubble and clear the land."
+    ],
+    "text_joined": "Remove the rubble and clear the land."
+  },
+  {
+    "id": 3002,
+    "text": [
+      "Build 10 facilities."
+    ],
+    "text_joined": "Build 10 facilities."
+  },
+  {
+    "id": 3003,
+    "text": [
+      "Invite 20 people to Wishvale."
+    ],
+    "text_joined": "Invite 20 people to Wishvale."
+  },
+  {
+    "id": 3004,
+    "text": [
+      "Set up Margot's farming tools."
+    ],
+    "text_joined": "Set up Margot's farming tools."
+  },
+  {
+    "id": 3005,
+    "text": [
+      "Set up Margot's food trough."
+    ],
+    "text_joined": "Set up Margot's food trough."
+  },
+  {
+    "id": 30051,
+    "text": [
+      "Progress through the side story\n\"Rekindling the Flame.\""
+    ],
+    "text_joined": "Progress through the side story\n\"Rekindling the Flame.\""
+  },
+  {
+    "id": 3006,
+    "text": [
+      "Place 25 decorations."
+    ],
+    "text_joined": "Place 25 decorations."
+  },
+  {
+    "id": 4001,
+    "text": [
+      "Remove the rubble and clear the land."
+    ],
+    "text_joined": "Remove the rubble and clear the land."
+  },
+  {
+    "id": 4002,
+    "text": [
+      "Progress through the main story\n\"Kindlers of the Flame.\""
+    ],
+    "text_joined": "Progress through the main story\n\"Kindlers of the Flame.\""
+  },
+  {
+    "id": 4003,
+    "text": [
+      "Purchase 1 trade good item."
+    ],
+    "text_joined": "Purchase 1 trade good item."
+  },
+  {
+    "id": 4004,
+    "text": [
+      "Increase trade goods stocked."
+    ],
+    "text_joined": "Increase trade goods stocked."
+  },
+  {
+    "id": 40041,
+    "text": [
+      "Deliver a list of trade goods to Ludo."
+    ],
+    "text_joined": "Deliver a list of trade goods to Ludo."
+  },
+  {
+    "id": 40042,
+    "text": [
+      "Build 12 facilities."
+    ],
+    "text_joined": "Build 12 facilities."
+  },
+  {
+    "id": 4005,
+    "text": [
+      "Build a training ground."
+    ],
+    "text_joined": "Build a training ground."
+  },
+  {
+    "id": 4006,
+    "text": [
+      "Train at the training ground."
+    ],
+    "text_joined": "Train at the training ground."
+  },
+  {
+    "id": 40061,
+    "text": [
+      "Progress through the side story\n\"Rekindling the Flame.\""
+    ],
+    "text_joined": "Progress through the side story\n\"Rekindling the Flame.\""
+  },
+  {
+    "id": 40063,
+    "text": [
+      "Raise a cow."
+    ],
+    "text_joined": "Raise a cow."
+  },
+  {
+    "id": 40066,
+    "text": [
+      "Grow 7 types of crops in the fields."
+    ],
+    "text_joined": "Grow 7 types of crops in the fields."
+  },
+  {
+    "id": 4007,
+    "text": [
+      "Invite 25 people to Wishvale."
+    ],
+    "text_joined": "Invite 25 people to Wishvale."
+  },
+  {
+    "id": 4008,
+    "text": [
+      "Place 35 decorations."
+    ],
+    "text_joined": "Place 35 decorations."
+  },
+  {
+    "id": 5001,
+    "text": [
+      "Remove the rubble and clear the land."
+    ],
+    "text_joined": "Remove the rubble and clear the land."
+  },
+  {
+    "id": 5002,
+    "text": [
+      "Progress through the side story\n\"Rekindling the Flame.\""
+    ],
+    "text_joined": "Progress through the side story\n\"Rekindling the Flame.\""
+  },
+  {
+    "id": 5003,
+    "text": [
+      "Progress through the main story\n\"Kindlers of the Flame.\""
+    ],
+    "text_joined": "Progress through the main story\n\"Kindlers of the Flame.\""
+  },
+  {
+    "id": 5004,
+    "text": [
+      "Progress through the main story\n\"Kindlers of the Flame.\""
+    ],
+    "text_joined": "Progress through the main story\n\"Kindlers of the Flame.\""
+  },
+  {
+    "id": 901150,
+    "text": [
+      "Talk to Stia."
+    ],
+    "text_joined": "Talk to Stia."
+  },
+  {
+    "id": 6001,
+    "text": [
+      "Build a museum."
+    ],
+    "text_joined": "Build a museum."
+  },
+  {
+    "id": 6002,
+    "text": [
+      "Progress through the side story\n\"The Monster Arena.\""
+    ],
+    "text_joined": "Progress through the side story\n\"The Monster Arena.\""
+  },
+  {
+    "id": 6003,
+    "text": [
+      "Invite 35 people to Wishvale."
+    ],
+    "text_joined": "Invite 35 people to Wishvale."
+  },
+  {
+    "id": 6004,
+    "text": [
+      "Place 45 decorations."
+    ],
+    "text_joined": "Place 45 decorations."
+  },
+  {
+    "id": 7001,
+    "text": [
+      "Build all the facilities."
+    ],
+    "text_joined": "Build all the facilities."
+  },
+  {
+    "id": 10000,
+    "text": [
+      "- Unlocks town building"
+    ],
+    "text_joined": "- Unlocks town building"
+  },
+  {
+    "id": 10001,
+    "text": [
+      "- Perform town building anywhere in Wishvale with <icon_field_command>"
+    ],
+    "text_joined": "- Perform town building anywhere in Wishvale with <icon_field_command>"
+  },
+  {
+    "id": 10002,
+    "text": [
+      "- Town building: Unlocks palette feature in archive to build faster"
+    ],
+    "text_joined": "- Town building: Unlocks palette feature in archive to build faster"
+  },
+  {
+    "id": 10010,
+    "text": [
+      "- Unlocks tavern/overnight resting/cooking"
+    ],
+    "text_joined": "- Unlocks tavern/overnight resting/cooking"
+  },
+  {
+    "id": 10011,
+    "text": [
+      "- Main menu: Edit party\n- Resident capacity: 3"
+    ],
+    "text_joined": "- Main menu: Edit party\n- Resident capacity: 3"
+  },
+  {
+    "id": 10012,
+    "text": [
+      "- Resident capacity: 4"
+    ],
+    "text_joined": "- Resident capacity: 4"
+  },
+  {
+    "id": 10280,
+    "text": [
+      "- Trade good slots: 10\n(Regular deliveries)\n- Purchase/sell items"
+    ],
+    "text_joined": "- Trade good slots: 10\n(Regular deliveries)\n- Purchase/sell items"
+  },
+  {
+    "id": 10281,
+    "text": [
+      "- Use leaves to instantly stock trade goods\n- Trade good slots: 15\n- Resident capacity: 2"
+    ],
+    "text_joined": "- Use leaves to instantly stock trade goods\n- Trade good slots: 15\n- Resident capacity: 2"
+  },
+  {
+    "id": 10282,
+    "text": [
+      "- More frequent trade good deliveries\n- Higher chance to stock rare items\n- Trade good slots: 20\n- Resident capacity: 3"
+    ],
+    "text_joined": "- More frequent trade good deliveries\n- Higher chance to stock rare items\n- Trade good slots: 20\n- Resident capacity: 3"
+  },
+  {
+    "id": 10310,
+    "text": [
+      "- Helper use count in battle: 3"
+    ],
+    "text_joined": "- Helper use count in battle: 3"
+  },
+  {
+    "id": 10311,
+    "text": [
+      "- Helper use count in battle: 4\n- Helper capacity: 7\n- Resident capacity: 2"
+    ],
+    "text_joined": "- Helper use count in battle: 4\n- Helper capacity: 7\n- Resident capacity: 2"
+  },
+  {
+    "id": 10312,
+    "text": [
+      "- Open blue treasure chests\n- Helper capacity: 9"
+    ],
+    "text_joined": "- Open blue treasure chests\n- Helper capacity: 9"
+  },
+  {
+    "id": 10580,
+    "text": [
+      "- Livestock capacity: 2"
+    ],
+    "text_joined": "- Livestock capacity: 2"
+  },
+  {
+    "id": 10581,
+    "text": [
+      "- Livestock capacity: 4\n- Resident capacity: 2"
+    ],
+    "text_joined": "- Livestock capacity: 4\n- Resident capacity: 2"
+  },
+  {
+    "id": 10582,
+    "text": [
+      "- Livestock capacity: 6\n- Resident capacity: 3"
+    ],
+    "text_joined": "- Livestock capacity: 6\n- Resident capacity: 3"
+  },
+  {
+    "id": 10610,
+    "text": [
+      "- Training capacity: 8\n(Allies in training earn EXP and JP)\n- Main menu: Master skills learned"
+    ],
+    "text_joined": "- Training capacity: 8\n(Allies in training earn EXP and JP)\n- Main menu: Master skills learned"
+  },
+  {
+    "id": 10611,
+    "text": [
+      "- Training capacity: 16\n- Main menu: Learn allies' ultimate techniques\n- Resident capacity: 2"
+    ],
+    "text_joined": "- Training capacity: 16\n- Main menu: Learn allies' ultimate techniques\n- Resident capacity: 2"
+  },
+  {
+    "id": 10612,
+    "text": [
+      "- Training capacity: 32\n- Edit Party screen: Send allies to train"
+    ],
+    "text_joined": "- Training capacity: 32\n- Edit Party screen: Send allies to train"
+  },
+  {
+    "id": 10640,
+    "text": [
+      "- Change protagonist's hairstyle/hair color\n- Hairstyle/hair color types +2"
+    ],
+    "text_joined": "- Change protagonist's hairstyle/hair color\n- Hairstyle/hair color types +2"
+  },
+  {
+    "id": 10641,
+    "text": [
+      "- Change protagonist's motions/voice\n- Resident capacity: 2"
+    ],
+    "text_joined": "- Change protagonist's motions/voice\n- Resident capacity: 2"
+  },
+  {
+    "id": 10642,
+    "text": [
+      "- Change protagonist's body/face/eye color/skin color\n- Eye color types +2"
+    ],
+    "text_joined": "- Change protagonist's body/face/eye color/skin color\n- Eye color types +2"
+  },
+  {
+    "id": 10670,
+    "text": [
+      "- Play music"
+    ],
+    "text_joined": "- Play music"
+  },
+  {
+    "id": 10671,
+    "text": [
+      "- View journals\n- Resident capacity: 3"
+    ],
+    "text_joined": "- View journals\n- Resident capacity: 3"
+  },
+  {
+    "id": 10672,
+    "text": [
+      "- Display antiques\n- Resident capacity: 4"
+    ],
+    "text_joined": "- Display antiques\n- Resident capacity: 4"
+  },
+  {
+    "id": 10760,
+    "text": [
+      "- Seed cultivation: 2"
+    ],
+    "text_joined": "- Seed cultivation: 2"
+  },
+  {
+    "id": 10761,
+    "text": [
+      "- Seed cultivation: 4"
+    ],
+    "text_joined": "- Seed cultivation: 4"
+  },
+  {
+    "id": 10762,
+    "text": [
+      "- Seed cultivation: 6\n- Resident capacity: 3"
+    ],
+    "text_joined": "- Seed cultivation: 6\n- Resident capacity: 3"
+  },
+  {
+    "id": 30000,
+    "text": [
+      "Use {0} to unlock\nthe power of the Sacred Flame dais."
+    ],
+    "text_joined": "Use {0} to unlock\nthe power of the Sacred Flame dais."
+  },
+  {
+    "id": 30001,
+    "text": [
+      "(Held: {0})"
+    ],
+    "text_joined": "(Held: {0})"
+  },
+  {
+    "id": 30002,
+    "text": [
+      "Fast Travel"
+    ],
+    "text_joined": "Fast Travel"
+  },
+  {
+    "id": 30003,
+    "text": [
+      "Allows fast travel around the field and\nto dungeons from the world map."
+    ],
+    "text_joined": "Allows fast travel around the field and\nto dungeons from the world map."
+  },
+  {
+    "id": 30004,
+    "text": [
+      "Area Research"
+    ],
+    "text_joined": "Area Research"
+  },
+  {
+    "id": 30005,
+    "text": [
+      "Reveals on the world map the number of\nunopened treasure chests and undefeated\nElite Enemies."
+    ],
+    "text_joined": "Reveals on the world map the number of\nunopened treasure chests and undefeated\nElite Enemies."
+  },
+  {
+    "id": 30006,
+    "text": [
+      "Animal Whisperer"
+    ],
+    "text_joined": "Animal Whisperer"
+  },
+  {
+    "id": 30007,
+    "text": [
+      "Allows conversations with and use of\nPath Actions on some animals."
+    ],
+    "text_joined": "Allows conversations with and use of\nPath Actions on some animals."
+  },
+  {
+    "id": 30009,
+    "text": [
+      "\"{0}\"\n\nUnlock this power?"
+    ],
+    "text_joined": "\"{0}\"\n\nUnlock this power?"
+  },
+  {
+    "id": 901061,
+    "text": [
+      "You can now fast travel around the field and\nto dungeons from the world map!"
+    ],
+    "text_joined": "You can now fast travel around the field and\nto dungeons from the world map!"
+  },
+  {
+    "id": 901089,
+    "text": [
+      "The number of treasure chests opened and\nElite Enemies defeated can now be viewed\non the world map!"
+    ],
+    "text_joined": "The number of treasure chests opened and\nElite Enemies defeated can now be viewed\non the world map!"
+  },
+  {
+    "id": 901090,
+    "text": [
+      "You can now converse with and\nuse Path Actions on some animals!"
+    ],
+    "text_joined": "You can now converse with and\nuse Path Actions on some animals!"
+  },
+  {
+    "id": 901096,
+    "text": [
+      "Close"
+    ],
+    "text_joined": "Close"
+  }
+]

@@ -1,0 +1,1993 @@
+[
+  {
+    "id": 3101,
+    "en": "Frostlands Region",
+    "vi": "Vùng Frostlands",
+    "api_translated": true
+  },
+  {
+    "id": 3102,
+    "en": "Flatlands Region",
+    "vi": "Vùng Flatlands",
+    "api_translated": true
+  },
+  {
+    "id": 3103,
+    "en": "Coastlands Region",
+    "vi": "Vùng Coastlands",
+    "api_translated": true
+  },
+  {
+    "id": 3104,
+    "en": "Highlands Region",
+    "vi": "Vùng Highlands",
+    "api_translated": true
+  },
+  {
+    "id": 3105,
+    "en": "Sunlands Region",
+    "vi": "Vùng Sunlands",
+    "api_translated": true
+  },
+  {
+    "id": 3106,
+    "en": "Riverlands Region",
+    "vi": "Vùng Riverlands",
+    "api_translated": true
+  },
+  {
+    "id": 3107,
+    "en": "Cliftlands Region",
+    "vi": "Vùng Cliftlands",
+    "api_translated": true
+  },
+  {
+    "id": 3108,
+    "en": "Woodlands Region",
+    "vi": "Vùng Woodlands",
+    "api_translated": true
+  },
+  {
+    "id": 16269,
+    "en": "The Gate of Finis",
+    "vi": "Cổng Finis",
+    "api_translated": true
+  },
+  {
+    "id": 16270,
+    "en": "The Heavens",
+    "vi": "Thiên Đường",
+    "api_translated": true
+  },
+  {
+    "id": 90097,
+    "en": "???",
+    "vi": "???",
+    "api_translated": true
+  },
+  {
+    "id": 3201,
+    "en": "Cragspear Pass",
+    "vi": "Đèo Cragspear",
+    "api_translated": true
+  },
+  {
+    "id": 3202,
+    "en": "Cragspear",
+    "vi": "Cragspear",
+    "api_translated": true
+  },
+  {
+    "id": 3203,
+    "en": "Cragspear: Slums",
+    "vi": "Cragspear: Khu ổ chuột",
+    "api_translated": true
+  },
+  {
+    "id": 3204,
+    "en": "Castle Edoras: Dungeon",
+    "vi": "Lâu đài Edoras: Ngục tối",
+    "api_translated": true
+  },
+  {
+    "id": 3205,
+    "en": "Gray Grotto",
+    "vi": "Hang Gray",
+    "api_translated": true
+  },
+  {
+    "id": 3206,
+    "en": "Gray Grotto: Depths",
+    "vi": "Hang Gray: Tầng sâu",
+    "api_translated": true
+  },
+  {
+    "id": 3207,
+    "en": "South Cragspear Pass",
+    "vi": "Đèo Nam Cragspear",
+    "api_translated": true
+  },
+  {
+    "id": 3208,
+    "en": "Geist Canyon: South",
+    "vi": "Hẻm núi Geist: Phía Nam",
+    "api_translated": true
+  },
+  {
+    "id": 3209,
+    "en": "Geist Canyon",
+    "vi": "Hẻm núi Geist",
+    "api_translated": true
+  },
+  {
+    "id": 3210,
+    "en": "Road to Castle Edoras",
+    "vi": "Đường đến Lâu đài Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 3211,
+    "en": "Castle Edoras Gate",
+    "vi": "Cổng Lâu đài Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 3212,
+    "en": "Castle Edoras",
+    "vi": "Lâu đài Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 3213,
+    "en": "Castle Edoras: Upper Floor",
+    "vi": "Lâu đài Edoras: Tầng trên",
+    "api_translated": true
+  },
+  {
+    "id": 3214,
+    "en": "Castle Edoras: Courtyard",
+    "vi": "Lâu đài Edoras: Sân trong",
+    "api_translated": true
+  },
+  {
+    "id": 3215,
+    "en": "Castle Edoras: Princess's Chambers",
+    "vi": "Lâu đài Edoras: Phòng Công chúa",
+    "api_translated": true
+  },
+  {
+    "id": 3216,
+    "en": "Castle Edoras: Throne Room",
+    "vi": "Lâu đài Edoras: Phòng Ngai vàng",
+    "api_translated": true
+  },
+  {
+    "id": 3222,
+    "en": "Rippletide",
+    "vi": "Rippletide",
+    "api_translated": true
+  },
+  {
+    "id": 3223,
+    "en": "Rippletide Coast",
+    "vi": "Bờ biển Rippletide",
+    "api_translated": true
+  },
+  {
+    "id": 3224,
+    "en": "North Rippletide Coast",
+    "vi": "Bờ biển Bắc Rippletide",
+    "api_translated": true
+  },
+  {
+    "id": 3225,
+    "en": "Isle of Orsa",
+    "vi": "Đảo Orsa",
+    "api_translated": true
+  },
+  {
+    "id": 3226,
+    "en": "Isle of Orsa: Depths",
+    "vi": "Đảo Orsa: Tầng sâu",
+    "api_translated": true
+  },
+  {
+    "id": 3363,
+    "en": "Isle of Orsa: Altar",
+    "vi": "Đảo Orsa: Bàn thờ",
+    "api_translated": true
+  },
+  {
+    "id": 3227,
+    "en": "Sunshade",
+    "vi": "Sunshade",
+    "api_translated": true
+  },
+  {
+    "id": 3228,
+    "en": "Sunshade Sands",
+    "vi": "Cát Sunshade",
+    "api_translated": true
+  },
+  {
+    "id": 3229,
+    "en": "Eastern Sunshade Sands",
+    "vi": "Cát phía Đông Sunshade",
+    "api_translated": true
+  },
+  {
+    "id": 3237,
+    "en": "Shepherds Rock Pass",
+    "vi": "Đèo Shepherds Rock",
+    "api_translated": true
+  },
+  {
+    "id": 3238,
+    "en": "North Shepherds Rock Pass",
+    "vi": "Đèo Bắc Shepherds Rock",
+    "api_translated": true
+  },
+  {
+    "id": 3239,
+    "en": "Valley of Death: East",
+    "vi": "Thung lũng Tử thần: Phía Đông",
+    "api_translated": true
+  },
+  {
+    "id": 3240,
+    "en": "Valley of Death",
+    "vi": "Thung lũng Tử thần",
+    "api_translated": true
+  },
+  {
+    "id": 3241,
+    "en": "Valley of Death: West",
+    "vi": "Thung lũng Tử thần: Phía Tây",
+    "api_translated": true
+  },
+  {
+    "id": 3247,
+    "en": "Valore",
+    "vi": "Valore",
+    "api_translated": true
+  },
+  {
+    "id": 3248,
+    "en": "Valore: Main Boulevard",
+    "vi": "Valore: Đại lộ Chính",
+    "api_translated": true
+  },
+  {
+    "id": 3249,
+    "en": "Valore Trail",
+    "vi": "Đường mòn Valore",
+    "api_translated": true
+  },
+  {
+    "id": 3250,
+    "en": "West Valore Trail",
+    "vi": "Đường mòn phía Tây Valore",
+    "api_translated": true
+  },
+  {
+    "id": 3251,
+    "en": "Path to Herminia's Manse",
+    "vi": "Lối đến Dinh thự Herminia",
+    "api_translated": true
+  },
+  {
+    "id": 3252,
+    "en": "Herminia's Manse: Entrance",
+    "vi": "Dinh thự Herminia: Lối vào",
+    "api_translated": true
+  },
+  {
+    "id": 3253,
+    "en": "Herminia's Manse",
+    "vi": "Dinh thự Herminia",
+    "api_translated": true
+  },
+  {
+    "id": 3254,
+    "en": "Herminia's Manse: Cellars",
+    "vi": "Dinh thự Herminia: Hầm rượu",
+    "api_translated": true
+  },
+  {
+    "id": 3255,
+    "en": "Auguste's Villa: Entrance",
+    "vi": "Biệt thự Auguste: Lối vào",
+    "api_translated": true
+  },
+  {
+    "id": 3256,
+    "en": "Auguste's Villa",
+    "vi": "Biệt thự Auguste",
+    "api_translated": true
+  },
+  {
+    "id": 3257,
+    "en": "Emberglow",
+    "vi": "Emberglow",
+    "api_translated": true
+  },
+  {
+    "id": 3258,
+    "en": "Emberglow: East District",
+    "vi": "Emberglow: Khu phía Đông",
+    "api_translated": true
+  },
+  {
+    "id": 3259,
+    "en": "Emberglow Wilds",
+    "vi": "Vùng hoang dã Emberglow",
+    "api_translated": true
+  },
+  {
+    "id": 3260,
+    "en": "West Emberglow Wilds",
+    "vi": "Vùng hoang dã phía Tây Emberglow",
+    "api_translated": true
+  },
+  {
+    "id": 3261,
+    "en": "Emberglow Laboratory: Entrance",
+    "vi": "Phòng thí nghiệm Emberglow: Lối vào",
+    "api_translated": true
+  },
+  {
+    "id": 3262,
+    "en": "Emberglow Laboratory",
+    "vi": "Phòng thí nghiệm Emberglow",
+    "api_translated": true
+  },
+  {
+    "id": 3263,
+    "en": "Ceremonial Square",
+    "vi": "Quảng trường Nghi lễ",
+    "api_translated": true
+  },
+  {
+    "id": 3264,
+    "en": "Cathedral of Tytos",
+    "vi": "Thánh đường Tytos",
+    "api_translated": true
+  },
+  {
+    "id": 16060,
+    "en": "Cathedral of Tytos: Entrance",
+    "vi": "Thánh đường Tytos: Lối vào",
+    "api_translated": true
+  },
+  {
+    "id": 16061,
+    "en": "Cathedral of Tytos",
+    "vi": "Thánh đường Tytos",
+    "api_translated": true
+  },
+  {
+    "id": 3265,
+    "en": "Snowbloom Ruins",
+    "vi": "Tàn tích Snowbloom",
+    "api_translated": true
+  },
+  {
+    "id": 3266,
+    "en": "Subterranean Snow Ruins",
+    "vi": "Tàn tích Tuyết ngầm",
+    "api_translated": true
+  },
+  {
+    "id": 3273,
+    "en": "Clearbrook",
+    "vi": "Clearbrook",
+    "api_translated": true
+  },
+  {
+    "id": 3274,
+    "en": "Clearbrook Traverse",
+    "vi": "Đường ngang Clearbrook",
+    "api_translated": true
+  },
+  {
+    "id": 3275,
+    "en": "East Clearbrook Traverse",
+    "vi": "Đường ngang phía Đông Clearbrook",
+    "api_translated": true
+  },
+  {
+    "id": 3276,
+    "en": "Path to Waterpool Caves",
+    "vi": "Lối đến Hang Waterpool",
+    "api_translated": true
+  },
+  {
+    "id": 3277,
+    "en": "Waterpool Caves",
+    "vi": "Hang Waterpool",
+    "api_translated": true
+  },
+  {
+    "id": 3278,
+    "en": "Theatropolis",
+    "vi": "Theatropolis",
+    "api_translated": true
+  },
+  {
+    "id": 3279,
+    "en": "Amphitheatre",
+    "vi": "Nhà hát",
+    "api_translated": true
+  },
+  {
+    "id": 3334,
+    "en": "Amphitheatre: Entrance",
+    "vi": "Nhà hát: Lối vào",
+    "api_translated": true
+  },
+  {
+    "id": 3280,
+    "en": "Theatropolis Plains",
+    "vi": "Đồng bằng Theatropolis",
+    "api_translated": true
+  },
+  {
+    "id": 3281,
+    "en": "North Theatropolis Plains",
+    "vi": "Đồng bằng Bắc Theatropolis",
+    "api_translated": true
+  },
+  {
+    "id": 3282,
+    "en": "Amphitheatre: Rehearsal Room",
+    "vi": "Nhà hát: Phòng tập",
+    "api_translated": true
+  },
+  {
+    "id": 3283,
+    "en": "Amphitheatre: Dressing Room",
+    "vi": "Nhà hát: Phòng thay đồ",
+    "api_translated": true
+  },
+  {
+    "id": 3284,
+    "en": "Amphitheatre: Backstage",
+    "vi": "Nhà hát: Hậu trường",
+    "api_translated": true
+  },
+  {
+    "id": 3285,
+    "en": "Amphitheatre: Underground",
+    "vi": "Nhà hát: Tầng hầm",
+    "api_translated": true
+  },
+  {
+    "id": 3286,
+    "en": "Knights Ardante Garrison",
+    "vi": "Đồn trú Hiệp sĩ Ardante",
+    "api_translated": true
+  },
+  {
+    "id": 3320,
+    "en": "Emberglow Slopes",
+    "vi": "Dốc Emberglow",
+    "api_translated": true
+  },
+  {
+    "id": 3321,
+    "en": "Shepherds Rock",
+    "vi": "Shepherds Rock",
+    "api_translated": true
+  },
+  {
+    "id": 3322,
+    "en": "Shepherds Rock: Castle Square",
+    "vi": "Shepherds Rock: Quảng trường Lâu đài",
+    "api_translated": true
+  },
+  {
+    "id": 3323,
+    "en": "Hunter's House",
+    "vi": "Nhà Thợ săn",
+    "api_translated": true
+  },
+  {
+    "id": 3324,
+    "en": "Stillwater Subterrane",
+    "vi": "Tầng hầm Stillwater",
+    "api_translated": true
+  },
+  {
+    "id": 3325,
+    "en": "Castle Riven",
+    "vi": "Lâu đài Riven",
+    "api_translated": true
+  },
+  {
+    "id": 3327,
+    "en": "Finesand Ruins",
+    "vi": "Tàn tích Finesand",
+    "api_translated": true
+  },
+  {
+    "id": 3329,
+    "en": "Cavern of Mists",
+    "vi": "Hang Sương mù",
+    "api_translated": true
+  },
+  {
+    "id": 3330,
+    "en": "Serpent's Burrow",
+    "vi": "Hang Rắn",
+    "api_translated": true
+  },
+  {
+    "id": 3333,
+    "en": "Snowshard Grotto",
+    "vi": "Hang Snowshard",
+    "api_translated": true
+  },
+  {
+    "id": 10001,
+    "en": "Victors Hollow",
+    "vi": "Victors Hollow",
+    "api_translated": true
+  },
+  {
+    "id": 10002,
+    "en": "Victors Hollow: Arena Gate",
+    "vi": "Victors Hollow: Cổng Đấu trường",
+    "api_translated": true
+  },
+  {
+    "id": 10003,
+    "en": "Victors Hollow: Old Quarter",
+    "vi": "Victors Hollow: Khu Phố cổ",
+    "api_translated": true
+  },
+  {
+    "id": 10004,
+    "en": "Arena",
+    "vi": "Đấu trường",
+    "api_translated": true
+  },
+  {
+    "id": 10005,
+    "en": "Victors Hollow Trail",
+    "vi": "Đường mòn Victors Hollow",
+    "api_translated": true
+  },
+  {
+    "id": 10006,
+    "en": "Subterranean Arena",
+    "vi": "Đấu trường ngầm",
+    "api_translated": true
+  },
+  {
+    "id": 10007,
+    "en": "Leopaldi's Estate",
+    "vi": "Dinh thự Leopaldi",
+    "api_translated": true
+  },
+  {
+    "id": 16121,
+    "en": "Herminia's Former Manse: Terrace",
+    "vi": "Dinh thự cũ của Herminia: Sân thượng",
+    "api_translated": true
+  },
+  {
+    "id": 16119,
+    "en": "Herminia's Former Manse",
+    "vi": "Dinh thự cũ của Herminia",
+    "api_translated": true
+  },
+  {
+    "id": 10008,
+    "en": "Great Tree's Tears",
+    "vi": "Nước mắt Cây Đại thụ",
+    "api_translated": true
+  },
+  {
+    "id": 16010,
+    "en": "Flamesgrace",
+    "vi": "Flamesgrace",
+    "api_translated": true
+  },
+  {
+    "id": 16011,
+    "en": "Flamesgrace Cathedral: Entrance",
+    "vi": "Thánh đường Flamesgrace: Lối vào",
+    "api_translated": true
+  },
+  {
+    "id": 16012,
+    "en": "Flamesgrace Cathedral",
+    "vi": "Thánh đường Flamesgrace",
+    "api_translated": true
+  },
+  {
+    "id": 16042,
+    "en": "Flamesgrace Wilds",
+    "vi": "Vùng hoang dã Flamesgrace",
+    "api_translated": true
+  },
+  {
+    "id": 16063,
+    "en": "Cathedral of Tytos: Underground",
+    "vi": "Thánh đường Tytos: Hầm ngục",
+    "api_translated": true
+  },
+  {
+    "id": 16064,
+    "en": "Emberglow Laboratory: Inner Chambers",
+    "vi": "Phòng thí nghiệm Emberglow: Nội viện",
+    "api_translated": true
+  },
+  {
+    "id": 16106,
+    "en": "Valley of the Flame",
+    "vi": "Thung lũng Ngọn lửa",
+    "api_translated": true
+  },
+  {
+    "id": 16107,
+    "en": "Path to the Cave of Origin",
+    "vi": "Đường đến Hang Cội nguồn",
+    "api_translated": true
+  },
+  {
+    "id": 16108,
+    "en": "Cave of Origin",
+    "vi": "Hang Cội nguồn",
+    "api_translated": true
+  },
+  {
+    "id": 16014,
+    "en": "Sufrataljah",
+    "vi": "Sufrataljah",
+    "api_translated": true
+  },
+  {
+    "id": 16015,
+    "en": "Sufrataljah: Palace Entrance",
+    "vi": "Sufrataljah: Cổng Cung điện",
+    "api_translated": true
+  },
+  {
+    "id": 16016,
+    "en": "Sufrataljah Sands",
+    "vi": "Sa mạc Sufrataljah",
+    "api_translated": true
+  },
+  {
+    "id": 16068,
+    "en": "Eternal Quicksand",
+    "vi": "Cát lún Vĩnh hằng",
+    "api_translated": true
+  },
+  {
+    "id": 16017,
+    "en": "Sufrataljah: Palace",
+    "vi": "Sufrataljah: Cung điện",
+    "api_translated": true
+  },
+  {
+    "id": 16018,
+    "en": "Sufrataljah: Palace - Upper Floor",
+    "vi": "Sufrataljah: Cung điện - Tầng trên",
+    "api_translated": true
+  },
+  {
+    "id": 16115,
+    "en": "Golden Palace: Upper Floor",
+    "vi": "Cung điện Vàng: Tầng trên",
+    "api_translated": true
+  },
+  {
+    "id": 16116,
+    "en": "Golden Palace: Middle Floor",
+    "vi": "Cung điện Vàng: Tầng giữa",
+    "api_translated": true
+  },
+  {
+    "id": 16117,
+    "en": "Golden Palace: Lower Floor",
+    "vi": "Cung điện Vàng: Tầng dưới",
+    "api_translated": true
+  },
+  {
+    "id": 16141,
+    "en": "Silver Spring",
+    "vi": "Suối Bạc",
+    "api_translated": true
+  },
+  {
+    "id": 16024,
+    "en": "Donescu",
+    "vi": "Donescu",
+    "api_translated": true
+  },
+  {
+    "id": 16025,
+    "en": "Donescu Castle",
+    "vi": "Lâu đài Donescu",
+    "api_translated": true
+  },
+  {
+    "id": 16026,
+    "en": "Donescu Traverse",
+    "vi": "Đường ngang Donescu",
+    "api_translated": true
+  },
+  {
+    "id": 16027,
+    "en": "East Cyphlo Banks",
+    "vi": "Bờ Đông Cyphlo",
+    "api_translated": true
+  },
+  {
+    "id": 16028,
+    "en": "Cyphlo Banks",
+    "vi": "Bờ Cyphlo",
+    "api_translated": true
+  },
+  {
+    "id": 16029,
+    "en": "Misty Falls",
+    "vi": "Thác Sương mù",
+    "api_translated": true
+  },
+  {
+    "id": 16034,
+    "en": "Grandport",
+    "vi": "Grandport",
+    "api_translated": true
+  },
+  {
+    "id": 16035,
+    "en": "Grandport Markets",
+    "vi": "Chợ Grandport",
+    "api_translated": true
+  },
+  {
+    "id": 16036,
+    "en": "Grandport Bazaar",
+    "vi": "Khu buôn bán Grandport",
+    "api_translated": true
+  },
+  {
+    "id": 16087,
+    "en": "Grandport: Estate Entrance",
+    "vi": "Grandport: Lối vào Dinh thự",
+    "api_translated": true
+  },
+  {
+    "id": 16037,
+    "en": "Grandport Coast",
+    "vi": "Bờ biển Grandport",
+    "api_translated": true
+  },
+  {
+    "id": 16085,
+    "en": "Grandport Sewers",
+    "vi": "Cống ngầm Grandport",
+    "api_translated": true
+  },
+  {
+    "id": 16086,
+    "en": "Grandport Sewers: Depths",
+    "vi": "Cống ngầm Grandport: Tầng sâu",
+    "api_translated": true
+  },
+  {
+    "id": 16038,
+    "en": "Sea Cavern",
+    "vi": "Hang động Biển",
+    "api_translated": true
+  },
+  {
+    "id": 16054,
+    "en": "Atlasdam Flats",
+    "vi": "Đồng bằng Atlasdam",
+    "api_translated": true
+  },
+  {
+    "id": 16062,
+    "en": "West Theatropolis Plains",
+    "vi": "Đồng bằng phía Tây Theatropolis",
+    "api_translated": true
+  },
+  {
+    "id": 16055,
+    "en": "Atlasdam",
+    "vi": "Atlasdam",
+    "api_translated": true
+  },
+  {
+    "id": 16056,
+    "en": "Atlasdam Palace Gate",
+    "vi": "Cổng Cung điện Atlasdam",
+    "api_translated": true
+  },
+  {
+    "id": 16104,
+    "en": "Atlasdam Palace",
+    "vi": "Cung điện Atlasdam",
+    "api_translated": true
+  },
+  {
+    "id": 16105,
+    "en": "Royal Academy of Atlasdam",
+    "vi": "Học viện Hoàng gia Atlasdam",
+    "api_translated": true
+  },
+  {
+    "id": 16142,
+    "en": "Berecain",
+    "vi": "Berecain",
+    "api_translated": true
+  },
+  {
+    "id": 16143,
+    "en": "Berecain Pass: Base",
+    "vi": "Đèo Berecain: Chân đèo",
+    "api_translated": true
+  },
+  {
+    "id": 16144,
+    "en": "Berecain Pass",
+    "vi": "Đèo Berecain",
+    "api_translated": true
+  },
+  {
+    "id": 16145,
+    "en": "Sweltering Cave",
+    "vi": "Hang động Nóng bức",
+    "api_translated": true
+  },
+  {
+    "id": 16118,
+    "en": "Mt. Berecain",
+    "vi": "Núi Berecain",
+    "api_translated": true
+  },
+  {
+    "id": 16146,
+    "en": "Mt. Berecain: Depths",
+    "vi": "Núi Berecain: Tầng sâu",
+    "api_translated": true
+  },
+  {
+    "id": 16147,
+    "en": "Forbidden Temple: Upper Floor",
+    "vi": "Đền thờ Cấm: Tầng trên",
+    "api_translated": true
+  },
+  {
+    "id": 16148,
+    "en": "Forbidden Temple: Lower Floor",
+    "vi": "Đền thờ Cấm: Tầng dưới",
+    "api_translated": true
+  },
+  {
+    "id": 16162,
+    "en": "Isle of Orsa: Underground Altar",
+    "vi": "Đảo Orsa: Bàn thờ Hầm ngục",
+    "api_translated": true
+  },
+  {
+    "id": 16207,
+    "en": "Isle of Sages",
+    "vi": "Đảo Hiền giả",
+    "api_translated": true
+  },
+  {
+    "id": 16170,
+    "en": "Tatloch's Ship",
+    "vi": "Tàu của Tatloch",
+    "api_translated": true
+  },
+  {
+    "id": 16175,
+    "en": "Castle Edoras: Courtyard",
+    "vi": "Lâu đài Edoras: Sân trong",
+    "api_translated": true
+  },
+  {
+    "id": 16176,
+    "en": "Castle Edoras: Queen's Chambers",
+    "vi": "Lâu đài Edoras: Phòng Nữ hoàng",
+    "api_translated": true
+  },
+  {
+    "id": 16177,
+    "en": "Castle Edoras: Throne Room",
+    "vi": "Lâu đài Edoras: Phòng Ngai vàng",
+    "api_translated": true
+  },
+  {
+    "id": 16178,
+    "en": "Hell: Cragspear",
+    "vi": "Địa ngục: Cragspear",
+    "api_translated": true
+  },
+  {
+    "id": 16179,
+    "en": "Hell: Cragspear - Slums",
+    "vi": "Địa ngục: Cragspear - Khu ổ chuột",
+    "api_translated": true
+  },
+  {
+    "id": 16180,
+    "en": "Hell: Cragspear Pass",
+    "vi": "Địa ngục: Đèo Cragspear",
+    "api_translated": true
+  },
+  {
+    "id": 16181,
+    "en": "Hell: South Cragspear Pass",
+    "vi": "Địa ngục: Đèo Cragspear phía Nam",
+    "api_translated": true
+  },
+  {
+    "id": 16182,
+    "en": "Hell: Geist Canyon South",
+    "vi": "Địa ngục: Hẻm núi Geist phía Nam",
+    "api_translated": true
+  },
+  {
+    "id": 16183,
+    "en": "Hell: Geist Canyon",
+    "vi": "Địa ngục: Hẻm núi Geist",
+    "api_translated": true
+  },
+  {
+    "id": 16184,
+    "en": "Hell: Valore",
+    "vi": "Địa ngục: Valore",
+    "api_translated": true
+  },
+  {
+    "id": 16185,
+    "en": "Hell: Valore - Main Boulevard",
+    "vi": "Địa ngục: Valore - Đại lộ Chính",
+    "api_translated": true
+  },
+  {
+    "id": 16186,
+    "en": "Hell: Valore Forest",
+    "vi": "Địa ngục: Rừng Valore",
+    "api_translated": true
+  },
+  {
+    "id": 16187,
+    "en": "Hell: Path to White Grape Hill",
+    "vi": "Địa ngục: Đường đến Đồi Nho Trắng",
+    "api_translated": true
+  },
+  {
+    "id": 16188,
+    "en": "Hell: White Grape Hill",
+    "vi": "Địa ngục: Đồi Nho Trắng",
+    "api_translated": true
+  },
+  {
+    "id": 90082,
+    "en": "Hell: Castle Edoras - 1F",
+    "vi": "Địa ngục: Lâu đài Edoras - Tầng 1",
+    "api_translated": true
+  },
+  {
+    "id": 90083,
+    "en": "Hell: Castle Edoras - 2F",
+    "vi": "Địa ngục: Lâu đài Edoras - Tầng 2",
+    "api_translated": true
+  },
+  {
+    "id": 90084,
+    "en": "Hell: Castle Edoras - Remembrance Hall",
+    "vi": "Địa ngục: Lâu đài Edoras - Sảnh Tưởng niệm",
+    "api_translated": true
+  },
+  {
+    "id": 90085,
+    "en": "Hell: Castle Edoras - 3F",
+    "vi": "Địa ngục: Lâu đài Edoras - Tầng 3",
+    "api_translated": true
+  },
+  {
+    "id": 90086,
+    "en": "Hell: Castle Edoras - Remembrance Hall",
+    "vi": "Địa ngục: Lâu đài Edoras - Sảnh Tưởng niệm",
+    "api_translated": true
+  },
+  {
+    "id": 90087,
+    "en": "Hell: Castle Edoras - 4F",
+    "vi": "Địa ngục: Lâu đài Edoras - Tầng 4",
+    "api_translated": true
+  },
+  {
+    "id": 90088,
+    "en": "Hell: Castle Edoras - Remembrance Hall",
+    "vi": "Địa ngục: Lâu đài Edoras - Sảnh Tưởng niệm",
+    "api_translated": true
+  },
+  {
+    "id": 90089,
+    "en": "Hell: Castle Edoras - 5F",
+    "vi": "Địa ngục: Lâu đài Edoras - Tầng 5",
+    "api_translated": true
+  },
+  {
+    "id": 90090,
+    "en": "Hell: Castle Edoras - 6F",
+    "vi": "Địa ngục: Lâu đài Edoras - Tầng 6",
+    "api_translated": true
+  },
+  {
+    "id": 90091,
+    "en": "Hell: Castle Edoras - Remembrance Hall",
+    "vi": "Địa ngục: Lâu đài Edoras - Sảnh Tưởng niệm",
+    "api_translated": true
+  },
+  {
+    "id": 16217,
+    "en": "Ridge of the Imprisoned God",
+    "vi": "Dãy núi của Vị thần bị Giam cầm",
+    "api_translated": true
+  },
+  {
+    "id": 16242,
+    "en": "Hell: Hornburg Pass",
+    "vi": "Địa ngục: Đèo Hornburg",
+    "api_translated": true
+  },
+  {
+    "id": 16219,
+    "en": "Hell: Hornburg",
+    "vi": "Địa ngục: Hornburg",
+    "api_translated": true
+  },
+  {
+    "id": 16220,
+    "en": "Hell: Hornburg Castle Gate",
+    "vi": "Địa ngục: Cổng Lâu đài Hornburg",
+    "api_translated": true
+  },
+  {
+    "id": 16237,
+    "en": "Hell: Hornburg Castle",
+    "vi": "Địa ngục: Lâu đài Hornburg",
+    "api_translated": true
+  },
+  {
+    "id": 16304,
+    "en": "Hell: Hornburg Castle - West",
+    "vi": "Địa ngục: Lâu đài Hornburg - Phía Tây",
+    "api_translated": true
+  },
+  {
+    "id": 16238,
+    "en": "Hell: Hornburg Castle - Central Area",
+    "vi": "Địa ngục: Lâu đài Hornburg - Khu Trung tâm",
+    "api_translated": true
+  },
+  {
+    "id": 16305,
+    "en": "Hell: Hornburg Castle - Eastern Central Area",
+    "vi": "Địa ngục: Lâu đài Hornburg - Khu Trung tâm phía Đông",
+    "api_translated": true
+  },
+  {
+    "id": 16306,
+    "en": "Hell: Hornburg Castle - Western Central Area",
+    "vi": "Địa ngục: Lâu đài Hornburg - Khu Trung tâm phía Tây",
+    "api_translated": true
+  },
+  {
+    "id": 16239,
+    "en": "Wealth's Dominion",
+    "vi": "Lãnh địa của Sự giàu sang",
+    "api_translated": true
+  },
+  {
+    "id": 16247,
+    "en": "Hornburg Battle Ruins",
+    "vi": "Tàn tích Chiến trường Hornburg",
+    "api_translated": true
+  },
+  {
+    "id": 16250,
+    "en": "Corridors of Contrition",
+    "vi": "Hành lang Hối lỗi",
+    "api_translated": true
+  },
+  {
+    "id": 16251,
+    "en": "Corridors of Contrition: Back Halls",
+    "vi": "Hành lang Hối lỗi: Sảnh sau",
+    "api_translated": true
+  },
+  {
+    "id": 16252,
+    "en": "The Bridge Beyond",
+    "vi": "Cây cầu Vượt giới",
+    "api_translated": true
+  },
+  {
+    "id": 16261,
+    "en": "Fame's Dominion",
+    "vi": "Lãnh địa của Danh vọng",
+    "api_translated": true
+  },
+  {
+    "id": 16271,
+    "en": "Crimson River Traverse",
+    "vi": "Đường ngang Sông Đỏ",
+    "api_translated": true
+  },
+  {
+    "id": 16272,
+    "en": "Hell's Abyss",
+    "vi": "Vực thẳm Địa ngục",
+    "api_translated": true
+  },
+  {
+    "id": 16341,
+    "en": "Garden of Sin",
+    "vi": "Vườn Tội lỗi",
+    "api_translated": true
+  },
+  {
+    "id": 16273,
+    "en": "Skies of Vanity",
+    "vi": "Bầu trời Phù hoa",
+    "api_translated": true
+  },
+  {
+    "id": 16274,
+    "en": "Seas of Servility",
+    "vi": "Biển Nô lệ",
+    "api_translated": true
+  },
+  {
+    "id": 16275,
+    "en": "Seas of Servility: Hollow Path",
+    "vi": "Biển Nô lệ: Lối đi Rỗng",
+    "api_translated": true
+  },
+  {
+    "id": 16350,
+    "en": "Seas of Servility: Hollow Path",
+    "vi": "Biển Nô lệ: Lối đi Rỗng",
+    "api_translated": true
+  },
+  {
+    "id": 16351,
+    "en": "Seas of Servility: Divine Path",
+    "vi": "Biển Nô lệ: Lối đi Thần thánh",
+    "api_translated": true
+  },
+  {
+    "id": 16357,
+    "en": "Seas of Servility: Hollow Path",
+    "vi": "Biển Nô lệ: Lối đi Rỗng",
+    "api_translated": true
+  },
+  {
+    "id": 16358,
+    "en": "Seas of Servility: Hollow Path",
+    "vi": "Biển Nô lệ: Lối đi Rỗng",
+    "api_translated": true
+  },
+  {
+    "id": 16307,
+    "en": "Sands of Rapacity",
+    "vi": "Cát Tham vọng",
+    "api_translated": true
+  },
+  {
+    "id": 16342,
+    "en": "Altar of Heavenly Peals",
+    "vi": "Bàn thờ Tiếng chuông Thiên đường",
+    "api_translated": true
+  },
+  {
+    "id": 16310,
+    "en": "Agapea",
+    "vi": "Agapea",
+    "api_translated": true
+  },
+  {
+    "id": 16311,
+    "en": "Path to the Flamebearer's Shrine",
+    "vi": "Đường đến Điện thờ Người giữ Lửa",
+    "api_translated": true
+  },
+  {
+    "id": 16312,
+    "en": "Flamebearer's Shrine",
+    "vi": "Điện thờ Người giữ Lửa",
+    "api_translated": true
+  },
+  {
+    "id": 16315,
+    "en": "Flamebearer's Shrine: Sanctum",
+    "vi": "Điện thờ Người giữ Lửa: Thánh đường",
+    "api_translated": true
+  },
+  {
+    "id": 16313,
+    "en": "Gate of Orsa",
+    "vi": "Cổng Orsa",
+    "api_translated": true
+  },
+  {
+    "id": 16359,
+    "en": "Cragspear",
+    "vi": "Cragspear",
+    "api_translated": true
+  },
+  {
+    "id": 16361,
+    "en": "Castle Edoras Gate",
+    "vi": "Cổng Lâu đài Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 16363,
+    "en": "Castle Edoras: Courtyard",
+    "vi": "Lâu đài Edoras: Sân trong",
+    "api_translated": true
+  },
+  {
+    "id": 90011,
+    "en": "Wishvale Trail",
+    "vi": "Đường mòn Wishvale",
+    "api_translated": true
+  },
+  {
+    "id": 90021,
+    "en": "Cerulean Caverns",
+    "vi": "Hang động Cerulean",
+    "api_translated": true
+  },
+  {
+    "id": 90031,
+    "en": "Cathedral of Ash",
+    "vi": "Thánh đường Tro tàn",
+    "api_translated": true
+  },
+  {
+    "id": 90062,
+    "en": "Cathedral of Ash: Underground",
+    "vi": "Thánh đường Tro tàn: Hầm ngầm",
+    "api_translated": true
+  },
+  {
+    "id": 90041,
+    "en": "Utopia: Wishvale",
+    "vi": "Utopia: Wishvale",
+    "api_translated": true
+  },
+  {
+    "id": 90051,
+    "en": "???",
+    "vi": "???",
+    "api_translated": true
+  },
+  {
+    "id": 90061,
+    "en": "Sunken Ship",
+    "vi": "Tàu đắm",
+    "api_translated": true
+  },
+  {
+    "id": 90072,
+    "en": "Middlesea",
+    "vi": "Biển Trung tâm",
+    "api_translated": true
+  },
+  {
+    "id": 90081,
+    "en": "Outersea",
+    "vi": "Biển Ngoài",
+    "api_translated": true
+  },
+  {
+    "id": 90073,
+    "en": "Man-Eating Miser's Hideout",
+    "vi": "Hang ổ Kẻ bủn xỉn ăn thịt người",
+    "api_translated": true
+  },
+  {
+    "id": 90074,
+    "en": "Isle in the Middlesea",
+    "vi": "Đảo giữa Biển Trung tâm",
+    "api_translated": true
+  },
+  {
+    "id": 90075,
+    "en": "Isle in the Outersea: West",
+    "vi": "Đảo giữa Biển Ngoài: Phía Tây",
+    "api_translated": true
+  },
+  {
+    "id": 90076,
+    "en": "Shipwreck Island",
+    "vi": "Đảo Tàu đắm",
+    "api_translated": true
+  },
+  {
+    "id": 90077,
+    "en": "Isle in the Outersea: East",
+    "vi": "Đảo giữa Biển Ngoài: Phía Đông",
+    "api_translated": true
+  },
+  {
+    "id": 90078,
+    "en": "Desert Island in the Outersea",
+    "vi": "Đảo Sa mạc giữa Biển Ngoài",
+    "api_translated": true
+  },
+  {
+    "id": 90079,
+    "en": "Isle of Heroes Past",
+    "vi": "Đảo của những Anh hùng quá cố",
+    "api_translated": true
+  },
+  {
+    "id": 90080,
+    "en": "Cove of Clouds",
+    "vi": "Vịnh Mây",
+    "api_translated": true
+  },
+  {
+    "id": 90092,
+    "en": "Valore",
+    "vi": "Valore",
+    "api_translated": true
+  },
+  {
+    "id": 90093,
+    "en": "Valore: Main Boulevard",
+    "vi": "Valore: Đại lộ Chính",
+    "api_translated": true
+  },
+  {
+    "id": 90094,
+    "en": "Wishvale",
+    "vi": "Wishvale",
+    "api_translated": true
+  },
+  {
+    "id": 90095,
+    "en": "Wishvale",
+    "vi": "Wishvale",
+    "api_translated": true
+  },
+  {
+    "id": 90096,
+    "en": "Wishvale",
+    "vi": "Wishvale",
+    "api_translated": true
+  },
+  {
+    "id": 90098,
+    "en": "Banquet of Nought: Main Hall",
+    "vi": "Yến tiệc Hư vô: Đại sảnh",
+    "api_translated": true
+  },
+  {
+    "id": 6402,
+    "en": "Cragspear Pass",
+    "vi": "Đèo Cragspear",
+    "api_translated": true
+  },
+  {
+    "id": 6403,
+    "en": "Cragspear",
+    "vi": "Cragspear",
+    "api_translated": true
+  },
+  {
+    "id": 6404,
+    "en": "Gray Grotto",
+    "vi": "Hang động Xám",
+    "api_translated": true
+  },
+  {
+    "id": 6405,
+    "en": "South Cragspear Pass",
+    "vi": "Đèo Cragspear phía Nam",
+    "api_translated": true
+  },
+  {
+    "id": 6406,
+    "en": "Geist Canyon",
+    "vi": "Hẻm núi Geist",
+    "api_translated": true
+  },
+  {
+    "id": 6407,
+    "en": "Road to Castle Edoras",
+    "vi": "Đường đến Lâu đài Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 6408,
+    "en": "Castle Edoras",
+    "vi": "Lâu đài Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 6409,
+    "en": "Rippletide",
+    "vi": "Rippletide",
+    "api_translated": true
+  },
+  {
+    "id": 6410,
+    "en": "Rippletide Coast",
+    "vi": "Bờ biển Rippletide",
+    "api_translated": true
+  },
+  {
+    "id": 6411,
+    "en": "North Rippletide Coast",
+    "vi": "Bờ biển Rippletide phía Bắc",
+    "api_translated": true
+  },
+  {
+    "id": 6412,
+    "en": "Isle of Orsa",
+    "vi": "Đảo Orsa",
+    "api_translated": true
+  },
+  {
+    "id": 6413,
+    "en": "Sunshade",
+    "vi": "Sunshade",
+    "api_translated": true
+  },
+  {
+    "id": 6414,
+    "en": "Sunshade Sands",
+    "vi": "Cát Sunshade",
+    "api_translated": true
+  },
+  {
+    "id": 6415,
+    "en": "Eastern Sunshade Sands",
+    "vi": "Cát Sunshade phía Đông",
+    "api_translated": true
+  },
+  {
+    "id": 6419,
+    "en": "Shepherds Rock Pass",
+    "vi": "Đèo Shepherds Rock",
+    "api_translated": true
+  },
+  {
+    "id": 6420,
+    "en": "North Shepherds Rock Pass",
+    "vi": "Đèo Shepherds Rock phía Bắc",
+    "api_translated": true
+  },
+  {
+    "id": 6421,
+    "en": "Valley of Death",
+    "vi": "Thung lũng Tử thần",
+    "api_translated": true
+  },
+  {
+    "id": 6423,
+    "en": "Valore",
+    "vi": "Valore",
+    "api_translated": true
+  },
+  {
+    "id": 16112,
+    "en": "Valore",
+    "vi": "Valore",
+    "api_translated": true
+  },
+  {
+    "id": 6424,
+    "en": "Valore Trail",
+    "vi": "Đường mòn Valore",
+    "api_translated": true
+  },
+  {
+    "id": 6425,
+    "en": "West Valore Trail",
+    "vi": "Đường mòn Valore phía Tây",
+    "api_translated": true
+  },
+  {
+    "id": 6426,
+    "en": "Path to Herminia's Manse",
+    "vi": "Đường đến Dinh thự của Herminia",
+    "api_translated": true
+  },
+  {
+    "id": 6427,
+    "en": "Herminia's Manse",
+    "vi": "Dinh thự của Herminia",
+    "api_translated": true
+  },
+  {
+    "id": 6428,
+    "en": "Auguste's Villa",
+    "vi": "Biệt thự của Auguste",
+    "api_translated": true
+  },
+  {
+    "id": 6429,
+    "en": "Emberglow",
+    "vi": "Emberglow",
+    "api_translated": true
+  },
+  {
+    "id": 6430,
+    "en": "Emberglow Wilds",
+    "vi": "Vùng hoang dã Emberglow",
+    "api_translated": true
+  },
+  {
+    "id": 6431,
+    "en": "West Emberglow Wilds",
+    "vi": "Vùng hoang dã Emberglow phía Tây",
+    "api_translated": true
+  },
+  {
+    "id": 16003,
+    "en": "Emberglow Laboratory",
+    "vi": "Phòng thí nghiệm Emberglow",
+    "api_translated": true
+  },
+  {
+    "id": 6433,
+    "en": "Ceremonial Square",
+    "vi": "Quảng trường Nghi lễ",
+    "api_translated": true
+  },
+  {
+    "id": 16140,
+    "en": "Cathedral of Tytos",
+    "vi": "Thánh đường Tytos",
+    "api_translated": true
+  },
+  {
+    "id": 16065,
+    "en": "(Unlocalized)",
+    "vi": "(Chưa dịch)"
+  },
+  {
+    "id": 6434,
+    "en": "Snowbloom Ruins",
+    "vi": "Tàn tích Snowbloom",
+    "api_translated": true
+  },
+  {
+    "id": 6438,
+    "en": "Clearbrook",
+    "vi": "Clearbrook",
+    "api_translated": true
+  },
+  {
+    "id": 6439,
+    "en": "Clearbrook Traverse",
+    "vi": "Đường băng qua Clearbrook",
+    "api_translated": true
+  },
+  {
+    "id": 6440,
+    "en": "East Clearbrook Traverse",
+    "vi": "Đường băng qua Clearbrook phía Đông",
+    "api_translated": true
+  },
+  {
+    "id": 16004,
+    "en": "Path to Waterpool Caves",
+    "vi": "Đường đến Hang động Waterpool",
+    "api_translated": true
+  },
+  {
+    "id": 6441,
+    "en": "Waterpool Caves",
+    "vi": "Hang động Waterpool",
+    "api_translated": true
+  },
+  {
+    "id": 6442,
+    "en": "Theatropolis",
+    "vi": "Theatropolis",
+    "api_translated": true
+  },
+  {
+    "id": 6443,
+    "en": "Theatropolis Plains",
+    "vi": "Đồng bằng Theatropolis",
+    "api_translated": true
+  },
+  {
+    "id": 6444,
+    "en": "North Theatropolis Plains",
+    "vi": "Đồng bằng Theatropolis phía Bắc",
+    "api_translated": true
+  },
+  {
+    "id": 6445,
+    "en": "Amphitheatre: Rehearsal Room",
+    "vi": "Nhà hát: Phòng tập",
+    "api_translated": true
+  },
+  {
+    "id": 6446,
+    "en": "Amphitheatre: Backstage",
+    "vi": "Nhà hát: Hậu trường",
+    "api_translated": true
+  },
+  {
+    "id": 6447,
+    "en": "Knights Ardante Garrison",
+    "vi": "Doanh trại Hiệp sĩ Ardante",
+    "api_translated": true
+  },
+  {
+    "id": 6464,
+    "en": "Emberglow Slopes",
+    "vi": "Dốc Emberglow",
+    "api_translated": true
+  },
+  {
+    "id": 6465,
+    "en": "Shepherds Rock",
+    "vi": "Shepherds Rock",
+    "api_translated": true
+  },
+  {
+    "id": 6466,
+    "en": "Stillwater Subterrane",
+    "vi": "Hầm ngầm Stillwater",
+    "api_translated": true
+  },
+  {
+    "id": 6468,
+    "en": "Finesand Ruins",
+    "vi": "Tàn tích Finesand",
+    "api_translated": true
+  },
+  {
+    "id": 6470,
+    "en": "Cavern of Mists",
+    "vi": "Hang động Sương mù",
+    "api_translated": true
+  },
+  {
+    "id": 6471,
+    "en": "Serpent's Burrow",
+    "vi": "Hang Rắn",
+    "api_translated": true
+  },
+  {
+    "id": 6474,
+    "en": "Snowshard Grotto",
+    "vi": "Hang động Snowshard",
+    "api_translated": true
+  },
+  {
+    "id": 16001,
+    "en": "Victors Hollow",
+    "vi": "Victors Hollow",
+    "api_translated": true
+  },
+  {
+    "id": 16007,
+    "en": "Victors Hollow Trail",
+    "vi": "Đường mòn Victors Hollow",
+    "api_translated": true
+  },
+  {
+    "id": 16008,
+    "en": "Subterranean Arena",
+    "vi": "Đấu trường Ngầm",
+    "api_translated": true
+  },
+  {
+    "id": 16120,
+    "en": "Herminia's Former Manse",
+    "vi": "Dinh thự cũ của Herminia",
+    "api_translated": true
+  },
+  {
+    "id": 16009,
+    "en": "Great Tree's Tears",
+    "vi": "Nước mắt Cây Đại thụ",
+    "api_translated": true
+  },
+  {
+    "id": 16013,
+    "en": "Flamesgrace",
+    "vi": "Flamesgrace",
+    "api_translated": true
+  },
+  {
+    "id": 16044,
+    "en": "Flamesgrace Wilds",
+    "vi": "Vùng hoang dã Flamesgrace",
+    "api_translated": true
+  },
+  {
+    "id": 16139,
+    "en": "Valley of the Flame",
+    "vi": "Thung lũng Lửa",
+    "api_translated": true
+  },
+  {
+    "id": 16110,
+    "en": "Path to the Cave of Origin",
+    "vi": "Đường đến Hang Nguồn",
+    "api_translated": true
+  },
+  {
+    "id": 16109,
+    "en": "Cave of Origin",
+    "vi": "Hang Nguồn",
+    "api_translated": true
+  },
+  {
+    "id": 16020,
+    "en": "Sufrataljah",
+    "vi": "Sufrataljah",
+    "api_translated": true
+  },
+  {
+    "id": 16021,
+    "en": "Sufrataljah Sands",
+    "vi": "Cát Sufrataljah",
+    "api_translated": true
+  },
+  {
+    "id": 16022,
+    "en": "Sufrataljah: Palace",
+    "vi": "Sufrataljah: Cung điện",
+    "api_translated": true
+  },
+  {
+    "id": 16030,
+    "en": "Donescu",
+    "vi": "Donescu",
+    "api_translated": true
+  },
+  {
+    "id": 16031,
+    "en": "Donescu Traverse",
+    "vi": "Đường băng qua Donescu",
+    "api_translated": true
+  },
+  {
+    "id": 16032,
+    "en": "Cyphlo Banks",
+    "vi": "Bờ Cyphlo",
+    "api_translated": true
+  },
+  {
+    "id": 16033,
+    "en": "Misty Falls",
+    "vi": "Thác Sương mù",
+    "api_translated": true
+  },
+  {
+    "id": 16039,
+    "en": "Grandport",
+    "vi": "Grandport",
+    "api_translated": true
+  },
+  {
+    "id": 16040,
+    "en": "Grandport Coast",
+    "vi": "Bờ biển Grandport",
+    "api_translated": true
+  },
+  {
+    "id": 16041,
+    "en": "Sea Cavern",
+    "vi": "Hang động Biển",
+    "api_translated": true
+  },
+  {
+    "id": 16057,
+    "en": "Atlasdam Flats",
+    "vi": "Đồng bằng Atlasdam",
+    "api_translated": true
+  },
+  {
+    "id": 16058,
+    "en": "Atlasdam",
+    "vi": "Atlasdam",
+    "api_translated": true
+  },
+  {
+    "id": 16074,
+    "en": "Golden Palace",
+    "vi": "Cung điện Vàng",
+    "api_translated": true
+  },
+  {
+    "id": 16075,
+    "en": "Eternal Quicksand",
+    "vi": "Cát lún Vĩnh cửu",
+    "api_translated": true
+  },
+  {
+    "id": 16076,
+    "en": "Mt. Berecain",
+    "vi": "Núi Berecain",
+    "api_translated": true
+  },
+  {
+    "id": 16149,
+    "en": "Forbidden Temple",
+    "vi": "Đền thờ Cấm",
+    "api_translated": true
+  },
+  {
+    "id": 16077,
+    "en": "Sweltering Cave",
+    "vi": "Hang động Nóng bức",
+    "api_translated": true
+  },
+  {
+    "id": 16078,
+    "en": "Berecain Pass: Base",
+    "vi": "Chân đèo Berecain",
+    "api_translated": true
+  },
+  {
+    "id": 16079,
+    "en": "Berecain Pass",
+    "vi": "Đèo Berecain",
+    "api_translated": true
+  },
+  {
+    "id": 16080,
+    "en": "Berecain",
+    "vi": "Berecain",
+    "api_translated": true
+  },
+  {
+    "id": 16081,
+    "en": "West Theatropolis Plains",
+    "vi": "Đồng bằng phía Tây Theatropolis",
+    "api_translated": true
+  },
+  {
+    "id": 16082,
+    "en": "Grandport Sewers",
+    "vi": "Cống ngầm Grandport",
+    "api_translated": true
+  },
+  {
+    "id": 16083,
+    "en": "Flamebearer's Shrine",
+    "vi": "Điện thờ Flamebearer",
+    "api_translated": true
+  },
+  {
+    "id": 16209,
+    "en": "Middlesea",
+    "vi": "Biển Trung tâm",
+    "api_translated": true
+  },
+  {
+    "id": 16216,
+    "en": "Castle Edoras",
+    "vi": "Lâu đài Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 16224,
+    "en": "Hell: Cragspear",
+    "vi": "Địa ngục: Cragspear",
+    "api_translated": true
+  },
+  {
+    "id": 16233,
+    "en": "Hell: Cragspear Pass",
+    "vi": "Địa ngục: Đèo Cragspear",
+    "api_translated": true
+  },
+  {
+    "id": 16241,
+    "en": "Hell: South Cragspear Pass",
+    "vi": "Địa ngục: Đèo Cragspear phía Nam",
+    "api_translated": true
+  },
+  {
+    "id": 16225,
+    "en": "Hell: Geist Canyon",
+    "vi": "Địa ngục: Hẻm núi Geist",
+    "api_translated": true
+  },
+  {
+    "id": 16226,
+    "en": "Hell: Valore",
+    "vi": "Địa ngục: Valore",
+    "api_translated": true
+  },
+  {
+    "id": 16227,
+    "en": "Hell: Valore Forest",
+    "vi": "Địa ngục: Rừng Valore",
+    "api_translated": true
+  },
+  {
+    "id": 16253,
+    "en": "Hell: Path to White Grape Hill",
+    "vi": "Địa ngục: Đường đến Đồi Nho Trắng",
+    "api_translated": true
+  },
+  {
+    "id": 16254,
+    "en": "Hell: White Grape Hill",
+    "vi": "Địa ngục: Đồi Nho Trắng",
+    "api_translated": true
+  },
+  {
+    "id": 16257,
+    "en": "Hell: Castle Edoras",
+    "vi": "Địa ngục: Lâu đài Edoras",
+    "api_translated": true
+  },
+  {
+    "id": 16232,
+    "en": "Hell: Hornburg",
+    "vi": "Địa ngục: Hornburg",
+    "api_translated": true
+  },
+  {
+    "id": 16255,
+    "en": "Hell: Hornburg Pass",
+    "vi": "Địa ngục: Đèo Hornburg",
+    "api_translated": true
+  },
+  {
+    "id": 16256,
+    "en": "Hell: Hornburg Castle",
+    "vi": "Địa ngục: Lâu đài Hornburg",
+    "api_translated": true
+  },
+  {
+    "id": 16267,
+    "en": "Hornburg Battle Ruins",
+    "vi": "Tàn tích Chiến trường Hornburg",
+    "api_translated": true
+  },
+  {
+    "id": 16268,
+    "en": "Corridors of Contrition",
+    "vi": "Hành lang Hối lỗi",
+    "api_translated": true
+  },
+  {
+    "id": 16353,
+    "en": "Agapea",
+    "vi": "Agapea",
+    "api_translated": true
+  },
+  {
+    "id": 16356,
+    "en": "Gate of Orsa",
+    "vi": "Cổng Orsa",
+    "api_translated": true
+  },
+  {
+    "id": 90099,
+    "en": "You cannot proceed beyond here in the demo version.",
+    "vi": "Bạn không thể đi tiếp xa hơn trong phiên bản dùng thử.",
+    "api_translated": true
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "id": 0,
+    "text": [
+      "(Unlocalized)"
+    ],
+    "text_joined": "(Unlocalized)"
+  },
+  {
+    "id": 1,
+    "text": [
+      "Warrior"
+    ],
+    "text_joined": "Warrior"
+  },
+  {
+    "id": 2,
+    "text": [
+      "Apothecary"
+    ],
+    "text_joined": "Apothecary"
+  },
+  {
+    "id": 3,
+    "text": [
+      "Thief"
+    ],
+    "text_joined": "Thief"
+  },
+  {
+    "id": 4,
+    "text": [
+      "Scholar"
+    ],
+    "text_joined": "Scholar"
+  },
+  {
+    "id": 5,
+    "text": [
+      "Cleric"
+    ],
+    "text_joined": "Cleric"
+  },
+  {
+    "id": 6,
+    "text": [
+      "Hunter"
+    ],
+    "text_joined": "Hunter"
+  },
+  {
+    "id": 7,
+    "text": [
+      "Merchant"
+    ],
+    "text_joined": "Merchant"
+  },
+  {
+    "id": 8,
+    "text": [
+      "Dancer"
+    ],
+    "text_joined": "Dancer"
+  },
+  {
+    "id": 11,
+    "text": [
+      "Lord"
+    ],
+    "text_joined": "Lord"
+  },
+  {
+    "id": 12,
+    "text": [
+      "Queen"
+    ],
+    "text_joined": "Queen"
+  },
+  {
+    "id": 13,
+    "text": [
+      "King"
+    ],
+    "text_joined": "King"
+  },
+  {
+    "id": 14,
+    "text": [
+      "Wise King"
+    ],
+    "text_joined": "Wise King"
+  },
+  {
+    "id": 15,
+    "text": [
+      "Captain"
+    ],
+    "text_joined": "Captain"
+  },
+  {
+    "id": 16,
+    "text": [
+      "Knight Ardante"
+    ],
+    "text_joined": "Knight Ardante"
+  },
+  {
+    "id": 17,
+    "text": [
+      "Empress"
+    ],
+    "text_joined": "Empress"
+  },
+  {
+    "id": 18,
+    "text": [
+      "Architect"
+    ],
+    "text_joined": "Architect"
+  },
+  {
+    "id": 19,
+    "text": [
+      "Cait Scholar"
+    ],
+    "text_joined": "Cait Scholar"
+  },
+  {
+    "id": 20,
+    "text": [
+      "Flameguard"
+    ],
+    "text_joined": "Flameguard"
+  },
+  {
+    "id": 21,
+    "text": [
+      "Novice Watch Member"
+    ],
+    "text_joined": "Novice Watch Member"
+  },
+  {
+    "id": 22,
+    "text": [
+      "Novice Architect"
+    ],
+    "text_joined": "Novice Architect"
+  }
+]

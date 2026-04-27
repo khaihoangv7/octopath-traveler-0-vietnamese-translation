@@ -1,0 +1,709 @@
+[
+  {
+    "id": 0,
+    "text": [
+      "(Unlocalized)"
+    ],
+    "text_joined": "(Unlocalized)"
+  },
+  {
+    "id": 2,
+    "text": [
+      "{0}"
+    ],
+    "text_joined": "{0}"
+  },
+  {
+    "id": 11,
+    "text": [
+      "Select the skill you learned when you were young."
+    ],
+    "text_joined": "Select the skill you learned when you were young."
+  },
+  {
+    "id": 12,
+    "text": [
+      "Select your favorite dish."
+    ],
+    "text_joined": "Select your favorite dish."
+  },
+  {
+    "id": 13,
+    "text": [
+      "Enter the name of your favorite dish."
+    ],
+    "text_joined": "Enter the name of your favorite dish."
+  },
+  {
+    "id": 14,
+    "text": [
+      "Select 3 belongings."
+    ],
+    "text_joined": "Select 3 belongings."
+  },
+  {
+    "id": 15,
+    "text": [
+      "Finally, enter your name."
+    ],
+    "text_joined": "Finally, enter your name."
+  },
+  {
+    "id": 16,
+    "text": [
+      "Select your job."
+    ],
+    "text_joined": "Select your job."
+  },
+  {
+    "id": 17,
+    "text": [
+      "Select the mastery you achieved from training."
+    ],
+    "text_joined": "Select the mastery you achieved from training."
+  },
+  {
+    "id": 18,
+    "text": [
+      "Select your appearance."
+    ],
+    "text_joined": "Select your appearance."
+  },
+  {
+    "id": 19,
+    "text": [
+      "Proceed with this appearance?"
+    ],
+    "text_joined": "Proceed with this appearance?"
+  },
+  {
+    "id": 20,
+    "text": [
+      "Proceed with this learned skill?"
+    ],
+    "text_joined": "Proceed with this learned skill?"
+  },
+  {
+    "id": 21,
+    "text": [
+      "Proceed with this favorite dish?"
+    ],
+    "text_joined": "Proceed with this favorite dish?"
+  },
+  {
+    "id": 22,
+    "text": [
+      "Proceed with these belongings?"
+    ],
+    "text_joined": "Proceed with these belongings?"
+  },
+  {
+    "id": 23,
+    "text": [
+      "Proceed with this job?"
+    ],
+    "text_joined": "Proceed with this job?"
+  },
+  {
+    "id": 24,
+    "text": [
+      "Proceed with this mastery?"
+    ],
+    "text_joined": "Proceed with this mastery?"
+  },
+  {
+    "id": 25,
+    "text": [
+      "Learned Skill"
+    ],
+    "text_joined": "Learned Skill"
+  },
+  {
+    "id": 26,
+    "text": [
+      "Favorite Dish"
+    ],
+    "text_joined": "Favorite Dish"
+  },
+  {
+    "id": 27,
+    "text": [
+      "Belongings (3)"
+    ],
+    "text_joined": "Belongings (3)"
+  },
+  {
+    "id": 28,
+    "text": [
+      "Job"
+    ],
+    "text_joined": "Job"
+  },
+  {
+    "id": 29,
+    "text": [
+      "Mastery"
+    ],
+    "text_joined": "Mastery"
+  },
+  {
+    "id": 30,
+    "text": [
+      "Memory"
+    ],
+    "text_joined": "Memory"
+  },
+  {
+    "id": 35,
+    "text": [
+      "Learned Skill"
+    ],
+    "text_joined": "Learned Skill"
+  },
+  {
+    "id": 36,
+    "text": [
+      "Favorite Dish"
+    ],
+    "text_joined": "Favorite Dish"
+  },
+  {
+    "id": 37,
+    "text": [
+      "Belongings"
+    ],
+    "text_joined": "Belongings"
+  },
+  {
+    "id": 40,
+    "text": [
+      "Final Confirmation"
+    ],
+    "text_joined": "Final Confirmation"
+  },
+  {
+    "id": 41,
+    "text": [
+      "Continue <chara_name>'s journey?"
+    ],
+    "text_joined": "Continue <chara_name>'s journey?"
+  },
+  {
+    "id": 42,
+    "text": [
+      "Begin <chara_name>'s journey?"
+    ],
+    "text_joined": "Begin <chara_name>'s journey?"
+  },
+  {
+    "id": 43,
+    "text": [
+      "Confirm Settings"
+    ],
+    "text_joined": "Confirm Settings"
+  },
+  {
+    "id": 44,
+    "text": [
+      "Change Appearance"
+    ],
+    "text_joined": "Change Appearance"
+  },
+  {
+    "id": 45,
+    "text": [
+      "Change Learned Skill"
+    ],
+    "text_joined": "Change Learned Skill"
+  },
+  {
+    "id": 46,
+    "text": [
+      "Change Favorite Dish"
+    ],
+    "text_joined": "Change Favorite Dish"
+  },
+  {
+    "id": 47,
+    "text": [
+      "Change Belongings"
+    ],
+    "text_joined": "Change Belongings"
+  },
+  {
+    "id": 48,
+    "text": [
+      "Change Name"
+    ],
+    "text_joined": "Change Name"
+  },
+  {
+    "id": 49,
+    "text": [
+      "Change Job"
+    ],
+    "text_joined": "Change Job"
+  },
+  {
+    "id": 50,
+    "text": [
+      "Change Mastery"
+    ],
+    "text_joined": "Change Mastery"
+  },
+  {
+    "id": 51,
+    "text": [
+      "Begin Story"
+    ],
+    "text_joined": "Begin Story"
+  },
+  {
+    "id": 52,
+    "text": [
+      "Continue Story"
+    ],
+    "text_joined": "Continue Story"
+  },
+  {
+    "id": 53,
+    "text": [
+      "Mastery"
+    ],
+    "text_joined": "Mastery"
+  },
+  {
+    "id": 54,
+    "text": [
+      "Please enter your name."
+    ],
+    "text_joined": "Please enter your name."
+  },
+  {
+    "id": 55,
+    "text": [
+      "Please enter the name of your favorite dish."
+    ],
+    "text_joined": "Please enter the name of your favorite dish."
+  },
+  {
+    "id": 56,
+    "text": [
+      "Abandon changes?"
+    ],
+    "text_joined": "Abandon changes?"
+  },
+  {
+    "id": 57,
+    "text": [
+      "Your mother's specialty is {0}."
+    ],
+    "text_joined": "Your mother's specialty is {0}."
+  },
+  {
+    "id": 100,
+    "text": [
+      "Skilled with the sword, warriors specialize in physical attacks and\nboast high defenses. In time, they can grow to master a variety of\noffensive abilities."
+    ],
+    "text_joined": "Skilled with the sword, warriors specialize in physical attacks and\nboast high defenses. In time, they can grow to master a variety of\noffensive abilities."
+  },
+  {
+    "id": 101,
+    "text": [
+      "Healers who concoct medicines to treat the sick and injured.\nThough apothecaries excel at restoring HP and preventing status\nailments, they can also go on the offensive with their axes."
+    ],
+    "text_joined": "Healers who concoct medicines to treat the sick and injured.\nThough apothecaries excel at restoring HP and preventing status\nailments, they can also go on the offensive with their axes."
+  },
+  {
+    "id": 102,
+    "text": [
+      "Ruffians who mastered the art of stealing to survive, thieves can take\nall manner of things from their targets, including items, HP, and SP.\nExtremely nimble, they are fleeter of foot than anyone else."
+    ],
+    "text_joined": "Ruffians who mastered the art of stealing to survive, thieves can take\nall manner of things from their targets, including items, HP, and SP.\nExtremely nimble, they are fleeter of foot than anyone else."
+  },
+  {
+    "id": 103,
+    "text": [
+      "Ever in the pursuit of knowledge, scholars specialize in powerful\nelemental attacks. Given time, they can harness multiple elements,\nallowing them to skillfully exploit their foes' weaknesses."
+    ],
+    "text_joined": "Ever in the pursuit of knowledge, scholars specialize in powerful\nelemental attacks. Given time, they can harness multiple elements,\nallowing them to skillfully exploit their foes' weaknesses."
+  },
+  {
+    "id": 104,
+    "text": [
+      "Servants of the Order of the Sacred Flame. They can use the magic\npowers granted to them by the heavens to safeguard allies and\nvanquish evil foes."
+    ],
+    "text_joined": "Servants of the Order of the Sacred Flame. They can use the magic\npowers granted to them by the heavens to safeguard allies and\nvanquish evil foes."
+  },
+  {
+    "id": 105,
+    "text": [
+      "Expert trackers who never lose their prey, hunters are adept at\nphysical attacks and inflicting foes with status ailments. They use\ntheir inherent agility to make quick work of their targets."
+    ],
+    "text_joined": "Expert trackers who never lose their prey, hunters are adept at\nphysical attacks and inflicting foes with status ailments. They use\ntheir inherent agility to make quick work of their targets."
+  },
+  {
+    "id": 106,
+    "text": [
+      "Responsible for distributing goods all across Orsterra, merchants\nearn leaves and JP in a variety of ways. They support their allies\nwith polearm or bow in hand."
+    ],
+    "text_joined": "Responsible for distributing goods all across Orsterra, merchants\nearn leaves and JP in a variety of ways. They support their allies\nwith polearm or bow in hand."
+  },
+  {
+    "id": 107,
+    "text": [
+      "Dancers are entertainers skilled in both song and dance. Their cheers\nbolster ally stats, and they can use their fan to elegantly dispose of\nenemies."
+    ],
+    "text_joined": "Dancers are entertainers skilled in both song and dance. Their cheers\nbolster ally stats, and they can use their fan to elegantly dispose of\nenemies."
+  },
+  {
+    "id": 200,
+    "text": [
+      "Attack Skill"
+    ],
+    "text_joined": "Attack Skill"
+  },
+  {
+    "id": 201,
+    "text": [
+      "Recovery Skill"
+    ],
+    "text_joined": "Recovery Skill"
+  },
+  {
+    "id": 202,
+    "text": [
+      "Enfeebling Skill"
+    ],
+    "text_joined": "Enfeebling Skill"
+  },
+  {
+    "id": 203,
+    "text": [
+      "Attack Skill"
+    ],
+    "text_joined": "Attack Skill"
+  },
+  {
+    "id": 204,
+    "text": [
+      "Recovery Skill"
+    ],
+    "text_joined": "Recovery Skill"
+  },
+  {
+    "id": 205,
+    "text": [
+      "Support Skill"
+    ],
+    "text_joined": "Support Skill"
+  },
+  {
+    "id": 5501,
+    "text": [
+      "Select a weapon and deal damage to a foe 2 time(s)."
+    ],
+    "text_joined": "Select a weapon and deal damage to a foe 2 time(s)."
+  },
+  {
+    "id": 5502,
+    "text": [
+      "Grant HP recovery to an ally and restore SP by 10%."
+    ],
+    "text_joined": "Grant HP recovery to an ally and restore SP by 10%."
+  },
+  {
+    "id": 5503,
+    "text": [
+      "Lower Phys. Atk. and Phys. Def. of a foe for 2 turn(s)."
+    ],
+    "text_joined": "Lower Phys. Atk. and Phys. Def. of a foe for 2 turn(s)."
+  },
+  {
+    "id": 4501,
+    "text": [
+      "You wanted to learn how to fight as a member of the watch.\nSo your father, the watch captain, taught you how to strike\ndown enemies."
+    ],
+    "text_joined": "You wanted to learn how to fight as a member of the watch.\nSo your father, the watch captain, taught you how to strike\ndown enemies."
+  },
+  {
+    "id": 4502,
+    "text": [
+      "You wanted to learn how to heal the injured. So your mother,\na former cleric, taught you how to ease the pain of others."
+    ],
+    "text_joined": "You wanted to learn how to heal the injured. So your mother,\na former cleric, taught you how to ease the pain of others."
+  },
+  {
+    "id": 4503,
+    "text": [
+      "You showed a great interest in architecture. So the local carpenter\ntaught you about everything you needed to know about structures."
+    ],
+    "text_joined": "You showed a great interest in architecture. So the local carpenter\ntaught you about everything you needed to know about structures."
+  },
+  {
+    "id": 5601,
+    "text": [
+      "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Phys. Atk. +5%"
+    ],
+    "text_joined": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Phys. Atk. +5%"
+  },
+  {
+    "id": 5602,
+    "text": [
+      "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Phys. Def. +5%"
+    ],
+    "text_joined": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Phys. Def. +5%"
+  },
+  {
+    "id": 5603,
+    "text": [
+      "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Crit. +5%"
+    ],
+    "text_joined": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Crit. +5%"
+  },
+  {
+    "id": 5604,
+    "text": [
+      "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Accuracy +5%"
+    ],
+    "text_joined": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Accuracy +5%"
+  },
+  {
+    "id": 5605,
+    "text": [
+      "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Speed +5%"
+    ],
+    "text_joined": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Speed +5%"
+  },
+  {
+    "id": 5606,
+    "text": [
+      "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Elem. Def. +5%"
+    ],
+    "text_joined": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Elem. Def. +5%"
+  },
+  {
+    "id": 5607,
+    "text": [
+      "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Elem. Atk. +5%"
+    ],
+    "text_joined": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Elem. Atk. +5%"
+  },
+  {
+    "id": 5608,
+    "text": [
+      "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Evasion +5%"
+    ],
+    "text_joined": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Evasion +5%"
+  },
+  {
+    "id": 4601,
+    "text": [
+      "A grilled beef dish that fills you with strength."
+    ],
+    "text_joined": "A grilled beef dish that fills you with strength."
+  },
+  {
+    "id": 4602,
+    "text": [
+      "A light snack that gives you a boost of energy."
+    ],
+    "text_joined": "A light snack that gives you a boost of energy."
+  },
+  {
+    "id": 4603,
+    "text": [
+      "A simmered lamb dish that bolsters your strength in a pinch."
+    ],
+    "text_joined": "A simmered lamb dish that bolsters your strength in a pinch."
+  },
+  {
+    "id": 4604,
+    "text": [
+      "A chicken dish that enhances your concentration."
+    ],
+    "text_joined": "A chicken dish that enhances your concentration."
+  },
+  {
+    "id": 4605,
+    "text": [
+      "A noodle dish that can be slurped down quickly."
+    ],
+    "text_joined": "A noodle dish that can be slurped down quickly."
+  },
+  {
+    "id": 4606,
+    "text": [
+      "A stewed vegetable dish that leaves you invigorated."
+    ],
+    "text_joined": "A stewed vegetable dish that leaves you invigorated."
+  },
+  {
+    "id": 4607,
+    "text": [
+      "A grilled fish dish that clears your head."
+    ],
+    "text_joined": "A grilled fish dish that clears your head."
+  },
+  {
+    "id": 4608,
+    "text": [
+      "An eye-catching assortment of ingredients."
+    ],
+    "text_joined": "An eye-catching assortment of ingredients."
+  },
+  {
+    "id": 5701,
+    "text": [
+      "Elem. Atk. +10%"
+    ],
+    "text_joined": "Elem. Atk. +10%"
+  },
+  {
+    "id": 5702,
+    "text": [
+      "Phys. Atk. +10%"
+    ],
+    "text_joined": "Phys. Atk. +10%"
+  },
+  {
+    "id": 5703,
+    "text": [
+      "Phys. Def. +10%\nElem. Def. +10%"
+    ],
+    "text_joined": "Phys. Def. +10%\nElem. Def. +10%"
+  },
+  {
+    "id": 5704,
+    "text": [
+      "A key engraved with the crest of a dagger."
+    ],
+    "text_joined": "A key engraved with the crest of a dagger."
+  },
+  {
+    "id": 5705,
+    "text": [
+      "A fragment of a letter. Its content cannot be deciphered."
+    ],
+    "text_joined": "A fragment of a letter. Its content cannot be deciphered."
+  },
+  {
+    "id": 5706,
+    "text": [
+      "Grants the following effects for 15 turns:\n- Elem. Def. +20%/Phys. Def. +15%\n- Fire/Ice/Lightning/Wind Resistance +15%"
+    ],
+    "text_joined": "Grants the following effects for 15 turns:\n- Elem. Def. +20%/Phys. Def. +15%\n- Fire/Ice/Lightning/Wind Resistance +15%"
+  },
+  {
+    "id": 5707,
+    "text": [
+      "Greatly increases maximum HP."
+    ],
+    "text_joined": "Greatly increases maximum HP."
+  },
+  {
+    "id": 5708,
+    "text": [
+      "A mushroom bed that can be maintained to yield a harvest of\nmushrooms at a later date."
+    ],
+    "text_joined": "A mushroom bed that can be maintained to yield a harvest of\nmushrooms at a later date."
+  },
+  {
+    "id": 4701,
+    "text": [
+      "A bracelet you received several years back on the Day of Reverence.\nIt was made by your childhood friend, Stia, who has one just like it."
+    ],
+    "text_joined": "A bracelet you received several years back on the Day of Reverence.\nIt was made by your childhood friend, Stia, who has one just like it."
+  },
+  {
+    "id": 4702,
+    "text": [
+      "A wristband given to you by senior watchman Phenn. Apparently,\nyou're supposed to wear it when you want to get fired up."
+    ],
+    "text_joined": "A wristband given to you by senior watchman Phenn. Apparently,\nyou're supposed to wear it when you want to get fired up."
+  },
+  {
+    "id": 4703,
+    "text": [
+      "A talisman gifted to you by Deacon Laurana after you fell and\ninjured yourself. It carries the blessing of the Sacred Flame."
+    ],
+    "text_joined": "A talisman gifted to you by Deacon Laurana after you fell and\ninjured yourself. It carries the blessing of the Sacred Flame."
+  },
+  {
+    "id": 4704,
+    "text": [
+      "A key you picked up in the town square when you were a child.\nRumor has it that a certain warrior is looking for this key."
+    ],
+    "text_joined": "A key you picked up in the town square when you were a child.\nRumor has it that a certain warrior is looking for this key."
+  },
+  {
+    "id": 4705,
+    "text": [
+      "You vaguely remember receiving this from a mysterious kitten\nwhen you were very young."
+    ],
+    "text_joined": "You vaguely remember receiving this from a mysterious kitten\nwhen you were very young."
+  },
+  {
+    "id": 4706,
+    "text": [
+      "A dish favored by a once-famous actor whose whereabouts are\ncurrently unknown."
+    ],
+    "text_joined": "A dish favored by a once-famous actor whose whereabouts are\ncurrently unknown."
+  },
+  {
+    "id": 4707,
+    "text": [
+      "Special nuts given to you by the vegetable-loving Basil.\nThey were simply too precious for you to eat."
+    ],
+    "text_joined": "Special nuts given to you by the vegetable-loving Basil.\nThey were simply too precious for you to eat."
+  },
+  {
+    "id": 4708,
+    "text": [
+      "A bed of mushrooms entrusted to you by a traveler from Emberglow\nlong ago. Apparently, they're a local specialty."
+    ],
+    "text_joined": "A bed of mushrooms entrusted to you by a traveler from Emberglow\nlong ago. Apparently, they're a local specialty."
+  },
+  {
+    "id": 5801,
+    "text": [
+      "50% chance to counter physical attacks."
+    ],
+    "text_joined": "50% chance to counter physical attacks."
+  },
+  {
+    "id": 5802,
+    "text": [
+      "Raise the amount restored by the equipped character's HP/SP recovery skills."
+    ],
+    "text_joined": "Raise the amount restored by the equipped character's HP/SP recovery skills."
+  },
+  {
+    "id": 5803,
+    "text": [
+      "The equipped character will restore 2 BP when near death."
+    ],
+    "text_joined": "The equipped character will restore 2 BP when near death."
+  },
+  {
+    "id": 4801,
+    "text": [
+      "You devised this skill to fight back against tyranny while remembering\nthe carnage from that day."
+    ],
+    "text_joined": "You devised this skill to fight back against tyranny while remembering\nthe carnage from that day."
+  },
+  {
+    "id": 4802,
+    "text": [
+      "You learned all you could about healing, and acquired ways to\nefficiently rejuvenate both body and spirit."
+    ],
+    "text_joined": "You learned all you could about healing, and acquired ways to\nefficiently rejuvenate both body and spirit."
+  },
+  {
+    "id": 4803,
+    "text": [
+      "While scrounging for food in the forest, you learned ways to survive\nin even the harshest conditions."
+    ],
+    "text_joined": "While scrounging for food in the forest, you learned ways to survive\nin even the harshest conditions."
+  }
+]
