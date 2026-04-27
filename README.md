@@ -6,7 +6,7 @@ Dự án cung cấp bộ công cụ tự động hóa toàn bộ quy trình trí
 
 ## Dành Cho Người Chơi (Cài đặt nhanh)
 Nếu bạn chỉ muốn chơi game bằng Tiếng Việt, hãy làm theo các bước sau:
-1. Truy cập vào mục [Releases](https://github.com/khaihoangv7/octopath-traveler-0-vietnamese-translation/releases) (nếu có).
+1. Truy cập vào mục [Releases](https://github.com/khaihoangv7/octopath-traveler-0-vietnamese-translation/releases).
 2. Tải file `pakchunk99-Vietnamese_P.pak` về máy.
 3. Chép file vào thư mục cài đặt game theo đường dẫn:  
    `Octopath Traveler/Octopath_Traveler0/Content/Paks/`
