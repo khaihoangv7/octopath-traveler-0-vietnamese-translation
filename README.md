@@ -1,42 +1,69 @@
-# Việt Hóa Game (Unreal Engine 4 & General)
+# Dự Án Việt Hóa Octopath Traveler: Champions of the Continent
 
-Tài liệu này ghi lại toàn bộ quy trình chuẩn để Việt hóa một tựa game (đặc biệt là các game dùng Unreal Engine 4/5 như Octopath Traveler). Bạn có thể lưu lại và gửi cho AI (như Gemini) trong các dự án sau để nó hiểu ngay bối cảnh và tự động code các tool cần thiết.
+Dự án cung cấp bộ công cụ tự động hóa toàn bộ quy trình trích xuất, dịch thuật và đóng gói ngôn ngữ Tiếng Việt cho game Octopath Traveler (Unreal Engine 4).
 
 ---
 
-## Bước 1: Khảo sát & Vượt rào bảo mật (Unpacking)
-Hầu hết các game hiện đại đều mã hóa hoặc nén dữ liệu. Đối với Unreal Engine, dữ liệu nằm trong các file `.pak`.
-1. **Tìm AES Key:** Nếu file `.pak` bị khóa (mã hóa), cần phải tìm chuỗi khóa AES (ví dụ: `0x14A2B...`).
-   - *Kỹ thuật:* Dùng phần mềm giả lập hoặc yêu cầu AI viết script Python đọc trực tiếp bộ nhớ RAM (Memory Dump) khi game đang chạy để moi key ra (như file `dump_aes_key.py` chúng ta đã làm).
-2. **Giải nén (Unpack):** Dùng công cụ giải nén chuyên dụng (như `repak_cli` hoặc `UnrealPak.exe` của Epic Games) truyền AES Key vào để xả toàn bộ dữ liệu từ `.pak` ra thư mục con.
+## 📥 Dành Cho Người Chơi (Cài đặt nhanh)
+Nếu bạn chỉ muốn chơi game bằng Tiếng Việt, hãy làm theo các bước sau:
+1. Truy cập vào mục [Releases](https://github.com/khaihoangv7/octopath-traveler-0-vietnamese-translation/releases) (nếu có).
+2. Tải file `pakchunk99-Vietnamese_P.pak` về máy.
+3. Chép file vào thư mục cài đặt game theo đường dẫn:  
+   `Octopath Traveler/Octopath_Traveler0/Content/Paks/`
+4. Mở game và tận hưởng!
 
-## Bước 2: Phân tích cấu trúc & Trích xuất Text (Extraction)
-1. **Định vị file Text:** Tìm đến thư mục chứa ngôn ngữ gốc của game (thường là `Content/Local/EN-US` hoặc `Localization`). Các file chữ thường có đuôi `.uexp`, `.uasset` hoặc `.locres`.
-2. **Phân tích nhị phân (Binary Analysis):** Mở thử file bằng Hex Editor (HxD) để xem cấu trúc bên trong. 
-   - Với Octopath Traveler, chữ không nằm trần trụi mà bị gói trong định dạng **MessagePack** (một dạng cấu trúc siêu nén).
-3. **Viết Script trích xuất:** Yêu cầu AI viết một script Python (`extract.py`) để:
-   - Cắt bỏ phần đầu (Header) và phần đuôi (Footer) của hệ thống Unreal Engine.
-   - Dùng thư viện (như `msgpack`) để dịch ngược cục dữ liệu ở giữa thành file `.json` hoặc `.csv` để con người có thể mở ra đọc được.
+---
 
-## Bước 3: Dịch thuật quy mô lớn (Mass Translation bằng AI)
-Khi game có quá nhiều chữ (ví dụ 50.000 dòng), dịch bằng tay hoặc copy-paste là bất khả thi.
-1. **Chuẩn bị API Key:** Đăng ký lấy API Key miễn phí từ Google AI Studio (Gemini).
-2. **Viết Auto-Translator Tool:** Yêu cầu AI viết script Python (`auto_translate.py`) tự động hóa việc dịch:
-   - Đọc từng dòng từ file JSON gốc.
-   - Gửi lên API dịch theo từng cụm (batch) 100 câu/lần để không bị nghẽn mạng.
-   - Truyền "Ngữ cảnh" (Prompt) cực kỳ nghiêm ngặt: *Đây là game RPG, xưng hô ta-ngươi, giữ nguyên các mã code {0}, <color>...*
-   - Xử lý lỗi Quota: Thêm lệnh đếm ngược thời gian chờ (time.sleep) nếu gọi quá giới hạn miễn phí để tool không bị đứng giữa chừng. Thêm cờ đánh dấu (`api_translated`) để tránh bị lặp lại các câu đã dịch.
+## 🛠️ Dành Cho Nhà Phát Triển (Sử dụng Tool)
+Nếu bạn muốn tự dịch lại hoặc chỉnh sửa bản dịch, hãy làm theo quy trình dưới đây:
 
-## Bước 4: Đóng gói ngược lại (Repacking)
-Đây là khâu kỹ thuật phức tạp nhất để đánh lừa Engine game.
-1. **Chuyển về Binary:** Viết script Python (`repack.py`) đọc các file JSON đã dịch, nén chúng lại thành định dạng gốc (MessagePack).
-2. **Ghép nối (Inject):** Bơm đoạn dữ liệu nhị phân mới này vào giữa Header và Footer của file `.uexp` ban đầu. 
-   - *Lưu ý sống còn:* Phải tính toán lại kích thước file (Size) và chèn lại vào đúng vị trí byte kích thước trong Header của Unreal Engine.
-3. **Tạo File Mod (.pak):** Tạo cây thư mục giả lập y hệt thư mục gốc của game (vd: `Octopath_Traveler0\Content\Local\DataBase\...`). Đặt các file `.uexp` vừa tạo vào đúng thư mục đó. 
-   - Sau đó dùng tool `u4pak.py` hoặc `repak_cli` nén lại thành file `pakchunk99-Vietnamese_P.pak`. (Chữ `_P` mang ý nghĩa Patch, giúp game ưu tiên đọc file này đè lên file tiếng Anh gốc).
+### 1. Yêu cầu hệ thống
+* Cài đặt [Python 3.10+](https://www.python.org/).
+* Cài đặt các thư viện cần thiết:
+  ```bash
+  pip install msgpack fonttools requests
+  ```
 
-## Bước 5: Thay Font Tiếng Việt (Font Modding)
-Text tiếng Việt có dấu (ư, ơ, ê...) sẽ bị ô vuông nếu font chữ của game không hỗ trợ Unicode.
-1. **Test trước:** Cứ bỏ file Mod Text (pakchunk99) vào thư mục `Paks` của game chạy thử. Nếu game của hãng lớn có "Fallback Font" (như Arial/NotoSans ẩn bên trong) thì chữ sẽ tự hiển thị đẹp.
-2. **Can thiệp Font:** Nếu bị lỗi ô vuông, dùng phần mềm chuyên dụng **UAssetGUI** mở file font `.uasset` của game ra, đổi đường dẫn (font face) sang một font chữ khác, hoặc dùng Unreal Engine Editor render (chế) một file `.ufont` tương đồng chép đè vào.
+### 2. Quy trình thực hiện (Pipeline)
+Thực hiện theo đúng thứ tự các file script sau:
 
+1. **Trích xuất Text:**  
+   Chạy `extract_text.py` để lấy toàn bộ văn bản từ file `.uexp` của game ra định dạng JSON trong thư mục `extracted_text/`.
+   
+2. **Dịch thuật:**  
+   Sử dụng `auto_translate.py` để dịch nội dung từ `extracted_text/` sang `translated_text/`. (Cần cấu hình Gemini API Key bên trong script).
+
+3. **Sửa lỗi & Tối ưu:**  
+   Chạy `fix_translations.py` để xử lý các lỗi xưng hô (Mẹ/Con), xóa các dòng debug "Kiểm thử" và fix lỗi hiển thị mã code.
+
+4. **Đóng gói (Repack):**  
+   Chạy `repack.py`. Script này sẽ bơm dữ liệu từ `translated_text/` ngược vào cấu hình binary của game và lưu vào thư mục `Mod_Vietnamese/`.
+
+5. **Nén file .pak:**  
+   Chạy lệnh sau trong Terminal để tạo file mod cuối cùng:
+   ```bash
+   python u4pak.py pack pakchunk99-Vietnamese_P.pak Octopath_Traveler0
+   ```
+
+---
+
+## 📂 Cấu trúc thư mục
+* `translated_text/`: Chứa toàn bộ nội dung đã dịch (Dạng JSON).
+* `Mod_Vietnamese/`: Thư mục chứa các file đã được mod, sẵn sàng để đóng gói.
+* `research/`: Chứa các script nghiên cứu, tìm AES key và phân tích cấu trúc file.
+* `u4pak.py`: Công cụ nén/giải nén file `.pak` của Unreal Engine 4.
+
+---
+
+## ✨ Tính năng nổi bật
+- [x] **Tự động hóa 90%**: Từ trích xuất đến đóng gói.
+- [x] **Hỗ trợ Font Tiếng Việt**: Đã cấu hình font Segoe UI hiển thị đẹp, không lỗi dấu.
+- [x] **Xử lý ngữ cảnh**: Sửa lỗi xưng hô nhân vật theo quan hệ gia đình (Yusia).
+- [x] **Dọn dẹp rác**: Tự động loại bỏ các dòng test kịch bản của nhà phát triển.
+
+---
+
+## 🤝 Đóng góp
+Mọi đóng góp về bản dịch hoặc cải tiến công cụ đều được hoan nghênh. Vui lòng mở `Issue` hoặc tạo `Pull Request`.
+
+**License:** MIT
