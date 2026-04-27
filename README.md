@@ -1,10 +1,10 @@
-# Dự Án Việt Hóa Octopath Traveler: Champions of the Continent
+# Dự Án Việt Hóa Octopath Traveler 0
 
 Dự án cung cấp bộ công cụ tự động hóa toàn bộ quy trình trích xuất, dịch thuật và đóng gói ngôn ngữ Tiếng Việt cho game Octopath Traveler (Unreal Engine 4).
 
 ---
 
-## 📥 Dành Cho Người Chơi (Cài đặt nhanh)
+## Dành Cho Người Chơi (Cài đặt nhanh)
 Nếu bạn chỉ muốn chơi game bằng Tiếng Việt, hãy làm theo các bước sau:
 1. Truy cập vào mục [Releases](https://github.com/khaihoangv7/octopath-traveler-0-vietnamese-translation/releases) (nếu có).
 2. Tải file `pakchunk99-Vietnamese_P.pak` về máy.
@@ -14,7 +14,7 @@ Nếu bạn chỉ muốn chơi game bằng Tiếng Việt, hãy làm theo các b
 
 ---
 
-## 🛠️ Dành Cho Nhà Phát Triển (Sử dụng Tool)
+## Dành Cho Nhà Phát Triển (Sử dụng Tool)
 Nếu bạn muốn tự dịch lại hoặc chỉnh sửa bản dịch, hãy làm theo quy trình dưới đây:
 
 ### 1. Yêu cầu hệ thống
@@ -47,7 +47,7 @@ Thực hiện theo đúng thứ tự các file script sau:
 
 ---
 
-## 📂 Cấu trúc thư mục
+## Cấu trúc thư mục
 * `translated_text/`: Chứa toàn bộ nội dung đã dịch (Dạng JSON).
 * `Mod_Vietnamese/`: Thư mục chứa các file đã được mod, sẵn sàng để đóng gói.
 * `research/`: Chứa các script nghiên cứu, tìm AES key và phân tích cấu trúc file.
@@ -55,7 +55,12 @@ Thực hiện theo đúng thứ tự các file script sau:
 
 ---
 
-## ✨ Tính năng nổi bật
+## Lỗi Hiện Tại (Known Issues)
+* **Khoảng cách dòng:** Một số ô hội thoại có thể hiển thị các dòng văn bản quá sát nhau (do giới hạn khung hình của game gốc). Chúng tôi đang nghiên cứu giải pháp tối ưu hơn cho font chữ để khắc phục triệt để vấn đề này.
+
+---
+
+## Tính năng nổi bật
 - [x] **Tự động hóa 90%**: Từ trích xuất đến đóng gói.
 - [x] **Hỗ trợ Font Tiếng Việt**: Đã cấu hình font Segoe UI hiển thị đẹp, không lỗi dấu.
 - [x] **Xử lý ngữ cảnh**: Sửa lỗi xưng hô nhân vật theo quan hệ gia đình (Yusia).
@@ -63,7 +68,7 @@ Thực hiện theo đúng thứ tự các file script sau:
 
 ---
 
-## 🤝 Đóng góp
+## Đóng góp
 Mọi đóng góp về bản dịch hoặc cải tiến công cụ đều được hoan nghênh. Vui lòng mở `Issue` hoặc tạo `Pull Request`.
 
 **License:** MIT
