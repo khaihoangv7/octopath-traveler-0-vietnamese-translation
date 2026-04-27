@@ -4,7 +4,7 @@ Dự án cung cấp bộ công cụ tự động hóa toàn bộ quy trình trí
 
 ---
 
-## 📸 Hình ảnh minh họa
+## Hình ảnh minh họa
 
 <p align="center">
   <img src="screenshots/z7766033523146_240bc605089ca30db897725effd980fa.jpg" width="800" alt="Octopath Traveler Vietnamese Demo 1">
