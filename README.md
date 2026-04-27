@@ -1,4 +1,4 @@
-# Cẩm Nang Việt Hóa Game (Unreal Engine 4 & General)
+# Việt Hóa Game (Unreal Engine 4 & General)
 
 Tài liệu này ghi lại toàn bộ quy trình chuẩn để Việt hóa một tựa game (đặc biệt là các game dùng Unreal Engine 4/5 như Octopath Traveler). Bạn có thể lưu lại và gửi cho AI (như Gemini) trong các dự án sau để nó hiểu ngay bối cảnh và tự động code các tool cần thiết.
 
