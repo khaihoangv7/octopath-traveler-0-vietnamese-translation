@@ -4,7 +4,7 @@ import time
 import google.generativeai as genai
 
 # 1. ĐIỀN API KEY CỦA BẠN VÀO ĐÂY (Giữ nguyên dấu ngoặc kép)
-API_KEY = "AIzaSyCQSciKFvGMkBg2WnkS6mfJMpv9fhsIzjg"
+API_KEY = "[ENCRYPTION_KEY]"
 
 INPUT_DIR = 'extracted_text'
 OUTPUT_DIR = 'translated_text'
