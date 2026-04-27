@@ -4,6 +4,22 @@ Dự án cung cấp bộ công cụ tự động hóa toàn bộ quy trình trí
 
 ---
 
+## 📸 Hình ảnh minh họa
+
+<p align="center">
+  <img src="screenshots/z7766033523146_240bc605089ca30db897725effd980fa.jpg" width="800" alt="Octopath Traveler Vietnamese Demo 1">
+  <br>
+  <i>Giao diện đối thoại Tiếng Việt hiển thị sắc nét</i>
+</p>
+
+<p align="center">
+  <img src="screenshots/z7768544321590_e76159c52f7b2c80b0f41b5ecd8d4bf8.jpg" width="800" alt="Octopath Traveler Vietnamese Demo 2">
+  <br>
+  <i>Font chữ hỗ trợ đầy đủ dấu tiếng Việt trong game</i>
+</p>
+
+---
+
 ## Dành Cho Người Chơi (Cài đặt nhanh)
 Nếu bạn chỉ muốn chơi game bằng Tiếng Việt, hãy làm theo các bước sau:
 1. Truy cập vào mục [Releases](https://github.com/khaihoangv7/octopath-traveler-0-vietnamese-translation/releases).
