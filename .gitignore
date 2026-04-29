@@ -9,6 +9,11 @@ Octopath_Traveler0/
 *.pak
 *.zip
 *.rar
+BeVietnamPro/
+backup/
+repak_cli/
+Extracted_Fonts/
+Extracted_Balloon/
 
 # Dumps and Temp files
 all_text_dump.txt
@@ -17,10 +22,13 @@ pak_file_list.txt
 models.txt
 *.log
 
-# Extracted assets (Keep JSONs but ignore binary dumps if any)
-# extracted_text/  <-- Uncomment if you don't want to share original text
-# Extracted_Fonts/
-# Extracted_Balloon/
+# extracted_text/
+Extracted_Fonts/
+Extracted_Balloon/
+segoeui_nuclear.ttf
+segoeui_scaled.ttf
+arial.ttf
+BeVietnamPro-*.ttf
 
 # Environments
 .venv/
