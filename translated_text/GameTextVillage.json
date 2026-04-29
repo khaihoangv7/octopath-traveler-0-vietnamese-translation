@@ -32,7 +32,7 @@
   {
     "id": 100070,
     "en": "開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用",
-    "vi": "開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用\n開発用",
+    "vi": "Dành cho phát triển\nDành cho phát triển\nDành cho phát triển\nDành cho phát triển\nDành cho phát triển\nDành cho phát triển\nDành cho phát triển\nDành cho phát triển\nDành cho phát triển\nDành cho phát triển\nDành cho phát triển\nDành cho phát triển",
     "api_translated": true
   },
   {
@@ -107,7 +107,7 @@
   {
     "id": 116,
     "en": "White Cobblestone",
-    "vi": "White Cobblestone",
+    "vi": "Đá cuội trắng",
     "api_translated": true
   },
   {
@@ -118,13 +118,13 @@
   {
     "id": 118,
     "en": "White Sand",
-    "vi": "White Sand",
+    "vi": "Cát trắng",
     "api_translated": true
   },
   {
     "id": 119,
     "en": "Yellow Cobblestone",
-    "vi": "Yellow Cobblestone",
+    "vi": "Đá cuội vàng",
     "api_translated": true
   },
   {
@@ -140,7 +140,7 @@
   {
     "id": 122,
     "en": "Fan Motif Cobblestone",
-    "vi": "Fan Motif Cobblestone",
+    "vi": "Đá cuội họa tiết quạt",
     "api_translated": true
   },
   {
@@ -166,7 +166,7 @@
   {
     "id": 11055,
     "en": "Sacred Flame Dais",
-    "vi": "Sacred Flame Dais",
+    "vi": "Bệ Thờ Ngọn Lửa Thiêng",
     "api_translated": true
   },
   {
@@ -222,25 +222,25 @@
   {
     "id": 11101,
     "en": "Fresh Foods Stall",
-    "vi": "Fresh Foods Stall",
+    "vi": "Quầy Thực Phẩm Tươi",
     "api_translated": true
   },
   {
     "id": 11102,
     "en": "Antiques Stall",
-    "vi": "Antiques Stall",
+    "vi": "Quầy Đồ Cổ",
     "api_translated": true
   },
   {
     "id": 11103,
     "en": "Firewood Rack",
-    "vi": "Firewood Rack",
+    "vi": "Giá Để Củi",
     "api_translated": true
   },
   {
     "id": 11104,
     "en": "Windmill",
-    "vi": "Windmill",
+    "vi": "Cối Xay Gió",
     "api_translated": true
   },
   {
@@ -266,49 +266,49 @@
   {
     "id": 12201,
     "en": "Lavish Fountain",
-    "vi": "Lavish Fountain",
+    "vi": "Đài Phun Nước Tráng Lệ",
     "api_translated": true
   },
   {
     "id": 12006,
     "en": "Decorative Stone Marker",
-    "vi": "Decorative Stone Marker",
+    "vi": "Cột Đá Trang Trí",
     "api_translated": true
   },
   {
     "id": 12007,
     "en": "Simple Vase",
-    "vi": "Simple Vase",
+    "vi": "Bình Hoa Đơn Giản",
     "api_translated": true
   },
   {
     "id": 12202,
     "en": "Lavish Vase",
-    "vi": "Lavish Vase",
+    "vi": "Bình Hoa Lộng Lẫy",
     "api_translated": true
   },
   {
     "id": 12203,
     "en": "Tall Vase",
-    "vi": "Tall Vase",
+    "vi": "Bình Hoa Cao",
     "api_translated": true
   },
   {
     "id": 12204,
     "en": "Flower Pot",
-    "vi": "Flower Pot",
+    "vi": "Chậu Hoa",
     "api_translated": true
   },
   {
     "id": 12205,
     "en": "Ceramic Vase",
-    "vi": "Ceramic Vase",
+    "vi": "Bình Gốm",
     "api_translated": true
   },
   {
     "id": 12206,
     "en": "Porcelain Vase",
-    "vi": "Porcelain Vase",
+    "vi": "Bình Sứ",
     "api_translated": true
   },
   {
@@ -329,31 +329,31 @@
   {
     "id": 12015,
     "en": "Barrel (Vertical)",
-    "vi": "Barrel (Vertical)",
+    "vi": "Thùng gỗ (Dọc)",
     "api_translated": true
   },
   {
     "id": 12016,
     "en": "Barrel (Horizontal)",
-    "vi": "Barrel (Horizontal)",
+    "vi": "Thùng gỗ (Ngang)",
     "api_translated": true
   },
   {
     "id": 12017,
     "en": "Piled Barrels",
-    "vi": "Piled Barrels",
+    "vi": "Chồng thùng gỗ",
     "api_translated": true
   },
   {
     "id": 12018,
     "en": "Wooden Crate",
-    "vi": "Wooden Crate",
+    "vi": "Hòm gỗ",
     "api_translated": true
   },
   {
     "id": 12019,
     "en": "Piled Wooden Crates",
-    "vi": "Piled Wooden Crates",
+    "vi": "Chồng hòm gỗ",
     "api_translated": true
   },
   {
@@ -364,7 +364,7 @@
   {
     "id": 12021,
     "en": "Large Pot",
-    "vi": "Large Pot",
+    "vi": "Vại lớn",
     "api_translated": true
   },
   {
@@ -380,19 +380,19 @@
   {
     "id": 12024,
     "en": "Large Bottle",
-    "vi": "Large Bottle",
+    "vi": "Chai lớn",
     "api_translated": true
   },
   {
     "id": 12025,
     "en": "Sandbag",
-    "vi": "Sandbag",
+    "vi": "Bao cát",
     "api_translated": true
   },
   {
     "id": 12026,
     "en": "Piled Sandbags",
-    "vi": "Piled Sandbags",
+    "vi": "Chồng bao cát",
     "api_translated": true
   },
   {
@@ -403,25 +403,25 @@
   {
     "id": 12028,
     "en": "Clothesline",
-    "vi": "Clothesline",
+    "vi": "Dây phơi đồ",
     "api_translated": true
   },
   {
     "id": 12029,
     "en": "Western Clothesline",
-    "vi": "Western Clothesline",
+    "vi": "Dây phơi đồ kiểu phương Tây",
     "api_translated": true
   },
   {
     "id": 12030,
     "en": "Beast Pelt",
-    "vi": "Beast Pelt",
+    "vi": "Da thú",
     "api_translated": true
   },
   {
     "id": 12031,
     "en": "Bulletin Board",
-    "vi": "Bulletin Board",
+    "vi": "Bảng thông báo",
     "api_translated": true
   },
   {
@@ -437,121 +437,121 @@
   {
     "id": 12209,
     "en": "Stagecoach",
-    "vi": "Stagecoach",
+    "vi": "Xe ngựa",
     "api_translated": true
   },
   {
     "id": 12210,
     "en": "Basket of Eggs",
-    "vi": "Basket of Eggs",
+    "vi": "Giỏ trứng",
     "api_translated": true
   },
   {
     "id": 12211,
     "en": "Basket of Grapes",
-    "vi": "Basket of Grapes",
+    "vi": "Giỏ nho",
     "api_translated": true
   },
   {
     "id": 12212,
     "en": "Basket of Red Apples",
-    "vi": "Basket of Red Apples",
+    "vi": "Giỏ táo đỏ",
     "api_translated": true
   },
   {
     "id": 12213,
     "en": "Basket of Green Apples",
-    "vi": "Basket of Green Apples",
+    "vi": "Giỏ táo xanh",
     "api_translated": true
   },
   {
     "id": 12044,
     "en": "Food Basket",
-    "vi": "Food Basket",
+    "vi": "Giỏ thực phẩm",
     "api_translated": true
   },
   {
     "id": 12215,
     "en": "Bag of Onions",
-    "vi": "Bag of Onions",
+    "vi": "Túi hành tây",
     "api_translated": true
   },
   {
     "id": 12216,
     "en": "Bag of Apples",
-    "vi": "Bag of Apples",
+    "vi": "Túi táo",
     "api_translated": true
   },
   {
     "id": 12217,
     "en": "Bag of Bread",
-    "vi": "Bag of Bread",
+    "vi": "Túi bánh mì",
     "api_translated": true
   },
   {
     "id": 12046,
     "en": "Chicken Run",
-    "vi": "Chicken Run",
+    "vi": "Chuồng gà",
     "api_translated": true
   },
   {
     "id": 12047,
     "en": "Crate of Bottles",
-    "vi": "Crate of Bottles",
+    "vi": "Thùng chai lọ",
     "api_translated": true
   },
   {
     "id": 12048,
     "en": "Game Hoist",
-    "vi": "Game Hoist",
+    "vi": "Ròng rọc trò chơi",
     "api_translated": true
   },
   {
     "id": 12049,
     "en": "Crate of Crabs",
-    "vi": "Crate of Crabs",
+    "vi": "Thùng cua",
     "api_translated": true
   },
   {
     "id": 12050,
     "en": "Gladiator Statue (Left)",
-    "vi": "Gladiator Statue (Left)",
+    "vi": "Tượng đấu sĩ (Trái)",
     "api_translated": true
   },
   {
     "id": 12150,
     "en": "Gladiator Statue (Right)",
-    "vi": "Gladiator Statue (Right)",
+    "vi": "Tượng đấu sĩ (Phải)",
     "api_translated": true
   },
   {
     "id": 12051,
     "en": "Theatrical Statue (Left)",
-    "vi": "Theatrical Statue (Left)",
+    "vi": "Tượng sân khấu (Trái)",
     "api_translated": true
   },
   {
     "id": 12151,
     "en": "Theatrical Statue (Right)",
-    "vi": "Theatrical Statue (Right)",
+    "vi": "Tượng sân khấu (Phải)",
     "api_translated": true
   },
   {
     "id": 12052,
     "en": "Angel Statue (Left)",
-    "vi": "Angel Statue (Left)",
+    "vi": "Tượng thiên thần (Trái)",
     "api_translated": true
   },
   {
     "id": 12152,
     "en": "Angel Statue (Right)",
-    "vi": "Angel Statue (Right)",
+    "vi": "Tượng thiên thần (Phải)",
     "api_translated": true
   },
   {
     "id": 12053,
     "en": "Pardis Statue",
-    "vi": "Pardis Statue",
+    "vi": "Tượng Pardis",
     "api_translated": true
   },
   {

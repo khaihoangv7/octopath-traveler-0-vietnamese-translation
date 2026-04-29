@@ -6495,7 +6495,7 @@
   {
     "id": 100600,
     "en": "SQUARE ENIX MERCHANDISING (EUROPE)",
-    "vi": "SQUARE ENIX MERCHANDISING (EUROPE)",
+    "vi": "SQUARE ENIX MERCHANDISING (CHÂU ÂU)",
     "api_translated": true
   },
   {
@@ -10395,7 +10395,7 @@
   {
     "id": 101250,
     "en": "Side",
-    "vi": "Side",
+    "vi": "Phụ",
     "api_translated": true
   },
   {
@@ -11878,137 +11878,164 @@
   {
     "id": 101498,
     "en": "Masahiro Matsumoto",
-    "vi": "Masahiro Matsumoto"
+    "vi": "Masahiro Matsumoto",
+    "api_translated": true
   },
   {
     "id": 101499,
     "en": "Rumi Yoshikawa",
-    "vi": "Rumi Yoshikawa"
+    "vi": "Rumi Yoshikawa",
+    "api_translated": true
   },
   {
     "id": 101500,
     "en": "Akiyo Hirota",
-    "vi": "Akiyo Hirota"
+    "vi": "Akiyo Hirota",
+    "api_translated": true
   },
   {
     "id": 101501,
     "en": "Noriko Ikeda",
-    "vi": "Noriko Ikeda"
+    "vi": "Noriko Ikeda",
+    "api_translated": true
   },
   {
     "id": 101502,
     "en": "Conor Sheehy",
-    "vi": "Conor Sheehy"
+    "vi": "Conor Sheehy",
+    "api_translated": true
   },
   {
     "id": 101503,
     "en": "PC Business Division",
-    "vi": "PC Business Division"
+    "vi": "Bộ phận Kinh doanh PC",
+    "api_translated": true
   },
   {
     "id": 101504,
     "en": "Director",
-    "vi": "Director"
+    "vi": "Giám đốc",
+    "api_translated": true
   },
   {
     "id": 101505,
     "en": "Takashi Hasegawa",
-    "vi": "Takashi Hasegawa"
+    "vi": "Takashi Hasegawa",
+    "api_translated": true
   },
   {
     "id": 101506,
     "en": "Publishing Group",
-    "vi": "Publishing Group"
+    "vi": "Nhóm Xuất bản",
+    "api_translated": true
   },
   {
     "id": 101507,
     "en": "Manager",
-    "vi": "Manager"
+    "vi": "Quản lý",
+    "api_translated": true
   },
   {
     "id": 101508,
     "en": "Takashi Hasegawa",
-    "vi": "Takashi Hasegawa"
+    "vi": "Takashi Hasegawa",
+    "api_translated": true
   },
   {
     "id": 101509,
     "en": "Yui Fujii",
-    "vi": "Yui Fujii"
+    "vi": "Yui Fujii",
+    "api_translated": true
   },
   {
     "id": 101510,
     "en": "Yamato Ise",
-    "vi": "Yamato Ise"
+    "vi": "Yamato Ise",
+    "api_translated": true
   },
   {
     "id": 101511,
     "en": "Yuichi Ohara",
-    "vi": "Yuichi Ohara"
+    "vi": "Yuichi Ohara",
+    "api_translated": true
   },
   {
     "id": 101512,
     "en": "Makoto Takaji",
-    "vi": "Makoto Takaji"
+    "vi": "Makoto Takaji",
+    "api_translated": true
   },
   {
     "id": 101513,
     "en": "Shota Tamakoshi",
-    "vi": "Shota Tamakoshi"
+    "vi": "Shota Tamakoshi",
+    "api_translated": true
   },
   {
     "id": 101514,
     "en": "Emi Hayashi",
-    "vi": "Emi Hayashi"
+    "vi": "Emi Hayashi",
+    "api_translated": true
   },
   {
     "id": 101515,
     "en": "Yukiho Tsushima",
-    "vi": "Yukiho Tsushima"
+    "vi": "Yukiho Tsushima",
+    "api_translated": true
   },
   {
     "id": 101516,
     "en": "Business Development Group",
-    "vi": "Business Development Group"
+    "vi": "Nhóm Phát triển Kinh doanh",
+    "api_translated": true
   },
   {
     "id": 101517,
     "en": "Manager",
-    "vi": "Manager"
+    "vi": "Quản lý",
+    "api_translated": true
   },
   {
     "id": 101518,
     "en": "Chieko Endo",
-    "vi": "Chieko Endo"
+    "vi": "Chieko Endo",
+    "api_translated": true
   },
   {
     "id": 101519,
     "en": "Tomomi Nakagawa",
-    "vi": "Tomomi Nakagawa"
+    "vi": "Tomomi Nakagawa",
+    "api_translated": true
   },
   {
     "id": 101520,
     "en": "Nagisa Iwai",
-    "vi": "Nagisa Iwai"
+    "vi": "Nagisa Iwai",
+    "api_translated": true
   },
   {
     "id": 101521,
     "en": "Mizuki Tsutsumi",
-    "vi": "Mizuki Tsutsumi"
+    "vi": "Mizuki Tsutsumi",
+    "api_translated": true
   },
   {
     "id": 101522,
     "en": "Game Development Support Group",
-    "vi": "Game Development Support Group"
+    "vi": "Nhóm Hỗ trợ Phát triển Trò chơi",
+    "api_translated": true
   },
   {
     "id": 101523,
     "en": "Managers",
-    "vi": "Managers"
+    "vi": "Các Quản lý",
+    "api_translated": true
   },
   {
     "id": 101524,
     "en": "Takashi Hasegawa",
-    "vi": "Takashi Hasegawa"
+    "vi": "Takashi Hasegawa",
+    "api_translated": true
   },
   {
     "id": 101525,
@@ -12018,362 +12045,434 @@
   {
     "id": 101526,
     "en": "Jumpei Arakawa",
-    "vi": "Jumpei Arakawa"
+    "vi": "Jumpei Arakawa",
+    "api_translated": true
   },
   {
     "id": 101527,
     "en": "Hua Chen",
-    "vi": "Hua Chen"
+    "vi": "Hua Chen",
+    "api_translated": true
   },
   {
     "id": 101528,
     "en": "Community & Service Division",
-    "vi": "Community & Service Division"
+    "vi": "Bộ phận Cộng đồng & Dịch vụ",
+    "api_translated": true
   },
   {
     "id": 101529,
     "en": "Director",
-    "vi": "Director"
+    "vi": "Giám đốc",
+    "api_translated": true
   },
   {
     "id": 101530,
     "en": "Toshio Murouchi",
-    "vi": "Toshio Murouchi"
+    "vi": "Toshio Murouchi",
+    "api_translated": true
   },
   {
     "id": 101531,
     "en": "Customer Support Manager",
-    "vi": "Customer Support Manager"
+    "vi": "Quản lý Hỗ trợ Khách hàng",
+    "api_translated": true
   },
   {
     "id": 101532,
     "en": "Naoto Tada",
-    "vi": "Naoto Tada"
+    "vi": "Naoto Tada",
+    "api_translated": true
   },
   {
     "id": 101533,
     "en": "Operation Support Leader",
-    "vi": "Operation Support Leader"
+    "vi": "Trưởng nhóm Hỗ trợ Vận hành",
+    "api_translated": true
   },
   {
     "id": 101534,
     "en": "Kumiko Nakagawa",
-    "vi": "Kumiko Nakagawa"
+    "vi": "Kumiko Nakagawa",
+    "api_translated": true
   },
   {
     "id": 101535,
     "en": "Operation Support",
-    "vi": "Operation Support"
+    "vi": "Hỗ trợ Vận hành",
+    "api_translated": true
   },
   {
     "id": 101536,
     "en": "Kenta Takeuchi",
-    "vi": "Kenta Takeuchi"
+    "vi": "Kenta Takeuchi",
+    "api_translated": true
   },
   {
     "id": 101537,
     "en": "Information Center Leader",
-    "vi": "Information Center Leader"
+    "vi": "Trưởng nhóm Trung tâm Thông tin",
+    "api_translated": true
   },
   {
     "id": 101538,
     "en": "Ryuji Kudo",
-    "vi": "Ryuji Kudo"
+    "vi": "Ryuji Kudo",
+    "api_translated": true
   },
   {
     "id": 101539,
     "en": "Information Center",
-    "vi": "Information Center"
+    "vi": "Trung tâm Thông tin",
+    "api_translated": true
   },
   {
     "id": 101540,
     "en": "Ryota Irei",
-    "vi": "Ryota Irei"
+    "vi": "Ryota Irei",
+    "api_translated": true
   },
   {
     "id": 101541,
     "en": "Hiroyuki Toguchi",
-    "vi": "Hiroyuki Toguchi"
+    "vi": "Hiroyuki Toguchi",
+    "api_translated": true
   },
   {
     "id": 101542,
     "en": "Itsumi Kasai",
-    "vi": "Itsumi Kasai"
+    "vi": "Itsumi Kasai",
+    "api_translated": true
   },
   {
     "id": 101543,
     "en": "Localization Division",
-    "vi": "Localization Division"
+    "vi": "Bộ phận Bản địa hóa",
+    "api_translated": true
   },
   {
     "id": 101544,
     "en": "Technical Support",
-    "vi": "Technical Support"
+    "vi": "Hỗ trợ Kỹ thuật",
+    "api_translated": true
   },
   {
     "id": 101545,
     "en": "Localization Engineers",
-    "vi": "Localization Engineers"
+    "vi": "Kỹ sư Bản địa hóa",
+    "api_translated": true
   },
   {
     "id": 101546,
     "en": "Kazuki Kobayashi",
-    "vi": "Kazuki Kobayashi"
+    "vi": "Kazuki Kobayashi",
+    "api_translated": true
   },
   {
     "id": 101547,
     "en": "Mahiro Komura",
-    "vi": "Mahiro Komura"
+    "vi": "Mahiro Komura",
+    "api_translated": true
   },
   {
     "id": 101548,
     "en": "Sho Tomita",
-    "vi": "Sho Tomita"
+    "vi": "Sho Tomita",
+    "api_translated": true
   },
   {
     "id": 101549,
     "en": "Takayoshi Ito",
-    "vi": "Takayoshi Ito"
+    "vi": "Takayoshi Ito",
+    "api_translated": true
   },
   {
     "id": 101550,
     "en": "Asumi Kuriki",
-    "vi": "Asumi Kuriki"
+    "vi": "Asumi Kuriki",
+    "api_translated": true
   },
   {
     "id": 101551,
     "en": "Localization Technical Director",
-    "vi": "Localization Technical Director"
+    "vi": "Giám đốc Kỹ thuật Bản địa hóa",
+    "api_translated": true
   },
   {
     "id": 101552,
     "en": "Kenkyu Hata",
-    "vi": "Kenkyu Hata"
+    "vi": "Kenkyu Hata",
+    "api_translated": true
   },
   {
     "id": 101553,
     "en": "Special Thanks",
-    "vi": "Special Thanks"
+    "vi": "Lời cảm ơn đặc biệt",
+    "api_translated": true
   },
   {
     "id": 101554,
     "en": "Satoshi Toyoda",
-    "vi": "Satoshi Toyoda"
+    "vi": "Satoshi Toyoda",
+    "api_translated": true
   },
   {
     "id": 101555,
     "en": "Shingo Hosokawa",
-    "vi": "Shingo Hosokawa"
+    "vi": "Shingo Hosokawa",
+    "api_translated": true
   },
   {
     "id": 101556,
     "en": "Creative Support Center",
-    "vi": "Creative Support Center"
+    "vi": "Trung tâm Hỗ trợ Sáng tạo",
+    "api_translated": true
   },
   {
     "id": 101710,
     "en": "Partner Relationship Management Division",
-    "vi": "Partner Relationship Management Division"
+    "vi": "Bộ phận Quản lý Quan hệ Đối tác",
+    "api_translated": true
   },
   {
     "id": 101557,
     "en": "General Manager",
-    "vi": "General Manager"
+    "vi": "Tổng Giám đốc",
+    "api_translated": true
   },
   {
     "id": 101558,
     "en": "Noriko Watanabe",
-    "vi": "Noriko Watanabe"
+    "vi": "Noriko Watanabe",
+    "api_translated": true
   },
   {
     "id": 101559,
     "en": "Senior Submission Specialist Manager",
-    "vi": "Senior Submission Specialist Manager"
+    "vi": "Quản lý Cấp cao Bộ phận Đệ trình",
+    "api_translated": true
   },
   {
     "id": 101560,
     "en": "Shuhei Yamamoto",
-    "vi": "Shuhei Yamamoto"
+    "vi": "Shuhei Yamamoto",
+    "api_translated": true
   },
   {
     "id": 101561,
     "en": "Product Coordinator Lead",
-    "vi": "Product Coordinator Lead"
+    "vi": "Trưởng nhóm Điều phối Sản phẩm",
+    "api_translated": true
   },
   {
     "id": 101562,
     "en": "Kazuya Okamoto",
-    "vi": "Kazuya Okamoto"
+    "vi": "Kazuya Okamoto",
+    "api_translated": true
   },
   {
     "id": 101563,
     "en": "Submission Coordinator",
-    "vi": "Submission Coordinator"
+    "vi": "Điều phối viên Đệ trình",
+    "api_translated": true
   },
   {
     "id": 101564,
     "en": "Kei Kimura",
-    "vi": "Kei Kimura"
+    "vi": "Kei Kimura",
+    "api_translated": true
   },
   {
     "id": 101565,
     "en": "Technical Support Specialist",
-    "vi": "Technical Support Specialist"
+    "vi": "Chuyên viên Hỗ trợ Kỹ thuật",
+    "api_translated": true
   },
   {
     "id": 101566,
     "en": "Sanae Miyabayashi",
-    "vi": "Sanae Miyabayashi"
+    "vi": "Sanae Miyabayashi",
+    "api_translated": true
   },
   {
     "id": 101567,
     "en": "Middleware Coordinator",
-    "vi": "Middleware Coordinator"
+    "vi": "Điều phối viên Middleware",
+    "api_translated": true
   },
   {
     "id": 101568,
     "en": "Tokuko Ishikawa",
-    "vi": "Tokuko Ishikawa"
+    "vi": "Tokuko Ishikawa",
+    "api_translated": true
   },
   {
     "id": 101569,
     "en": "Font Coordinator",
-    "vi": "Font Coordinator"
+    "vi": "Điều phối viên Phông chữ",
+    "api_translated": true
   },
   {
     "id": 101570,
     "en": "Mieko Isozaki",
-    "vi": "Mieko Isozaki"
+    "vi": "Mieko Isozaki",
+    "api_translated": true
   },
   {
     "id": 101571,
     "en": "Legal & Intellectual Property Division",
-    "vi": "Legal & Intellectual Property Division"
+    "vi": "Bộ phận Pháp lý & Sở hữu Trí tuệ",
+    "api_translated": true
   },
   {
     "id": 101572,
     "en": "Hyuga Asanuma",
-    "vi": "Hyuga Asanuma"
+    "vi": "Hyuga Asanuma",
+    "api_translated": true
   },
   {
     "id": 101573,
     "en": "Business Management Division",
-    "vi": "Business Management Division"
+    "vi": "Bộ phận Quản lý Kinh doanh",
+    "api_translated": true
   },
   {
     "id": 101574,
     "en": "General Manager",
-    "vi": "General Manager"
+    "vi": "Tổng Giám đốc",
+    "api_translated": true
   },
   {
     "id": 101711,
     "en": "Akihiko Kasuga",
-    "vi": "Akihiko Kasuga"
+    "vi": "Akihiko Kasuga",
+    "api_translated": true
   },
   {
     "id": 101712,
     "en": "Manager",
-    "vi": "Manager"
+    "vi": "Quản lý",
+    "api_translated": true
   },
   {
     "id": 101713,
     "en": "Yuu Tsuchida",
-    "vi": "Yuu Tsuchida"
+    "vi": "Yuu Tsuchida",
+    "api_translated": true
   },
   {
     "id": 101714,
     "en": "Kahori Ito",
-    "vi": "Kahori Ito"
+    "vi": "Kahori Ito",
+    "api_translated": true
   },
   {
     "id": 101715,
     "en": "Naoki Iwata",
-    "vi": "Naoki Iwata"
+    "vi": "Naoki Iwata",
+    "api_translated": true
   },
   {
     "id": 101716,
     "en": "Yousaku Ukyo",
-    "vi": "Yousaku Ukyo"
+    "vi": "Yousaku Ukyo",
+    "api_translated": true
   },
   {
     "id": 101717,
     "en": "Moe Ohashi",
-    "vi": "Moe Ohashi"
+    "vi": "Moe Ohashi",
+    "api_translated": true
   },
   {
     "id": 101718,
     "en": "Shun Tahara",
-    "vi": "Shun Tahara"
+    "vi": "Shun Tahara",
+    "api_translated": true
   },
   {
     "id": 101575,
     "en": "Special Thanks",
-    "vi": "Special Thanks"
+    "vi": "Lời cảm ơn đặc biệt",
+    "api_translated": true
   },
   {
     "id": 101576,
     "en": "OCTOPATH TRAVELER: Champions of the Continent Team",
-    "vi": "OCTOPATH TRAVELER: Champions of the Continent Team"
+    "vi": "Đội ngũ OCTOPATH TRAVELER: Champions of the Continent",
+    "api_translated": true
   },
   {
     "id": 101577,
     "en": "Yuki Yokoyama",
-    "vi": "Yuki Yokoyama"
+    "vi": "Yuki Yokoyama",
+    "api_translated": true
   },
   {
     "id": 101578,
     "en": "Shintaro Hosokawa",
-    "vi": "Shintaro Hosokawa"
+    "vi": "Shintaro Hosokawa",
+    "api_translated": true
   },
   {
     "id": 101579,
     "en": "Takahiro Inoue",
-    "vi": "Takahiro Inoue"
+    "vi": "Takahiro Inoue",
+    "api_translated": true
   },
   {
     "id": 101580,
     "en": "Yifei Tang",
-    "vi": "Yifei Tang"
+    "vi": "Yifei Tang",
+    "api_translated": true
   },
   {
     "id": 101581,
     "en": "Kosuke Ito",
-    "vi": "Kosuke Ito"
+    "vi": "Kosuke Ito",
+    "api_translated": true
   },
   {
     "id": 101697,
     "en": "(DoIT Corp.)",
-    "vi": "(DoIT Corp.)"
+    "vi": "(DoIT Corp.)",
+    "api_translated": true
   },
   {
     "id": 101582,
     "en": "Shinnosuke Suga",
-    "vi": "Shinnosuke Suga"
+    "vi": "Shinnosuke Suga",
+    "api_translated": true
   },
   {
     "id": 101583,
     "en": "Tomohiro Nagahama",
-    "vi": "Tomohiro Nagahama"
+    "vi": "Tomohiro Nagahama",
+    "api_translated": true
   },
   {
     "id": 101584,
     "en": "Hiromi Onishi",
-    "vi": "Hiromi Onishi"
+    "vi": "Hiromi Onishi",
+    "api_translated": true
   },
   {
     "id": 101585,
     "en": "Shizuyo Murota",
-    "vi": "Shizuyo Murota"
+    "vi": "Shizuyo Murota",
+    "api_translated": true
   },
   {
     "id": 101586,
     "en": "Akari Inoue",
-    "vi": "Akari Inoue"
+    "vi": "Akari Inoue",
+    "api_translated": true
   },
   {
     "id": 101587,
     "en": "Akira Sasaki",
-    "vi": "Akira Sasaki"
+    "vi": "Akira Sasaki",
+    "api_translated": true
   },
   {
     "id": 101588,

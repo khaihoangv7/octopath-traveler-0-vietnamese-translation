@@ -9608,7 +9608,7 @@
   {
     "id": 1602,
     "en": "！\nTwin cuts.",
-    "vi": "！\nTwin cuts.",
+    "vi": "！\nNhát chém song hành.",
     "api_translated": true
   },
   {
@@ -9632,7 +9632,7 @@
   {
     "id": 1606,
     "en": "……\nThe blade remembers.",
-    "vi": "……\nThe blade remembers.",
+    "vi": "……\nLưỡi kiếm vẫn còn ghi nhớ.",
     "api_translated": true
   },
   {
@@ -9680,7 +9680,7 @@
   {
     "id": 1614,
     "en": "！？\nNow this is the battle I have craved...",
-    "vi": "！？\nNow this is the battle I have craved...",
+    "vi": "！？\nĐây chính là trận chiến mà ta hằng khao khát...",
     "api_translated": true
   },
   {
@@ -13202,97 +13202,97 @@
   {
     "id": 2201,
     "en": "もらってくよ\nFirst things first.",
-    "vi": "もらってくよ\nFirst things first.",
+    "vi": "Ta lấy nhé\nFirst things first.",
     "api_translated": true
   },
   {
     "id": 2202,
     "en": "はっ\nFree and easy.",
-    "vi": "はっ\nFree and easy.",
+    "vi": "Tuân lệnh\nFree and easy.",
     "api_translated": true
   },
   {
     "id": 2203,
     "en": "その指輪、いただきまーす\nGet to work.",
-    "vi": "その指輪、いただきまーす\nGet to work.",
+    "vi": "Chiếc nhẫn đó, ta nhận nhé\nGet to work.",
     "api_translated": true
   },
   {
     "id": 2204,
     "en": "アハ、この世の指輪はすべてあたしのも・の\nDon't get cocky.",
-    "vi": "アハ、この世の指輪はすべてあたしのも・の\nDon't get cocky.",
+    "vi": "Aha, mọi chiếc nhẫn trên đời này đều là của ta\nDon't get cocky.",
     "api_translated": true
   },
   {
     "id": 2205,
     "en": "あんた、退屈させないでよね？\nNot so fast.",
-    "vi": "あんた、退屈させないでよね？\nNot so fast.",
+    "vi": "Ngươi, đừng làm ta thấy chán đấy nhé?\nNot so fast.",
     "api_translated": true
   },
   {
     "id": 2206,
     "en": "楽しくなってきたぁ！\nKnow your place.",
-    "vi": "楽しくなってきたぁ！\nKnow your place.",
+    "vi": "Bắt đầu vui rồi đây!\nKnow your place.",
     "api_translated": true
   },
   {
     "id": 2207,
     "en": "さあ、その指輪の力もっと見せてよ！\nTake your best shot.",
-    "vi": "さあ、その指輪の力もっと見せてよ！\nTake your best shot.",
+    "vi": "Nào, hãy cho ta thấy sức mạnh của chiếc nhẫn đó nhiều hơn nữa đi!\nTake your best shot.",
     "api_translated": true
   },
   {
     "id": 2208,
     "en": "アーッハハハハハハ！！\nFor me.",
-    "vi": "アーッハハハハハハ！！\nFor me.",
+    "vi": "A ha ha ha ha ha!!\nFor me.",
     "api_translated": true
   },
   {
     "id": 2209,
     "en": "こんにちは\nYou need this.",
-    "vi": "こんにちは\nYou need this.",
+    "vi": "Xin chào\nYou need this.",
     "api_translated": true
   },
   {
     "id": 2210,
     "en": "はい\nA little something for you.",
-    "vi": "はい\nA little something for you.",
+    "vi": "Đây nè\nA little something for you.",
     "api_translated": true
   },
   {
     "id": 2211,
     "en": "それで……\nI'll take that.",
-    "vi": "それで……\nI'll take that.",
+    "vi": "Vậy thì……\nI'll take that.",
     "api_translated": true
   },
   {
     "id": 2212,
     "en": "さようなら\nSlice and dice.",
-    "vi": "さようなら\nSlice and dice.",
+    "vi": "Tạm biệt\nSlice and dice.",
     "api_translated": true
   },
   {
     "id": 2213,
     "en": "！\nWill this help?",
-    "vi": "！\nWill this help?",
+    "vi": "!\nWill this help?",
     "api_translated": true
   },
   {
     "id": 2214,
     "en": "ええっ！\nBlack as night.",
-    "vi": "ええっ！\nBlack as night.",
+    "vi": "Hả!\nBlack as night.",
     "api_translated": true
   },
   {
     "id": 2215,
     "en": "なんですって！\nYou're feeling weak.",
-    "vi": "なんですって！\nYou're feeling weak.",
+    "vi": "Ngươi nói cái gì!\nYou're feeling weak.",
     "api_translated": true
   },
   {
     "id": 2216,
     "en": "くぅ……！\nLet's break through.",
-    "vi": "くぅ……！\nLet's break through.",
+    "vi": "Ư...\nLet's break through.",
     "api_translated": true
   },
   {
@@ -13304,499 +13304,499 @@
   {
     "id": 2218,
     "en": "うっ……\nEverything you cherish is mine!",
-    "vi": "うっ……\nEverything you cherish is mine!",
+    "vi": "Ư...\nEverything you cherish is mine!",
     "api_translated": true
   },
   {
     "id": 2219,
     "en": "うわぁ！\n[attack exert]",
-    "vi": "うわぁ！\n[attack exert]",
+    "vi": "Á!\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 2220,
     "en": "いいですね！\n[attack exert]",
-    "vi": "いいですね！\n[attack exert]",
+    "vi": "Được đấy!\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 2221,
     "en": "ふふっ\nI'll take that ring from you!",
-    "vi": "ふふっ\nI'll take that ring from you!",
+    "vi": "Hừ hừ...\nTa sẽ lấy chiếc nhẫn đó từ ngươi!",
     "api_translated": true
   },
   {
     "id": 2222,
     "en": "あははっ\nHeh, all the rings of the world belong to me!",
-    "vi": "あははっ\nHeh, all the rings of the world belong to me!",
+    "vi": "A ha ha!\nHeh, tất cả những chiếc nhẫn trên thế giới này đều thuộc về ta!",
     "api_translated": true
   },
   {
     "id": 2223,
     "en": "くっ……！\nTry to make it interesting, all right?",
-    "vi": "くっ……！\nTry to make it interesting, all right?",
+    "vi": "Khốn kiếp...!\nCố gắng làm cho mọi thứ thú vị hơn đi, được chứ?",
     "api_translated": true
   },
   {
     "id": 2224,
     "en": "そんな……\nNow this is more like it!",
-    "vi": "そんな……\nNow this is more like it!",
+    "vi": "Không thể nào...\nThế này mới đáng để ta ra tay chứ!",
     "api_translated": true
   },
   {
     "id": 2225,
     "en": "！？\nCome on, show me what that ring can do!",
-    "vi": "！？\nCome on, show me what that ring can do!",
+    "vi": "！？\nNào, cho ta thấy chiếc nhẫn đó có thể làm được gì đi!",
     "api_translated": true
   },
   {
     "id": 2226,
     "en": "まさか……\n[extended laughter]",
-    "vi": "まさか……\n[extended laughter]",
+    "vi": "Không lẽ nào...\n[cười lớn]",
     "api_translated": true
   },
   {
     "id": 2227,
     "en": "ありがとうございます\nGood day to you.",
-    "vi": "ありがとうございます\nGood day to you.",
+    "vi": "Cảm ơn ngươi\nChúc ngươi một ngày tốt lành.",
     "api_translated": true
   },
   {
     "id": 2228,
     "en": "すみません\nIndeed.",
-    "vi": "すみません\nIndeed.",
+    "vi": "Xin lỗi\nQuả thực là vậy.",
     "api_translated": true
   },
   {
     "id": 2229,
     "en": "どうしました？\nWell then...",
-    "vi": "どうしました？\nWell then...",
+    "vi": "Có chuyện gì sao?\nVậy thì...",
     "api_translated": true
   },
   {
     "id": 2230,
     "en": "あの……\nFare you well.",
-    "vi": "あの……\nFare you well.",
+    "vi": "Này...\nChúc ngươi lên đường bình an.",
     "api_translated": true
   },
   {
     "id": 2231,
     "en": "あっ\n[surprised reax]",
-    "vi": "あっ\n[surprised reax]",
+    "vi": "Á\n[phản ứng ngạc nhiên]",
     "api_translated": true
   },
   {
     "id": 2232,
     "en": "これは……\n[surprised reax]",
-    "vi": "これは……\n[surprised reax]",
+    "vi": "Cái này là...\n[phản ứng ngạc nhiên]",
     "api_translated": true
   },
   {
     "id": 2233,
     "en": "そうですね\nI beg your pardon!?",
-    "vi": "そうですね\nI beg your pardon!?",
+    "vi": "Phải rồi nhỉ\nNgươi nói cái gì cơ!?",
     "api_translated": true
   },
   {
     "id": 2234,
     "en": "違います\n[angry grumbling reax]",
-    "vi": "違います\n[angry grumbling reax]",
+    "vi": "Không phải\n[phản ứng càu nhàu giận dữ]",
     "api_translated": true
   },
   {
     "id": 2235,
     "en": "はい……\n[sad sigh]",
-    "vi": "はい……\n[sad sigh]",
+    "vi": "Vâng...\n[tiếng thở dài buồn bã]",
     "api_translated": true
   },
   {
     "id": 2236,
     "en": "ダメです\nOh...",
-    "vi": "ダメです\nOh...",
+    "vi": "Không được đâu\nỒ...",
     "api_translated": true
   },
   {
     "id": 2237,
     "en": "わかりました\n[happy surprised reax]",
-    "vi": "わかりました\n[happy surprised reax]",
+    "vi": "Ta hiểu rồi\n[phản ứng ngạc nhiên vui vẻ]",
     "api_translated": true
   },
   {
     "id": 2238,
     "en": "え？\nWonderful!",
-    "vi": "え？\nWonderful!",
+    "vi": "Hả?\nTuyệt vời!",
     "api_translated": true
   },
   {
     "id": 2239,
     "en": "えーと……\n[short laugh]",
-    "vi": "えーと……\n[short laugh]",
+    "vi": "Để xem nào...\n[cười ngắn]",
     "api_translated": true
   },
   {
     "id": 2240,
     "en": "そうか……！\n[laugh]",
-    "vi": "そうか……！\n[laugh]",
+    "vi": "Ra là vậy...!\n[cười]",
     "api_translated": true
   },
   {
     "id": 2241,
     "en": "オクトパストラベラー\n[frustrated reax]",
-    "vi": "オクトパストラベラー\n[frustrated reax]",
+    "vi": "OCTOPATH TRAVELER\n[phản ứng thất vọng]",
     "api_translated": true
   },
   {
     "id": 2242,
     "en": "教えてください！\nHonestly...",
-    "vi": "教えてください！\nHonestly...",
+    "vi": "Hãy dạy cho ta với!\nThật là...",
     "api_translated": true
   },
   {
     "id": 2243,
     "en": "もっと知りたいです！\n[scared reax]",
-    "vi": "もっと知りたいです！\n[scared reax]",
+    "vi": "Ta muốn biết nhiều hơn nữa!\n[phản ứng sợ hãi]",
     "api_translated": true
   },
   {
     "id": 2244,
     "en": "わあ、いいんですか？\nOh dear...",
-    "vi": "わあ、いいんですか？\nOh dear...",
+    "vi": "Oa, thật sự được sao?\nÔi trời...",
     "api_translated": true
   },
   {
     "id": 2245,
     "en": "ふぅ、危なかった……\nThank you so very much!",
-    "vi": "ふぅ、危なかった……\nThank you so very much!",
+    "vi": "Phù, suýt chút nữa thì nguy...\nCảm ơn ngươi rất nhiều!",
     "api_translated": true
   },
   {
     "id": 2246,
     "en": "いただいておきます\nI'm in your debt.",
-    "vi": "いただいておきます\nI'm in your debt.",
+    "vi": "Ta xin nhận lấy\nTa nợ ngươi một ân tình.",
     "api_translated": true
   },
   {
     "id": 2247,
     "en": "うわあ、心強いです！\nWhat's the matter?",
-    "vi": "うわあ、心強いです！\nWhat's the matter?",
+    "vi": "Oa, thật an tâm quá!\nCó chuyện gì vậy?",
     "api_translated": true
   },
   {
     "id": 2248,
     "en": "よろしくお願いします！\nIf I may...",
-    "vi": "よろしくお願いします！\nIf I may...",
+    "vi": "Nhờ cả vào ngươi nhé!\nNếu ta có thể...",
     "api_translated": true
   },
   {
     "id": 2249,
     "en": "僕じゃダメかぁ……\n[noticing something reax]",
-    "vi": "僕じゃダメかぁ……\n[noticing something reax]",
+    "vi": "Chẳng lẽ ta không làm được sao...\n[phản ứng nhận ra điều gì đó]",
     "api_translated": true
   },
   {
     "id": 2250,
     "en": "僕がここまで成長できたのは、あなたのおかげです！\nWhat's this?",
-    "vi": "僕がここまで成長できたのは、あなたのおかげです！\nWhat's this?",
+    "vi": "Ta có thể trưởng thành đến mức này đều là nhờ có ngươi!\nCái gì đây?",
     "api_translated": true
   },
   {
     "id": 2251,
     "en": "旅には僕が作った常備薬セットを@+@持っていってください！\nQuite right.",
-    "vi": "旅には僕が作った常備薬セットを@+@持っていってください！\nQuite right.",
+    "vi": "Hãy mang theo bộ thuốc dự phòng do tôi tự tay điều chế trong chuyến hành trình này nhé!@+@Quả đúng là vậy.",
     "api_translated": true
   },
   {
     "id": 2252,
     "en": "傷薬、風邪薬、下痢止め……@+@応急処置には十分役に立つと思います\nI beg to differ.",
-    "vi": "傷薬、風邪薬、下痢止め……@+@応急処置には十分役に立つと思います\nI beg to differ.",
+    "vi": "Thuốc trị thương, thuốc cảm, thuốc tiêu chảy...@+@Tôi nghĩ chúng sẽ rất hữu ích cho việc sơ cứu đấy.@+@Tôi lại không nghĩ vậy.",
     "api_translated": true
   },
   {
     "id": 2253,
     "en": "僕を呼んでくれてもいいですよ@+@あなたのためならどこだろうと駆けつけます！\nIf you say so...",
-    "vi": "僕を呼んでくれてもいいですよ@+@あなたのためならどこだろうと駆けつけます！\nIf you say so...",
+    "vi": "Ngươi cứ việc gọi ta nếu cần nhé@+@Vì ngươi, dù là nơi đâu ta cũng sẽ chạy đến!@+@Nếu ngươi đã nói vậy...",
     "api_translated": true
   },
   {
     "id": 2254,
     "en": "いってらっしゃい！@+@くれぐれもお体に気をつけて！\nI must refuse.",
-    "vi": "いってらっしゃい！@+@くれぐれもお体に気をつけて！\nI must refuse.",
+    "vi": "Lên đường bình an nhé!@+@Nhớ giữ gìn sức khỏe đấy!@+@Ta buộc phải từ chối.",
     "api_translated": true
   },
   {
     "id": 2255,
     "en": "始めましょう！\nVery well.",
-    "vi": "始めましょう！\nVery well.",
+    "vi": "Bắt đầu thôi nào!@+@Được thôi.",
     "api_translated": true
   },
   {
     "id": 2256,
     "en": "頑張ります！\n[puzzled reax]",
-    "vi": "頑張ります！\n[puzzled reax]",
+    "vi": "Tôi sẽ cố gắng hết sức!@+@[vẻ mặt bối rối]",
     "api_translated": true
   },
   {
     "id": 2257,
     "en": "このまま放っておけません！\n[thinking reax]",
-    "vi": "このまま放っておけません！\n[thinking reax]",
+    "vi": "Tôi không thể cứ đứng nhìn thế này được!@+@[vẻ mặt suy tư]",
     "api_translated": true
   },
   {
     "id": 2258,
     "en": "手強い相手でも引きませんよ！\nI see now...",
-    "vi": "手強い相手でも引きませんよ！\nI see now...",
+    "vi": "Dù đối thủ có mạnh đến đâu, tôi cũng sẽ không lùi bước!@+@Giờ thì ta đã hiểu...",
     "api_translated": true
   },
   {
     "id": 2259,
     "en": "もうどんな薬でも治せないようですね……\nOctopath Traveler",
-    "vi": "もうどんな薬でも治せないようですね……\nOctopath Traveler",
+    "vi": "Có vẻ như không loại thuốc nào có thể chữa trị được nữa rồi...@+@Octopath Traveler",
     "api_translated": true
   },
   {
     "id": 2260,
     "en": "やりましたぁ！\nI beg the boon of your knowledge!",
-    "vi": "やりましたぁ！\nI beg the boon of your knowledge!",
+    "vi": "Tôi làm được rồi!@+@Ta khẩn cầu sự chỉ giáo của ngươi!",
     "api_translated": true
   },
   {
     "id": 2261,
     "en": "うまくいきました！\nPlease, I wish to know more!",
-    "vi": "うまくいきました！\nPlease, I wish to know more!",
+    "vi": "Mọi chuyện suôn sẻ rồi!@+@Làm ơn, ta muốn biết thêm về điều đó!",
     "api_translated": true
   },
   {
     "id": 2262,
     "en": "やりました……！\nOh my, are you sure?",
-    "vi": "やりました……！\nOh my, are you sure?",
+    "vi": "Tôi đã làm được rồi...!@+@Ôi chao, ngươi chắc chứ?",
     "api_translated": true
   },
   {
     "id": 2263,
     "en": "皆さん、お怪我はありませんか？\nWhew, that was a near thing...",
-    "vi": "皆さん、お怪我はありませんか？\nWhew, that was a near thing...",
+    "vi": "Mọi người có ai bị thương không?@+@Phù, suýt chút nữa thì nguy rồi...",
     "api_translated": true
   },
   {
     "id": 2264,
     "en": "これで一安心です\nI shall accept this gladly.",
-    "vi": "これで一安心です\nI shall accept this gladly.",
+    "vi": "Thế này thì yên tâm rồi.@+@Ta xin vui lòng nhận lấy điều này.",
     "api_translated": true
   },
   {
     "id": 2265,
     "en": "少し……休憩しましょう……\nHow heartening!",
-    "vi": "少し……休憩しましょう……\nHow heartening!",
+    "vi": "Chúng ta... nghỉ ngơi một chút thôi...@+@Thật ấm lòng làm sao!",
     "api_translated": true
   },
   {
     "id": 2266,
     "en": "皆さんに助けられました\nIt is an honor and a pleasure.",
-    "vi": "皆さんに助けられました\nIt is an honor and a pleasure.",
+    "vi": "Tôi đã được mọi người giúp đỡ.@+@Thật là một vinh dự và niềm hạnh phúc.",
     "api_translated": true
   },
   {
     "id": 2267,
     "en": "準備はできてます！\nI gather I am unfit for this...",
-    "vi": "準備はできてます！\nI gather I am unfit for this...",
+    "vi": "Tôi đã chuẩn bị sẵn sàng!@+@Có vẻ như ta không phù hợp với việc này...",
     "api_translated": true
   },
   {
     "id": 2268,
     "en": "いきますよーっ！\nI would not be the apothecary I am today were it not for your support!",
-    "vi": "いきますよーっ！\nI would not be the apothecary I am today were it not for your support!",
+    "vi": "Tôi đi đây!@+@Ta sẽ không thể trở thành một dược sĩ như ngày hôm nay nếu không có sự ủng hộ của ngươi!",
     "api_translated": true
   },
   {
     "id": 2269,
     "en": "なんとかしなくちゃ……\nBe sure to take with you these medicines I personally prepared for your journey!",
-    "vi": "なんとかしなくちゃ……\nBe sure to take with you these medicines I personally prepared for your journey!",
+    "vi": "Mình phải làm gì đó mới được...@+@Hãy mang theo những loại thuốc mà tôi đã tự tay chuẩn bị cho chuyến hành trình của ngươi!",
     "api_translated": true
   },
   {
     "id": 2270,
     "en": "今のうちです！\nSalves, cold remedies, stomach medicines—items for all manner of conceivable emergencies.",
-    "vi": "今のうちです！\nSalves, cold remedies, stomach medicines—items for all manner of conceivable emergencies.",
+    "vi": "Chớp lấy thời cơ thôi!@+@Thuốc trị thương, thuốc cảm, thuốc tiêu chảy... những vật phẩm cho mọi tình huống khẩn cấp có thể xảy ra.",
     "api_translated": true
   },
   {
     "id": 2271,
     "en": "全力でいきましょう！\nYou may of course call upon me again as well. Wherever you go, I should be glad to hasten to your side!",
-    "vi": "全力でいきましょう！\nYou may of course call upon me again as well. Wherever you go, I should be glad to hasten to your side!",
+    "vi": "Dốc toàn lực thôi nào!@+@Tất nhiên ngươi có thể gọi ta lần nữa. Dù ngươi đi đâu, ta cũng sẽ vui lòng chạy đến bên ngươi!",
     "api_translated": true
   },
   {
     "id": 2272,
     "en": "はっ！\nBest of luck to you! And do try not to neglect your health!",
-    "vi": "はっ！\nBest of luck to you! And do try not to neglect your health!",
+    "vi": "Hự!@+@Chúc ngươi may mắn! Và hãy nhớ đừng lơ là sức khỏe của bản thân đấy!",
     "api_translated": true
   },
   {
     "id": 2273,
     "en": "やっ！\nLet us begin!",
-    "vi": "やっ！\nLet us begin!",
+    "vi": "Ya!@+@Bắt đầu thôi nào!",
     "api_translated": true
   },
   {
     "id": 2274,
     "en": "えいっ！\nI'm ready!",
-    "vi": "えいっ！\nI'm ready!",
+    "vi": "Hây!@+@Tôi đã sẵn sàng!",
     "api_translated": true
   },
   {
     "id": 2275,
     "en": "とぅっ！\nThey must be dealt with!",
-    "vi": "とぅっ！\nThey must be dealt with!",
+    "vi": "Hự!@+@Chúng cần phải bị xử lý!",
     "api_translated": true
   },
   {
     "id": 2276,
     "en": "やるぞぉっ！\nI will take on any challenge!",
-    "vi": "やるぞぉっ！\nI will take on any challenge!",
+    "vi": "Làm thôi nào!@+@Tôi sẽ chấp nhận mọi thử thách!",
     "api_translated": true
   },
   {
     "id": 2277,
     "en": "渾身の力で！\nI fear no remedy can cure them...",
-    "vi": "渾身の力で！\nI fear no remedy can cure them...",
+    "vi": "Dùng hết sức bình sinh!@+@Tôi e rằng không có loại thuốc nào chữa được cho họ...",
     "api_translated": true
   },
   {
     "id": 2278,
     "en": "ええっ！？\nIt worked!",
-    "vi": "ええっ！？\nIt worked!",
+    "vi": "Hả!@+@Thành công rồi!",
     "api_translated": true
   },
   {
     "id": 2279,
     "en": "はぁっ！\nBrilliant!",
-    "vi": "はぁっ！\nBrilliant!",
+    "vi": "Hà!@+@Tuyệt vời!",
     "api_translated": true
   },
   {
     "id": 2280,
     "en": "やあぁっ！\nIt worked.",
-    "vi": "やあぁっ！\nIt worked.",
+    "vi": "Ya!@+@Thành công rồi.",
     "api_translated": true
   },
   {
     "id": 2281,
     "en": "はあぁぁぁーーっ！\nIs anyone in need of aid?",
-    "vi": "はあぁぁぁーーっ！\nIs anyone in need of aid?",
+    "vi": "Haaah! \nCó ai cần giúp đỡ không?",
     "api_translated": true
   },
   {
     "id": 2282,
     "en": "むんっ！\nLet us take a moment.",
-    "vi": "むんっ！\nLet us take a moment.",
+    "vi": "Hự! \nHãy nghỉ ngơi một chút nào.",
     "api_translated": true
   },
   {
     "id": 2283,
     "en": "いくぞ！\nPerhaps we should rest...",
-    "vi": "いくぞ！\nPerhaps we should rest...",
+    "vi": "Đi thôi! \nCó lẽ chúng ta nên nghỉ ngơi...",
     "api_translated": true
   },
   {
     "id": 2284,
     "en": "僕だって……！\nI owe you all my life.",
-    "vi": "僕だって……！\nI owe you all my life.",
+    "vi": "Cả tôi nữa……! \nTôi nợ mọi người cả mạng sống này.",
     "api_translated": true
   },
   {
     "id": 2285,
     "en": "父さん……僕はやります！\nReady to go!",
-    "vi": "父さん……僕はやります！\nReady to go!",
+    "vi": "Cha à…… con sẽ làm được! \nSẵn sàng lên đường!",
     "api_translated": true
   },
   {
     "id": 2286,
     "en": "見つけた！\nAllow me!",
-    "vi": "見つけた！\nAllow me!",
+    "vi": "Tìm thấy rồi! \nĐể tôi lo!",
     "api_translated": true
   },
   {
     "id": 2287,
     "en": "ここだぁっ！\nI'll make this count.",
-    "vi": "ここだぁっ！\nI'll make this count.",
+    "vi": "Ở đây này! \nTôi sẽ tận dụng cơ hội này.",
     "api_translated": true
   },
   {
     "id": 2288,
     "en": "僕にもできた！\nNow's our chance!",
-    "vi": "僕にもできた！\nNow's our chance!",
+    "vi": "Tôi cũng làm được rồi! \nĐây là cơ hội của chúng ta!",
     "api_translated": true
   },
   {
     "id": 2289,
     "en": "叩きましょう！\nGive it our all!",
-    "vi": "叩きましょう！\nGive it our all!",
+    "vi": "Đánh thôi! \nHãy dốc hết sức nào!",
     "api_translated": true
   },
   {
     "id": 2290,
     "en": "息を整えますね\n[attack exert]",
-    "vi": "息を整えますね\n[attack exert]",
+    "vi": "Tôi sẽ điều hòa lại hơi thở. \n[attack exert]",
     "api_translated": true
   },
   {
     "id": 2291,
     "en": "気力は十分です！\n[attack exert]",
-    "vi": "気力は十分です！\n[attack exert]",
+    "vi": "Khí lực của tôi vẫn còn dồi dào! \n[attack exert]",
     "api_translated": true
   },
   {
     "id": 2292,
     "en": "引き受けます！\n[attack exert]",
-    "vi": "引き受けます！\n[attack exert]",
+    "vi": "Để tôi lo việc này! \n[attack exert]",
     "api_translated": true
   },
   {
     "id": 2293,
     "en": "よくもやったな！？\n[attack exert]",
-    "vi": "よくもやったな！？\n[attack exert]",
+    "vi": "Ngươi dám làm vậy sao!? \n[attack exert]",
     "api_translated": true
   },
   {
     "id": 2294,
     "en": "ここは身を守ろう\nGot you!",
-    "vi": "ここは身を守ろう\nGot you!",
+    "vi": "Hãy tự bảo vệ mình thôi. \nGot you!",
     "api_translated": true
   },
   {
     "id": 2295,
     "en": "うまくかわせた！\nTake this!",
-    "vi": "うまくかわせた！\nTake this!",
+    "vi": "Né được rồi! \nTake this!",
     "api_translated": true
   },
   {
     "id": 2296,
     "en": "効かないよ！\n[surprised reax]",
-    "vi": "効かないよ！\n[surprised reax]",
+    "vi": "Không có tác dụng đâu! \n[surprised reax]",
     "api_translated": true
   },
   {
     "id": 2297,
     "en": "対策済みです\n[gathering power]",
-    "vi": "対策済みです\n[gathering power]",
+    "vi": "Tôi đã có đối sách rồi. \n[gathering power]",
     "api_translated": true
   },
   {
     "id": 2298,
     "en": "なんだこれ……\n[gathering power]",
-    "vi": "なんだこれ……\n[gathering power]",
+    "vi": "Cái gì thế này…… \n[gathering power]",
     "api_translated": true
   },
   {
     "id": 2299,
     "en": "そんなぁ！\n[gathering power]",
-    "vi": "そんなぁ！\n[gathering power]",
+    "vi": "Không thể nào! \n[gathering power]",
     "api_translated": true
   },
   {
     "id": 2300,
     "en": "すみません\n[gathering power]",
-    "vi": "すみません\n[gathering power]",
+    "vi": "Thật xin lỗi. \n[gathering power]",
     "api_translated": true
   },
   {
@@ -14204,7 +14204,7 @@
   {
     "id": 2368,
     "en": "……\nNo healing.",
-    "vi": "……\nNo healing.",
+    "vi": "……\nKhông có hồi phục.",
     "api_translated": true
   },
   {
@@ -14252,7 +14252,7 @@
   {
     "id": 2376,
     "en": "！？\n[attack exert]",
-    "vi": "！？\n[attack exert]",
+    "vi": "！？\n[tung đòn tấn công]",
     "api_translated": true
   },
   {
@@ -15986,7 +15986,7 @@
   {
     "id": 2665,
     "en": "！\nEyes on me!",
-    "vi": "！\nEyes on me!",
+    "vi": "！\nNhìn ta đây!",
     "api_translated": true
   },
   {
@@ -16010,7 +16010,7 @@
   {
     "id": 2669,
     "en": "……\nFly!",
-    "vi": "……\nFly!",
+    "vi": "……\nBay đi!",
     "api_translated": true
   },
   {
@@ -16058,7 +16058,7 @@
   {
     "id": 2677,
     "en": "！？\n[attack exert]",
-    "vi": "！？\n[attack exert]",
+    "vi": "！？\n[tấn công dồn lực]",
     "api_translated": true
   },
   {
@@ -16202,601 +16202,601 @@
   {
     "id": 2701,
     "en": "くっ、こんなはずでは……！\n[noticing something reax]",
-    "vi": "くっ、こんなはずでは……！\n[noticing something reax]",
+    "vi": "Ư... không thể nào...!\n[noticing something reax]",
     "api_translated": true
   },
   {
     "id": 2702,
     "en": "アキークの、いや私自身の心に誓おう。この永遠の絆を\nWell, well!",
-    "vi": "アキークの、いや私自身の心に誓おう。この永遠の絆を\nWell, well!",
+    "vi": "Ta xin thề với Aqeeq, không, là với chính trái tim ta. Mối liên kết vĩnh cửu này\nWell, well!",
     "api_translated": true
   },
   {
     "id": 2703,
     "en": "お前は見事に使命を果たした\nYes.",
-    "vi": "お前は見事に使命を果たした\nYes.",
+    "vi": "Ngươi đã hoàn thành sứ mệnh một cách xuất sắc\nYes.",
     "api_translated": true
   },
   {
     "id": 2704,
     "en": "たとえ生まれは違っても@+@お前はアキークだ\nNo.",
-    "vi": "たとえ生まれは違っても@+@お前はアキークだ\nNo.",
+    "vi": "Dẫu xuất thân khác biệt@+@ngươi vẫn là người của Aqeeq\nNo.",
     "api_translated": true
   },
   {
     "id": 2705,
     "en": "私も兄も……我が一族すべてが@+@お前の同志だ！\nPerhaps...",
-    "vi": "私も兄も……我が一族すべてが@+@お前の同志だ！\nPerhaps...",
+    "vi": "Cả ta và huynh ấy... toàn bộ tộc ta đều là@+@đồng chí của ngươi!\nPerhaps...",
     "api_translated": true
   },
   {
     "id": 2706,
     "en": "困ったときは私を呼べ@+@同志を助けるのが私の使命だ！\nNever.",
-    "vi": "困ったときは私を呼べ@+@同志を助けるのが私の使命だ！\nNever.",
+    "vi": "Khi gặp khó khăn hãy gọi ta@+@giúp đỡ đồng chí là sứ mệnh của ta!\nNever.",
     "api_translated": true
   },
   {
     "id": 2707,
     "en": "アキークの戦士デリティア、参る！\nWhy not.",
-    "vi": "アキークの戦士デリティア、参る！\nWhy not.",
+    "vi": "Chiến binh Aqeeq Delitia, đã đến!\nWhy not.",
     "api_translated": true
   },
   {
     "id": 2708,
     "en": "さあ、狩りの時間だ\n[puzzled reax]",
-    "vi": "さあ、狩りの時間だ\n[puzzled reax]",
+    "vi": "Nào, đã đến giờ săn mồi rồi\n[puzzled reax]",
     "api_translated": true
   },
   {
     "id": 2709,
     "en": "氏族の名にかけて、いざ勝負！\n[thinking reax]",
-    "vi": "氏族の名にかけて、いざ勝負！\n[thinking reax]",
+    "vi": "Nhân danh gia tộc, hãy quyết đấu!\n[thinking reax]",
     "api_translated": true
   },
   {
     "id": 2710,
     "en": "悪しき者を貫く、それもまたアキークの狩りだ！\nI see!",
-    "vi": "悪しき者を貫く、それもまたアキークの狩りだ！\nI see!",
+    "vi": "Trừng trị kẻ ác, đó cũng là cách săn mồi của Aqeeq!\nI see!",
     "api_translated": true
   },
   {
     "id": 2711,
     "en": "欲望に溺れ、誇りまで失った果てがこれか……哀れな！\nOctopath Traveler",
-    "vi": "欲望に溺れ、誇りまで失った果てがこれか……哀れな！\nOctopath Traveler",
+    "vi": "Đắm chìm trong dục vọng, đánh mất cả lòng tự trọng... thật đáng thương!\nOctopath Traveler",
     "api_translated": true
   },
   {
     "id": 2712,
     "en": "終わりだ！\nMay I ask something?",
-    "vi": "終わりだ！\nMay I ask something?",
+    "vi": "Kết thúc rồi!\nMay I ask something?",
     "api_translated": true
   },
   {
     "id": 2713,
     "en": "仕上げだ！\nHmm, tell me more...",
-    "vi": "仕上げだ！\nHmm, tell me more...",
+    "vi": "Kết liễu thôi!\nHmm, tell me more...",
     "api_translated": true
   },
   {
     "id": 2714,
     "en": "トドメだ……！\nA fair trade.",
-    "vi": "トドメだ……！\nA fair trade.",
+    "vi": "Đòn chí mạng đây...!\nA fair trade.",
     "api_translated": true
   },
   {
     "id": 2715,
     "en": "ふっ、たやすい相手だったな\nI earned this prize.",
-    "vi": "ふっ、たやすい相手だったな\nI earned this prize.",
+    "vi": "Hừ, đối thủ thật dễ xơi\nI earned this prize.",
     "api_translated": true
   },
   {
     "id": 2716,
     "en": "我らの前に敵はない。なあ同志よ\nI am in your debt.",
-    "vi": "我らの前に敵はない。なあ同志よ\nI am in your debt.",
+    "vi": "Không kẻ nào cản được bước chân chúng ta. Phải không, đồng chí?\nI am in your debt.",
     "api_translated": true
   },
   {
     "id": 2717,
     "en": "恐るべき獲物だった……！\nYour support is welcome.",
-    "vi": "恐るべき獲物だった……！\nYour support is welcome.",
+    "vi": "Một con mồi đáng gờm...!\nYour support is welcome.",
     "api_translated": true
   },
   {
     "id": 2718,
     "en": "これほどの相手がいようとは\nFrom now on, we are comrades!",
-    "vi": "これほどの相手がいようとは\nFrom now on, we are comrades!",
+    "vi": "Không ngờ lại gặp phải đối thủ như thế này\nFrom now on, we are comrades!",
     "api_translated": true
   },
   {
     "id": 2719,
     "en": "アキークの誇りにかけて！\nGah, I have failed...!",
-    "vi": "アキークの誇りにかけて！\nGah, I have failed...!",
+    "vi": "Nhân danh niềm tự hào của Aqeeq!\nGah, I have failed...!",
     "api_translated": true
   },
   {
     "id": 2720,
     "en": "ふっ、任せてもらおう\nI swear by the Aqeeq—no, on my own honor, that we are comrades to the end!",
-    "vi": "ふっ、任せてもらおう\nI swear by the Aqeeq—no, on my own honor, that we are comrades to the end!",
+    "vi": "Hừ, cứ giao cho ta\nI swear by the Aqeeq—no, on my own honor, that we are comrades to the end!",
     "api_translated": true
   },
   {
     "id": 2721,
     "en": "兄ならば、こんな時……！\nTruly, you are a warrior of your word.",
-    "vi": "兄ならば、こんな時……！\nTruly, you are a warrior of your word.",
+    "vi": "Nếu là huynh ấy, trong lúc này...!\nTruly, you are a warrior of your word.",
     "api_translated": true
   },
   {
     "id": 2722,
     "en": "好機到来だ！\nYou may not be born of the Aqeeq, but you are one of us in spirit.",
-    "vi": "好機到来だ！\nYou may not be born of the Aqeeq, but you are one of us in spirit.",
+    "vi": "Thời cơ đến rồi!\nYou may not be born of the Aqeeq, but you are one of us in spirit.",
     "api_translated": true
   },
   {
     "id": 2723,
     "en": "これがアキークの狩りだ\nA comrade! Not just to me, but to my brother and our clan besides!",
-    "vi": "これがアキークの狩りだ\nA comrade! Not just to me, but to my brother and our clan besides!",
+    "vi": "Đây chính là cách săn mồi của Aqeeq\nA comrade! Not just to me, but to my brother and our clan besides!",
     "api_translated": true
   },
   {
     "id": 2724,
     "en": "はっ！\nCall on me if you're ever in trouble, for it is my duty to aid your cause!",
-    "vi": "はっ！\nCall on me if you're ever in trouble, for it is my duty to aid your cause!",
+    "vi": "Hả!\nCall on me if you're ever in trouble, for it is my duty to aid your cause!",
     "api_translated": true
   },
   {
     "id": 2725,
     "en": "ふっ！\nYou face Delitia of the Aqeeq!",
-    "vi": "ふっ！\nYou face Delitia of the Aqeeq!",
+    "vi": "Hừ!\nYou face Delitia of the Aqeeq!",
     "api_translated": true
   },
   {
     "id": 2726,
     "en": "やっ！\nLet the hunt begin!",
-    "vi": "やっ！\nLet the hunt begin!",
+    "vi": "Ya!\nLet the hunt begin!",
     "api_translated": true
   },
   {
     "id": 2727,
     "en": "たっ！\nOn my clan's honor, I challenge you!",
-    "vi": "たっ！\nOn my clan's honor, I challenge you!",
+    "vi": "Tách!\nOn my clan's honor, I challenge you!",
     "api_translated": true
   },
   {
     "id": 2728,
     "en": "もらった！\nThe wicked, too, are the Aqeeq's prey!",
-    "vi": "もらった！\nThe wicked, too, are the Aqeeq's prey!",
+    "vi": "Trúng rồi!\nThe wicked, too, are the Aqeeq's prey!",
     "api_translated": true
   },
   {
     "id": 2729,
     "en": "これならば！\nCovetous, honorless wretch. Death will be a mercy!",
-    "vi": "これならば！\nCovetous, honorless wretch. Death will be a mercy!",
+    "vi": "Thế này thì!\nCovetous, honorless wretch. Death will be a mercy!",
     "api_translated": true
   },
   {
     "id": 2730,
     "en": "外れたっ！？\nIt's done.",
-    "vi": "外れたっ！？\nIt's done.",
+    "vi": "Trượt rồi sao!?\nIt's done.",
     "api_translated": true
   },
   {
     "id": 2731,
     "en": "はぁぁ！\nThat's that!",
-    "vi": "はぁぁ！\nThat's that!",
+    "vi": "Haa! \nVậy là xong!",
     "api_translated": true
   },
   {
     "id": 2732,
     "en": "むぅぅん！\nNo more.",
-    "vi": "むぅぅん！\nNo more.",
+    "vi": "Muuun! \nKhông còn nữa.",
     "api_translated": true
   },
   {
     "id": 2733,
     "en": "はあぁぁぁっっ！\nHeh, not even a challenge.",
-    "vi": "はあぁぁぁっっ！\nHeh, not even a challenge.",
+    "vi": "Haaaaa! \nHừ, chẳng phải đối thủ.",
     "api_translated": true
   },
   {
     "id": 2734,
     "en": "ふんっ！\nThey were no match for us, comrade!",
-    "vi": "ふんっ！\nThey were no match for us, comrade!",
+    "vi": "Hừ! \nHọ không phải là đối thủ của chúng ta, đồng đội à!",
     "api_translated": true
   },
   {
     "id": 2735,
     "en": "研ぎ澄ます！\nA formidable foe...",
-    "vi": "研ぎ澄ます！\nA formidable foe...",
+    "vi": "Mài giũa! \nMột kẻ địch đáng gờm...",
     "api_translated": true
   },
   {
     "id": 2736,
     "en": "アキークの怒りを受けよ！\nI never imagined such a foe...",
-    "vi": "アキークの怒りを受けよ！\nI never imagined such a foe...",
+    "vi": "Hãy nhận lấy cơn thịnh nộ của Aqeeq! \nTa chưa từng tưởng tượng sẽ gặp kẻ địch như vậy...",
     "api_translated": true
   },
   {
     "id": 2737,
     "en": "アキークの名にかけて！\nFor the glory of the Aqeeq!",
-    "vi": "アキークの名にかけて！\nFor the glory of the Aqeeq!",
+    "vi": "Nhân danh Aqeeq! \nVì vinh quang của Aqeeq!",
     "api_translated": true
   },
   {
     "id": 2738,
     "en": "手応えあり！\nHeh, this one is mine!",
-    "vi": "手応えあり！\nHeh, this one is mine!",
+    "vi": "Đã trúng đích! \nHừ, kẻ này là của ta!",
     "api_translated": true
   },
   {
     "id": 2739,
     "en": "効くだろう？\nMy brother wouldn't falter...",
-    "vi": "効くだろう？\nMy brother wouldn't falter...",
+    "vi": "Chắc là đau lắm nhỉ? \nAnh trai ta sẽ không nao núng...",
     "api_translated": true
   },
   {
     "id": 2740,
     "en": "畳みかけるぞ！\nSeize the moment!",
-    "vi": "畳みかけるぞ！\nSeize the moment!",
+    "vi": "Tấn công dồn dập! \nChớp lấy thời cơ!",
     "api_translated": true
   },
   {
     "id": 2741,
     "en": "仕上げの時だ！\nFor the Aqeeq!",
-    "vi": "仕上げの時だ！\nFor the Aqeeq!",
+    "vi": "Đã đến lúc kết liễu! \nVì Aqeeq!",
     "api_translated": true
   },
   {
     "id": 2742,
     "en": "任せた！\n[attack exert]",
-    "vi": "任せた！\n[attack exert]",
+    "vi": "Giao cho ngươi! \n[tấn công]",
     "api_translated": true
   },
   {
     "id": 2743,
     "en": "ひと肌脱ごう\n[attack exert]",
-    "vi": "ひと肌脱ごう\n[attack exert]",
+    "vi": "Để ta ra tay \n[tấn công]",
     "api_translated": true
   },
   {
     "id": 2744,
     "en": "私が盾となろう！\n[attack exert]",
-    "vi": "私が盾となろう！\n[attack exert]",
+    "vi": "Ta sẽ làm lá chắn! \n[tấn công]",
     "api_translated": true
   },
   {
     "id": 2745,
     "en": "恨みは晴らす！\n[attack exert]",
-    "vi": "恨みは晴らす！\n[attack exert]",
+    "vi": "Mối hận này sẽ được rửa sạch! \n[tấn công]",
     "api_translated": true
   },
   {
     "id": 2746,
     "en": "今は耐える……\nGot you!",
-    "vi": "今は耐える……\nGot you!",
+    "vi": "Giờ thì nhẫn nhịn thôi... \nBắt được ngươi rồi!",
     "api_translated": true
   },
   {
     "id": 2747,
     "en": "私はここだぞ\nTake this!",
-    "vi": "私はここだぞ\nTake this!",
+    "vi": "Ta ở đây này \nNhận lấy chiêu này!",
     "api_translated": true
   },
   {
     "id": 2748,
     "en": "鍛錬の成果だ\nI missed!?",
-    "vi": "鍛錬の成果だ\nI missed!?",
+    "vi": "Đây là thành quả của việc rèn luyện \nTa trượt rồi sao!?",
     "api_translated": true
   },
   {
     "id": 2749,
     "en": "薄着と侮ったか？\n[gathering power]",
-    "vi": "薄着と侮ったか？\n[gathering power]",
+    "vi": "Ngươi khinh thường ta vì ăn mặc phong phanh à? \n[tụ lực]",
     "api_translated": true
   },
   {
     "id": 2750,
     "en": "ううっ……\n[gathering power]",
-    "vi": "ううっ……\n[gathering power]",
+    "vi": "Ư... \n[tụ lực]",
     "api_translated": true
   },
   {
     "id": 2751,
     "en": "待ち伏せだと！？\n[gathering power]",
-    "vi": "待ち伏せだと！？\n[gathering power]",
+    "vi": "Phục kích sao!? \n[tụ lực]",
     "api_translated": true
   },
   {
     "id": 2752,
     "en": "大いに感謝する！\n[gathering power]",
-    "vi": "大いに感謝する！\n[gathering power]",
+    "vi": "Vô cùng cảm kích! \n[tụ lực]",
     "api_translated": true
   },
   {
     "id": 2753,
     "en": "あ、ありがとう……\nAll my might...",
-    "vi": "あ、ありがとう……\nAll my might...",
+    "vi": "A, cảm ơn... \nToàn bộ sức mạnh của ta...",
     "api_translated": true
   },
   {
     "id": 2754,
     "en": "使命を果たすまで、倒れてなど！\nThe rage of the Aqeeq!",
-    "vi": "使命を果たすまで、倒れてなど！\nThe rage of the Aqeeq!",
+    "vi": "Chừng nào chưa hoàn thành sứ mệnh, ta sẽ không gục ngã! \nCơn thịnh nộ của Aqeeq!",
     "api_translated": true
   },
   {
     "id": 2755,
     "en": "アキークの戦士は折れぬ！\nFor the Aqeeq!",
-    "vi": "アキークの戦士は折れぬ！\nFor the Aqeeq!",
+    "vi": "Chiến binh của Aqeeq không bao giờ khuất phục! \nVì Aqeeq!",
     "api_translated": true
   },
   {
     "id": 2756,
     "en": "うっ\nIt's working!",
-    "vi": "うっ\nIt's working!",
+    "vi": "Ư \nNó đang có tác dụng!",
     "api_translated": true
   },
   {
     "id": 2757,
     "en": "むっ\nFeel that?",
-    "vi": "むっ\nFeel that?",
+    "vi": "Hừ \nCảm nhận được chứ?",
     "api_translated": true
   },
   {
     "id": 2758,
     "en": "うあっ！\nNo quarter!",
-    "vi": "うあっ！\nNo quarter!",
+    "vi": "Ư á! \nKhông khoan nhượng!",
     "api_translated": true
   },
   {
     "id": 2759,
     "en": "ぐあ！？\nUnleash hell!",
-    "vi": "ぐあ！？\nUnleash hell!",
+    "vi": "Ư á!? \nGiải phóng địa ngục!",
     "api_translated": true
   },
   {
     "id": 2760,
     "en": "くああっ！？\nIt's yours.",
-    "vi": "くああっ！？\nIt's yours.",
+    "vi": "Ư á!? \nLà của ngươi đấy.",
     "api_translated": true
   },
   {
     "id": 2761,
     "en": "しまったっ！？\nI'll take this.",
-    "vi": "しまったっ！？\nI'll take this.",
+    "vi": "Chết tiệt thật!?\nTa sẽ lấy thứ này.",
     "api_translated": true
   },
   {
     "id": 2762,
     "en": "ここで倒れては、同志が……！\nLeave the rest to me!",
-    "vi": "ここで倒れては、同志が……！\nLeave the rest to me!",
+    "vi": "Nếu gục ngã tại đây, đồng đội của ta sẽ...\nĐể đó cho ta!",
     "api_translated": true
   },
   {
     "id": 2763,
     "en": "狩られたのは私の方だと……！？\nYou will pay!",
-    "vi": "狩られたのは私の方だと……！？\nYou will pay!",
+    "vi": "Kẻ bị săn đuổi lại chính là ta sao...!?\nNgươi sẽ phải trả giá!",
     "api_translated": true
   },
   {
     "id": 2764,
     "en": "使命も果たせずに……朽ちるのか……！\nI'll endure...",
-    "vi": "使命も果たせずに……朽ちるのか……！\nI'll endure...",
+    "vi": "Sứ mệnh chưa hoàn thành... mà đã phải mục rữa sao...!\nTa sẽ chịu đựng...",
     "api_translated": true
   },
   {
     "id": 2765,
     "en": "食らえ！\nToo slow.",
-    "vi": "食らえ！\nToo slow.",
+    "vi": "Ăn đòn này đi!\nQuá chậm.",
     "api_translated": true
   },
   {
     "id": 2766,
     "en": "のがさん！\nI was ready.",
-    "vi": "のがさん！\nI was ready.",
+    "vi": "Không thoát được đâu!\nTa đã sẵn sàng.",
     "api_translated": true
   },
   {
     "id": 2767,
     "en": "体に教えてやる！\nYou underestimate me.",
-    "vi": "体に教えてやる！\nYou underestimate me.",
+    "vi": "Để cơ thể ngươi ghi nhớ điều này!\nNgươi đánh giá thấp ta rồi.",
     "api_translated": true
   },
   {
     "id": 2768,
     "en": "必殺必中！\n[frustrated grumble]",
-    "vi": "必殺必中！\n[frustrated grumble]",
+    "vi": "Bách phát bách trúng!\n[càu nhàu đầy thất vọng]",
     "api_translated": true
   },
   {
     "id": 2769,
     "en": "食らえ！\nAn ambush!?",
-    "vi": "食らえ！\nAn ambush!?",
+    "vi": "Ăn đòn này đi!\nPhục kích sao!?",
     "api_translated": true
   },
   {
     "id": 2770,
     "en": "捉えた！\nMy thanks to you!",
-    "vi": "捉えた！\nMy thanks to you!",
+    "vi": "Tóm được ngươi rồi!\nĐa tạ ngươi!",
     "api_translated": true
   },
   {
     "id": 2771,
     "en": "当てる！\nOh...thank you.",
-    "vi": "当てる！\nOh...thank you.",
+    "vi": "Trúng này!\nỒ... cảm ơn nhé.",
     "api_translated": true
   },
   {
     "id": 2772,
     "en": "動くな！\nI will not rest until the fight is done!",
-    "vi": "動くな！\nI will not rest until the fight is done!",
+    "vi": "Đứng yên đó!\nTa sẽ không nghỉ ngơi cho đến khi trận chiến kết thúc!",
     "api_translated": true
   },
   {
     "id": 2773,
     "en": "炎よ！\nThe Aqeeq will never yield!",
-    "vi": "炎よ！\nThe Aqeeq will never yield!",
+    "vi": "Hỡi ngọn lửa!\nAqeeq sẽ không bao giờ khuất phục!",
     "api_translated": true
   },
   {
     "id": 2774,
     "en": "焼き払う！\n[taking light damage reax]",
-    "vi": "焼き払う！\n[taking light damage reax]",
+    "vi": "Thiêu rụi hết!\n[phản ứng khi chịu sát thương nhẹ]",
     "api_translated": true
   },
   {
     "id": 2775,
     "en": "アールデー・イグニス\n[taking light damage reax]",
-    "vi": "アールデー・イグニス\n[taking light damage reax]",
+    "vi": "Arde Ignis\n[phản ứng khi chịu sát thương nhẹ]",
     "api_translated": true
   },
   {
     "id": 2776,
     "en": "寒いぞ\n[taking moderate damage reax]",
-    "vi": "寒いぞ\n[taking moderate damage reax]",
+    "vi": "Lạnh quá\n[phản ứng khi chịu sát thương vừa]",
     "api_translated": true
   },
   {
     "id": 2777,
     "en": "凍って砕けろ\n[taking moderate damage reax]",
-    "vi": "凍って砕けろ\n[taking moderate damage reax]",
+    "vi": "Đóng băng và tan vỡ đi\n[phản ứng khi chịu sát thương vừa]",
     "api_translated": true
   },
   {
     "id": 2778,
     "en": "クルター・グラキエス\n[taking heavy damage reax]",
-    "vi": "クルター・グラキエス\n[taking heavy damage reax]",
+    "vi": "Culter Glacies\n[phản ứng khi chịu sát thương nặng]",
     "api_translated": true
   },
   {
     "id": 2779,
     "en": "雷よ\nCurses!",
-    "vi": "雷よ\nCurses!",
+    "vi": "Hỡi sấm sét!\nĐáng nguyền rủa!",
     "api_translated": true
   },
   {
     "id": 2780,
     "en": "雷鳴よ\nI can't fail my comrades...",
-    "vi": "雷鳴よ\nI can't fail my comrades...",
+    "vi": "Hỡi tiếng sấm!\nTa không thể phụ lòng đồng đội...",
     "api_translated": true
   },
   {
     "id": 2781,
     "en": "カネ・トルトニス\nWas I the prey all along...?",
-    "vi": "カネ・トルトニス\nWas I the prey all along...?",
+    "vi": "Cane Tortionis\nPhải chăng ta mới là con mồi ngay từ đầu...?",
     "api_translated": true
   },
   {
     "id": 2782,
     "en": "旋風よ\nWhat shame...to fail in my duty...",
-    "vi": "旋風よ\nWhat shame...to fail in my duty...",
+    "vi": "Hỡi cơn lốc!\nThật nhục nhã... khi thất bại trong sứ mệnh...",
     "api_translated": true
   },
   {
     "id": 2783,
     "en": "渦巻く風よ\nThere!",
-    "vi": "渦巻く風よ\nThere!",
+    "vi": "Hỡi ngọn gió cuộn trào!\nĐó rồi!",
     "api_translated": true
   },
   {
     "id": 2784,
     "en": "サルター・ウェントス\nI see you!",
-    "vi": "サルター・ウェントス\nI see you!",
+    "vi": "Salter Ventus\nTa thấy ngươi rồi!",
     "api_translated": true
   },
   {
     "id": 2785,
     "en": "きらめけ\nWatch and learn!",
-    "vi": "きらめけ\nWatch and learn!",
+    "vi": "Tỏa sáng đi\nNhìn và học hỏi đi!",
     "api_translated": true
   },
   {
     "id": 2786,
     "en": "まぶしき光よ\nThis never fails!",
-    "vi": "まぶしき光よ\nThis never fails!",
+    "vi": "Hỡi ánh sáng chói lòa!\nChiêu này không bao giờ trượt!",
     "api_translated": true
   },
   {
     "id": 2787,
     "en": "コングレアー・ルクス\nTake this!",
-    "vi": "コングレアー・ルクス\nTake this!",
+    "vi": "Congregare Lux\nĂn đòn này đi!",
     "api_translated": true
   },
   {
     "id": 2788,
     "en": "恐れよ\nYou are mine!",
-    "vi": "恐れよ\nYou are mine!",
+    "vi": "Hãy sợ hãi đi\nNgươi là của ta!",
     "api_translated": true
   },
   {
     "id": 2789,
     "en": "夜の帳が……\nI won't miss!",
-    "vi": "夜の帳が……\nI won't miss!",
+    "vi": "Màn đêm buông xuống...\nTa sẽ không trượt đâu!",
     "api_translated": true
   },
   {
     "id": 2790,
     "en": "オペリー・テネブラエ\nHold still!",
-    "vi": "オペリー・テネブラエ\nHold still!",
+    "vi": "Operi Tenebrae\nĐứng yên đó!",
     "api_translated": true
   },
   {
     "id": 2791,
     "en": "治療する\nYou'll burn!",
-    "vi": "治療する\nYou'll burn!",
+    "vi": "Hồi phục đây\nYou'll burn!",
     "api_translated": true
   },
   {
     "id": 2792,
     "en": "受け取ってくれ\nFlames!",
-    "vi": "受け取ってくれ\nFlames!",
+    "vi": "Nhận lấy đi\nFlames!",
     "api_translated": true
   },
   {
     "id": 2793,
     "en": "ほら、気付けだ\nIgnis Ardere!",
-    "vi": "ほら、気付けだ\nIgnis Ardere!",
+    "vi": "Này, tỉnh lại đi\nIgnis Ardere!",
     "api_translated": true
   },
   {
     "id": 2794,
     "en": "備えあれば、だ\nFeel cold?",
-    "vi": "備えあれば、だ\nFeel cold?",
+    "vi": "Phòng bệnh hơn chữa bệnh\nFeel cold?",
     "api_translated": true
   },
   {
     "id": 2795,
     "en": "これが有効なはず\nTurn to ice!",
-    "vi": "これが有効なはず\nTurn to ice!",
+    "vi": "Thứ này hẳn sẽ hiệu quả\nTurn to ice!",
     "api_translated": true
   },
   {
     "id": 2796,
     "en": "かかったな\nGlacies Claudere!",
-    "vi": "かかったな\nGlacies Claudere!",
+    "vi": "Trúng kế rồi\nGlacies Claudere!",
     "api_translated": true
   },
   {
     "id": 2797,
     "en": "搦め手でいく\nLightning!",
-    "vi": "搦め手でいく\nLightning!",
+    "vi": "Dùng chiêu trò vậy\nLightning!",
     "api_translated": true
   },
   {
     "id": 2798,
     "en": "ほら来い、こっちだ！\nThunder!",
-    "vi": "ほら来い、こっちだ！\nThunder!",
+    "vi": "Lại đây, tới đây nào!\nThunder!",
     "api_translated": true
   },
   {
     "id": 2799,
     "en": "使い時だな\nTonitrus Canere!",
-    "vi": "使い時だな\nTonitrus Canere!",
+    "vi": "Đến lúc dùng rồi\nTonitrus Canere!",
     "api_translated": true
   },
   {
     "id": 2800,
     "en": "これを使っておけ\nWinds!",
-    "vi": "これを使っておけ\nWinds!",
+    "vi": "Dùng cái này đi\nWinds!",
     "api_translated": true
   },
   {
@@ -17834,7 +17834,7 @@
   {
     "id": 2973,
     "en": "……\nCleansing flames.",
-    "vi": "……\nCleansing flames.",
+    "vi": "……\nNgọn lửa thanh tẩy.",
     "api_translated": true
   },
   {
@@ -18932,7 +18932,7 @@
   {
     "id": 3156,
     "en": "……\nWhew...",
-    "vi": "……\nWhew...",
+    "vi": "……\nPhù...",
     "api_translated": true
   },
   {
@@ -18980,7 +18980,7 @@
   {
     "id": 3164,
     "en": "！？\nMay it protect you!",
-    "vi": "！？\nMay it protect you!",
+    "vi": "！？\nCầu mong nó bảo vệ ngươi!",
     "api_translated": true
   },
   {
@@ -19898,7 +19898,7 @@
   {
     "id": 3317,
     "en": "！？\n[attack exert]",
-    "vi": "！？\n[attack exert]",
+    "vi": "！？\n[tung đòn tấn công]",
     "api_translated": true
   },
   {
@@ -20402,601 +20402,601 @@
   {
     "id": 3401,
     "en": "想定以上だ……！\nI thought I was here to offer my knowledge.",
-    "vi": "想定以上だ……！\nI thought I was here to offer my knowledge.",
+    "vi": "Vượt quá dự tính rồi……!\nTa tưởng mình đến đây để cống hiến tri thức.",
     "api_translated": true
   },
   {
     "id": 3402,
     "en": "研究を、中断するわけには……\nThe time to observe is over.",
-    "vi": "研究を、中断するわけには……\nThe time to observe is over.",
+    "vi": "Không thể để việc nghiên cứu bị gián đoạn……\nThời gian quan sát đã kết thúc.",
     "api_translated": true
   },
   {
     "id": 3403,
     "en": "なるほど……次に、活かせる……\nYou'll pay for this!",
-    "vi": "なるほど……次に、活かせる……\nYou'll pay for this!",
+    "vi": "Ra là vậy…… Lần sau, ta sẽ tận dụng điều này……\nNgươi sẽ phải trả giá cho việc này!",
     "api_translated": true
   },
   {
     "id": 3404,
     "en": "せめて、研究ノートだけは……無事に……\nHolding strong.",
-    "vi": "せめて、研究ノートだけは……無事に……\nHolding strong.",
+    "vi": "Ít nhất thì, cuốn sổ nghiên cứu này cũng phải…… an toàn……\nĐang cố gắng trụ vững.",
     "api_translated": true
   },
   {
     "id": 3405,
     "en": "無知の知！\nPredictable.",
-    "vi": "無知の知！\nPredictable.",
+    "vi": "Biết mình vô tri!\nĐúng như dự đoán.",
     "api_translated": true
   },
   {
     "id": 3406,
     "en": "論より衝撃！\nPreparation is key.",
-    "vi": "論より衝撃！\nPreparation is key.",
+    "vi": "Trăm nghe không bằng một cú sốc!\nChuẩn bị là chìa khóa.",
     "api_translated": true
   },
   {
     "id": 3407,
     "en": "石頭にも三発！\nNot bad at all.",
-    "vi": "石頭にも三発！\nNot bad at all.",
+    "vi": "Đầu đá cũng phải chịu ba đòn!\nKhông tệ chút nào.",
     "api_translated": true
   },
   {
     "id": 3408,
     "en": "無理も通せば道理になる！\nWell done.",
-    "vi": "無理も通せば道理になる！\nWell done.",
+    "vi": "Cố quá thành quá cố, lý lẽ cũng thành đạo lý!\nLàm tốt lắm.",
     "api_translated": true
   },
   {
     "id": 3409,
     "en": "食らえ！\nUnexpected...",
-    "vi": "食らえ！\nUnexpected...",
+    "vi": "Nếm thử đi!\nThật bất ngờ...",
     "api_translated": true
   },
   {
     "id": 3410,
     "en": "出る杭は打つ！\nThank you.",
-    "vi": "出る杭は打つ！\nThank you.",
+    "vi": "Cái đinh nào nhô lên thì phải gõ xuống!\nCảm ơn ngươi.",
     "api_translated": true
   },
   {
     "id": 3411,
     "en": "その身で確かめろ！\nThat's quite effective.",
-    "vi": "その身で確かめろ！\nThat's quite effective.",
+    "vi": "Hãy tự mình kiểm chứng đi!\nHiệu quả thật đấy.",
     "api_translated": true
   },
   {
     "id": 3412,
     "en": "学者と魔法は使いようだ！\nI need to uncover the truth...",
-    "vi": "学者と魔法は使いようだ！\nI need to uncover the truth...",
+    "vi": "Học giả và ma thuật đều phải biết cách dùng!\nTa cần phải phơi bày sự thật...",
     "api_translated": true
   },
   {
     "id": 3413,
     "en": "炎よ\nI can still fight...",
-    "vi": "炎よ\nI can still fight...",
+    "vi": "Hỡi ngọn lửa\nTa vẫn còn có thể chiến đấu...",
     "api_translated": true
   },
   {
     "id": 3414,
     "en": "火炎よ\n[taking light damage reax]",
-    "vi": "火炎よ\n[taking light damage reax]",
+    "vi": "Hỡi hỏa diễm\n[phản ứng khi chịu sát thương nhẹ]",
     "api_translated": true
   },
   {
     "id": 3415,
     "en": "アールデー・イグニス\n[taking light damage reax]",
-    "vi": "アールデー・イグニス\n[taking light damage reax]",
+    "vi": "Arde Ignis\n[phản ứng khi chịu sát thương nhẹ]",
     "api_translated": true
   },
   {
     "id": 3416,
     "en": "氷よ\n[taking moderate damage reax]",
-    "vi": "氷よ\n[taking moderate damage reax]",
+    "vi": "Hỡi băng giá\n[phản ứng khi chịu sát thương trung bình]",
     "api_translated": true
   },
   {
     "id": 3417,
     "en": "氷嵐よ\nStop it!",
-    "vi": "氷嵐よ\nStop it!",
+    "vi": "Hỡi bão băng\nDừng lại đi!",
     "api_translated": true
   },
   {
     "id": 3418,
     "en": "クルター・グラキエス\n[taking heavy damage reax]",
-    "vi": "クルター・グラキエス\n[taking heavy damage reax]",
+    "vi": "Glacies Culter\n[phản ứng khi chịu sát thương nặng]",
     "api_translated": true
   },
   {
     "id": 3419,
     "en": "雷よ\nI underestimated you...",
-    "vi": "雷よ\nI underestimated you...",
+    "vi": "Hỡi sấm sét\nTa đã đánh giá thấp ngươi...",
     "api_translated": true
   },
   {
     "id": 3420,
     "en": "雷鳴よ\nWhat will happen...to my research...?",
-    "vi": "雷鳴よ\nWhat will happen...to my research...?",
+    "vi": "Hỡi tiếng sấm\nChuyện gì sẽ xảy ra... với nghiên cứu của ta...?",
     "api_translated": true
   },
   {
     "id": 3421,
     "en": "カネ・トルトニス\nI see now... My mistakes...",
-    "vi": "カネ・トルトニス\nI see now... My mistakes...",
+    "vi": "Cane Tortonis\nTa hiểu rồi... Những sai lầm của ta...",
     "api_translated": true
   },
   {
     "id": 3422,
     "en": "風よ\nMy work...must be passed on...",
-    "vi": "風よ\nMy work...must be passed on...",
+    "vi": "Phong ơi\nCông việc của ta... phải được tiếp nối...",
     "api_translated": true
   },
   {
     "id": 3423,
     "en": "烈風よ\nYou know nothing!",
-    "vi": "烈風よ\nYou know nothing!",
+    "vi": "Liệt phong ơi\nNgươi chẳng biết gì cả!",
     "api_translated": true
   },
   {
     "id": 3424,
     "en": "サルター・ウェントス\nI'll show you!",
-    "vi": "サルター・ウェントス\nI'll show you!",
+    "vi": "Salter Ventus\nTa sẽ cho ngươi thấy!",
     "api_translated": true
   },
   {
     "id": 3425,
     "en": "光よ輝け\nI will prevail!",
-    "vi": "光よ輝け\nI will prevail!",
+    "vi": "Quang ơi hãy tỏa sáng\nTa sẽ chiến thắng!",
     "api_translated": true
   },
   {
     "id": 3426,
     "en": "闇を祓え\nA little force goes a long way!",
-    "vi": "闇を祓え\nA little force goes a long way!",
+    "vi": "Hãy xua tan bóng tối\nMột chút sức mạnh cũng đủ tạo nên khác biệt!",
     "api_translated": true
   },
   {
     "id": 3427,
     "en": "コングレアー・ルクス\n[light attack exert]",
-    "vi": "コングレアー・ルクス\n[light attack exert]",
+    "vi": "Congregare Lux\n[tấn công bằng ánh sáng]",
     "api_translated": true
   },
   {
     "id": 3428,
     "en": "闇よ\nGet out of here!",
-    "vi": "闇よ\nGet out of here!",
+    "vi": "Ám ơi\nCút khỏi đây ngay!",
     "api_translated": true
   },
   {
     "id": 3429,
     "en": "暗闇よ\nFeel the pain!",
-    "vi": "暗闇よ\nFeel the pain!",
+    "vi": "Hắc ám ơi\nHãy cảm nhận nỗi đau đi!",
     "api_translated": true
   },
   {
     "id": 3430,
     "en": "オペリー・テネブラエ\nIt's all in the technique!",
-    "vi": "オペリー・テネブラエ\nIt's all in the technique!",
+    "vi": "Operire Tenebrae\nTất cả nằm ở kỹ thuật!",
     "api_translated": true
   },
   {
     "id": 3431,
     "en": "これで治る\nFlames!",
-    "vi": "これで治る\nFlames!",
+    "vi": "Thế này là khỏi\nNgọn lửa!",
     "api_translated": true
   },
   {
     "id": 3432,
     "en": "こんなこともあろうかと……\nBurn bright!",
-    "vi": "こんなこともあろうかと……\nBurn bright!",
+    "vi": "Ta đã lường trước việc này rồi...\nCháy rực lên nào!",
     "api_translated": true
   },
   {
     "id": 3433,
     "en": "動けるはずだ\nIgnis Ardere!",
-    "vi": "動けるはずだ\nIgnis Ardere!",
+    "vi": "Chắc chắn sẽ cử động được\nIgnis Ardere!",
     "api_translated": true
   },
   {
     "id": 3434,
     "en": "支援する\nO ice!",
-    "vi": "支援する\nO ice!",
+    "vi": "Hỗ trợ đây\nBăng ơi!",
     "api_translated": true
   },
   {
     "id": 3435,
     "en": "持ちこたえてくれ\nWinds of ice!",
-    "vi": "持ちこたえてくれ\nWinds of ice!",
+    "vi": "Hãy cố cầm cự nhé\nNhững cơn gió băng giá!",
     "api_translated": true
   },
   {
     "id": 3436,
     "en": "青菜に塩、だ\nGlacies Claudere!",
-    "vi": "青菜に塩、だ\nGlacies Claudere!",
+    "vi": "Như muối bỏ bể thôi\nGlacies Claudere!",
     "api_translated": true
   },
   {
     "id": 3437,
     "en": "じわじわ削る\nO lightning!",
-    "vi": "じわじわ削る\nO lightning!",
+    "vi": "Dần dần bào mòn\nSét ơi!",
     "api_translated": true
   },
   {
     "id": 3438,
     "en": "私を無視するな\nO thunder!",
-    "vi": "私を無視するな\nO thunder!",
+    "vi": "Đừng có phớt lờ ta\nSấm ơi!",
     "api_translated": true
   },
   {
     "id": 3439,
     "en": "常備している\nTonitrus Canere!",
-    "vi": "常備している\nTonitrus Canere!",
+    "vi": "Ta luôn chuẩn bị sẵn\nTonitrus Canere!",
     "api_translated": true
   },
   {
     "id": 3440,
     "en": "これを使ってくれ\nO winds!",
-    "vi": "これを使ってくれ\nO winds!",
+    "vi": "Dùng cái này đi\nGió ơi!",
     "api_translated": true
   },
   {
     "id": 3441,
     "en": "そら、やるぞ\nStorms!",
-    "vi": "そら、やるぞ\nStorms!",
+    "vi": "Này, tới đây\nBão tố!",
     "api_translated": true
   },
   {
     "id": 3442,
     "en": "雷よ、貫け\nVentus Saltare!",
-    "vi": "雷よ、貫け\nVentus Saltare!",
+    "vi": "Sét ơi, hãy xuyên thủng\nVentus Saltare!",
     "api_translated": true
   },
   {
     "id": 3443,
     "en": "闇よ、包み込め\nShine bright!",
-    "vi": "闇よ、包み込め\nShine bright!",
+    "vi": "Bóng tối ơi, hãy bao trùm\nTỏa sáng rực rỡ!",
     "api_translated": true
   },
   {
     "id": 3444,
     "en": "心を折る\nExpel the dark!",
-    "vi": "心を折る\nExpel the dark!",
+    "vi": "Bẻ gãy ý chí\nHãy xua tan bóng tối!",
     "api_translated": true
   },
   {
     "id": 3445,
     "en": "そういうことか\nLux Congrere!",
-    "vi": "そういうことか\nLux Congrere!",
+    "vi": "Ra là vậy sao\nLux Congregare!",
     "api_translated": true
   },
   {
     "id": 3446,
     "en": "虚仮の一念……\nDarkness...",
-    "vi": "虚仮の一念……\nDarkness...",
+    "vi": "Nhất niệm thành tâm...\nBóng tối...",
     "api_translated": true
   },
   {
     "id": 3447,
     "en": "雷鳴よ、轟き響け\nShadows!",
-    "vi": "雷鳴よ、轟き響け\nShadows!",
+    "vi": "Sấm vang, hãy gầm lên\nNhững cái bóng!",
     "api_translated": true
   },
   {
     "id": 3448,
     "en": "暗闇よ、光を散らせ\nTenebrae Operire!",
-    "vi": "暗闇よ、光を散らせ\nTenebrae Operire!",
+    "vi": "Hắc ám ơi, hãy phân tán ánh sáng\nTenebrae Operire!",
     "api_translated": true
   },
   {
     "id": 3449,
     "en": "マギア・アポクリファ\nHeal up.",
-    "vi": "マギア・アポクリファ\nHeal up.",
+    "vi": "Magia Apocrypha\nHồi phục nào.",
     "api_translated": true
   },
   {
     "id": 3450,
     "en": "はっ\nI've come prepared.",
-    "vi": "はっ\nI've come prepared.",
+    "vi": "Hừ\nTa đã chuẩn bị sẵn sàng rồi.",
     "api_translated": true
   },
   {
     "id": 3451,
     "en": "はっ\nYou're fine now.",
-    "vi": "はっ\nYou're fine now.",
+    "vi": "Hừ!\nNgươi ổn rồi.",
     "api_translated": true
   },
   {
     "id": 3452,
     "en": "やあ\nHere.",
-    "vi": "やあ\nHere.",
+    "vi": "Chào.\nĐây này.",
     "api_translated": true
   },
   {
     "id": 3453,
     "en": "うん\nHang in there.",
-    "vi": "うん\nHang in there.",
+    "vi": "Ừm.\nCố lên nào.",
     "api_translated": true
   },
   {
     "id": 3454,
     "en": "で……\nFor you.",
-    "vi": "で……\nFor you.",
+    "vi": "Và rồi...\nCho ngươi đây.",
     "api_translated": true
   },
   {
     "id": 3455,
     "en": "さらばだ\nA slow death.",
-    "vi": "さらばだ\nA slow death.",
+    "vi": "Vĩnh biệt.\nMột cái chết chậm rãi.",
     "api_translated": true
   },
   {
     "id": 3456,
     "en": "！\nLook at me!",
-    "vi": "！\nLook at me!",
+    "vi": "!\nNhìn ta đây!",
     "api_translated": true
   },
   {
     "id": 3457,
     "en": "えっ\nI've enough.",
-    "vi": "えっ\nI've enough.",
+    "vi": "Hả?\nTa đủ rồi.",
     "api_translated": true
   },
   {
     "id": 3458,
     "en": "なんだと！\nHave this.",
-    "vi": "なんだと！\nHave this.",
+    "vi": "Cái gì cơ!\nNhận lấy này.",
     "api_translated": true
   },
   {
     "id": 3459,
     "en": "くぅっ！\nHere you go.",
-    "vi": "くぅっ！\nHere you go.",
+    "vi": "Ư...!\nCho ngươi đây.",
     "api_translated": true
   },
   {
     "id": 3460,
     "en": "……\nBolts, pierce through!",
-    "vi": "……\nBolts, pierce through!",
+    "vi": "...\nTiễn, xuyên thấu!",
     "api_translated": true
   },
   {
     "id": 3461,
     "en": "くっ……\nDarkness, cover all!",
-    "vi": "くっ……\nDarkness, cover all!",
+    "vi": "Ư...\nBóng tối, bao trùm vạn vật!",
     "api_translated": true
   },
   {
     "id": 3462,
     "en": "わーお！\nOverwhelmed?",
-    "vi": "わーお！\nOverwhelmed?",
+    "vi": "Wow!\nBị áp đảo rồi sao?",
     "api_translated": true
   },
   {
     "id": 3463,
     "en": "素晴らしい！\nI see...",
-    "vi": "素晴らしい！\nI see...",
+    "vi": "Tuyệt vời!\nTa hiểu rồi...",
     "api_translated": true
   },
   {
     "id": 3464,
     "en": "ははっ\nA foolish plea...",
-    "vi": "ははっ\nA foolish plea...",
+    "vi": "Ha ha.\nMột lời cầu xin ngu ngốc...",
     "api_translated": true
   },
   {
     "id": 3465,
     "en": "ははははは！\nThunder, echo throughout!",
-    "vi": "ははははは！\nThunder, echo throughout!",
+    "vi": "Ha ha ha ha ha!\nSấm sét, vang vọng khắp nơi!",
     "api_translated": true
   },
   {
     "id": 3466,
     "en": "むっ……\nShadows, ravage the light!",
-    "vi": "むっ……\nShadows, ravage the light!",
+    "vi": "Hừ...\nBóng tối, hãy nuốt chửng ánh sáng!",
     "api_translated": true
   },
   {
     "id": 3467,
     "en": "そんな……\nMagia apocrypha!",
-    "vi": "そんな……\nMagia apocrypha!",
+    "vi": "Không thể nào...\nMagia apocrypha!",
     "api_translated": true
   },
   {
     "id": 3468,
     "en": "！？\n[attack exert]",
-    "vi": "！？\n[attack exert]",
+    "vi": "!?\n[gồng sức tấn công]",
     "api_translated": true
   },
   {
     "id": 3469,
     "en": "まさか……\n[attack exert]",
-    "vi": "まさか……\n[attack exert]",
+    "vi": "Không lẽ nào...\n[gồng sức tấn công]",
     "api_translated": true
   },
   {
     "id": 3470,
     "en": "感謝する！\nWell met.",
-    "vi": "感謝する！\nWell met.",
+    "vi": "Đa tạ!\nCuộc gặp gỡ tốt đẹp.",
     "api_translated": true
   },
   {
     "id": 3471,
     "en": "すまない\nIndeed.",
-    "vi": "すまない\nIndeed.",
+    "vi": "Xin lỗi.\nQuả thực là vậy.",
     "api_translated": true
   },
   {
     "id": 3472,
     "en": "どうした？\nI see.",
-    "vi": "どうした？\nI see.",
+    "vi": "Sao thế?\nTa hiểu rồi.",
     "api_translated": true
   },
   {
     "id": 3473,
     "en": "おい……\nFare you well.",
-    "vi": "おい……\nFare you well.",
+    "vi": "Này...\nBảo trọng nhé.",
     "api_translated": true
   },
   {
     "id": 3474,
     "en": "はっ！\n[surprised reax]",
-    "vi": "はっ！\n[surprised reax]",
+    "vi": "Hừ!\n[phản ứng ngạc nhiên]",
     "api_translated": true
   },
   {
     "id": 3475,
     "en": "なんと！\n[surprised reax]",
-    "vi": "なんと！\n[surprised reax]",
+    "vi": "Thật bất ngờ!\n[phản ứng ngạc nhiên]",
     "api_translated": true
   },
   {
     "id": 3476,
     "en": "うむ\nI say!",
-    "vi": "うむ\nI say!",
+    "vi": "Ừm.\nTa nói rồi!",
     "api_translated": true
   },
   {
     "id": 3477,
     "en": "いや\n[angry grumbling reax]",
-    "vi": "いや\n[angry grumbling reax]",
+    "vi": "Không.\n[phản ứng càu nhàu giận dữ]",
     "api_translated": true
   },
   {
     "id": 3478,
     "en": "ほう\n[sad sigh]",
-    "vi": "ほう\n[sad sigh]",
+    "vi": "Ồ.\n[tiếng thở dài buồn bã]",
     "api_translated": true
   },
   {
     "id": 3479,
     "en": "いいや\n[sad sigh]",
-    "vi": "いいや\n[sad sigh]",
+    "vi": "Không.\n[tiếng thở dài buồn bã]",
     "api_translated": true
   },
   {
     "id": 3480,
     "en": "いいだろう\nOh my!",
-    "vi": "いいだろう\nOh my!",
+    "vi": "Được thôi.\nÔi chao!",
     "api_translated": true
   },
   {
     "id": 3481,
     "en": "ん？\nWonderful!",
-    "vi": "ん？\nWonderful!",
+    "vi": "Hửm?\nTuyệt vời!",
     "api_translated": true
   },
   {
     "id": 3482,
     "en": "うーむ……\n[laugh]",
-    "vi": "うーむ……\n[laugh]",
+    "vi": "Ưm...\n[cười]",
     "api_translated": true
   },
   {
     "id": 3483,
     "en": "そうか！\n[laugh]",
-    "vi": "そうか！\n[laugh]",
+    "vi": "Ra là vậy!\n[cười]",
     "api_translated": true
   },
   {
     "id": 3484,
     "en": "オクトパストラベラー\n[frustrated reax]",
-    "vi": "オクトパストラベラー\n[frustrated reax]",
+    "vi": "OCTOPATH TRAVELER\n[phản ứng thất vọng]",
     "api_translated": true
   },
   {
     "id": 3485,
     "en": "聞かせてくれたまえ\nIt cannot be...",
-    "vi": "聞かせてくれたまえ\nIt cannot be...",
+    "vi": "Hãy kể ta nghe đi\nKhông thể nào...",
     "api_translated": true
   },
   {
     "id": 3486,
     "en": "続きが気になるな\n[scared reax]",
-    "vi": "続きが気になるな\n[scared reax]",
+    "vi": "Ta tò mò về phần tiếp theo đấy\n[phản ứng sợ hãi]",
     "api_translated": true
   },
   {
     "id": 3487,
     "en": "いただくとしよう\nDear gods...",
-    "vi": "いただくとしよう\nDear gods...",
+    "vi": "Ta nhận đây\nÔi các vị thần...",
     "api_translated": true
   },
   {
     "id": 3488,
     "en": "勝ち取ったり！\nI thank you!",
-    "vi": "勝ち取ったり！\nI thank you!",
+    "vi": "Ta đã thắng rồi!\nTa cảm ơn ngươi!",
     "api_translated": true
   },
   {
     "id": 3489,
     "en": "おひねりは大歓迎だ\nI beg your pardon.",
-    "vi": "おひねりは大歓迎だ\nI beg your pardon.",
+    "vi": "Tiền thưởng thì ta luôn hoan nghênh\nTa xin lỗi, ngươi nói gì cơ?",
     "api_translated": true
   },
   {
     "id": 3490,
     "en": "これぞ運命だ！\nIs aught amiss?",
-    "vi": "これぞ運命だ！\nIs aught amiss?",
+    "vi": "Đây chính là định mệnh!\nCó chuyện gì không ổn sao?",
     "api_translated": true
   },
   {
     "id": 3491,
     "en": "有能なスタッフを得られた！\nPardon me...",
-    "vi": "有能なスタッフを得られた！\nPardon me...",
+    "vi": "Ta đã có được những nhân viên tài năng!\nThứ lỗi cho ta...",
     "api_translated": true
   },
   {
     "id": 3492,
     "en": "そんな、バカな……\n[noticing something reax]",
-    "vi": "そんな、バカな……\n[noticing something reax]",
+    "vi": "Không thể nào, thật nực cười...\n[phản ứng nhận ra điều gì đó]",
     "api_translated": true
   },
   {
     "id": 3493,
     "en": "君こそ我が最大の理解者だ！　いつか君に、最上の夢を見せることを約束しよう！\nGood heavens!",
-    "vi": "君こそ我が最大の理解者だ！　いつか君に、最上の夢を見せることを約束しよう！\nGood heavens!",
+    "vi": "Ngươi chính là người thấu hiểu ta nhất! Ta hứa một ngày nào đó sẽ cho ngươi thấy giấc mơ tuyệt vời nhất!\nÔi trời đất ơi!",
     "api_translated": true
   },
   {
     "id": 3494,
     "en": "♪人知れず世界を救いし英雄よ@+@旅路の果てに何を望む\nAye.",
-    "vi": "♪人知れず世界を救いし英雄よ@+@旅路の果てに何を望む\nAye.",
+    "vi": "♪ Hỡi người anh hùng cứu thế giới trong lặng thầm @+@ Cuối hành trình ngươi mong cầu điều chi\nPhải.",
     "api_translated": true
   },
   {
     "id": 3495,
     "en": "♪夢を、希望を、未来を望む@+@それこそが人生なれば\nNay.",
-    "vi": "♪夢を、希望を、未来を望む@+@それこそが人生なれば\nNay.",
+    "vi": "♪ Mong cầu giấc mơ, hy vọng và tương lai @+@ Nếu đó chính là ý nghĩa của cuộc đời\nKhông.",
     "api_translated": true
   },
   {
     "id": 3496,
     "en": "いつか君の旅を演劇にしよう@+@きっと観客に勇気を与えるはずだ\nOho.",
-    "vi": "いつか君の旅を演劇にしよう@+@きっと観客に勇気を与えるはずだ\nOho.",
+    "vi": "Một ngày nào đó ta sẽ biến hành trình của ngươi thành một vở kịch @+@ Chắc chắn nó sẽ mang lại dũng khí cho khán giả\nỒ.",
     "api_translated": true
   },
   {
     "id": 3497,
     "en": "いざさらば～@+@また会う日まで～！\nI think not.",
-    "vi": "いざさらば～@+@また会う日まで～！\nI think not.",
+    "vi": "Giờ thì tạm biệt nhé @+@ Cho đến ngày chúng ta gặp lại nhau!\nTa không nghĩ vậy.",
     "api_translated": true
   },
   {
     "id": 3498,
     "en": "幕を開けよう\nBy all means.",
-    "vi": "幕を開けよう\nBy all means.",
+    "vi": "Hãy mở màn thôi\nĐương nhiên rồi.",
     "api_translated": true
   },
   {
     "id": 3499,
     "en": "とくと御覧じろ\n[puzzled reax]",
-    "vi": "とくと御覧じろ\n[puzzled reax]",
+    "vi": "Hãy thưởng thức đi\n[phản ứng bối rối]",
     "api_translated": true
   },
   {
     "id": 3500,
     "en": "お代は見てのお帰りだ！\n[thinking reax]",
-    "vi": "お代は見てのお帰りだ！\n[thinking reax]",
+    "vi": "Tiền công sẽ được trả sau khi xem xong!\n[phản ứng suy tư]",
     "api_translated": true
   },
   {
@@ -22574,7 +22574,7 @@
   {
     "id": 3763,
     "en": "……\nA strong shield.",
-    "vi": "……\nA strong shield.",
+    "vi": "……\nMột chiếc khiên vững chãi.",
     "api_translated": true
   },
   {
@@ -27080,7 +27080,7 @@
   {
     "id": 4514,
     "en": "……\nComen, Linde!",
-    "vi": "……\nComen, Linde!",
+    "vi": "……\nĐi thôi, Linde!",
     "api_translated": true
   },
   {
@@ -27602,379 +27602,379 @@
   {
     "id": 4601,
     "en": "うっ……\nI'll end this.",
-    "vi": "うっ……\nI'll end this.",
+    "vi": "Ư... \nTa sẽ kết thúc việc này.",
     "api_translated": true
   },
   {
     "id": 4602,
     "en": "や、やりますね……！\nI'll not hold back!",
-    "vi": "や、やりますね……！\nI'll not hold back!",
+    "vi": "Ngươi... khá lắm...! \nTa sẽ không nương tay nữa!",
     "api_translated": true
   },
   {
     "id": 4603,
     "en": "くうっ……！？\nThis should do it!",
-    "vi": "くうっ……！？\nThis should do it!",
+    "vi": "Ư...!? \nThế này là đủ rồi!",
     "api_translated": true
   },
   {
     "id": 4604,
     "en": "うあっ\nIf you'll excuse me...",
-    "vi": "うあっ\nIf you'll excuse me...",
+    "vi": "Ư á\nXin thứ lỗi cho ta...",
     "api_translated": true
   },
   {
     "id": 4605,
     "en": "きゃあああっ\nI'll do my best!",
-    "vi": "きゃあああっ\nI'll do my best!",
+    "vi": "Á á á\nTa sẽ cố hết sức!",
     "api_translated": true
   },
   {
     "id": 4606,
     "en": "うう……\nThis way please.",
-    "vi": "うう……\nThis way please.",
+    "vi": "Ư...\nĐi lối này.",
     "api_translated": true
   },
   {
     "id": 4607,
     "en": "……もう、駄目みたいです\nI have had enough!",
-    "vi": "……もう、駄目みたいです\nI have had enough!",
+    "vi": "...Có vẻ như không xong rồi.\nTa chịu hết nổi rồi!",
     "api_translated": true
   },
   {
     "id": 4608,
     "en": "ごめん……なさい\nI'll defend myself!",
-    "vi": "ごめん……なさい\nI'll defend myself!",
+    "vi": "Ta... xin lỗi.\nTa sẽ tự vệ!",
     "api_translated": true
   },
   {
     "id": 4609,
     "en": "せっ！\nYou will not!",
-    "vi": "せっ！\nYou will not!",
+    "vi": "Hự!\nNgươi sẽ không làm được đâu!",
     "api_translated": true
   },
   {
     "id": 4610,
     "en": "はああっ！\nThat won't work!",
-    "vi": "はああっ！\nThat won't work!",
+    "vi": "Haa!\nChuyện đó sẽ không hiệu quả đâu!",
     "api_translated": true
   },
   {
     "id": 4611,
     "en": "せやああっ！\nYou won't hurt me!",
-    "vi": "せやああっ！\nYou won't hurt me!",
+    "vi": "Hự á!\nNgươi sẽ không làm ta bị thương đâu!",
     "api_translated": true
   },
   {
     "id": 4612,
     "en": "受けなさい！\n[pained reax]",
-    "vi": "受けなさい！\n[pained reax]",
+    "vi": "Nhận lấy này!\n[pained reax]",
     "api_translated": true
   },
   {
     "id": 4613,
     "en": "これを！\nOh no...",
-    "vi": "これを！\nOh no...",
+    "vi": "Cái này thì sao!\nÔi không...",
     "api_translated": true
   },
   {
     "id": 4614,
     "en": "これなら！\nYou're a blessing.",
-    "vi": "これなら！\nYou're a blessing.",
+    "vi": "Thế này thì sao!\nNgươi thật là một phước lành.",
     "api_translated": true
   },
   {
     "id": 4615,
     "en": "狙いますよ\nI owe you a debt.",
-    "vi": "狙いますよ\nI owe you a debt.",
+    "vi": "Ta nhắm đây.\nTa nợ ngươi một ân tình.",
     "api_translated": true
   },
   {
     "id": 4616,
     "en": "はあああ……！\nI cannot give up yet.",
-    "vi": "はあああ……！\nI cannot give up yet.",
+    "vi": "Haaaa...!\nTa chưa thể bỏ cuộc lúc này.",
     "api_translated": true
   },
   {
     "id": 4617,
     "en": "火傷しますよ\nThere's no time for rest.",
-    "vi": "火傷しますよ\nThere's no time for rest.",
+    "vi": "Ngươi sẽ bị bỏng đấy.\nKhông còn thời gian để nghỉ ngơi nữa.",
     "api_translated": true
   },
   {
     "id": 4618,
     "en": "清めの炎よ！\n[taking light damage reax]",
-    "vi": "清めの炎よ！\n[taking light damage reax]",
+    "vi": "Hỡi ngọn lửa thanh tẩy!\n[taking light damage reax]",
     "api_translated": true
   },
   {
     "id": 4619,
     "en": "アールデー・イグニス\n[taking light damage reax]",
-    "vi": "アールデー・イグニス\n[taking light damage reax]",
+    "vi": "Arde Ignis\n[taking light damage reax]",
     "api_translated": true
   },
   {
     "id": 4620,
     "en": "凍ってください\n[pained reax] Not bad...",
-    "vi": "凍ってください\n[pained reax] Not bad...",
+    "vi": "Hãy đóng băng đi.\n[pained reax] Không tệ...",
     "api_translated": true
   },
   {
     "id": 4621,
     "en": "砕けなさい！\n[taking moderate damage reax]",
-    "vi": "砕けなさい！\n[taking moderate damage reax]",
+    "vi": "Tan vỡ đi!\n[taking moderate damage reax]",
     "api_translated": true
   },
   {
     "id": 4622,
     "en": "クルター・グラキエス\n[taking heavy damage reax]",
-    "vi": "クルター・グラキエス\n[taking heavy damage reax]",
+    "vi": "Culter Glacies\n[taking heavy damage reax]",
     "api_translated": true
   },
   {
     "id": 4623,
     "en": "痺れても知りませんよ\n[taking heavy damage reax]",
-    "vi": "痺れても知りませんよ\n[taking heavy damage reax]",
+    "vi": "Đừng trách ta nếu ngươi bị tê liệt nhé\n[taking heavy damage reax]",
     "api_translated": true
   },
   {
     "id": 4624,
     "en": "穿て！\n[dying breath]",
-    "vi": "穿て！\n[dying breath]",
+    "vi": "Xuyên thủng đi!\n[dying breath]",
     "api_translated": true
   },
   {
     "id": 4625,
     "en": "カネ・トルトニス\nIt seems...I am finished...",
-    "vi": "カネ・トルトニス\nIt seems...I am finished...",
+    "vi": "Cane Tortunis\nCó vẻ như... ta đã xong đời rồi...",
     "api_translated": true
   },
   {
     "id": 4626,
     "en": "風が…来ますっ\nI'm sorry...",
-    "vi": "風が…来ますっ\nI'm sorry...",
+    "vi": "Gió... đang đến rồi\nTa xin lỗi...",
     "api_translated": true
   },
   {
     "id": 4627,
     "en": "風よ、吹け！\n[light attack exert]",
-    "vi": "風よ、吹け！\n[light attack exert]",
+    "vi": "Gió ơi, hãy thổi đi!\n[light attack exert]",
     "api_translated": true
   },
   {
     "id": 4628,
     "en": "サルター・ウェントス\n[moderate attack exert]",
-    "vi": "サルター・ウェントス\n[moderate attack exert]",
+    "vi": "Saltare Ventus\n[moderate attack exert]",
     "api_translated": true
   },
   {
     "id": 4629,
     "en": "光よ！\n[strong attack exert]",
-    "vi": "光よ！\n[strong attack exert]",
+    "vi": "Ánh sáng ơi!\n[strong attack exert]",
     "api_translated": true
   },
   {
     "id": 4630,
     "en": "天上の光！\nTake this!",
-    "vi": "天上の光！\nTake this!",
+    "vi": "Ánh sáng thiên đường!\nNhận lấy này!",
     "api_translated": true
   },
   {
     "id": 4631,
     "en": "コングレアー・ルクス\nHave this!",
-    "vi": "コングレアー・ルクス\nHave this!",
+    "vi": "Congregare Lux\nNhận lấy đi!",
     "api_translated": true
   },
   {
     "id": 4632,
     "en": "闇よ……！\nThis should do it!",
-    "vi": "闇よ……！\nThis should do it!",
+    "vi": "Bóng tối ơi...!\nThế này là đủ rồi!",
     "api_translated": true
   },
   {
     "id": 4633,
     "en": "夜の帳よ……\nI'm aiming for you.",
-    "vi": "夜の帳よ……\nI'm aiming for you.",
+    "vi": "Màn đêm buông xuống...\nTa nhắm vào ngươi đấy.",
     "api_translated": true
   },
   {
     "id": 4634,
     "en": "オペリー・テネブラエ\n[extremely strong attack exert]",
-    "vi": "オペリー・テネブラエ\n[extremely strong attack exert]",
+    "vi": "Operire Tenebrae\n[extremely strong attack exert]",
     "api_translated": true
   },
   {
     "id": 4635,
     "en": "癒やしましょう\nThis will burn.",
-    "vi": "癒やしましょう\nThis will burn.",
+    "vi": "Để ta chữa lành cho ngươi\nCái này sẽ thiêu rụi ngươi.",
     "api_translated": true
   },
   {
     "id": 4636,
     "en": "おまかせします\nThe flame cleanses!",
-    "vi": "おまかせします\nThe flame cleanses!",
+    "vi": "Cứ giao cho ta\nNgọn lửa thanh tẩy!",
     "api_translated": true
   },
   {
     "id": 4637,
     "en": "もう大丈夫です\nIgnis Ardere!",
-    "vi": "もう大丈夫です\nIgnis Ardere!",
+    "vi": "Giờ thì ổn rồi\nIgnis Ardere!",
     "api_translated": true
   },
   {
     "id": 4638,
     "en": "がんばりましょう！\nYou will freeze.",
-    "vi": "がんばりましょう！\nYou will freeze.",
+    "vi": "Cùng cố gắng nào!\nNgươi sẽ bị đóng băng.",
     "api_translated": true
   },
   {
     "id": 4639,
     "en": "防ぎます\nCongeal!",
-    "vi": "防ぎます\nCongeal!",
+    "vi": "Ta sẽ phòng thủ\nCongeal!",
     "api_translated": true
   },
   {
     "id": 4640,
     "en": "鈍らせます\nGlacies Claudere!",
-    "vi": "鈍らせます\nGlacies Claudere!",
+    "vi": "Ta sẽ làm ngươi chậm lại\nGlacies Claudere!",
     "api_translated": true
   },
   {
     "id": 4641,
     "en": "その守り、崩します\nYou might be shocked.",
-    "vi": "その守り、崩します\nYou might be shocked.",
+    "vi": "Lớp phòng thủ đó, ta sẽ phá vỡ\nNgươi có thể sẽ bị sốc đấy.",
     "api_translated": true
   },
   {
     "id": 4642,
     "en": "ふふ、こちらですよ\nPierce through!",
-    "vi": "ふふ、こちらですよ\nPierce through!",
+    "vi": "Hừ hừ, ta ở đây này\nXuyên qua đi!",
     "api_translated": true
   },
   {
     "id": 4643,
     "en": "使いますね\nTonitrus Canere!",
-    "vi": "使いますね\nTonitrus Canere!",
+    "vi": "Ta dùng nó đây\nTonitrus Canere!",
     "api_translated": true
   },
   {
     "id": 4644,
     "en": "さあ、どうぞ\nA wind...is coming.",
-    "vi": "さあ、どうぞ\nA wind...is coming.",
+    "vi": "Nào, mời ngươi\nMột cơn gió... đang đến.",
     "api_translated": true
   },
   {
     "id": 4645,
     "en": "これを！\nThe wind rages!",
-    "vi": "これを！\nThe wind rages!",
+    "vi": "Cái này thì sao!\nCơn gió cuồng nộ!",
     "api_translated": true
   },
   {
     "id": 4646,
     "en": "傷を癒したまえ\nVentus Saltare!",
-    "vi": "傷を癒したまえ\nVentus Saltare!",
+    "vi": "Hãy chữa lành vết thương này\nVentus Saltare!",
     "api_translated": true
   },
   {
     "id": 4647,
     "en": "光よ……っ\nLight!",
-    "vi": "光よ……っ\nLight!",
+    "vi": "Ánh sáng ơi...!\nÁnh sáng!",
     "api_translated": true
   },
   {
     "id": 4648,
     "en": "どうか、ご加護を\nHeavens above!",
-    "vi": "どうか、ご加護を\nHeavens above!",
+    "vi": "Xin hãy ban phước lành\nThiên đường ở trên cao!",
     "api_translated": true
   },
   {
     "id": 4649,
     "en": "聖火の光よ、輝きたまえ\nLux Congerere!",
-    "vi": "聖火の光よ、輝きたまえ\nLux Congerere!",
+    "vi": "Ánh sáng thánh hỏa, hãy tỏa sáng\nLux Congerere!",
     "api_translated": true
   },
   {
     "id": 4650,
     "en": "癒しの奇跡を与えたまえ\nDarkness!",
-    "vi": "癒しの奇跡を与えたまえ\nDarkness!",
+    "vi": "Hãy ban cho ta phép màu chữa lành\nBóng tối!",
     "api_translated": true
   },
   {
     "id": 4651,
     "en": "心よ、強くあれ\nVeil of darkness...",
-    "vi": "心よ、強くあれ\nVeil of darkness...",
+    "vi": "Hỡi trái tim, hãy mạnh mẽ lên\nVeil of darkness...",
     "api_translated": true
   },
   {
     "id": 4652,
     "en": "聖火神の御業で救いたまえ\nTenebrae Operire!",
-    "vi": "聖火神の御業で救いたまえ\nTenebrae Operire!",
+    "vi": "Hãy cứu rỗi bằng phép màu của Thánh Hỏa\nTenebrae Operire!",
     "api_translated": true
   },
   {
     "id": 4653,
     "en": "神の威光にひれ伏しなさい！\nLet me heal you.",
-    "vi": "神の威光にひれ伏しなさい！\nLet me heal you.",
+    "vi": "Hãy quỳ phục trước uy quyền của thần linh!\nLet me heal you.",
     "api_translated": true
   },
   {
     "id": 4654,
     "en": "はっ！\nI trust in your aid.",
-    "vi": "はっ！\nI trust in your aid.",
+    "vi": "Hừ!\nI trust in your aid.",
     "api_translated": true
   },
   {
     "id": 4655,
     "en": "はっ！\nYou'll be all right now.",
-    "vi": "はっ！\nYou'll be all right now.",
+    "vi": "Hừ!\nYou'll be all right now.",
     "api_translated": true
   },
   {
     "id": 4656,
     "en": "やぁ\nLet us do our best!",
-    "vi": "やぁ\nLet us do our best!",
+    "vi": "Chào\nLet us do our best!",
     "api_translated": true
   },
   {
     "id": 4657,
     "en": "あぁ\nBe strong!",
-    "vi": "あぁ\nBe strong!",
+    "vi": "À\nBe strong!",
     "api_translated": true
   },
   {
     "id": 4658,
     "en": "で……\nAllow me...",
-    "vi": "で……\nAllow me...",
+    "vi": "Thế thì……\nAllow me...",
     "api_translated": true
   },
   {
     "id": 4659,
     "en": "さようなら\nI'll bring down those defenses.",
-    "vi": "さようなら\nI'll bring down those defenses.",
+    "vi": "Vĩnh biệt\nI'll bring down those defenses.",
     "api_translated": true
   },
   {
     "id": 4660,
     "en": "！\n[chuckle] Over here.",
-    "vi": "！\n[chuckle] Over here.",
+    "vi": "!\n[chuckle] Over here.",
     "api_translated": true
   },
   {
     "id": 4661,
     "en": "えっ？\nPardon me.",
-    "vi": "えっ？\nPardon me.",
+    "vi": "Hả?\nPardon me.",
     "api_translated": true
   },
   {
     "id": 4662,
     "en": "なんだって！？\nPlease, use this.",
-    "vi": "なんだって！？\nPlease, use this.",
+    "vi": "Cái gì cơ!?\nPlease, use this.",
     "api_translated": true
   },
   {
     "id": 4663,
     "en": "そんな……！\nHere!",
-    "vi": "そんな……！\nHere!",
+    "vi": "Không thể nào……!\nHere!",
     "api_translated": true
   },
   {
@@ -27986,217 +27986,217 @@
   {
     "id": 4665,
     "en": "そうか……\nO sacred light...",
-    "vi": "そうか……\nO sacred light...",
+    "vi": "Vậy sao……\nO sacred light...",
     "api_translated": true
   },
   {
     "id": 4666,
     "en": "ふむ\nPlease, protect us!",
-    "vi": "ふむ\nPlease, protect us!",
+    "vi": "Hừm\nPlease, protect us!",
     "api_translated": true
   },
   {
     "id": 4667,
     "en": "よし\nMay the Sacred Flame shine forth!",
-    "vi": "よし\nMay the Sacred Flame shine forth!",
+    "vi": "Được rồi\nMay the Sacred Flame shine forth!",
     "api_translated": true
   },
   {
     "id": 4668,
     "en": "ふっ……\nBring about a miracle of healing!",
-    "vi": "ふっ……\nBring about a miracle of healing!",
+    "vi": "Hừ……\nBring about a miracle of healing!",
     "api_translated": true
   },
   {
     "id": 4669,
     "en": "あはは……\nO heart, be strong!",
-    "vi": "あはは……\nO heart, be strong!",
+    "vi": "Aha……\nO heart, be strong!",
     "api_translated": true
   },
   {
     "id": 4670,
     "en": "くっ……\nIn Aelfric's name, be saved!",
-    "vi": "くっ……\nIn Aelfric's name, be saved!",
+    "vi": "Ư……\nIn Aelfric's name, be saved!",
     "api_translated": true
   },
   {
     "id": 4671,
     "en": "うっ……\nMay the gods protect us!",
-    "vi": "うっ……\nMay the gods protect us!",
+    "vi": "Ư……\nMay the gods protect us!",
     "api_translated": true
   },
   {
     "id": 4672,
     "en": "！？\n[attack exert]",
-    "vi": "！？\n[attack exert]",
+    "vi": "!?\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 4673,
     "en": "そんな……\n[attack exert]",
-    "vi": "そんな……\n[attack exert]",
+    "vi": "Không thể nào……\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 4674,
     "en": "ありがとう\nGreetings.",
-    "vi": "ありがとう\nGreetings.",
+    "vi": "Cảm ơn\nGreetings.",
     "api_translated": true
   },
   {
     "id": 4675,
     "en": "すまないね\nIndeed.",
-    "vi": "すまないね\nIndeed.",
+    "vi": "Xin lỗi nhé\nIndeed.",
     "api_translated": true
   },
   {
     "id": 4676,
     "en": "どうしたんだい？\nAnd...",
-    "vi": "どうしたんだい？\nAnd...",
+    "vi": "Có chuyện gì vậy?\nAnd...",
     "api_translated": true
   },
   {
     "id": 4677,
     "en": "もし\nGood day.",
-    "vi": "もし\nGood day.",
+    "vi": "Này\nGood day.",
     "api_translated": true
   },
   {
     "id": 4678,
     "en": "おっと\n[surprised reax]",
-    "vi": "おっと\n[surprised reax]",
+    "vi": "Á\n[surprised reax]",
     "api_translated": true
   },
   {
     "id": 4679,
     "en": "これは……\nOh?",
-    "vi": "これは……\nOh?",
+    "vi": "Cái này là……\nOh?",
     "api_translated": true
   },
   {
     "id": 4680,
     "en": "確かに\nWhat in blazes!?",
-    "vi": "確かに\nWhat in blazes!?",
+    "vi": "Quả thực\nWhat in blazes!?",
     "api_translated": true
   },
   {
     "id": 4681,
     "en": "いいや\nThat's quite enough!",
-    "vi": "いいや\nThat's quite enough!",
+    "vi": "Không\nĐủ rồi đấy!",
     "api_translated": true
   },
   {
     "id": 4682,
     "en": "そうだね\n[sad sigh]",
-    "vi": "そうだね\n[sad sigh]",
+    "vi": "Phải rồi\n[tiếng thở dài buồn bã]",
     "api_translated": true
   },
   {
     "id": 4683,
     "en": "違うよ\n...Is that so?",
-    "vi": "違うよ\n...Is that so?",
+    "vi": "Không phải vậy\n...Vậy sao?",
     "api_translated": true
   },
   {
     "id": 4684,
     "en": "任せてくれたまえ\nMm-hmm!",
-    "vi": "任せてくれたまえ\nMm-hmm!",
+    "vi": "Cứ giao cho ta\nMm-hmm!",
     "api_translated": true
   },
   {
     "id": 4685,
     "en": "ん？\nVery well!",
-    "vi": "ん？\nVery well!",
+    "vi": "Hửm?\nĐược thôi!",
     "api_translated": true
   },
   {
     "id": 4686,
     "en": "うーむ\n[chuckle]",
-    "vi": "うーむ\n[chuckle]",
+    "vi": "Ưm\n[cười khúc khích]",
     "api_translated": true
   },
   {
     "id": 4687,
     "en": "そうか……\n[laugh]",
-    "vi": "そうか……\n[laugh]",
+    "vi": "Ra là vậy……\n[cười]",
     "api_translated": true
   },
   {
     "id": 4688,
     "en": "オクトパストラベラー\n[frustrated reax]",
-    "vi": "オクトパストラベラー\n[frustrated reax]",
+    "vi": "OCTOPATH TRAVELER\n[phản ứng thất vọng]",
     "api_translated": true
   },
   {
     "id": 4689,
     "en": "なにを考えているのかな？\n[frustrated reax]",
-    "vi": "なにを考えているのかな？\n[frustrated reax]",
+    "vi": "Ngươi đang nghĩ gì thế?\n[phản ứng thất vọng]",
     "api_translated": true
   },
   {
     "id": 4690,
     "en": "実に興味深いね\n[scared reax]",
-    "vi": "実に興味深いね\n[scared reax]",
+    "vi": "Thật sự rất thú vị đấy\n[phản ứng sợ hãi]",
     "api_translated": true
   },
   {
     "id": 4691,
     "en": "恩に着る\nPreposterous!",
-    "vi": "恩に着る\nPreposterous!",
+    "vi": "Đa tạ ngươi\nThật vô lý!",
     "api_translated": true
   },
   {
     "id": 4692,
     "en": "いい勉強になった\nMany thanks!",
-    "vi": "いい勉強になった\nMany thanks!",
+    "vi": "Đó là một bài học hay\nĐa tạ rất nhiều!",
     "api_translated": true
   },
   {
     "id": 4693,
     "en": "いただいておくよ\nMy apologies.",
-    "vi": "いただいておくよ\nMy apologies.",
+    "vi": "Ta xin nhận lấy\nTa xin lỗi.",
     "api_translated": true
   },
   {
     "id": 4694,
     "en": "頼りにさせてもらうよ\nIs something the matter?",
-    "vi": "頼りにさせてもらうよ\nIs something the matter?",
+    "vi": "Ta sẽ trông cậy vào ngươi\nCó chuyện gì sao?",
     "api_translated": true
   },
   {
     "id": 4695,
     "en": "未来を共に作り上げよう\nIf I may...",
-    "vi": "未来を共に作り上げよう\nIf I may...",
+    "vi": "Hãy cùng nhau tạo nên tương lai\nNếu ta có thể...",
     "api_translated": true
   },
   {
     "id": 4696,
     "en": "そんな……\nAh!",
-    "vi": "そんな……\nAh!",
+    "vi": "Không thể nào……\nÁ!",
     "api_translated": true
   },
   {
     "id": 4697,
     "en": "様々な事柄が有機的に絡み合って歴史を作っていく……キミとの交流を通してそんなことを実感したよ\nWhat have we here?",
-    "vi": "様々な事柄が有機的に絡み合って歴史を作っていく……キミとの交流を通してそんなことを実感したよ\nWhat have we here?",
+    "vi": "Nhiều sự việc đan xen một cách hữu cơ để tạo nên lịch sử…… thông qua việc giao lưu với ngươi, ta đã cảm nhận được điều đó.\nCó cái gì ở đây thế này?",
     "api_translated": true
   },
   {
     "id": 4698,
     "en": "旅立ちの日か……私も学院に戻ろうと思う@+@教え子たちが、待っているからね\nJust so.",
-    "vi": "旅立ちの日か……私も学院に戻ろうと思う@+@教え子たちが、待っているからね\nJust so.",
+    "vi": "Đến ngày khởi hành rồi sao…… ta cũng nghĩ mình nên trở về học viện thôi@+@Các học trò của ta đang chờ đợi đấy.\nĐúng vậy.",
     "api_translated": true
   },
   {
     "id": 4699,
     "en": "君との旅で学んだ、たくさんのことを@+@彼らに伝えていこうと思っているよ\nNot exactly.",
-    "vi": "君との旅で学んだ、たくさんのことを@+@彼らに伝えていこうと思っているよ\nNot exactly.",
+    "vi": "Ta dự định sẽ truyền đạt lại cho họ@+@những điều quý giá mà ta đã học được trong chuyến hành trình cùng ngươi.\nKhông hẳn là vậy.",
     "api_translated": true
   },
   {
     "id": 4700,
     "en": "では、またどこかで会おう@+@……友よ\nMayhap so.",
-    "vi": "では、またどこかで会おう@+@……友よ\nMayhap so.",
+    "vi": "Vậy thì, hẹn gặp lại ngươi ở một nơi nào đó nhé@+@…… người bạn của ta.\nCó lẽ vậy.",
     "api_translated": true
   },
   {
@@ -28940,7 +28940,7 @@
   {
     "id": 4824,
     "en": "！？\n[attack exert]",
-    "vi": "！？\n[attack exert]",
+    "vi": "！？\n[tung đòn tấn công]",
     "api_translated": true
   },
   {
@@ -29840,7 +29840,7 @@
   {
     "id": 4974,
     "en": "！？\n[attack exert]",
-    "vi": "！？\n[attack exert]",
+    "vi": "！？\n[tung đòn tấn công]",
     "api_translated": true
   },
   {
@@ -30680,7 +30680,7 @@
   {
     "id": 5114,
     "en": "…………！\nI'm happy to share.",
-    "vi": "…………！\nI'm happy to share.",
+    "vi": "…………！\nTa rất vui khi được chia sẻ điều này.",
     "api_translated": true
   },
   {
@@ -30800,7 +30800,7 @@
   {
     "id": 5134,
     "en": "！\n[attack exert]",
-    "vi": "！\n[attack exert]",
+    "vi": "！\n[tung đòn tấn công]",
     "api_translated": true
   },
   {
@@ -31202,601 +31202,601 @@
   {
     "id": 5201,
     "en": "はぁぁぁっ！\nVictory is ours!",
-    "vi": "はぁぁぁっ！\nVictory is ours!",
+    "vi": "Haaa! \nChiến thắng thuộc về chúng ta!",
     "api_translated": true
   },
   {
     "id": 5202,
     "en": "ふんっ\nBlood was not shed in vain.",
-    "vi": "ふんっ\nBlood was not shed in vain.",
+    "vi": "Hừm! \nMáu đã không đổ vô ích.",
     "api_translated": true
   },
   {
     "id": 5203,
     "en": "罪を洗い流すのです！\nThere will be no more sacrifices.",
-    "vi": "罪を洗い流すのです！\nThere will be no more sacrifices.",
+    "vi": "Hãy gột rửa tội lỗi đi! \nSẽ không còn sự hy sinh nào nữa.",
     "api_translated": true
   },
   {
     "id": 5204,
     "en": "未来をこの手で……！\nFor that which I must protect...!",
-    "vi": "未来をこの手で……！\nFor that which I must protect...!",
+    "vi": "Tương lai này nằm trong tay ta...! \nVì những gì ta phải bảo vệ...!",
     "api_translated": true
   },
   {
     "id": 5205,
     "en": "わたしは守ります……人々の未来を！\nI won't run!",
-    "vi": "わたしは守ります……人々の未来を！\nI won't run!",
+    "vi": "Ta sẽ bảo vệ... tương lai của mọi người! \nTa sẽ không chạy trốn!",
     "api_translated": true
   },
   {
     "id": 5206,
     "en": "そこですね！\nIf I must!",
-    "vi": "そこですね！\nIf I must!",
+    "vi": "Chính là chỗ đó! \nNếu ta phải làm vậy!",
     "api_translated": true
   },
   {
     "id": 5207,
     "en": "手応えあり！\nNo matter the cost...!",
-    "vi": "手応えあり！\nNo matter the cost...!",
+    "vi": "Trúng rồi! \nBất kể cái giá phải trả là gì...!",
     "api_translated": true
   },
   {
     "id": 5208,
     "en": "やりました！\nI'll give it my all!",
-    "vi": "やりました！\nI'll give it my all!",
+    "vi": "Ta làm được rồi! \nTa sẽ dốc toàn lực!",
     "api_translated": true
   },
   {
     "id": 5209,
     "en": "油断しましたね！\nWrongs must be righted!",
-    "vi": "油断しましたね！\nWrongs must be righted!",
+    "vi": "Ngươi sơ hở rồi! \nNhững điều sai trái phải được sửa chữa!",
     "api_translated": true
   },
   {
     "id": 5210,
     "en": "お任せします\n[attack exert]",
-    "vi": "お任せします\n[attack exert]",
+    "vi": "Xin cứ giao cho ta. \n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5211,
     "en": "力を尽くします\n[attack exert]",
-    "vi": "力を尽くします\n[attack exert]",
+    "vi": "Ta sẽ dốc hết sức mình. \n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5212,
     "en": "あとはわたしが……\n[attack exert]",
-    "vi": "あとはわたしが……\n[attack exert]",
+    "vi": "Phần còn lại cứ để ta... \n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5213,
     "en": "なんてこと……！\n[attack exert]",
-    "vi": "なんてこと……！\n[attack exert]",
+    "vi": "Chuyện gì thế này...! \n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5214,
     "en": "守ります……\nHere I go!",
-    "vi": "守ります……\nHere I go!",
+    "vi": "Ta sẽ bảo vệ... \nTa tới đây!",
     "api_translated": true
   },
   {
     "id": 5215,
     "en": "当たりません！\nFor that which I must protect!",
-    "vi": "当たりません！\nFor that which I must protect!",
+    "vi": "Không trúng đâu! \nVì những gì ta phải bảo vệ!",
     "api_translated": true
   },
   {
     "id": 5216,
     "en": "お断りします\n[surprised gasp]",
-    "vi": "お断りします\n[surprised gasp]",
+    "vi": "Ta từ chối. \n[surprised gasp]",
     "api_translated": true
   },
   {
     "id": 5217,
     "en": "結構です！\n[gathering power]",
-    "vi": "結構です！\n[gathering power]",
+    "vi": "Không cần đâu! \n[gathering power]",
     "api_translated": true
   },
   {
     "id": 5218,
     "en": "どうして……っ\n[gathering power]",
-    "vi": "どうして……っ\n[gathering power]",
+    "vi": "Tại sao chứ... \n[gathering power]",
     "api_translated": true
   },
   {
     "id": 5219,
     "en": "わ……っ！？\n[gathering power]",
-    "vi": "わ……っ！？\n[gathering power]",
+    "vi": "Á...!? \n[gathering power]",
     "api_translated": true
   },
   {
     "id": 5220,
     "en": "感謝します\n[gathering power]",
-    "vi": "感謝します\n[gathering power]",
+    "vi": "Ta cảm kích lắm. \n[gathering power]",
     "api_translated": true
   },
   {
     "id": 5221,
     "en": "力が湧いてきます\nMisdeeds are to be cleansed.",
-    "vi": "力が湧いてきます\nMisdeeds are to be cleansed.",
+    "vi": "Sức mạnh đang trào dâng\nNhững tội ác cần phải được gột rửa.",
     "api_translated": true
   },
   {
     "id": 5222,
     "en": "オルステラの未来のために……\nThe future is in our hands!",
-    "vi": "オルステラの未来のために……\nThe future is in our hands!",
+    "vi": "Vì tương lai của Orsterra……\nTương lai nằm trong tay chúng ta!",
     "api_translated": true
   },
   {
     "id": 5223,
     "en": "まだ、戦えます！\nI won't let you take the future from us!",
-    "vi": "まだ、戦えます！\nI won't let you take the future from us!",
+    "vi": "Ta vẫn còn có thể chiến đấu!\nTa sẽ không để ngươi cướp mất tương lai của chúng ta!",
     "api_translated": true
   },
   {
     "id": 5224,
     "en": "うぅっ\nI have you!",
-    "vi": "うぅっ\nI have you!",
+    "vi": "Ư...\nTa bắt được ngươi rồi!",
     "api_translated": true
   },
   {
     "id": 5225,
     "en": "ぐぅっ！\nI know your weakness!",
-    "vi": "ぐぅっ！\nI know your weakness!",
+    "vi": "Ư...!\nTa biết điểm yếu của ngươi rồi!",
     "api_translated": true
   },
   {
     "id": 5226,
     "en": "いやああっ！\nI did it!",
-    "vi": "いやああっ！\nI did it!",
+    "vi": "Áaaaa!\nTa làm được rồi!",
     "api_translated": true
   },
   {
     "id": 5227,
     "en": "そんな……！\nYou let your guard down!",
-    "vi": "そんな……！\nYou let your guard down!",
+    "vi": "Không thể nào...!\nNgươi đã lơ là rồi đấy!",
     "api_translated": true
   },
   {
     "id": 5228,
     "en": "あああぁぁぁぁっ！\nBy all means.",
-    "vi": "あああぁぁぁぁっ！\nBy all means.",
+    "vi": "Áaaaaaaa!\nBằng mọi giá.",
     "api_translated": true
   },
   {
     "id": 5229,
     "en": "希望は……捨てない……！\nI will do my best.",
-    "vi": "希望は……捨てない……！\nI will do my best.",
+    "vi": "Hy vọng... sẽ không... từ bỏ...!\nTa sẽ cố gắng hết sức.",
     "api_translated": true
   },
   {
     "id": 5230,
     "en": "ごめん……なさい……\nPlease allow me.",
-    "vi": "ごめん……なさい……\nPlease allow me.",
+    "vi": "Xin... lỗi...\nXin hãy cho phép ta.",
     "api_translated": true
   },
   {
     "id": 5231,
     "en": "未来を……守れなかった……\nNo...!",
-    "vi": "未来を……守れなかった……\nNo...!",
+    "vi": "Ta đã... không thể bảo vệ... tương lai...\nKhông...!",
     "api_translated": true
   },
   {
     "id": 5232,
     "en": "これで、終わりなんて……\nI won't be hurt.",
-    "vi": "これで、終わりなんて……\nI won't be hurt.",
+    "vi": "Kết thúc... như thế này sao...\nTa sẽ không bị thương đâu.",
     "api_translated": true
   },
   {
     "id": 5233,
     "en": "いきますよ！\nYou missed!",
-    "vi": "いきますよ！\nYou missed!",
+    "vi": "Đi thôi nào!\nNgươi trượt rồi!",
     "api_translated": true
   },
   {
     "id": 5234,
     "en": "進みます！\nI refuse!",
-    "vi": "進みます！\nI refuse!",
+    "vi": "Ta sẽ tiến lên!\nTa từ chối!",
     "api_translated": true
   },
   {
     "id": 5235,
     "en": "負けませんっ！\nI think not!",
-    "vi": "負けませんっ！\nI think not!",
+    "vi": "Ta sẽ không thua đâu!\nTa không nghĩ vậy!",
     "api_translated": true
   },
   {
     "id": 5236,
     "en": "えええええいっ！！\nWhy...?",
-    "vi": "えええええいっ！！\nWhy...?",
+    "vi": "Hự hự hự!!\nTại sao...?",
     "api_translated": true
   },
   {
     "id": 5237,
     "en": "感じてください……\n[pained reax]",
-    "vi": "感じてください……\n[pained reax]",
+    "vi": "Hãy cảm nhận đi...\n[phản ứng đau đớn]",
     "api_translated": true
   },
   {
     "id": 5238,
     "en": "いかがですか？\nYou have my gratitude.",
-    "vi": "いかがですか？\nYou have my gratitude.",
+    "vi": "Thế nào hả?\nTa rất biết ơn ngươi.",
     "api_translated": true
   },
   {
     "id": 5239,
     "en": "邪魔はさせませんっ！\nI am strong again.",
-    "vi": "邪魔はさせませんっ！\nI am strong again.",
+    "vi": "Ta sẽ không để ngươi cản đường!\nTa lại mạnh mẽ trở lại rồi.",
     "api_translated": true
   },
   {
     "id": 5240,
     "en": "オルステラの未来を……！！\nFor the future of Orsterra...",
-    "vi": "オルステラの未来を……！！\nFor the future of Orsterra...",
+    "vi": "Vì tương lai của Orsterra...!!\nVì tương lai của Orsterra...",
     "api_translated": true
   },
   {
     "id": 5241,
     "en": "炎よ\nI won't give up!",
-    "vi": "炎よ\nI won't give up!",
+    "vi": "Hỡi ngọn lửa\nTa sẽ không bỏ cuộc!",
     "api_translated": true
   },
   {
     "id": 5242,
     "en": "火炎よ\n[taking light damage reax]",
-    "vi": "火炎よ\n[taking light damage reax]",
+    "vi": "Hỡi lửa thiêng\n[phản ứng khi chịu sát thương nhẹ]",
     "api_translated": true
   },
   {
     "id": 5243,
     "en": "アールデー・イグニス\n[taking light damage reax]",
-    "vi": "アールデー・イグニス\n[taking light damage reax]",
+    "vi": "Arde Ignis\n[phản ứng khi chịu sát thương nhẹ]",
     "api_translated": true
   },
   {
     "id": 5244,
     "en": "氷よ\n[taking moderate damage reax]",
-    "vi": "氷よ\n[taking moderate damage reax]",
+    "vi": "Hỡi băng giá\n[phản ứng khi chịu sát thương trung bình]",
     "api_translated": true
   },
   {
     "id": 5245,
     "en": "氷嵐よ\n[taking moderate damage reax]",
-    "vi": "氷嵐よ\n[taking moderate damage reax]",
+    "vi": "Hỡi bão băng\n[phản ứng khi chịu sát thương trung bình]",
     "api_translated": true
   },
   {
     "id": 5246,
     "en": "クルター・グラキエス\n[taking heavy damage reax]",
-    "vi": "クルター・グラキエス\n[taking heavy damage reax]",
+    "vi": "Culter Glacies\n[phản ứng khi chịu sát thương nặng]",
     "api_translated": true
   },
   {
     "id": 5247,
     "en": "雷よ\nI will not...give up hope!",
-    "vi": "雷よ\nI will not...give up hope!",
+    "vi": "Hỡi sấm sét\nTa sẽ không... từ bỏ hy vọng!",
     "api_translated": true
   },
   {
     "id": 5248,
     "en": "雷鳴よ\nI am...sorry...",
-    "vi": "雷鳴よ\nI am...sorry...",
+    "vi": "Hỡi tiếng sấm\nTa... xin lỗi...",
     "api_translated": true
   },
   {
     "id": 5249,
     "en": "カネ・トルトニス\nI have failed...",
-    "vi": "カネ・トルトニス\nI have failed...",
+    "vi": "Kane Tルトニス\nTa đã thất bại rồi...",
     "api_translated": true
   },
   {
     "id": 5250,
     "en": "風よ\nIt cannot...end here...",
-    "vi": "風よ\nIt cannot...end here...",
+    "vi": "Hỡi ngọn gió\nKhông thể... kết thúc tại đây được...",
     "api_translated": true
   },
   {
     "id": 5251,
     "en": "烈風よ\nHere!",
-    "vi": "烈風よ\nHere!",
+    "vi": "Gió lốc ơi\nĐây!",
     "api_translated": true
   },
   {
     "id": 5252,
     "en": "サルター・ウェントス\nEver forward!",
-    "vi": "サルター・ウェントス\nEver forward!",
+    "vi": "Salter Ventus\nTiến lên!",
     "api_translated": true
   },
   {
     "id": 5253,
     "en": "光よ輝け\nI won't lose!",
-    "vi": "光よ輝け\nI won't lose!",
+    "vi": "Ánh sáng hãy tỏa rạng\nTa sẽ không thua!",
     "api_translated": true
   },
   {
     "id": 5254,
     "en": "闇を祓え\n[extremely strong attack exert]",
-    "vi": "闇を祓え\n[extremely strong attack exert]",
+    "vi": "Xua tan bóng tối\n[đòn tấn công cực mạnh]",
     "api_translated": true
   },
   {
     "id": 5255,
     "en": "コングレアー・ルクス\nTake this.",
-    "vi": "コングレアー・ルクス\nTake this.",
+    "vi": "Congregare Lux\nNhận lấy này.",
     "api_translated": true
   },
   {
     "id": 5256,
     "en": "闇よ\nHow's this?",
-    "vi": "闇よ\nHow's this?",
+    "vi": "Bóng tối ơi\nThấy sao hả?",
     "api_translated": true
   },
   {
     "id": 5257,
     "en": "暗闇よ\nYou won't stop us!",
-    "vi": "暗闇よ\nYou won't stop us!",
+    "vi": "Màn đêm ơi\nNgươi không thể ngăn cản chúng ta!",
     "api_translated": true
   },
   {
     "id": 5258,
     "en": "オペリー・テネブラエ\nFor Orsterra!",
-    "vi": "オペリー・テネブラエ\nFor Orsterra!",
+    "vi": "Operire Tenebrae\nVì Orsterra!",
     "api_translated": true
   },
   {
     "id": 5259,
     "en": "治します\nO flames!",
-    "vi": "治します\nO flames!",
+    "vi": "Để ta chữa trị\nÔi ngọn lửa!",
     "api_translated": true
   },
   {
     "id": 5260,
     "en": "どうぞ\nRaging fire!",
-    "vi": "どうぞ\nRaging fire!",
+    "vi": "Xin mời\nNgọn lửa cuồng nộ!",
     "api_translated": true
   },
   {
     "id": 5261,
     "en": "もう大丈夫ですか？\nIgnis Ardere!",
-    "vi": "もう大丈夫ですか？\nIgnis Ardere!",
+    "vi": "Đã ổn hơn chưa?\nIgnis Ardere!",
     "api_translated": true
   },
   {
     "id": 5262,
     "en": "どうか……\nO ice!",
-    "vi": "どうか……\nO ice!",
+    "vi": "Xin hãy...\nÔi băng giá!",
     "api_translated": true
   },
   {
     "id": 5263,
     "en": "お気をつけて\nIcy storm!",
-    "vi": "お気をつけて\nIcy storm!",
+    "vi": "Hãy cẩn thận\nBão tuyết!",
     "api_translated": true
   },
   {
     "id": 5264,
     "en": "誰も傷つけさせません\nGlacies Claudere!",
-    "vi": "誰も傷つけさせません\nGlacies Claudere!",
+    "vi": "Ta sẽ không để ai bị thương\nGlacies Claudere!",
     "api_translated": true
   },
   {
     "id": 5265,
     "en": "あなたの力を封じます\nO thunder!",
-    "vi": "あなたの力を封じます\nO thunder!",
+    "vi": "Ta sẽ phong ấn sức mạnh của ngươi\nÔi sấm sét!",
     "api_translated": true
   },
   {
     "id": 5266,
     "en": "あなたのお相手はわたしが……！\nLightning!",
-    "vi": "あなたのお相手はわたしが……！\nLightning!",
+    "vi": "Đối thủ của ngươi là ta...!\nSấm sét!",
     "api_translated": true
   },
   {
     "id": 5267,
     "en": "使わせていただきます\nTonitrus Canere!",
-    "vi": "使わせていただきます\nTonitrus Canere!",
+    "vi": "Ta sẽ sử dụng nó\nTonitrus Canere!",
     "api_translated": true
   },
   {
     "id": 5268,
     "en": "これでいかがでしょう\nO wind!",
-    "vi": "これでいかがでしょう\nO wind!",
+    "vi": "Thế này thì sao?\nÔi gió lốc!",
     "api_translated": true
   },
   {
     "id": 5269,
     "en": "ちょっと失礼\nRaging wind!",
-    "vi": "ちょっと失礼\nRaging wind!",
+    "vi": "Xin lỗi nhé\nGió cuồng nộ!",
     "api_translated": true
   },
   {
     "id": 5270,
     "en": "傷を癒したまえ\nVentus Saltare!",
-    "vi": "傷を癒したまえ\nVentus Saltare!",
+    "vi": "Hãy chữa lành vết thương\nVentus Saltare!",
     "api_translated": true
   },
   {
     "id": 5271,
     "en": "光よ、闇を照らして\nO light!",
-    "vi": "光よ、闇を照らして\nO light!",
+    "vi": "Ánh sáng ơi, hãy soi rọi bóng tối\nÔi ánh sáng!",
     "api_translated": true
   },
   {
     "id": 5272,
     "en": "聖火と共に\nShining light!",
-    "vi": "聖火と共に\nShining light!",
+    "vi": "Cùng với thánh hỏa\nÁnh sáng rực rỡ!",
     "api_translated": true
   },
   {
     "id": 5273,
     "en": "弱き心よ、壊れよ\nLux Congerere!",
-    "vi": "弱き心よ、壊れよ\nLux Congerere!",
+    "vi": "Trái tim yếu đuối, hãy tan vỡ đi\nLux Congerere!",
     "api_translated": true
   },
   {
     "id": 5274,
     "en": "癒しの奇跡を与えたまえ\nO darkness!",
-    "vi": "癒しの奇跡を与えたまえ\nO darkness!",
+    "vi": "Hãy ban phép màu chữa lành\nÔi bóng tối!",
     "api_translated": true
   },
   {
     "id": 5275,
     "en": "光よ、きらめけ！\nVeil of darkness!",
-    "vi": "光よ、きらめけ！\nVeil of darkness!",
+    "vi": "Ánh sáng ơi, hãy lấp lánh!\nBức màn bóng tối!",
     "api_translated": true
   },
   {
     "id": 5276,
     "en": "聖火神の御業で救いたまえ\nTenebrae Operire!",
-    "vi": "聖火神の御業で救いたまえ\nTenebrae Operire!",
+    "vi": "Hãy cứu rỗi bằng quyền năng của Thánh Hỏa Thần\nTenebrae Operire!",
     "api_translated": true
   },
   {
     "id": 5277,
     "en": "守るべきもののために\nBe healed!",
-    "vi": "守るべきもののために\nBe healed!",
+    "vi": "Vì những gì cần bảo vệ\nĐược chữa lành!",
     "api_translated": true
   },
   {
     "id": 5278,
     "en": "はっ\nTake this.",
-    "vi": "はっ\nTake this.",
+    "vi": "Hự\nNhận lấy này.",
     "api_translated": true
   },
   {
     "id": 5279,
     "en": "はっ\nHow are you faring?",
-    "vi": "はっ\nHow are you faring?",
+    "vi": "Hự\nNgươi thấy sao rồi?",
     "api_translated": true
   },
   {
     "id": 5280,
     "en": "よお\nPlease...!",
-    "vi": "よお\nPlease...!",
+    "vi": "Này\nLàm ơn...!",
     "api_translated": true
   },
   {
     "id": 5281,
     "en": "ああ\nCareful now.",
-    "vi": "ああ\nCareful now.",
+    "vi": "À\nCẩn thận đấy.",
     "api_translated": true
   },
   {
     "id": 5282,
     "en": "で……\nYou won't hurt us!",
-    "vi": "で……\nYou won't hurt us!",
+    "vi": "Thế thì……\nNgươi sẽ không làm hại bọn ta đâu!",
     "api_translated": true
   },
   {
     "id": 5283,
     "en": "じゃあな\nYour power is sealed.",
-    "vi": "じゃあな\nYour power is sealed.",
+    "vi": "Vậy nhé\nSức mạnh của ngươi đã bị phong ấn.",
     "api_translated": true
   },
   {
     "id": 5284,
     "en": "！\nYour battle is with me!",
-    "vi": "！\nYour battle is with me!",
+    "vi": "!\nĐối thủ của ngươi là ta!",
     "api_translated": true
   },
   {
     "id": 5285,
     "en": "えっ？\nIf I may.",
-    "vi": "えっ？\nIf I may.",
+    "vi": "Hả?\nNếu ta được phép.",
     "api_translated": true
   },
   {
     "id": 5286,
     "en": "なんだと！\nPlease use this.",
-    "vi": "なんだと！\nPlease use this.",
+    "vi": "Cái gì cơ!\nLàm ơn hãy dùng cái này.",
     "api_translated": true
   },
   {
     "id": 5287,
     "en": "ふんっ\nApologies.",
-    "vi": "ふんっ\nApologies.",
+    "vi": "Hừ\nXin lỗi nhé.",
     "api_translated": true
   },
   {
     "id": 5288,
     "en": "……\nMay your wounds be healed.",
-    "vi": "……\nMay your wounds be healed.",
+    "vi": "……\nCầu cho vết thương của ngươi được chữa lành.",
     "api_translated": true
   },
   {
     "id": 5289,
     "en": "はぁ……\nLight, illuminate the dark!",
-    "vi": "はぁ……\nLight, illuminate the dark!",
+    "vi": "Haizz……\nÁnh sáng, hãy soi rọi bóng tối!",
     "api_translated": true
   },
   {
     "id": 5290,
     "en": "よっしゃ！\nO Sacred Flame!",
-    "vi": "よっしゃ！\nO Sacred Flame!",
+    "vi": "Được rồi!\nÔi Ngọn Lửa Thiêng!",
     "api_translated": true
   },
   {
     "id": 5291,
     "en": "いいぞ！\nYour spirit falters!",
-    "vi": "いいぞ！\nYour spirit falters!",
+    "vi": "Tốt lắm!\nTinh thần của ngươi đang dao động!",
     "api_translated": true
   },
   {
     "id": 5292,
     "en": "へっ\nWitness the miracle of healing!",
-    "vi": "へっ\nWitness the miracle of healing!",
+    "vi": "Hừ\nHãy chứng kiến phép màu chữa lành đây!",
     "api_translated": true
   },
   {
     "id": 5293,
     "en": "ハハハハハッ\nO light, glow bright!",
-    "vi": "ハハハハハッ\nO light, glow bright!",
+    "vi": "Hahahaha!\nÔi ánh sáng, hãy tỏa sáng rực rỡ!",
     "api_translated": true
   },
   {
     "id": 5294,
     "en": "ぐっ……\nFlamebringer be with you.",
-    "vi": "ぐっ……\nFlamebringer be with you.",
+    "vi": "Ư……\nCầu cho Flamebringer ở bên ngươi.",
     "api_translated": true
   },
   {
     "id": 5295,
     "en": "まじ……かよ……\nFor that which I must protect...!",
-    "vi": "まじ……かよ……\nFor that which I must protect...!",
+    "vi": "Thật…… sao……\nVì những gì ta phải bảo vệ...!",
     "api_translated": true
   },
   {
     "id": 5296,
     "en": "！？\n[attack exert]",
-    "vi": "！？\n[attack exert]",
+    "vi": "!?\n[gồng sức tấn công]",
     "api_translated": true
   },
   {
     "id": 5297,
     "en": "そんな……\n[attack exert]",
-    "vi": "そんな……\n[attack exert]",
+    "vi": "Không thể nào……\n[gồng sức tấn công]",
     "api_translated": true
   },
   {
     "id": 5298,
     "en": "ありがとな\nHey.",
-    "vi": "ありがとな\nHey.",
+    "vi": "Cảm ơn nhé\nNày.",
     "api_translated": true
   },
   {
     "id": 5299,
     "en": "すまねえ\nYeah.",
-    "vi": "すまねえ\nYeah.",
+    "vi": "Xin lỗi nhé\nỪ.",
     "api_translated": true
   },
   {
     "id": 5300,
     "en": "大丈夫か？\nUh-huh...",
-    "vi": "大丈夫か？\nUh-huh...",
+    "vi": "Ngươi không sao chứ?\nỪ-hử...",
     "api_translated": true
   },
   {
@@ -32600,7 +32600,7 @@
   {
     "id": 5434,
     "en": "！\nHey, this way!",
-    "vi": "！\nHey, this way!",
+    "vi": "!\nNày, lại đây!",
     "api_translated": true
   },
   {
@@ -33002,601 +33002,601 @@
   {
     "id": 5501,
     "en": "ぬおおおおおおっ！\nThere are things we must fight to protect.",
-    "vi": "ぬおおおおおおっ！\nThere are things we must fight to protect.",
+    "vi": "Ư ư ư ư ư!\nCó những thứ ta buộc phải chiến đấu để bảo vệ.",
     "api_translated": true
   },
   {
     "id": 5502,
     "en": "ふんっ\nWe are triumphant!",
-    "vi": "ふんっ\nWe are triumphant!",
+    "vi": "Hừ!\nChúng ta đã thắng lợi!",
     "api_translated": true
   },
   {
     "id": 5503,
     "en": "滾るな……！\nI learned much from this battle.",
-    "vi": "滾るな……！\nI learned much from this battle.",
+    "vi": "Sôi sục cả người rồi...!\nTa đã học được nhiều điều từ trận chiến này.",
     "api_translated": true
   },
   {
     "id": 5504,
     "en": "アルティニアの剣は護るために！\nMay the blades of Altinia protect!",
-    "vi": "アルティニアの剣は護るために！\nMay the blades of Altinia protect!",
+    "vi": "Kiếm của Altinia là để bảo vệ!\nCầu mong những lưỡi kiếm của Altinia che chở!",
     "api_translated": true
   },
   {
     "id": 5505,
     "en": "羊にも爪はある！\nWhat to do?",
-    "vi": "羊にも爪はある！\nWhat to do?",
+    "vi": "Cừu cũng có móng vuốt đấy!\nTa nên làm gì đây?",
     "api_translated": true
   },
   {
     "id": 5506,
     "en": "やはりな\nI must see the bigger picture.",
-    "vi": "やはりな\nI must see the bigger picture.",
+    "vi": "Quả nhiên là vậy.\nTa phải nhìn vào bức tranh toàn cảnh.",
     "api_translated": true
   },
   {
     "id": 5507,
     "en": "弱点だな\nWe mustn't be hasty!",
-    "vi": "弱点だな\nWe mustn't be hasty!",
+    "vi": "Đó là điểm yếu.\nChúng ta không được vội vàng!",
     "api_translated": true
   },
   {
     "id": 5508,
     "en": "計略通りだ\nGet them!",
-    "vi": "計略通りだ\nGet them!",
+    "vi": "Đúng như kế hoạch.\nTiêu diệt chúng!",
     "api_translated": true
   },
   {
     "id": 5509,
     "en": "隙だらけだぞ？\nThis is our chance!",
-    "vi": "隙だらけだぞ？\nThis is our chance!",
+    "vi": "Lộ sơ hở rồi nhé?\nĐây là cơ hội của chúng ta!",
     "api_translated": true
   },
   {
     "id": 5510,
     "en": "そなたの出番だ\n[attack exert]",
-    "vi": "そなたの出番だ\n[attack exert]",
+    "vi": "Đến lượt ngươi rồi.\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5511,
     "en": "出陣だ！\n[attack exert]",
-    "vi": "出陣だ！\n[attack exert]",
+    "vi": "Xuất trận!\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5512,
     "en": "下がっていろ\n[attack exert]",
-    "vi": "下がっていろ\n[attack exert]",
+    "vi": "Lùi lại đi.\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5513,
     "en": "この犠牲、無駄にはせぬ！\n[attack exert]",
-    "vi": "この犠牲、無駄にはせぬ！\n[attack exert]",
+    "vi": "Sự hy sinh này, ta sẽ không để nó trở nên vô ích!\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5514,
     "en": "守りの時だ\nFeel my strength!",
-    "vi": "守りの時だ\nFeel my strength!",
+    "vi": "Đến lúc phòng thủ rồi.\nCảm nhận sức mạnh của ta đây!",
     "api_translated": true
   },
   {
     "id": 5515,
     "en": "当たらぬ\nYou won't win!",
-    "vi": "当たらぬ\nYou won't win!",
+    "vi": "Không trúng đâu.\nNgươi sẽ không thắng được đâu!",
     "api_translated": true
   },
   {
     "id": 5516,
     "en": "備えてある\n[frustrated reax]",
-    "vi": "備えてある\n[frustrated reax]",
+    "vi": "Ta đã chuẩn bị sẵn rồi.\n[frustrated reax]",
     "api_translated": true
   },
   {
     "id": 5517,
     "en": "引き取れ\n[gathering power]",
-    "vi": "引き取れ\n[gathering power]",
+    "vi": "Rút lui đi.\n[gathering power]",
     "api_translated": true
   },
   {
     "id": 5518,
     "en": "むうっ……\n[gathering power]",
-    "vi": "むうっ……\n[gathering power]",
+    "vi": "Ư...\n[gathering power]",
     "api_translated": true
   },
   {
     "id": 5519,
     "en": "ぬかったな\n[gathering power]",
-    "vi": "ぬかったな\n[gathering power]",
+    "vi": "Ta đã sơ suất rồi.\n[gathering power]",
     "api_translated": true
   },
   {
     "id": 5520,
     "en": "感謝する\n[gathering power]",
-    "vi": "感謝する\n[gathering power]",
+    "vi": "Đa tạ.\n[gathering power]",
     "api_translated": true
   },
   {
     "id": 5521,
     "en": "助かった\nI shall enjoy this!",
-    "vi": "助かった\nI shall enjoy this!",
+    "vi": "Được cứu rồi\nTa sẽ tận hưởng điều này!",
     "api_translated": true
   },
   {
     "id": 5522,
     "en": "羊も生きていれば爪を研ぐ！\nMay the blades of Altinia protect!",
-    "vi": "羊も生きていれば爪を研ぐ！\nMay the blades of Altinia protect!",
+    "vi": "Cừu cũng biết mài móng khi còn sống đấy!\nNguyện cho lưỡi kiếm của Altinia bảo vệ người!",
     "api_translated": true
   },
   {
     "id": 5523,
     "en": "日は必ず昇ると知れ！\nEven sheep have claws!",
-    "vi": "日は必ず昇ると知れ！\nEven sheep have claws!",
+    "vi": "Hãy biết rằng mặt trời chắc chắn sẽ mọc!\nNgay cả cừu cũng có móng vuốt!",
     "api_translated": true
   },
   {
     "id": 5524,
     "en": "うっ\nI figured as much.",
-    "vi": "うっ\nI figured as much.",
+    "vi": "Ư\nTa đã đoán trước được điều đó.",
     "api_translated": true
   },
   {
     "id": 5525,
     "en": "ぐっ\nI see what ails you.",
-    "vi": "ぐっ\nI see what ails you.",
+    "vi": "Ư\nTa hiểu nỗi đau của ngươi.",
     "api_translated": true
   },
   {
     "id": 5526,
     "en": "ぬううっ\nAll according to plan.",
-    "vi": "ぬううっ\nAll according to plan.",
+    "vi": "Ư ư ư\nTất cả đều đúng như kế hoạch.",
     "api_translated": true
   },
   {
     "id": 5527,
     "en": "これは……！\nYou're lacking in every sense.",
-    "vi": "これは……！\nYou're lacking in every sense.",
+    "vi": "Cái này là……!\nNgươi thiếu sót về mọi mặt.",
     "api_translated": true
   },
   {
     "id": 5528,
     "en": "があああっ！\nThe stage is yours.",
-    "vi": "があああっ！\nThe stage is yours.",
+    "vi": "Á á á!\nSân khấu là của ngươi.",
     "api_translated": true
   },
   {
     "id": 5529,
     "en": "バカなぁぁっ！\nPrepare for battle!",
-    "vi": "バカなぁぁっ！\nPrepare for battle!",
+    "vi": "Không thể nàoooo!\nChuẩn bị chiến đấu!",
     "api_translated": true
   },
   {
     "id": 5530,
     "en": "もはや、これまでだ……\nFall back.",
-    "vi": "もはや、これまでだ……\nFall back.",
+    "vi": "Đến đây là hết rồi……\nLùi lại.",
     "api_translated": true
   },
   {
     "id": 5531,
     "en": "見誤ったか……\nYour sacrifice won't be in vain!",
-    "vi": "見誤ったか……\nYour sacrifice won't be in vain!",
+    "vi": "Ta đã nhìn lầm sao……\nSự hy sinh của ngươi sẽ không vô ích!",
     "api_translated": true
   },
   {
     "id": 5532,
     "en": "この狼ども……め……\nA good defense...",
-    "vi": "この狼ども……め……\nA good defense...",
+    "vi": "Lũ sói này…… đáng ghét……\nMột sự phòng thủ tốt...",
     "api_translated": true
   },
   {
     "id": 5533,
     "en": "むんっ\nA fair try.",
-    "vi": "むんっ\nA fair try.",
+    "vi": "Hự!\nMột nỗ lực công bằng.",
     "api_translated": true
   },
   {
     "id": 5534,
     "en": "でいっ！\nI expected that.",
-    "vi": "でいっ！\nI expected that.",
+    "vi": "Đi nào!\nTa đã đoán được điều đó.",
     "api_translated": true
   },
   {
     "id": 5535,
     "en": "どりゃあっ！\nGive up already.",
-    "vi": "どりゃあっ！\nGive up already.",
+    "vi": "Hự!\nBỏ cuộc đi.",
     "api_translated": true
   },
   {
     "id": 5536,
     "en": "うおおおおっ！\n[pained reax]",
-    "vi": "うおおおおっ！\n[pained reax]",
+    "vi": "Ư ồ ồ ồ!\n[phản ứng đau đớn]",
     "api_translated": true
   },
   {
     "id": 5537,
     "en": "そこだっ！\nA misstep...",
-    "vi": "そこだっ！\nA misstep...",
+    "vi": "Ngay đó!\nMột bước đi sai lầm...",
     "api_translated": true
   },
   {
     "id": 5538,
     "en": "当てる！\nI thank you.",
-    "vi": "当てる！\nI thank you.",
+    "vi": "Trúng này!\nTa cảm ơn ngươi.",
     "api_translated": true
   },
   {
     "id": 5539,
     "en": "喰らえ！\nI needed that.",
-    "vi": "喰らえ！\nI needed that.",
+    "vi": "Ăn đòn đi!\nTa cần thứ đó.",
     "api_translated": true
   },
   {
     "id": 5540,
     "en": "突撃ぃぃっ！\nYou will learn to fear this sheep!",
-    "vi": "突撃ぃぃっ！\nYou will learn to fear this sheep!",
+    "vi": "Xung phong!\nNgươi sẽ học cách sợ hãi con cừu này!",
     "api_translated": true
   },
   {
     "id": 5541,
     "en": "炎よ\nKnow that dawn will come!",
-    "vi": "炎よ\nKnow that dawn will come!",
+    "vi": "Hỡi ngọn lửa\nHãy biết rằng bình minh sẽ đến!",
     "api_translated": true
   },
   {
     "id": 5542,
     "en": "火炎よ\n[taking light damage reax]",
-    "vi": "火炎よ\n[taking light damage reax]",
+    "vi": "Hỡi ngọn lửa\n[phản ứng chịu sát thương nhẹ]",
     "api_translated": true
   },
   {
     "id": 5543,
     "en": "アールデー・イグニス\n[taking light damage reax]",
-    "vi": "アールデー・イグニス\n[taking light damage reax]",
+    "vi": "Arde Ignis\n[phản ứng chịu sát thương nhẹ]",
     "api_translated": true
   },
   {
     "id": 5544,
     "en": "氷よ\n[taking moderate damage reax]",
-    "vi": "氷よ\n[taking moderate damage reax]",
+    "vi": "Hỡi băng giá\n[phản ứng chịu sát thương vừa]",
     "api_translated": true
   },
   {
     "id": 5545,
     "en": "氷嵐よ\n[taking moderate damage reax]",
-    "vi": "氷嵐よ\n[taking moderate damage reax]",
+    "vi": "Hỡi bão băng\n[phản ứng chịu sát thương vừa]",
     "api_translated": true
   },
   {
     "id": 5546,
     "en": "クルター・グラキエス\n[taking heavy damage reax]",
-    "vi": "クルター・グラキエス\n[taking heavy damage reax]",
+    "vi": "Culter Glacies\n[phản ứng chịu sát thương nặng]",
     "api_translated": true
   },
   {
     "id": 5547,
     "en": "雷よ\nNo...!",
-    "vi": "雷よ\nNo...!",
+    "vi": "Hỡi sấm sét\nKhông...!",
     "api_translated": true
   },
   {
     "id": 5548,
     "en": "雷鳴よ\nIs this truly...the end...?",
-    "vi": "雷鳴よ\nIs this truly...the end...?",
+    "vi": "Hỡi tiếng sấm\nĐây thực sự là... hồi kết sao...?",
     "api_translated": true
   },
   {
     "id": 5549,
     "en": "カネ・トルトニス\nI...was not wise enough...",
-    "vi": "カネ・トルトニス\nI...was not wise enough...",
+    "vi": "Cane Tortionis\nTa... đã không đủ khôn ngoan...",
     "api_translated": true
   },
   {
     "id": 5550,
     "en": "風よ\nThe wolves...have come...",
-    "vi": "風よ\nThe wolves...have come...",
+    "vi": "Hỡi ngọn gió\nLũ sói... đã đến rồi...",
     "api_translated": true
   },
   {
     "id": 5551,
     "en": "烈風よ\n[light attack exert]",
-    "vi": "烈風よ\n[light attack exert]",
+    "vi": "Hãy nổi lên, cuồng phong\n[light attack exert]",
     "api_translated": true
   },
   {
     "id": 5552,
     "en": "サルター・ウェントス\n[moderate attack exert]",
-    "vi": "サルター・ウェントス\n[moderate attack exert]",
+    "vi": "Salter Ventus\n[moderate attack exert]",
     "api_translated": true
   },
   {
     "id": 5553,
     "en": "光よ輝け\n[strong attack exert]",
-    "vi": "光よ輝け\n[strong attack exert]",
+    "vi": "Ánh sáng, hãy tỏa rạng\n[strong attack exert]",
     "api_translated": true
   },
   {
     "id": 5554,
     "en": "闇を祓え\n[extremely strong attack exert]",
-    "vi": "闇を祓え\n[extremely strong attack exert]",
+    "vi": "Hãy xua tan bóng tối\n[extremely strong attack exert]",
     "api_translated": true
   },
   {
     "id": 5555,
     "en": "コングレアー・ルクス\nThere!",
-    "vi": "コングレアー・ルクス\nThere!",
+    "vi": "Congerere Lux\nĐó!",
     "api_translated": true
   },
   {
     "id": 5556,
     "en": "闇よ\nI have you!",
-    "vi": "闇よ\nI have you!",
+    "vi": "Hỡi bóng tối\nTa bắt được ngươi rồi!",
     "api_translated": true
   },
   {
     "id": 5557,
     "en": "暗闇よ\nTake this!",
-    "vi": "暗闇よ\nTake this!",
+    "vi": "Hỡi màn đêm\nNhận lấy này!",
     "api_translated": true
   },
   {
     "id": 5558,
     "en": "オペリー・テネブラエ\nCharge!",
-    "vi": "オペリー・テネブラエ\nCharge!",
+    "vi": "Operi Tenebrae\nXông lên!",
     "api_translated": true
   },
   {
     "id": 5559,
     "en": "今、治す\nFire!",
-    "vi": "今、治す\nFire!",
+    "vi": "Để ta chữa trị\nLửa!",
     "api_translated": true
   },
   {
     "id": 5560,
     "en": "受け取れ\nBlazing flame!",
-    "vi": "受け取れ\nBlazing flame!",
+    "vi": "Nhận lấy này\nNgọn lửa rực cháy!",
     "api_translated": true
   },
   {
     "id": 5561,
     "en": "動けるか\nIgnis Ardere!",
-    "vi": "動けるか\nIgnis Ardere!",
+    "vi": "Ngươi còn cử động được không\nIgnis Ardere!",
     "api_translated": true
   },
   {
     "id": 5562,
     "en": "地の利は我らにある\nIce!",
-    "vi": "地の利は我らにある\nIce!",
+    "vi": "Lợi thế địa hình thuộc về chúng ta\nBăng!",
     "api_translated": true
   },
   {
     "id": 5563,
     "en": "守りを固めよ！\nIcy tempest!",
-    "vi": "守りを固めよ！\nIcy tempest!",
+    "vi": "Hãy củng cố phòng thủ!\nBão tuyết!",
     "api_translated": true
   },
   {
     "id": 5564,
     "en": "弱らせる！\nGlacies Claudere!",
-    "vi": "弱らせる！\nGlacies Claudere!",
+    "vi": "Làm suy yếu chúng!\nGlacies Claudere!",
     "api_translated": true
   },
   {
     "id": 5565,
     "en": "守りを崩す！\nLightning!",
-    "vi": "守りを崩す！\nLightning!",
+    "vi": "Phá vỡ phòng thủ của chúng!\nSét!",
     "api_translated": true
   },
   {
     "id": 5566,
     "en": "囮となろう\nShocking bolts!",
-    "vi": "囮となろう\nShocking bolts!",
+    "vi": "Ta sẽ làm mồi nhử!\nSét đánh!",
     "api_translated": true
   },
   {
     "id": 5567,
     "en": "いただこう\nTonitrus Canere!",
-    "vi": "いただこう\nTonitrus Canere!",
+    "vi": "Ta sẽ nhận lấy\nTonitrus Canere!",
     "api_translated": true
   },
   {
     "id": 5568,
     "en": "とっておけ\nWind!",
-    "vi": "とっておけ\nWind!",
+    "vi": "Cầm lấy này\nGió!",
     "api_translated": true
   },
   {
     "id": 5569,
     "en": "これでどうだ\nRaging gales!",
-    "vi": "これでどうだ\nRaging gales!",
+    "vi": "Thế này thì sao\nCuồng phong!",
     "api_translated": true
   },
   {
     "id": 5570,
     "en": "十文字斬り\nVentus Saltare!",
-    "vi": "十文字斬り\nVentus Saltare!",
+    "vi": "Thập tự trảm\nVentus Saltare!",
     "api_translated": true
   },
   {
     "id": 5571,
     "en": "炎よ、燃えろ\nShining light!",
-    "vi": "炎よ、燃えろ\nShining light!",
+    "vi": "Hỡi ngọn lửa, hãy bùng cháy\nÁnh sáng rực rỡ!",
     "api_translated": true
   },
   {
     "id": 5572,
     "en": "仕掛けておくか\nBanish the dark!",
-    "vi": "仕掛けておくか\nBanish the dark!",
+    "vi": "Ta sẽ đặt bẫy ở đây\nXua tan bóng tối!",
     "api_translated": true
   },
   {
     "id": 5573,
     "en": "調査済みだ\nLux Congerere!",
-    "vi": "調査済みだ\nLux Congerere!",
+    "vi": "Đã điều tra xong\nLux Congerere!",
     "api_translated": true
   },
   {
     "id": 5574,
     "en": "真空斬り\nShadows!",
-    "vi": "真空斬り\nShadows!",
+    "vi": "Chân không trảm\nBóng tối!",
     "api_translated": true
   },
   {
     "id": 5575,
     "en": "弱き鎧よ、壊れよ\nDarkness!",
-    "vi": "弱き鎧よ、壊れよ\nDarkness!",
+    "vi": "Hỡi giáp trụ yếu ớt, hãy vỡ vụn\nBóng đêm!",
     "api_translated": true
   },
   {
     "id": 5576,
     "en": "火炎よ、焼き尽くせ\nTenebrae Operire!",
-    "vi": "火炎よ、焼き尽くせ\nTenebrae Operire!",
+    "vi": "Hỡi ngọn lửa, hãy thiêu rụi tất cả\nTenebrae Operire!",
     "api_translated": true
   },
   {
     "id": 5577,
     "en": "この鷹の眼に見通せぬものはない！\nI will heal you.",
-    "vi": "この鷹の眼に見通せぬものはない！\nI will heal you.",
+    "vi": "Không gì có thể thoát khỏi đôi mắt chim ưng này!\nTa sẽ chữa lành cho ngươi.",
     "api_translated": true
   },
   {
     "id": 5578,
     "en": "ふっ\nTake this.",
-    "vi": "ふっ\nTake this.",
+    "vi": "Hừ\nNhận lấy này.",
     "api_translated": true
   },
   {
     "id": 5579,
     "en": "ふっ\nCan you move?",
-    "vi": "ふっ\nCan you move?",
+    "vi": "Hừ\nNgươi còn cử động được không?",
     "api_translated": true
   },
   {
     "id": 5580,
     "en": "おい\nThe terrain is on our side.",
-    "vi": "おい\nThe terrain is on our side.",
+    "vi": "Này\nLợi thế địa hình thuộc về chúng ta.",
     "api_translated": true
   },
   {
     "id": 5581,
     "en": "ああ\nBolster your defense!",
-    "vi": "ああ\nBolster your defense!",
+    "vi": "Ồ\nCủng cố phòng thủ!",
     "api_translated": true
   },
   {
     "id": 5582,
     "en": "ほう……\nYou're weakened.",
-    "vi": "ほう……\nYou're weakened.",
+    "vi": "Hừm……\nNgươi đã suy yếu rồi.",
     "api_translated": true
   },
   {
     "id": 5583,
     "en": "さらばだ\nYou will be defenseless!",
-    "vi": "さらばだ\nYou will be defenseless!",
+    "vi": "Vĩnh biệt\nNgươi sẽ không còn khả năng phòng thủ!",
     "api_translated": true
   },
   {
     "id": 5584,
     "en": "！\nI will serve as the decoy.",
-    "vi": "！\nI will serve as the decoy.",
+    "vi": "!\nTa sẽ làm mồi nhử.",
     "api_translated": true
   },
   {
     "id": 5585,
     "en": "え？\nFor me.",
-    "vi": "え？\nFor me.",
+    "vi": "Hả?\nVì ta.",
     "api_translated": true
   },
   {
     "id": 5586,
     "en": "なんだって！？\nFor you.",
-    "vi": "なんだって！？\nFor you.",
+    "vi": "Cái gì cơ!?\nVì ngươi.",
     "api_translated": true
   },
   {
     "id": 5587,
     "en": "ふん！\nTry this.",
-    "vi": "ふん！\nTry this.",
+    "vi": "Hừ!\nThử cái này xem.",
     "api_translated": true
   },
   {
     "id": 5588,
     "en": "……\nI slash through you!",
-    "vi": "……\nI slash through you!",
+    "vi": "……\nTa sẽ chém ngươi!",
     "api_translated": true
   },
   {
     "id": 5589,
     "en": "はぁ……\nLet the fire rage!",
-    "vi": "はぁ……\nLet the fire rage!",
+    "vi": "Ha……\nĐể ngọn lửa bùng cháy!",
     "api_translated": true
   },
   {
     "id": 5590,
     "en": "悪くない\nLet us lay a trap.",
-    "vi": "悪くない\nLet us lay a trap.",
+    "vi": "Không tệ\nHãy cùng đặt bẫy nào.",
     "api_translated": true
   },
   {
     "id": 5591,
     "en": "よかろう\nI see right through you.",
-    "vi": "よかろう\nI see right through you.",
+    "vi": "Được thôi\nTa đã nhìn thấu ngươi rồi.",
     "api_translated": true
   },
   {
     "id": 5592,
     "en": "フッ……\nThe void beckons!",
-    "vi": "フッ……\nThe void beckons!",
+    "vi": "Hừ……\nHư không đang vẫy gọi!",
     "api_translated": true
   },
   {
     "id": 5593,
     "en": "フハハ\nMay your armor crumble!",
-    "vi": "フハハ\nMay your armor crumble!",
+    "vi": "Hahaha\nCầu cho giáp trụ của ngươi tan vỡ!",
     "api_translated": true
   },
   {
     "id": 5594,
     "en": "くっ……\nReduce all to ash!",
-    "vi": "くっ……\nReduce all to ash!",
+    "vi": "Ư……\nThiêu rụi tất cả thành tro bụi!",
     "api_translated": true
   },
   {
     "id": 5595,
     "en": "なんてことを……\nThe Hawk's eyes see all!",
-    "vi": "なんてことを……\nThe Hawk's eyes see all!",
+    "vi": "Ngươi đã làm gì thế……\nĐôi mắt của Hawk nhìn thấu tất cả!",
     "api_translated": true
   },
   {
     "id": 5596,
     "en": "！？\n[attack exert]",
-    "vi": "！？\n[attack exert]",
+    "vi": "!?\n[tấn công dồn lực]",
     "api_translated": true
   },
   {
     "id": 5597,
     "en": "そんな……\n[attack exert]",
-    "vi": "そんな……\n[attack exert]",
+    "vi": "Không thể nào……\n[tấn công dồn lực]",
     "api_translated": true
   },
   {
     "id": 5598,
     "en": "ありがとう\nHello.",
-    "vi": "ありがとう\nHello.",
+    "vi": "Cảm ơn\nXin chào.",
     "api_translated": true
   },
   {
     "id": 5599,
     "en": "すまん\nYes.",
-    "vi": "すまん\nYes.",
+    "vi": "Xin lỗi\nPhải.",
     "api_translated": true
   },
   {
     "id": 5600,
     "en": "大丈夫か？\nOh?",
-    "vi": "大丈夫か？\nOh?",
+    "vi": "Ngươi không sao chứ?\nỒ?",
     "api_translated": true
   },
   {
@@ -34400,7 +34400,7 @@
   {
     "id": 5734,
     "en": "！\nI'll keep them busy!",
-    "vi": "！\nI'll keep them busy!",
+    "vi": "!\nTa sẽ giữ chân chúng!",
     "api_translated": true
   },
   {
@@ -34424,7 +34424,7 @@
   {
     "id": 5738,
     "en": "……\nMy blade stings!",
-    "vi": "……\nMy blade stings!",
+    "vi": "……\nLưỡi kiếm của ta đau nhói!",
     "api_translated": true
   },
   {
@@ -34802,601 +34802,601 @@
   {
     "id": 5801,
     "en": "はぁっ！\nSay goodbye!",
-    "vi": "はぁっ！\nSay goodbye!",
+    "vi": "Haa!\nSay goodbye!",
     "api_translated": true
   },
   {
     "id": 5802,
     "en": "うおおおおっ！\n[attack exert]",
-    "vi": "うおおおおっ！\n[attack exert]",
+    "vi": "Uoooooh!\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5803,
     "en": "はあああああああッ！\nI have done my duty.",
-    "vi": "はあああああああッ！\nI have done my duty.",
+    "vi": "Haaaaaaaaaa!\nI have done my duty.",
     "api_translated": true
   },
   {
     "id": 5804,
     "en": "ふんっ！\nWe are victorious!",
-    "vi": "ふんっ！\nWe are victorious!",
+    "vi": "Hừ!\nWe are victorious!",
     "api_translated": true
   },
   {
     "id": 5805,
     "en": "覚悟！\nI need to train harder...",
-    "vi": "覚悟！\nI need to train harder...",
+    "vi": "Chuẩn bị tinh thần đi!\nI need to train harder...",
     "api_translated": true
   },
   {
     "id": 5806,
     "en": "僕が、皆を守る！\nWalk with the Flame...",
-    "vi": "僕が、皆を守る！\nWalk with the Flame...",
+    "vi": "Ta sẽ bảo vệ mọi người!\nWalk with the Flame...",
     "api_translated": true
   },
   {
     "id": 5807,
     "en": "“炎と共に歩め”……そうですよね、サザントスさん\nBe cautious.",
-    "vi": "“炎と共に歩め”……そうですよね、サザントスさん\nBe cautious.",
+    "vi": "“Hãy bước đi cùng Ngọn Lửa”…… đúng vậy nhỉ, Sazantos-san\nBe cautious.",
     "api_translated": true
   },
   {
     "id": 5808,
     "en": "見切った！\nAs you wish.",
-    "vi": "見切った！\nAs you wish.",
+    "vi": "Ta đã nhìn thấu rồi!\nAs you wish.",
     "api_translated": true
   },
   {
     "id": 5809,
     "en": "隙あり！\nThis may be bad...",
-    "vi": "隙あり！\nThis may be bad...",
+    "vi": "Lộ sơ hở rồi!\nThis may be bad...",
     "api_translated": true
   },
   {
     "id": 5810,
     "en": "ここからが本番です\nLet's end this!",
-    "vi": "ここからが本番です\nLet's end this!",
+    "vi": "Giờ mới là lúc bắt đầu đây\nLet's end this!",
     "api_translated": true
   },
   {
     "id": 5811,
     "en": "逃がさないッ！\nHold nothing back!",
-    "vi": "逃がさないッ！\nHold nothing back!",
+    "vi": "Không để ngươi thoát!\nHold nothing back!",
     "api_translated": true
   },
   {
     "id": 5812,
     "en": "ひとまず退きます！\n[attack exert]",
-    "vi": "ひとまず退きます！\n[attack exert]",
+    "vi": "Tạm thời rút lui thôi!\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5813,
     "en": "ここは僕が！\n[attack exert]",
-    "vi": "ここは僕が！\n[attack exert]",
+    "vi": "Để đó cho ta!\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5814,
     "en": "下がってください！\n[attack exert]",
-    "vi": "下がってください！\n[attack exert]",
+    "vi": "Lùi lại đi!\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5815,
     "en": "なんてことを……！！\n[attack exert]",
-    "vi": "なんてことを……！！\n[attack exert]",
+    "vi": "Ngươi đã làm cái gì thế này……!!\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5816,
     "en": "守りの力を\nI will carve a path!",
-    "vi": "守りの力を\nI will carve a path!",
+    "vi": "Sức mạnh hộ vệ\nI will carve a path!",
     "api_translated": true
   },
   {
     "id": 5817,
     "en": "当たりません！\nThis ends now!",
-    "vi": "当たりません！\nThis ends now!",
+    "vi": "Không trúng đâu!\nThis ends now!",
     "api_translated": true
   },
   {
     "id": 5818,
     "en": "災いを払う！\nOops...",
-    "vi": "災いを払う！\nOops...",
+    "vi": "Xua tan tai ương!\nOops...",
     "api_translated": true
   },
   {
     "id": 5819,
     "en": "聖火の加護を\n[gathering power]",
-    "vi": "聖火の加護を\n[gathering power]",
+    "vi": "Nguyện cầu sự che chở của Thánh Hỏa\n[gathering power]",
     "api_translated": true
   },
   {
     "id": 5820,
     "en": "邪悪の念が強すぎます……\n[gathering power]",
-    "vi": "邪悪の念が強すぎます……\n[gathering power]",
+    "vi": "Tà niệm này mạnh quá……\n[gathering power]",
     "api_translated": true
   },
   {
     "id": 5821,
     "en": "うわっ！？\n[gathering power]",
-    "vi": "うわっ！？\n[gathering power]",
+    "vi": "Á á!?\n[gathering power]",
     "api_translated": true
   },
   {
     "id": 5822,
     "en": "感謝します\n[gathering power]",
-    "vi": "感謝します\n[gathering power]",
+    "vi": "Ta cảm ơn ngươi\n[gathering power]",
     "api_translated": true
   },
   {
     "id": 5823,
     "en": "助かりました\nPrepare yourself!",
-    "vi": "助かりました\nPrepare yourself!",
+    "vi": "Ngươi đã cứu ta\nPrepare yourself!",
     "api_translated": true
   },
   {
     "id": 5824,
     "en": "まだ終わりではありません……！\nI won't let you harm anyone!",
-    "vi": "まだ終わりではありません……！\nI won't let you harm anyone!",
+    "vi": "Vẫn chưa kết thúc đâu……!\nI won't let you harm anyone!",
     "api_translated": true
   },
   {
     "id": 5825,
     "en": "強くなると……誓ったんだ！\n\"Walk with the Flame\"... Isn't that right, Sir Sazantos?",
-    "vi": "強くなると……誓ったんだ！\n\"Walk with the Flame\"... Isn't that right, Sir Sazantos?",
+    "vi": "Ta đã thề…… là sẽ trở nên mạnh mẽ hơn!\n\"Walk with the Flame\"... Isn't that right, Sir Sazantos?",
     "api_translated": true
   },
   {
     "id": 5826,
     "en": "うぐっ\nGot you!",
-    "vi": "うぐっ\nGot you!",
+    "vi": "Ư……\nGot you!",
     "api_translated": true
   },
   {
     "id": 5827,
     "en": "あいてて……\nThere!",
-    "vi": "あいてて……\nThere!",
+    "vi": "Đau quá……\nThere!",
     "api_translated": true
   },
   {
     "id": 5828,
     "en": "うあっ！？\nIt begins now.",
-    "vi": "うあっ！？\nIt begins now.",
+    "vi": "Á！？\nIt begins now.",
     "api_translated": true
   },
   {
     "id": 5829,
     "en": "が……はッ……！\nYou're mine!",
-    "vi": "が……はッ……！\nYou're mine!",
+    "vi": "Ư…… hự……！\nYou're mine!",
     "api_translated": true
   },
   {
     "id": 5830,
     "en": "うああああああっ！\nFalling back!",
-    "vi": "うああああああっ！\nFalling back!",
+    "vi": "Á á á á á á！\nFalling back!",
     "api_translated": true
   },
   {
     "id": 5831,
     "en": "そん……な……ッ！\nAllow me!",
-    "vi": "そん……な……ッ！\nAllow me!",
+    "vi": "Không…… thể…… nào……！\nAllow me!",
     "api_translated": true
   },
   {
     "id": 5832,
     "en": "また、守れなかった……\nStand back!",
-    "vi": "また、守れなかった……\nStand back!",
+    "vi": "Ta lại…… không thể bảo vệ được ai……\nStand back!",
     "api_translated": true
   },
   {
     "id": 5833,
     "en": "しまった……\nYou fiend!",
-    "vi": "しまった……\nYou fiend!",
+    "vi": "Chết tiệt……\nYou fiend!",
     "api_translated": true
   },
   {
     "id": 5834,
     "en": "ごめん、コーデリア……\nI must stand strong.",
-    "vi": "ごめん、コーデリア……\nI must stand strong.",
+    "vi": "Xin lỗi, Cordelia……\nI must stand strong.",
     "api_translated": true
   },
   {
     "id": 5835,
     "en": "いくぞっ！\nNot so fast!",
-    "vi": "いくぞっ！\nNot so fast!",
+    "vi": "Lên thôi!\nNot so fast!",
     "api_translated": true
   },
   {
     "id": 5836,
     "en": "どうだ！\nI am shielded from evil!",
-    "vi": "どうだ！\nI am shielded from evil!",
+    "vi": "Thế nào!\nI am shielded from evil!",
     "api_translated": true
   },
   {
     "id": 5837,
     "en": "受けてみろっ！\nO Sacred Flame!",
-    "vi": "受けてみろっ！\nO Sacred Flame!",
+    "vi": "Đỡ lấy này!\nO Sacred Flame!",
     "api_translated": true
   },
   {
     "id": 5838,
     "en": "でやあぁぁぁぁ！\nThis evil is too strong...",
-    "vi": "でやあぁぁぁぁ！\nThis evil is too strong...",
+    "vi": "Deyaaaaaa!\nThis evil is too strong...",
     "api_translated": true
   },
   {
     "id": 5839,
     "en": "喰らえ！\n[hit by enemy counterattack reax]",
-    "vi": "喰らえ！\n[hit by enemy counterattack reax]",
+    "vi": "Ăn đòn đi!\n[hit by enemy counterattack reax]",
     "api_translated": true
   },
   {
     "id": 5840,
     "en": "これで！\nThank you!",
-    "vi": "これで！\nThank you!",
+    "vi": "Kết thúc tại đây!\nThank you!",
     "api_translated": true
   },
   {
     "id": 5841,
     "en": "罰します！\nI'm grateful.",
-    "vi": "罰します！\nI'm grateful.",
+    "vi": "Ta sẽ trừng trị ngươi!\nI'm grateful.",
     "api_translated": true
   },
   {
     "id": 5842,
     "en": "僕の信じるべき道を……！\nIt isn't over yet!",
-    "vi": "僕の信じるべき道を……！\nIt isn't over yet!",
+    "vi": "Con đường mà ta tin tưởng……!\nIt isn't over yet!",
     "api_translated": true
   },
   {
     "id": 5843,
     "en": "炎よ！\nI swore I would get stronger!",
-    "vi": "炎よ！\nI swore I would get stronger!",
+    "vi": "Hỡi ngọn lửa!\nI swore I would get stronger!",
     "api_translated": true
   },
   {
     "id": 5844,
     "en": "焼き払う！\n[taking light damage reax]",
-    "vi": "焼き払う！\n[taking light damage reax]",
+    "vi": "Thiêu rụi tất cả!\n[taking light damage reax]",
     "api_translated": true
   },
   {
     "id": 5845,
     "en": "アールデー・イグニス\nOwww...",
-    "vi": "アールデー・イグニス\nOwww...",
+    "vi": "Arde Ignis\nOwww...",
     "api_translated": true
   },
   {
     "id": 5846,
     "en": "氷よ！\n[taking moderate damage reax]",
-    "vi": "氷よ！\n[taking moderate damage reax]",
+    "vi": "Hỡi băng giá!\n[taking moderate damage reax]",
     "api_translated": true
   },
   {
     "id": 5847,
     "en": "凍りつけ！\n[taking moderate damage reax]",
-    "vi": "凍りつけ！\n[taking moderate damage reax]",
+    "vi": "Đóng băng đi!\n[taking moderate damage reax]",
     "api_translated": true
   },
   {
     "id": 5848,
     "en": "クルター・グラキエス\n[taking heavy damage reax]",
-    "vi": "クルター・グラキエス\n[taking heavy damage reax]",
+    "vi": "Culter Glacies\n[taking heavy damage reax]",
     "api_translated": true
   },
   {
     "id": 5849,
     "en": "いかづちよ！\n[taking heavy damage reax]",
-    "vi": "いかづちよ！\n[taking heavy damage reax]",
+    "vi": "Hỡi sấm sét!\n[taking heavy damage reax]",
     "api_translated": true
   },
   {
     "id": 5850,
     "en": "雷光よ！\nI'm still not strong enough...",
-    "vi": "雷光よ！\nI'm still not strong enough...",
+    "vi": "Hỡi tia chớp!\nI'm still not strong enough...",
     "api_translated": true
   },
   {
     "id": 5851,
     "en": "カネ・トルトニス\nNot like this...",
-    "vi": "カネ・トルトニス\nNot like this...",
+    "vi": "Cane Tortonis\nKhông thể nào...",
     "api_translated": true
   },
   {
     "id": 5852,
     "en": "風よ！\nI'm sorry...Cordelia...",
-    "vi": "風よ！\nI'm sorry...Cordelia...",
+    "vi": "Phong ấn!\nTa xin lỗi... Cordelia...",
     "api_translated": true
   },
   {
     "id": 5853,
     "en": "薙ぎ払え！\nMy turn!",
-    "vi": "薙ぎ払え！\nMy turn!",
+    "vi": "Quét sạch chúng!\nĐến lượt ta!",
     "api_translated": true
   },
   {
     "id": 5854,
     "en": "サルター・ウェントス\nHow's this!?",
-    "vi": "サルター・ウェントス\nHow's this!?",
+    "vi": "Salter Ventus\nThế này thì sao!?",
     "api_translated": true
   },
   {
     "id": 5855,
     "en": "光よ！\nHave at you!",
-    "vi": "光よ！\nHave at you!",
+    "vi": "Ánh sáng ơi!\nNhận lấy này!",
     "api_translated": true
   },
   {
     "id": 5856,
     "en": "闇を祓え！\n[extremely strong attack exert]",
-    "vi": "闇を祓え！\n[extremely strong attack exert]",
+    "vi": "Xua tan bóng tối!\n[tiếng gầm của đòn tấn công cực mạnh]",
     "api_translated": true
   },
   {
     "id": 5857,
     "en": "コングレアー・ルクス\nHere!",
-    "vi": "コングレアー・ルクス\nHere!",
+    "vi": "Congregare Lux\nỞ đây!",
     "api_translated": true
   },
   {
     "id": 5858,
     "en": "闇よ……！\nTake this!",
-    "vi": "闇よ……！\nTake this!",
+    "vi": "Bóng tối ơi...!\nNhận lấy này!",
     "api_translated": true
   },
   {
     "id": 5859,
     "en": "夜の闇よ！\nRepent!",
-    "vi": "夜の闇よ！\nRepent!",
+    "vi": "Màn đêm đen tối!\nHãy hối cải đi!",
     "api_translated": true
   },
   {
     "id": 5860,
     "en": "オペリー・テネブラエ\nI know my path!",
-    "vi": "オペリー・テネブラエ\nI know my path!",
+    "vi": "Operire Tenebrae\nTa biết con đường của mình!",
     "api_translated": true
   },
   {
     "id": 5861,
     "en": "治します\nFlames!",
-    "vi": "治します\nFlames!",
+    "vi": "Ta sẽ chữa trị\nNgọn lửa!",
     "api_translated": true
   },
   {
     "id": 5862,
     "en": "受け取ってください！\nBurn!",
-    "vi": "受け取ってください！\nBurn!",
+    "vi": "Hãy nhận lấy!\nCháy đi!",
     "api_translated": true
   },
   {
     "id": 5863,
     "en": "ご無事ですか？\nIgnis Ardere!",
-    "vi": "ご無事ですか？\nIgnis Ardere!",
+    "vi": "Ngươi có sao không?\nIgnis Ardere!",
     "api_translated": true
   },
   {
     "id": 5864,
     "en": "ご武運を\nIce!",
-    "vi": "ご武運を\nIce!",
+    "vi": "Chúc ngươi may mắn\nBăng!",
     "api_translated": true
   },
   {
     "id": 5865,
     "en": "耐えてください\nFreeze!",
-    "vi": "耐えてください\nFreeze!",
+    "vi": "Hãy chịu đựng nhé\nĐóng băng!",
     "api_translated": true
   },
   {
     "id": 5866,
     "en": "こちらが優勢です\nGlacies Claudere!",
-    "vi": "こちらが優勢です\nGlacies Claudere!",
+    "vi": "Chúng ta đang chiếm ưu thế\nGlacies Claudere!",
     "api_translated": true
   },
   {
     "id": 5867,
     "en": "弱らせる！\nThunder!",
-    "vi": "弱らせる！\nThunder!",
+    "vi": "Làm suy yếu nó!\nSấm sét!",
     "api_translated": true
   },
   {
     "id": 5868,
     "en": "僕が相手だ！\nLightning bolts!",
-    "vi": "僕が相手だ！\nLightning bolts!",
+    "vi": "Ta sẽ là đối thủ của ngươi!\nTia chớp!",
     "api_translated": true
   },
   {
     "id": 5869,
     "en": "いただきます\nTonitrus Canere!",
-    "vi": "いただきます\nTonitrus Canere!",
+    "vi": "Ta nhận đây\nTonitrus Canere!",
     "api_translated": true
   },
   {
     "id": 5870,
     "en": "どうぞ\nWind!",
-    "vi": "どうぞ\nWind!",
+    "vi": "Mời ngươi\nGió!",
     "api_translated": true
   },
   {
     "id": 5871,
     "en": "これでどうだ？\nBlow strong!",
-    "vi": "これでどうだ？\nBlow strong!",
+    "vi": "Thế này thì sao?\nThổi mạnh lên!",
     "api_translated": true
   },
   {
     "id": 5872,
     "en": "十文字斬り\nVentus Saltare!",
-    "vi": "十文字斬り\nVentus Saltare!",
+    "vi": "Chém hình chữ thập\nVentus Saltare!",
     "api_translated": true
   },
   {
     "id": 5873,
     "en": "光よ、裁きたまえ\nLight!",
-    "vi": "光よ、裁きたまえ\nLight!",
+    "vi": "Ánh sáng ơi, hãy phán xét\nÁnh sáng!",
     "api_translated": true
   },
   {
     "id": 5874,
     "en": "聖火よ、我を導き給え！\nPrevail over dark!",
-    "vi": "聖火よ、我を導き給え！\nPrevail over dark!",
+    "vi": "Thánh hỏa ơi, hãy dẫn lối cho ta!\nChiến thắng bóng tối!",
     "api_translated": true
   },
   {
     "id": 5875,
     "en": "砕けろ！\nLux Congerere!",
-    "vi": "砕けろ！\nLux Congerere!",
+    "vi": "Tan vỡ đi!\nLux Congerere!",
     "api_translated": true
   },
   {
     "id": 5876,
     "en": "聖火の加護よ！\nDarkness!",
-    "vi": "聖火の加護よ！\nDarkness!",
+    "vi": "Sự bảo hộ của Thánh hỏa!\nBóng tối!",
     "api_translated": true
   },
   {
     "id": 5877,
     "en": "青き炎は我が魂、我が守り人なり！\nDark as night!",
-    "vi": "青き炎は我が魂、我が守り人なり！\nDark as night!",
+    "vi": "Ngọn lửa xanh là linh hồn, là người bảo vệ của ta!\nĐen như đêm tối!",
     "api_translated": true
   },
   {
     "id": 5878,
     "en": "真空斬り\nTenebrae Operire!",
-    "vi": "真空斬り\nTenebrae Operire!",
+    "vi": "Chém chân không\nTenebrae Operire!",
     "api_translated": true
   },
   {
     "id": 5879,
     "en": "邪悪を焼き尽くせ！！\nBe healed.",
-    "vi": "邪悪を焼き尽くせ！！\nBe healed.",
+    "vi": "Thiêu rụi cái ác!!\nĐược chữa lành.",
     "api_translated": true
   },
   {
     "id": 5880,
     "en": "はっ\nPlease take this!",
-    "vi": "はっ\nPlease take this!",
+    "vi": "Hự\nHãy nhận lấy cái này!",
     "api_translated": true
   },
   {
     "id": 5881,
     "en": "はっ\nAre you hurt?",
-    "vi": "はっ\nAre you hurt?",
+    "vi": "Hự\nNgươi có bị thương không?",
     "api_translated": true
   },
   {
     "id": 5882,
     "en": "ぐっ\nBe safe.",
-    "vi": "ぐっ\nBe safe.",
+    "vi": "Ư\nHãy bảo trọng.",
     "api_translated": true
   },
   {
     "id": 5883,
     "en": "うぐぁっ！\nBe strong.",
-    "vi": "うぐぁっ！\nBe strong.",
+    "vi": "Ư á!\nHãy mạnh mẽ lên.",
     "api_translated": true
   },
   {
     "id": 5884,
     "en": "ぐぁぁぁぁぁぁっ！\nWe will prevail.",
-    "vi": "ぐぁぁぁぁぁぁっ！\nWe will prevail.",
+    "vi": "Á á á á á!\nChúng ta sẽ chiến thắng.",
     "api_translated": true
   },
   {
     "id": 5885,
     "en": "むうううっ……\nTremble!",
-    "vi": "むうううっ……\nTremble!",
+    "vi": "Ư ư ư...\nHãy run sợ đi!",
     "api_translated": true
   },
   {
     "id": 5886,
     "en": "うああああああっ！\nFace me!",
-    "vi": "うああああああっ！\nFace me!",
+    "vi": "Á á á á á!\nĐối mặt với ta đi!",
     "api_translated": true
   },
   {
     "id": 5887,
     "en": "選ばれし……者よ……！\nYes...",
-    "vi": "選ばれし……者よ……！\nYes...",
+    "vi": "Kẻ... được chọn...!",
     "api_translated": true
   },
   {
     "id": 5888,
     "en": "抑え……きれない……！\nUse this.",
-    "vi": "抑え……きれない……！\nUse this.",
+    "vi": "Ta... không thể... kiềm chế được nữa...!",
     "api_translated": true
   },
   {
     "id": 5889,
     "en": "おい\nThis is for you.",
-    "vi": "おい\nThis is for you.",
+    "vi": "Này\nCái này cho ngươi.",
     "api_translated": true
   },
   {
     "id": 5890,
     "en": "ああ\nMy blade cuts deep!",
-    "vi": "ああ\nMy blade cuts deep!",
+    "vi": "À\nLưỡi kiếm của ta chém rất sâu!",
     "api_translated": true
   },
   {
     "id": 5891,
     "en": "ほう……\nWith the light as our judge!",
-    "vi": "ほう……\nWith the light as our judge!",
+    "vi": "Ồ...\nĐể ánh sáng làm quan tòa phán xét!",
     "api_translated": true
   },
   {
     "id": 5892,
     "en": "さらばじゃ\nSacred Flame, guide me!",
-    "vi": "さらばじゃ\nSacred Flame, guide me!",
+    "vi": "Vĩnh biệt\nNgọn Lửa Thiêng, hãy dẫn lối cho ta!",
     "api_translated": true
   },
   {
     "id": 5893,
     "en": "！\nSurrender!",
-    "vi": "！\nSurrender!",
+    "vi": "!\nĐầu hàng đi!",
     "api_translated": true
   },
   {
     "id": 5894,
     "en": "はっ！\nBless us, O Sacred Flame!",
-    "vi": "はっ！\nBless us, O Sacred Flame!",
+    "vi": "Hự!\nNgọn Lửa Thiêng, hãy ban phước cho chúng ta!",
     "api_translated": true
   },
   {
     "id": 5895,
     "en": "なんじゃと！？\nThe blue flame is my soul. My guardian!",
-    "vi": "なんじゃと！？\nThe blue flame is my soul. My guardian!",
+    "vi": "Cái gì cơ!?\nNgọn lửa xanh là linh hồn của ta. Người bảo hộ của ta!",
     "api_translated": true
   },
   {
     "id": 5896,
     "en": "ふん！\nRend!",
-    "vi": "ふん！\nRend!",
+    "vi": "Hừ!\nXé xác chúng!",
     "api_translated": true
   },
   {
     "id": 5897,
     "en": "……\nMay it engulf all who oppose me!",
-    "vi": "……\nMay it engulf all who oppose me!",
+    "vi": "...\nCầu cho nó thiêu rụi tất cả những kẻ chống lại ta!",
     "api_translated": true
   },
   {
     "id": 5898,
     "en": "はぁ……\n[attack exert]",
-    "vi": "はぁ……\n[attack exert]",
+    "vi": "Hà...\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5899,
     "en": "面白い\n[attack exert]",
-    "vi": "面白い\n[attack exert]",
+    "vi": "Thú vị đấy\n[attack exert]",
     "api_translated": true
   },
   {
     "id": 5900,
     "en": "見事じゃ\n[taking damage reax]",
-    "vi": "見事じゃ\n[taking damage reax]",
+    "vi": "Tuyệt vời\n[taking damage reax]",
     "api_translated": true
   },
   {
@@ -35426,7 +35426,7 @@
   {
     "id": 5905,
     "en": "！？\nChosen...One...!",
-    "vi": "！？\nChosen...One...!",
+    "vi": "!?\nKẻ... được chọn...!",
     "api_translated": true
   },
   {
@@ -38900,7 +38900,7 @@
   {
     "id": 6484,
     "en": "！？\n[attack exert]",
-    "vi": "！？\n[attack exert]",
+    "vi": "！？\n[tung đòn tấn công]",
     "api_translated": true
   },
   {
@@ -42080,7 +42080,7 @@
   {
     "id": 7014,
     "en": "…………！\n[strong exhale]",
-    "vi": "…………！\n[strong exhale]",
+    "vi": "…………！\n[thở mạnh]",
     "api_translated": true
   },
   {

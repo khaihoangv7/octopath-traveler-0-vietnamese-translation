@@ -2,7 +2,8 @@
   {
     "id": 0,
     "en": "No data.",
-    "vi": "No data."
+    "vi": "Không có dữ liệu.",
+    "api_translated": true
   },
   {
     "id": 7,
@@ -221,7 +222,7 @@
   {
     "id": 535,
     "en": "Menu",
-    "vi": "Menu",
+    "vi": "Thực đơn",
     "api_translated": true
   },
   {
@@ -5849,7 +5850,7 @@
   {
     "id": 91332,
     "en": "No Data",
-    "vi": "No Data",
+    "vi": "Không có dữ liệu",
     "api_translated": true
   },
   {
@@ -6848,7 +6849,7 @@
   {
     "id": 91622,
     "en": "日本語",
-    "vi": "日本語",
+    "vi": "Tiếng Nhật",
     "api_translated": true
   },
   {
@@ -6860,7 +6861,7 @@
   {
     "id": 91623,
     "en": "English",
-    "vi": "English",
+    "vi": "Tiếng Anh",
     "api_translated": true
   },
   {
@@ -6872,19 +6873,19 @@
   {
     "id": 91626,
     "en": "简体中文",
-    "vi": "简体中文",
+    "vi": "Tiếng Trung giản thể",
     "api_translated": true
   },
   {
     "id": 91627,
     "en": "繁體中文",
-    "vi": "繁體中文",
+    "vi": "Tiếng Trung phồn thể",
     "api_translated": true
   },
   {
     "id": 91628,
     "en": "한국어",
-    "vi": "한국어",
+    "vi": "Tiếng Hàn",
     "api_translated": true
   },
   {

@@ -1,0 +1,508 @@
+[
+  {
+    "id": 0,
+    "en": "(Unlocalized)",
+    "vi": "(Chưa dịch)"
+  },
+  {
+    "id": 2,
+    "en": "{0}",
+    "vi": "{0}",
+    "api_translated": true
+  },
+  {
+    "id": 11,
+    "en": "Select the skill you learned when you were young.",
+    "vi": "Chọn kỹ năng bạn đã học khi còn nhỏ."
+  },
+  {
+    "id": 12,
+    "en": "Select your favorite dish.",
+    "vi": "Chọn món ăn yêu thích."
+  },
+  {
+    "id": 13,
+    "en": "Enter the name of your favorite dish.",
+    "vi": "Nhập tên món ăn yêu thích."
+  },
+  {
+    "id": 14,
+    "en": "Select 3 belongings.",
+    "vi": "Chọn 3 hành trang."
+  },
+  {
+    "id": 15,
+    "en": "Finally, enter your name.",
+    "vi": "Cuối cùng, nhập tên của bạn."
+  },
+  {
+    "id": 16,
+    "en": "Select your job.",
+    "vi": "Chọn nghề nghiệp."
+  },
+  {
+    "id": 17,
+    "en": "Select the mastery you achieved from training.",
+    "vi": "Chọn tinh thông đạt được từ luyện tập."
+  },
+  {
+    "id": 18,
+    "en": "Select your appearance.",
+    "vi": "Chọn ngoại hình."
+  },
+  {
+    "id": 19,
+    "en": "Proceed with this appearance?",
+    "vi": "Tiếp tục với ngoại hình này?"
+  },
+  {
+    "id": 20,
+    "en": "Proceed with this learned skill?",
+    "vi": "Tiếp tục với kỹ năng này?"
+  },
+  {
+    "id": 21,
+    "en": "Proceed with this favorite dish?",
+    "vi": "Tiếp tục với món ăn này?"
+  },
+  {
+    "id": 22,
+    "en": "Proceed with these belongings?",
+    "vi": "Tiếp tục với hành trang này?"
+  },
+  {
+    "id": 23,
+    "en": "Proceed with this job?",
+    "vi": "Tiếp tục với nghề này?"
+  },
+  {
+    "id": 24,
+    "en": "Proceed with this mastery?",
+    "vi": "Tiếp tục với tinh thông này?"
+  },
+  {
+    "id": 25,
+    "en": "Learned Skill",
+    "vi": "Kỹ Năng Đã Học"
+  },
+  {
+    "id": 26,
+    "en": "Favorite Dish",
+    "vi": "Món Ăn Yêu Thích"
+  },
+  {
+    "id": 27,
+    "en": "Belongings (3)",
+    "vi": "Vật phẩm (3)"
+  },
+  {
+    "id": 28,
+    "en": "Job",
+    "vi": "Nghề Nghiệp"
+  },
+  {
+    "id": 29,
+    "en": "Mastery",
+    "vi": "Tinh Thông"
+  },
+  {
+    "id": 30,
+    "en": "Memory",
+    "vi": "Ký Ức"
+  },
+  {
+    "id": 35,
+    "en": "Learned Skill",
+    "vi": "Kỹ Năng Đã Học"
+  },
+  {
+    "id": 36,
+    "en": "Favorite Dish",
+    "vi": "Món Ăn Yêu Thích"
+  },
+  {
+    "id": 37,
+    "en": "Belongings",
+    "vi": "Hành Trang"
+  },
+  {
+    "id": 40,
+    "en": "Final Confirmation",
+    "vi": "Xác Nhận Cuối"
+  },
+  {
+    "id": 41,
+    "en": "Continue <chara_name>'s journey?",
+    "vi": "Tiếp tục hành trình của <chara_name>?"
+  },
+  {
+    "id": 42,
+    "en": "Begin <chara_name>'s journey?",
+    "vi": "Bắt đầu hành trình của <chara_name>?"
+  },
+  {
+    "id": 43,
+    "en": "Confirm Settings",
+    "vi": "Xác Nhận Cài Đặt"
+  },
+  {
+    "id": 44,
+    "en": "Change Appearance",
+    "vi": "Thay Đổi Ngoại Hình"
+  },
+  {
+    "id": 45,
+    "en": "Change Learned Skill",
+    "vi": "Thay Đổi Kỹ Năng Đã Học"
+  },
+  {
+    "id": 46,
+    "en": "Change Favorite Dish",
+    "vi": "Thay Đổi Món Ăn Yêu Thích"
+  },
+  {
+    "id": 47,
+    "en": "Change Belongings",
+    "vi": "Thay Đổi Hành Trang"
+  },
+  {
+    "id": 48,
+    "en": "Change Name",
+    "vi": "Đổi Tên"
+  },
+  {
+    "id": 49,
+    "en": "Change Job",
+    "vi": "Đổi Nghề"
+  },
+  {
+    "id": 50,
+    "en": "Change Mastery",
+    "vi": "Thay Đổi Tinh Thông"
+  },
+  {
+    "id": 51,
+    "en": "Begin Story",
+    "vi": "Bắt Đầu Câu Chuyện"
+  },
+  {
+    "id": 52,
+    "en": "Continue Story",
+    "vi": "Tiếp Tục Câu Chuyện"
+  },
+  {
+    "id": 53,
+    "en": "Mastery",
+    "vi": "Tinh Thông"
+  },
+  {
+    "id": 54,
+    "en": "Please enter your name.",
+    "vi": "Hãy nhập tên của bạn."
+  },
+  {
+    "id": 55,
+    "en": "Please enter the name of your favorite dish.",
+    "vi": "Hãy nhập tên món ăn yêu thích."
+  },
+  {
+    "id": 56,
+    "en": "Abandon changes?",
+    "vi": "Bỏ thay đổi?"
+  },
+  {
+    "id": 57,
+    "en": "Your mother's specialty is {0}.",
+    "vi": "Món đặc biệt của mẹ ngươi là {0}."
+  },
+  {
+    "id": 100,
+    "en": "Skilled with the sword, warriors specialize in physical attacks and\nboast high defenses. In time, they can grow to master a variety of\noffensive abilities.",
+    "vi": "Tinh thông kiếm thuật, các chiến binh chuyên về tấn công vật lý và\nsở hữu khả năng phòng thủ cao. Theo thời gian, họ có thể thành thạo nhiều\nkỹ năng tấn công khác nhau."
+  },
+  {
+    "id": 101,
+    "en": "Healers who concoct medicines to treat the sick and injured.\nThough apothecaries excel at restoring HP and preventing status\nailments, they can also go on the offensive with their axes.",
+    "vi": "Dược sư, những người bào chế thuốc để chữa trị bệnh tật và thương tích.\nMặc dù họ xuất sắc trong việc hồi phục HP và ngăn ngừa các trạng thái\nbất lợi, họ cũng có thể tấn công bằng rìu của mình."
+  },
+  {
+    "id": 102,
+    "en": "Ruffians who mastered the art of stealing to survive, thieves can take\nall manner of things from their targets, including items, HP, and SP.\nExtremely nimble, they are fleeter of foot than anyone else.",
+    "vi": "Những kẻ du côn đã thành thạo nghệ thuật trộm cắp để sinh tồn, đạo tặc có thể lấy\nmọi thứ từ mục tiêu của mình, bao gồm vật phẩm, HP và SP.\nCực kỳ nhanh nhẹn, họ di chuyển nhanh hơn bất kỳ ai khác."
+  },
+  {
+    "id": 103,
+    "en": "Ever in the pursuit of knowledge, scholars specialize in powerful\nelemental attacks. Given time, they can harness multiple elements,\nallowing them to skillfully exploit their foes' weaknesses.",
+    "vi": "Luôn theo đuổi tri thức, các học giả chuyên về các đòn tấn công nguyên tố\nmạnh mẽ. Theo thời gian, họ có thể điều khiển nhiều nguyên tố,\ncho phép họ khéo léo khai thác điểm yếu của kẻ thù."
+  },
+  {
+    "id": 104,
+    "en": "Servants of the Order of the Sacred Flame. They can use the magic\npowers granted to them by the heavens to safeguard allies and\nvanquish evil foes.",
+    "vi": "Những người phục vụ của Dòng Lửa Thánh. Họ có thể sử dụng sức mạnh\nma thuật được ban tặng bởi thiên đường để bảo vệ đồng minh và\nđánh bại kẻ thù tà ác."
+  },
+  {
+    "id": 105,
+    "en": "Expert trackers who never lose their prey, hunters are adept at\nphysical attacks and inflicting foes with status ailments. They use\ntheir inherent agility to make quick work of their targets.",
+    "vi": "Những thợ săn lão luyện không bao giờ để mất con mồi, họ thành thạo các\nđòn tấn công vật lý và gây ra các trạng thái bất lợi cho kẻ thù. Họ sử dụng\nsự nhanh nhẹn bẩm sinh để nhanh chóng xử lý mục tiêu của mình."
+  },
+  {
+    "id": 106,
+    "en": "Responsible for distributing goods all across Orsterra, merchants\nearn leaves and JP in a variety of ways. They support their allies\nwith polearm or bow in hand.",
+    "vi": "Chịu trách nhiệm phân phối hàng hóa khắp Orsterra, các thương nhân\nkiếm được leaves và JP bằng nhiều cách khác nhau. Họ hỗ trợ đồng minh\nbằng thương hoặc cung trong tay."
+  },
+  {
+    "id": 107,
+    "en": "Dancers are entertainers skilled in both song and dance. Their cheers\nbolster ally stats, and they can use their fan to elegantly dispose of\nenemies.",
+    "vi": "Vũ công là những người giải trí tài năng cả trong ca hát lẫn nhảy múa. Những tiếng cổ vũ của họ tăng cường chỉ số đồng minh, và họ có thể sử dụng quạt của mình để tiêu diệt kẻ địch một cách tao nhã."
+  },
+  {
+    "id": 200,
+    "en": "Attack Skill",
+    "vi": "Kỹ Năng Tấn Công"
+  },
+  {
+    "id": 201,
+    "en": "Recovery Skill",
+    "vi": "Kỹ Năng Hồi Phục"
+  },
+  {
+    "id": 202,
+    "en": "Enfeebling Skill",
+    "vi": "Kỹ Năng Suy Yếu"
+  },
+  {
+    "id": 203,
+    "en": "Attack Skill",
+    "vi": "Kỹ Năng Tấn Công"
+  },
+  {
+    "id": 204,
+    "en": "Recovery Skill",
+    "vi": "Kỹ Năng Hồi Phục"
+  },
+  {
+    "id": 205,
+    "en": "Support Skill",
+    "vi": "Kỹ Năng Hỗ Trợ"
+  },
+  {
+    "id": 5501,
+    "en": "Select a weapon and deal damage to a foe 2 time(s).",
+    "vi": "Chọn một vũ khí và gây sát thương lên một kẻ địch 2 lần."
+  },
+  {
+    "id": 5502,
+    "en": "Grant HP recovery to an ally and restore SP by 10%.",
+    "vi": "Hồi phục HP cho một đồng minh và hồi phục 10% SP."
+  },
+  {
+    "id": 5503,
+    "en": "Lower Phys. Atk. and Phys. Def. of a foe for 2 turn(s).",
+    "vi": "Giảm Sức Tấn Công Vật Lý và Phòng Thủ Vật Lý của một kẻ địch trong 2 lượt."
+  },
+  {
+    "id": 4501,
+    "en": "You wanted to learn how to fight as a member of the watch.\nSo your father, the watch captain, taught you how to strike\ndown enemies.",
+    "vi": "Ngươi muốn học cách chiến đấu như một thành viên của đội tuần tra.\nVì vậy, cha ngươi, đội trưởng đội tuần tra, đã dạy ngươi cách hạ gục kẻ địch."
+  },
+  {
+    "id": 4502,
+    "en": "You wanted to learn how to heal the injured. So your mother,\na former cleric, taught you how to ease the pain of others.",
+    "vi": "Ngươi muốn học cách chữa lành cho những người bị thương. Vì vậy, mẹ ngươi,\nmột cựu giáo sĩ, đã dạy ngươi cách xoa dịu nỗi đau của người khác."
+  },
+  {
+    "id": 4503,
+    "en": "You showed a great interest in architecture. So the local carpenter\ntaught you about everything you needed to know about structures.",
+    "vi": "Ngươi đã thể hiện sự quan tâm lớn đến kiến trúc. Vì vậy, người thợ mộc địa phương\nđã dạy ngươi mọi thứ cần biết về các công trình."
+  },
+  {
+    "id": 5601,
+    "en": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Phys. Atk. +5%",
+    "vi": "Ban các hiệu ứng sau trong 15 lượt:\n\n- HP Tối Đa/SP Tối Đa +10%\n- Sức Tấn Công Vật Lý +5%"
+  },
+  {
+    "id": 5602,
+    "en": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Phys. Def. +5%",
+    "vi": "Ban các hiệu ứng sau trong 15 lượt:\n\n- HP Tối Đa/SP Tối Đa +10%\n- Phòng Thủ Vật Lý +5%"
+  },
+  {
+    "id": 5603,
+    "en": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Crit. +5%",
+    "vi": "Ban các hiệu ứng sau trong 15 lượt:\n\n- HP Tối Đa/SP Tối Đa +10%\n- Chí Mạng +5%"
+  },
+  {
+    "id": 5604,
+    "en": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Accuracy +5%",
+    "vi": "Ban các hiệu ứng sau trong 15 lượt:\n\n- HP Tối Đa/SP Tối Đa +10%\n- Chính Xác +5%"
+  },
+  {
+    "id": 5605,
+    "en": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Speed +5%",
+    "vi": "Ban các hiệu ứng sau trong 15 lượt:\n\n- HP Tối Đa/SP Tối Đa +10%\n- Tốc Độ +5%"
+  },
+  {
+    "id": 5606,
+    "en": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Elem. Def. +5%",
+    "vi": "Ban các hiệu ứng sau trong 15 lượt:\n\n- HP Tối Đa/SP Tối Đa +10%\n- Phòng Thủ Nguyên Tố +5%"
+  },
+  {
+    "id": 5607,
+    "en": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Elem. Atk. +5%",
+    "vi": "Ban các hiệu ứng sau trong 15 lượt:\n\n- HP Tối Đa/SP Tối Đa +10%\n- Sức Tấn Công Nguyên Tố +5%"
+  },
+  {
+    "id": 5608,
+    "en": "Grants the following effects for 15 turns:\n\n- Max. HP/Max. SP +10%\n- Evasion +5%",
+    "vi": "Ban các hiệu ứng sau trong 15 lượt:\n\n- HP Tối Đa/SP Tối Đa +10%\n- Né Tránh +5%"
+  },
+  {
+    "id": 4601,
+    "en": "A grilled beef dish that fills you with strength.",
+    "vi": "Một món bò nướng giúp ngươi tràn đầy sức mạnh."
+  },
+  {
+    "id": 4602,
+    "en": "A light snack that gives you a boost of energy.",
+    "vi": "Một món ăn nhẹ giúp ngươi tăng cường năng lượng."
+  },
+  {
+    "id": 4603,
+    "en": "A simmered lamb dish that bolsters your strength in a pinch.",
+    "vi": "Một món cừu hầm giúp tăng cường sức mạnh của ngươi trong lúc nguy cấp."
+  },
+  {
+    "id": 4604,
+    "en": "A chicken dish that enhances your concentration.",
+    "vi": "Một món gà giúp tăng cường sự tập trung của ngươi."
+  },
+  {
+    "id": 4605,
+    "en": "A noodle dish that can be slurped down quickly.",
+    "vi": "Một món mì có thể húp nhanh chóng."
+  },
+  {
+    "id": 4606,
+    "en": "A stewed vegetable dish that leaves you invigorated.",
+    "vi": "Một món rau hầm giúp ngươi cảm thấy sảng khoái."
+  },
+  {
+    "id": 4607,
+    "en": "A grilled fish dish that clears your head.",
+    "vi": "Một món cá nướng giúp đầu óc ngươi minh mẫn."
+  },
+  {
+    "id": 4608,
+    "en": "An eye-catching assortment of ingredients.",
+    "vi": "Một sự kết hợp nguyên liệu bắt mắt."
+  },
+  {
+    "id": 5701,
+    "en": "Elem. Atk. +10%",
+    "vi": "Sức Tấn Công Nguyên Tố +10%"
+  },
+  {
+    "id": 5702,
+    "en": "Phys. Atk. +10%",
+    "vi": "Sức Tấn Công Vật Lý +10%"
+  },
+  {
+    "id": 5703,
+    "en": "Phys. Def. +10%\nElem. Def. +10%",
+    "vi": "Phòng Thủ Vật Lý +10%\nPhòng Thủ Nguyên Tố +10%"
+  },
+  {
+    "id": 5704,
+    "en": "A key engraved with the crest of a dagger.",
+    "vi": "Một chiếc chìa khóa khắc hình huy hiệu dao găm."
+  },
+  {
+    "id": 5705,
+    "en": "A fragment of a letter. Its content cannot be deciphered.",
+    "vi": "Một mảnh thư. Nội dung của nó không thể giải mã."
+  },
+  {
+    "id": 5706,
+    "en": "Grants the following effects for 15 turns:\n- Elem. Def. +20%/Phys. Def. +15%\n- Fire/Ice/Lightning/Wind Resistance +15%",
+    "vi": "Ban các hiệu ứng sau trong 15 lượt:\n- Phòng Thủ Nguyên Tố +20%/Phòng Thủ Vật Lý +15%\n- Kháng Lửa/Băng/Sét/Gió +15%"
+  },
+  {
+    "id": 5707,
+    "en": "Greatly increases maximum HP.",
+    "vi": "Tăng đáng kể HP tối đa."
+  },
+  {
+    "id": 5708,
+    "en": "A mushroom bed that can be maintained to yield a harvest of\nmushrooms at a later date.",
+    "vi": "Một luống nấm có thể được chăm sóc để thu hoạch nấm vào một ngày sau đó."
+  },
+  {
+    "id": 4701,
+    "en": "A bracelet you received several years back on the Day of Reverence.\nIt was made by your childhood friend, Stia, who has one just like it.",
+    "vi": "Một chiếc vòng tay ngươi nhận được vài năm trước vào Ngày Tôn Kính.\nNó được làm bởi người bạn thời thơ ấu của ngươi, Stia, người cũng có một chiếc giống hệt."
+  },
+  {
+    "id": 4702,
+    "en": "A wristband given to you by senior watchman Phenn. Apparently,\nyou're supposed to wear it when you want to get fired up.",
+    "vi": "Một chiếc băng tay được tặng cho ngươi bởi đội trưởng tuần tra Phenn. Rõ ràng,\nngươi nên đeo nó khi muốn bùng cháy."
+  },
+  {
+    "id": 4703,
+    "en": "A talisman gifted to you by Deacon Laurana after you fell and\ninjured yourself. It carries the blessing of the Sacred Flame.",
+    "vi": "Một lá bùa được tặng cho ngươi bởi Phó Tế Laurana sau khi ngươi ngã và\ntự làm mình bị thương. Nó mang theo phước lành của Ngọn Lửa Thiêng."
+  },
+  {
+    "id": 4704,
+    "en": "A key you picked up in the town square when you were a child.\nRumor has it that a certain warrior is looking for this key.",
+    "vi": "Một chiếc chìa khóa ngươi nhặt được ở quảng trường thị trấn khi còn nhỏ.\nTin đồn cho rằng một chiến binh nào đó đang tìm kiếm chiếc chìa khóa này."
+  },
+  {
+    "id": 4705,
+    "en": "You vaguely remember receiving this from a mysterious kitten\nwhen you were very young.",
+    "vi": "Ngươi mơ hồ nhớ đã nhận được thứ này từ một chú mèo con bí ẩn\nkhi ngươi còn rất nhỏ."
+  },
+  {
+    "id": 4706,
+    "en": "A dish favored by a once-famous actor whose whereabouts are\ncurrently unknown.",
+    "vi": "Một món ăn yêu thích của một diễn viên từng nổi tiếng\nmà tung tích hiện tại không rõ."
+  },
+  {
+    "id": 4707,
+    "en": "Special nuts given to you by the vegetable-loving Basil.\nThey were simply too precious for you to eat.",
+    "vi": "Những hạt đặc biệt được tặng cho ngươi bởi Basil yêu rau củ.\nChúng đơn giản là quá quý giá để ngươi ăn."
+  },
+  {
+    "id": 4708,
+    "en": "A bed of mushrooms entrusted to you by a traveler from Emberglow\nlong ago. Apparently, they're a local specialty.",
+    "vi": "Một luống nấm được một lữ khách từ Emberglow giao phó cho ngươi từ lâu.\nRõ ràng, chúng là một đặc sản địa phương."
+  },
+  {
+    "id": 5801,
+    "en": "50% chance to counter physical attacks.",
+    "vi": "50% cơ hội phản công các đòn tấn công vật lý."
+  },
+  {
+    "id": 5802,
+    "en": "Raise the amount restored by the equipped character's HP/SP recovery skills.",
+    "vi": "Tăng lượng hồi phục từ các kỹ năng hồi phục HP/SP của nhân vật được trang bị."
+  },
+  {
+    "id": 5803,
+    "en": "The equipped character will restore 2 BP when near death.",
+    "vi": "Nhân vật được trang bị sẽ hồi phục 2 BP khi gần tử vong."
+  },
+  {
+    "id": 4801,
+    "en": "You devised this skill to fight back against tyranny while remembering\nthe carnage from that day.",
+    "vi": "Ngươi đã nghĩ ra kỹ năng này để chống lại sự chuyên chế trong khi vẫn nhớ về cuộc tàn sát từ ngày đó."
+  },
+  {
+    "id": 4802,
+    "en": "You learned all you could about healing, and acquired ways to\nefficiently rejuvenate both body and spirit.",
+    "vi": "Ngươi đã học tất cả những gì có thể về chữa lành, và tìm ra cách để\ntái tạo hiệu quả cả thể chất lẫn tinh thần."
+  },
+  {
+    "id": 4803,
+    "en": "While scrounging for food in the forest, you learned ways to survive\nin even the harshest conditions.",
+    "vi": "Trong khi tìm kiếm thức ăn trong rừng, ngươi đã học được cách sinh tồn\nngay cả trong những điều kiện khắc nghiệt nhất."
+  }
+]

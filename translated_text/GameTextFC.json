@@ -38,7 +38,7 @@
   {
     "id": 19583,
     "en": "Archbishop Josef",
-    "vi": "Archbishop Josef",
+    "vi": "Tổng giám mục Josef",
     "api_translated": true
   },
   {
@@ -182,7 +182,7 @@
   {
     "id": 4437,
     "en": "Father Taigan",
-    "vi": "Father Taigan",
+    "vi": "Cha Taigan",
     "api_translated": true
   },
   {
@@ -218,7 +218,7 @@
   {
     "id": 4895,
     "en": "Hound of Power",
-    "vi": "Hound of Power",
+    "vi": "Săn thú Quyền năng",
     "api_translated": true
   },
   {
@@ -344,7 +344,7 @@
   {
     "id": 4375,
     "en": "Bishop Timov",
-    "vi": "Bishop Timov",
+    "vi": "Giám mục Timov",
     "api_translated": true
   },
   {
@@ -416,7 +416,7 @@
   {
     "id": 13223,
     "en": "Flower Girl",
-    "vi": "Flower Girl",
+    "vi": "Cô bé bán hoa",
     "api_translated": true
   },
   {
@@ -524,7 +524,7 @@
   {
     "id": 14022,
     "en": "Father Monaris",
-    "vi": "Father Monaris",
+    "vi": "Cha xứ Monaris",
     "api_translated": true
   },
   {
@@ -3468,7 +3468,7 @@
   {
     "id": 19558,
     "en": "Hmm?",
-    "vi": "Hmm?",
+    "vi": "Hửm?",
     "api_translated": true
   },
   {
@@ -5120,7 +5120,7 @@
   {
     "id": 3312,
     "en": "Sazantos the Flameguard",
-    "vi": "Sazantos the Flameguard",
+    "vi": "Sazantos, Hộ Vệ Ngọn Lửa",
     "api_translated": true
   },
   {
@@ -5401,7 +5401,7 @@
   {
     "id": 19998,
     "en": "Charles the Traveler",
-    "vi": "Charles the Traveler",
+    "vi": "Charles lữ khách",
     "api_translated": true
   },
   {
@@ -5413,7 +5413,7 @@
   {
     "id": 20024,
     "en": "Trompeur the Merchant",
-    "vi": "Trompeur the Merchant",
+    "vi": "Trompeur thương nhân",
     "api_translated": true
   },
   {
@@ -5425,7 +5425,7 @@
   {
     "id": 20029,
     "en": "Lord Eltrix",
-    "vi": "Lord Eltrix",
+    "vi": "Lãnh chúa Eltrix",
     "api_translated": true
   },
   {
@@ -5437,7 +5437,7 @@
   {
     "id": 19819,
     "en": "Rondo of the Knights Ardante",
-    "vi": "Rondo of the Knights Ardante",
+    "vi": "Rondo của đội hiệp sĩ Ardante",
     "api_translated": true
   },
   {
@@ -5449,7 +5449,7 @@
   {
     "id": 20044,
     "en": "Empress Tatloch",
-    "vi": "Empress Tatloch",
+    "vi": "Nữ hoàng Tatloch",
     "api_translated": true
   },
   {
@@ -5773,7 +5773,7 @@
   {
     "id": 20862,
     "en": "Island Gatekeeper",
-    "vi": "Island Gatekeeper",
+    "vi": "Người gác cổng đảo",
     "api_translated": true
   },
   {
@@ -5797,7 +5797,7 @@
   {
     "id": 7420,
     "en": "G'roha Soldier with No Fight Left",
-    "vi": "G'roha Soldier with No Fight Left",
+    "vi": "Lính G'roha đã mất hết ý chí chiến đấu",
     "api_translated": true
   },
   {
@@ -5833,7 +5833,7 @@
   {
     "id": 7440,
     "en": "Wandering Minstrelcat",
-    "vi": "Wandering Minstrelcat",
+    "vi": "Mèo nghệ sĩ lang thang",
     "api_translated": true
   },
   {
@@ -5869,7 +5869,7 @@
   {
     "id": 7449,
     "en": "Mischievous Kitten",
-    "vi": "Mischievous Kitten",
+    "vi": "Mèo con tinh nghịch",
     "api_translated": true
   },
   {
@@ -5905,7 +5905,7 @@
   {
     "id": 7485,
     "en": "Paw-tender",
-    "vi": "Paw-tender",
+    "vi": "Mèo pha chế",
     "api_translated": true
   },
   {
@@ -5917,7 +5917,7 @@
   {
     "id": 7503,
     "en": "Tavern Kitten",
-    "vi": "Tavern Kitten",
+    "vi": "Mèo quán rượu",
     "api_translated": true
   },
   {
@@ -5953,7 +5953,7 @@
   {
     "id": 7512,
     "en": "Cat Guard",
-    "vi": "Cat Guard",
+    "vi": "Mèo lính gác",
     "api_translated": true
   },
   {
@@ -13194,601 +13194,601 @@
   {
     "id": 5166,
     "en": "I don't have anything to give.",
-    "vi": "I don't have anything to give.",
+    "vi": "Ta chẳng có gì để đưa cho ngươi cả.",
     "api_translated": true
   },
   {
     "id": 5172,
     "en": "Head of the Artisan's Guild",
-    "vi": "Head of the Artisan's Guild",
+    "vi": "Hội trưởng Hội Nghệ nhân",
     "api_translated": true
   },
   {
     "id": 5173,
     "en": "Head of the Artisan's Guild in Emberglow. A doting father to his only daughter, Roxanne, he is determined to rebuild the town as rapidly as possible to protect her.",
-    "vi": "Head of the Artisan's Guild in Emberglow. A doting father to his only daughter, Roxanne, he is determined to rebuild the town as rapidly as possible to protect her.",
+    "vi": "Hội trưởng Hội Nghệ nhân tại Emberglow. Là một người cha hết mực cưng chiều cô con gái duy nhất, Roxanne, ông quyết tâm xây dựng lại thị trấn nhanh nhất có thể để bảo vệ con bé.",
     "api_translated": true
   },
   {
     "id": 5178,
     "en": "Is there something you need?",
-    "vi": "Is there something you need?",
+    "vi": "Ngươi cần gì sao?",
     "api_translated": true
   },
   {
     "id": 20234,
     "en": "Apologies, but I'm working.",
-    "vi": "Apologies, but I'm working.",
+    "vi": "Xin lỗi, ta đang bận làm việc.",
     "api_translated": true
   },
   {
     "id": 5174,
     "en": "You want a piece of me?\nYou got it!",
-    "vi": "You want a piece of me?\nYou got it!",
+    "vi": "Ngươi muốn gây sự với ta ư?\nĐược thôi!",
     "api_translated": true
   },
   {
     "id": 20235,
     "en": "You need my help?\nAll right!",
-    "vi": "You need my help?\nAll right!",
+    "vi": "Ngươi cần ta giúp sao?\nĐược rồi!",
     "api_translated": true
   },
   {
     "id": 5177,
     "en": "You know what? I like you!\nHere, take this!",
-    "vi": "You know what? I like you!\nHere, take this!",
+    "vi": "Biết gì không? Ta thích ngươi đấy!\nĐây, cầm lấy đi!",
     "api_translated": true
   },
   {
     "id": 20236,
     "en": "Sorry, but my job is rebuilding\nthis here town!",
-    "vi": "Sorry, but my job is rebuilding\nthis here town!",
+    "vi": "Xin lỗi, nhưng công việc của ta là xây dựng\nlại cái thị trấn này!",
     "api_translated": true
   },
   {
     "id": 5175,
     "en": "I ain't got nothin' for the likes of you!",
-    "vi": "I ain't got nothin' for the likes of you!",
+    "vi": "Ta không có gì cho hạng người như ngươi đâu!",
     "api_translated": true
   },
   {
     "id": 5181,
     "en": "Hunter Guarding the Town",
-    "vi": "Hunter Guarding the Town",
+    "vi": "Thợ săn canh gác thị trấn",
     "api_translated": true
   },
   {
     "id": 5182,
     "en": "Active in the areas around Emberglow, this hunter used to track down monsters solely to make a living. Since the death of Tytos, she has begun to watch over the town in order to make herself useful.",
-    "vi": "Active in the areas around Emberglow, this hunter used to track down monsters solely to make a living. Since the death of Tytos, she has begun to watch over the town in order to make herself useful.",
+    "vi": "Hoạt động tại các khu vực quanh Emberglow, nữ thợ săn này từng săn lùng quái vật chỉ để kiếm sống. Kể từ cái chết của Tytos, cô bắt đầu canh giữ thị trấn để khiến bản thân trở nên hữu ích.",
     "api_translated": true
   },
   {
     "id": 5187,
     "en": "Is there something you're curious\nabout?",
-    "vi": "Is there something you're curious\nabout?",
+    "vi": "Có điều gì khiến ngươi tò mò sao?",
     "api_translated": true
   },
   {
     "id": 20237,
     "en": "I don't trust you.",
-    "vi": "I don't trust you.",
+    "vi": "Ta không tin tưởng ngươi.",
     "api_translated": true
   },
   {
     "id": 5183,
     "en": "I'll show you what I can do.",
-    "vi": "I'll show you what I can do.",
+    "vi": "Ta sẽ cho ngươi thấy những gì ta có thể làm.",
     "api_translated": true
   },
   {
     "id": 5189,
     "en": "Leave the monsters to me!",
-    "vi": "Leave the monsters to me!",
+    "vi": "Cứ để lũ quái vật đó cho ta!",
     "api_translated": true
   },
   {
     "id": 5186,
     "en": "You beat me... Go on, then.\nTake what you will.",
-    "vi": "You beat me... Go on, then.\nTake what you will.",
+    "vi": "Ngươi đánh bại ta rồi... Được thôi, cứ tiếp tục đi.\nMuốn lấy gì thì lấy.",
     "api_translated": true
   },
   {
     "id": 5188,
     "en": "Yes! I win!",
-    "vi": "Yes! I win!",
+    "vi": "Phải! Ta thắng rồi!",
     "api_translated": true
   },
   {
     "id": 5184,
     "en": "I'd say you underestimated me.",
-    "vi": "I'd say you underestimated me.",
+    "vi": "Ta cho rằng ngươi đã đánh giá thấp ta đấy.",
     "api_translated": true
   },
   {
     "id": 5932,
     "en": "Bartender by the Cathedral",
-    "vi": "Bartender by the Cathedral",
+    "vi": "Người pha chế rượu cạnh Nhà thờ",
     "api_translated": true
   },
   {
     "id": 5933,
     "en": "Owner of a bar by the Cathedral of Tytos. Tucked away in an alley, the bar was once a well-kept secret for connoisseurs. But word got out when construction of the cathedral began, and now it seems to get quite a lot of business.",
-    "vi": "Owner of a bar by the Cathedral of Tytos. Tucked away in an alley, the bar was once a well-kept secret for connoisseurs. But word got out when construction of the cathedral began, and now it seems to get quite a lot of business.",
+    "vi": "Chủ một quán bar cạnh Nhà thờ Tytos. Nằm khuất trong một con hẻm, quán bar từng là một bí mật được giữ kín dành cho những người sành sỏi. Nhưng tin đồn đã lan ra khi việc xây dựng nhà thờ bắt đầu, và giờ đây quán có vẻ rất đông khách.",
     "api_translated": true
   },
   {
     "id": 5938,
     "en": "How 'bout a drink?",
-    "vi": "How 'bout a drink?",
+    "vi": "Làm một ly không?",
     "api_translated": true
   },
   {
     "id": 20238,
     "en": "Still getting things ready, sorry.",
-    "vi": "Still getting things ready, sorry.",
+    "vi": "Vẫn đang chuẩn bị mọi thứ, xin lỗi nhé.",
     "api_translated": true
   },
   {
     "id": 5940,
     "en": "Just try not to summon me\nwhen the bar's open.",
-    "vi": "Just try not to summon me\nwhen the bar's open.",
+    "vi": "Đừng có triệu hồi ta\nlúc quán đang mở cửa là được.",
     "api_translated": true
   },
   {
     "id": 5937,
     "en": "Come back any time.",
-    "vi": "Come back any time.",
+    "vi": "Lúc nào rảnh thì quay lại nhé.",
     "api_translated": true
   },
   {
     "id": 5939,
     "en": "I can't leave the bar unattended, can I?",
-    "vi": "I can't leave the bar unattended, can I?",
+    "vi": "Ta không thể bỏ quán mà không có người trông coi được, phải không?",
     "api_translated": true
   },
   {
     "id": 5935,
     "en": "Come for a drink next time.",
-    "vi": "Come for a drink next time.",
+    "vi": "Lần tới hãy ghé làm một ly nhé.",
     "api_translated": true
   },
   {
     "id": 5941,
     "en": "We finally have peace here.\nDon't make too much trouble.",
-    "vi": "We finally have peace here.\nDon't make too much trouble.",
+    "vi": "Cuối cùng chúng ta cũng có được hòa bình ở đây.\nĐừng gây thêm rắc rối gì nữa.",
     "api_translated": true
   },
   {
     "id": 5073,
     "en": "Community-Minded Deacon",
-    "vi": "Community-Minded Deacon",
+    "vi": "Phó tế tận tụy với cộng đồng",
     "api_translated": true
   },
   {
     "id": 5074,
     "en": "A deacon helping to rebuild Emberglow. He goes to great lengths to be of service to the emotionally scarred survivors of the scarlet snow tragedy.",
-    "vi": "A deacon helping to rebuild Emberglow. He goes to great lengths to be of service to the emotionally scarred survivors of the scarlet snow tragedy.",
+    "vi": "Một phó tế đang giúp xây dựng lại Emberglow. Ông luôn nỗ lực hết mình để phục vụ những người sống sót mang đầy vết sẹo tâm hồn sau thảm kịch tuyết đỏ.",
     "api_translated": true
   },
   {
     "id": 5079,
     "en": "If I can be of use...",
-    "vi": "If I can be of use...",
+    "vi": "Nếu ta có thể giúp ích...",
     "api_translated": true
   },
   {
     "id": 20239,
     "en": "I have business to attend to...",
-    "vi": "I have business to attend to...",
+    "vi": "Ta đang có việc bận phải làm...",
     "api_translated": true
   },
   {
     "id": 5081,
     "en": "Anything to help the wounded\nand suffering here.",
-    "vi": "Anything to help the wounded\nand suffering here.",
+    "vi": "Bất cứ điều gì để giúp đỡ những người bị thương\nvà đau khổ ở đây.",
     "api_translated": true
   },
   {
     "id": 5078,
     "en": "If this will help light your path...",
-    "vi": "If this will help light your path...",
+    "vi": "Nếu điều này giúp soi sáng con đường của ngươi...",
     "api_translated": true
   },
   {
     "id": 5080,
     "en": "For now, my place is with the people\nof this town.",
-    "vi": "For now, my place is with the people\nof this town.",
+    "vi": "Hiện tại, vị trí của ta là ở bên cạnh người dân\ncủa thị trấn này.",
     "api_translated": true
   },
   {
     "id": 5076,
     "en": "I doubt I have anything that could\nhelp you.",
-    "vi": "I doubt I have anything that could\nhelp you.",
+    "vi": "Ta nghi ngờ rằng mình có thứ gì đó có thể\ngiúp được ngươi.",
     "api_translated": true
   },
   {
     "id": 5082,
     "en": "Mourning Man",
-    "vi": "Mourning Man",
+    "vi": "Người đàn ông tang thương",
     "api_translated": true
   },
   {
     "id": 5083,
     "en": "A man who grieves for the victims of the scarlet snow. He visits the memorial almost every day to pray for the souls of those who lost their lives to that terrible tragedy, along with the soul of Lord Tytos.",
-    "vi": "A man who grieves for the victims of the scarlet snow. He visits the memorial almost every day to pray for the souls of those who lost their lives to that terrible tragedy, along with the soul of Lord Tytos.",
+    "vi": "Một người đàn ông đau buồn vì các nạn nhân của thảm kịch tuyết đỏ. Ông đến đài tưởng niệm gần như mỗi ngày để cầu nguyện cho linh hồn của những người đã mất mạng trong thảm kịch kinh hoàng đó, cùng với linh hồn của Lãnh chúa Tytos.",
     "api_translated": true
   },
   {
     "id": 5088,
     "en": "Will you pray with me?",
-    "vi": "Will you pray with me?",
+    "vi": "Ngươi sẽ cầu nguyện cùng ta chứ?",
     "api_translated": true
   },
   {
     "id": 20240,
     "en": "I'm praying right now.",
-    "vi": "I'm praying right now.",
+    "vi": "Ta đang cầu nguyện đây.",
     "api_translated": true
   },
   {
     "id": 5090,
     "en": "If this will bring some comfort to\nthose poor departed souls...",
-    "vi": "If this will bring some comfort to\nthose poor departed souls...",
+    "vi": "Nếu điều này mang lại chút an ủi cho\nnhững linh hồn tội nghiệp đã khuất...",
     "api_translated": true
   },
   {
     "id": 5087,
     "en": "If these leavings are of use to you,\nyou're welcome to them.",
-    "vi": "If these leavings are of use to you,\nyou're welcome to them.",
+    "vi": "Nếu những thứ còn sót lại này hữu ích với ngươi,\nthì cứ lấy đi.",
     "api_translated": true
   },
   {
     "id": 5089,
     "en": "I'm in no position to help anybody.",
-    "vi": "I'm in no position to help anybody.",
+    "vi": "Ta không ở vị thế có thể giúp đỡ bất kỳ ai.",
     "api_translated": true
   },
   {
     "id": 5085,
     "en": "I'm afraid I can't help you.",
-    "vi": "I'm afraid I can't help you.",
+    "vi": "Ta e là mình không thể giúp ngươi.",
     "api_translated": true
   },
   {
     "id": 5091,
     "en": "Insomniac",
-    "vi": "Insomniac",
+    "vi": "Người mắc chứng mất ngủ",
     "api_translated": true
   },
   {
     "id": 5092,
     "en": "A man who cannot sleep. When the scarlet snow fell on the town, he was safe at home and avoided harm. Now, however, he lies awake night after night, wracked by survivor's guilt.",
-    "vi": "A man who cannot sleep. When the scarlet snow fell on the town, he was safe at home and avoided harm. Now, however, he lies awake night after night, wracked by survivor's guilt.",
+    "vi": "Một người đàn ông không thể ngủ được. Khi tuyết đỏ rơi xuống thị trấn, anh ta đã an toàn ở nhà và tránh được tai họa. Tuy nhiên, giờ đây, anh ta nằm thao thức đêm này qua đêm khác, bị dày vò bởi cảm giác tội lỗi của người sống sót.",
     "api_translated": true
   },
   {
     "id": 5097,
     "en": "Please listen...",
-    "vi": "Please listen...",
+    "vi": "Làm ơn hãy lắng nghe...",
     "api_translated": true
   },
   {
     "id": 20241,
     "en": "Ugh... My head hurts.\nLeave me alone.",
-    "vi": "Ugh... My head hurts.\nLeave me alone.",
+    "vi": "Ư... Đầu ta đau quá.\nĐể ta yên đi.",
     "api_translated": true
   },
   {
     "id": 5099,
     "en": "Maybe this will be the change I need.",
-    "vi": "Maybe this will be the change I need.",
+    "vi": "Có lẽ đây sẽ là sự thay đổi mà ta cần.",
     "api_translated": true
   },
   {
     "id": 5096,
     "en": "Do with it as you will.",
-    "vi": "Do with it as you will.",
+    "vi": "Ngươi muốn làm gì với nó thì làm.",
     "api_translated": true
   },
   {
     "id": 5098,
     "en": "Leave me alone.\nI just want to sleep.",
-    "vi": "Leave me alone.\nI just want to sleep.",
+    "vi": "Để ta yên.\nTa chỉ muốn ngủ thôi.",
     "api_translated": true
   },
   {
     "id": 5094,
     "en": "This isn't the time for that...",
-    "vi": "This isn't the time for that...",
+    "vi": "Giờ không phải lúc cho việc đó...",
     "api_translated": true
   },
   {
     "id": 5100,
     "en": "Anxious Grandmother",
-    "vi": "Anxious Grandmother",
+    "vi": "Người bà lo âu",
     "api_translated": true
   },
   {
     "id": 5101,
     "en": "An old woman who lost her son in the scarlet snow tragedy and now lives with her granddaughter. Is the smile she always wears to protect her granddaughter from sadness, or to keep her own grief at bay?",
-    "vi": "An old woman who lost her son in the scarlet snow tragedy and now lives with her granddaughter. Is the smile she always wears to protect her granddaughter from sadness, or to keep her own grief at bay?",
+    "vi": "Một bà lão đã mất con trai trong thảm kịch tuyết đỏ và giờ đang sống cùng cháu gái. Nụ cười bà luôn nở trên môi là để bảo vệ cháu gái khỏi nỗi buồn, hay để kìm nén nỗi đau của chính mình?",
     "api_translated": true
   },
   {
     "id": 5106,
     "en": "Oh? What do you want, dearie?",
-    "vi": "Oh? What do you want, dearie?",
+    "vi": "Ồ? Ngươi muốn gì vậy, cháu yêu?",
     "api_translated": true
   },
   {
     "id": 20242,
     "en": "I'm sorry, but I'm busy looking after\nmy granddaughter.",
-    "vi": "I'm sorry, but I'm busy looking after\nmy granddaughter.",
+    "vi": "Ta xin lỗi, nhưng ta đang bận chăm sóc\ncháu gái của mình.",
     "api_translated": true
   },
   {
     "id": 5108,
     "en": "If you can find a use for an old lady\nlike me...",
-    "vi": "If you can find a use for an old lady\nlike me...",
+    "vi": "Nếu ngươi có thể tìm thấy công dụng gì ở một bà lão\nnhư ta...",
     "api_translated": true
   },
   {
     "id": 5105,
     "en": "Take good care of it.",
-    "vi": "Take good care of it.",
+    "vi": "Hãy giữ gìn nó cẩn thận.",
     "api_translated": true
   },
   {
     "id": 5107,
     "en": "I can't leave my little one on her own.",
-    "vi": "I can't leave my little one on her own.",
+    "vi": "Ta không thể để đứa nhỏ ở lại một mình.",
     "api_translated": true
   },
   {
     "id": 5103,
     "en": "Nothing I've got would be any use\nto you.",
-    "vi": "Nothing I've got would be any use\nto you.",
+    "vi": "Những thứ ta có chẳng giúp ích gì được\ncho ngươi cả.",
     "api_translated": true
   },
   {
     "id": 5109,
     "en": "Heartsick Believer",
-    "vi": "Heartsick Believer",
+    "vi": "Tín đồ đau khổ",
     "api_translated": true
   },
   {
     "id": 5110,
     "en": "A devout adherent of the Order of the Sacred Flame who is riven with sorrow over the recent rash of hardships that have befallen not only this town but Orsterra as a whole. She also laments her own inability to do anything but pray.",
-    "vi": "A devout adherent of the Order of the Sacred Flame who is riven with sorrow over the recent rash of hardships that have befallen not only this town but Orsterra as a whole. She also laments her own inability to do anything but pray.",
+    "vi": "Một tín đồ sùng đạo của Hội Thánh Ngọn Lửa Thiêng, người đang bị giằng xé bởi nỗi đau trước hàng loạt nghịch cảnh gần đây đã ập đến không chỉ thị trấn này mà còn cả Orsterra. Bà cũng than khóc vì sự bất lực của bản thân khi chẳng thể làm gì ngoài việc cầu nguyện.",
     "api_translated": true
   },
   {
     "id": 5115,
     "en": "You have something to say?",
-    "vi": "You have something to say?",
+    "vi": "Ngươi có điều gì muốn nói sao?",
     "api_translated": true
   },
   {
     "id": 20243,
     "en": "I cannot help you.",
-    "vi": "I cannot help you.",
+    "vi": "Ta không thể giúp ngươi.",
     "api_translated": true
   },
   {
     "id": 5117,
     "en": "Surely this was ordained by\nthe Sacred Flame.",
-    "vi": "Surely this was ordained by\nthe Sacred Flame.",
+    "vi": "Chắc chắn điều này đã được Ngọn Lửa Thiêng\nđịnh đoạt.",
     "api_translated": true
   },
   {
     "id": 5114,
     "en": "May the Sacred Flame warm you.",
-    "vi": "May the Sacred Flame warm you.",
+    "vi": "Cầu mong Ngọn Lửa Thiêng sưởi ấm cho ngươi.",
     "api_translated": true
   },
   {
     "id": 5116,
     "en": "I must keep praying until the right\npath opens before me again.",
-    "vi": "I must keep praying until the right\npath opens before me again.",
+    "vi": "Ta phải tiếp tục cầu nguyện cho đến khi con đường đúng đắn\nmở ra trước mắt ta một lần nữa.",
     "api_translated": true
   },
   {
     "id": 5112,
     "en": "Please take your leave.",
-    "vi": "Please take your leave.",
+    "vi": "Làm ơn hãy rời đi.",
     "api_translated": true
   },
   {
     "id": 5118,
     "en": "Young Rinyuu Admirer",
-    "vi": "Young Rinyuu Admirer",
+    "vi": "Người hâm mộ Rinyuu trẻ tuổi",
     "api_translated": true
   },
   {
     "id": 5119,
     "en": "After losing his family to the scarlet snow, this boy withdrew into silence. Rinyuu was the first to reach out to him, and with love and care from her and the other churchgoers, he is starting to recover. He idolizes Rinyuu so strongly it borders on fixation.",
-    "vi": "After losing his family to the scarlet snow, this boy withdrew into silence. Rinyuu was the first to reach out to him, and with love and care from her and the other churchgoers, he is starting to recover. He idolizes Rinyuu so strongly it borders on fixation.",
+    "vi": "Sau khi mất gia đình trong thảm kịch tuyết đỏ, cậu bé này đã thu mình vào sự im lặng. Rinyuu là người đầu tiên tiếp cận cậu, và nhờ tình yêu thương cùng sự chăm sóc từ cô và những giáo dân khác, cậu đang dần hồi phục. Cậu sùng bái Rinyuu đến mức gần như bị ám ảnh.",
     "api_translated": true
   },
   {
     "id": 5124,
     "en": "Need something?",
-    "vi": "Need something?",
+    "vi": "Cần gì sao?",
     "api_translated": true
   },
   {
     "id": 20244,
     "en": "What do you want? Go away.",
-    "vi": "What do you want? Go away.",
+    "vi": "Ngươi muốn gì? Đi đi.",
     "api_translated": true
   },
   {
     "id": 5123,
     "en": "Rinyuu says we should be kind\nto others.",
-    "vi": "Rinyuu says we should be kind\nto others.",
+    "vi": "Rinyuu nói chúng ta nên tử tế\nvới người khác.",
     "api_translated": true
   },
   {
     "id": 5121,
     "en": "No! You can't have this!",
-    "vi": "No! You can't have this!",
+    "vi": "Không! Ngươi không được lấy cái này!",
     "api_translated": true
   },
   {
     "id": 5235,
     "en": "Noble Who Lost His Mansion",
-    "vi": "Noble Who Lost His Mansion",
+    "vi": "Quý tộc mất dinh thự",
     "api_translated": true
   },
   {
     "id": 5236,
     "en": "A nobleman who lost everything when his mansion was destroyed by vile monsters. Utterly bereft of religious feeling, he had never even donated to the Order prior. Now, the church has taken him in. Genuine faith still eludes him, but his gratitude to the people of the Order is sincere.",
-    "vi": "A nobleman who lost everything when his mansion was destroyed by vile monsters. Utterly bereft of religious feeling, he had never even donated to the Order prior. Now, the church has taken him in. Genuine faith still eludes him, but his gratitude to the people of the Order is sincere.",
+    "vi": "Một quý tộc đã mất tất cả khi dinh thự của ông bị lũ quái vật hung ác phá hủy. Hoàn toàn không có cảm xúc tôn giáo, ông thậm chí chưa từng quyên góp cho Hội Thánh trước đây. Giờ đây, nhà thờ đã cưu mang ông. Đức tin chân chính vẫn còn xa vời, nhưng lòng biết ơn của ông đối với những người trong Hội Thánh là chân thành.",
     "api_translated": true
   },
   {
     "id": 5241,
     "en": "Will you have compassion on me?",
-    "vi": "Will you have compassion on me?",
+    "vi": "Ngươi có lòng trắc ẩn với ta không?",
     "api_translated": true
   },
   {
     "id": 20245,
     "en": "I'm finished...",
-    "vi": "I'm finished...",
+    "vi": "Ta xong đời rồi...",
     "api_translated": true
   },
   {
     "id": 5243,
     "en": "If there's money involved, I might be\ninterested.",
-    "vi": "If there's money involved, I might be\ninterested.",
+    "vi": "Nếu có tiền bạc liên quan, ta có thể\nquan tâm đấy.",
     "api_translated": true
   },
   {
     "id": 5240,
     "en": "If this is what you need, take it!\nGo on!",
-    "vi": "If this is what you need, take it!\nGo on!",
+    "vi": "Nếu đây là thứ ngươi cần, lấy đi!\nĐi đi!",
     "api_translated": true
   },
   {
     "id": 5242,
     "en": "If it doesn't pay, I'm not interested.",
-    "vi": "If it doesn't pay, I'm not interested.",
+    "vi": "Nếu không có tiền, ta không quan tâm.",
     "api_translated": true
   },
   {
     "id": 5238,
     "en": "Look at me! Do you mean to squeeze\nblood from a stone!?",
-    "vi": "Look at me! Do you mean to squeeze\nblood from a stone!?",
+    "vi": "Nhìn ta xem! Ngươi định vắt\nkiệt máu từ đá đấy à!?",
     "api_translated": true
   },
   {
     "id": 5244,
     "en": "Merchant on Good Terms with the Church",
-    "vi": "Merchant on Good Terms with the Church",
+    "vi": "Thương nhân có mối quan hệ tốt với Hội Thánh",
     "api_translated": true
   },
   {
     "id": 5245,
     "en": "Deeply connected to the church in Flamesgrace, this merchant is currently in Emberglow to get in on the reconstruction project. Even as the incidents pile up and the scent of conspiracy grows more pungent, the merchant simply cannot stop getting more involved. Money talks.",
-    "vi": "Deeply connected to the church in Flamesgrace, this merchant is currently in Emberglow to get in on the reconstruction project. Even as the incidents pile up and the scent of conspiracy grows more pungent, the merchant simply cannot stop getting more involved. Money talks.",
+    "vi": "Có mối liên hệ sâu sắc với nhà thờ ở Flamesgrace, thương nhân này hiện đang ở Emberglow để tham gia vào dự án tái thiết. Ngay cả khi các vụ việc chồng chất và mùi âm mưu ngày càng nồng nặc, người thương nhân này vẫn không thể ngừng dấn thân sâu hơn. Tiền bạc là trên hết.",
     "api_translated": true
   },
   {
     "id": 5250,
     "en": "Is it lucrative?",
-    "vi": "Is it lucrative?",
+    "vi": "Có sinh lời không?",
     "api_translated": true
   },
   {
     "id": 20246,
     "en": "I don't detect even a whiff of leaves\nfrom you.",
-    "vi": "I don't detect even a whiff of leaves\nfrom you.",
+    "vi": "Ta chẳng thấy chút mùi tiền nào\ntừ ngươi cả.",
     "api_translated": true
   },
   {
     "id": 5252,
     "en": "Why not? My business here is\njust about wrapped up.",
-    "vi": "Why not? My business here is\njust about wrapped up.",
+    "vi": "Tại sao không? Công việc kinh doanh của ta ở đây\ngần như đã xong xuôi rồi.",
     "api_translated": true
   },
   {
     "id": 5249,
     "en": "This is your lucky day!\nVirtuous deeds are rewarded, eh?",
-    "vi": "This is your lucky day!\nVirtuous deeds are rewarded, eh?",
+    "vi": "Hôm nay là ngày may mắn của ngươi đấy!\nViệc thiện sẽ được đền đáp, phải không?",
     "api_translated": true
   },
   {
     "id": 5251,
     "en": "Sorry, but I still have some money\nto earn in this town.",
-    "vi": "Sorry, but I still have some money\nto earn in this town.",
+    "vi": "Xin lỗi, nhưng ta vẫn còn một ít tiền\nphải kiếm trong thị trấn này.",
     "api_translated": true
   },
   {
     "id": 5247,
     "en": "Sorry. This is bound for the church.",
-    "vi": "Sorry. This is bound for the church.",
+    "vi": "Xin lỗi. Thứ này là để dành cho nhà thờ.",
     "api_translated": true
   },
   {
     "id": 5190,
     "en": "Cathedral Guard Captain",
-    "vi": "Cathedral Guard Captain",
+    "vi": "Đội trưởng Đội cận vệ Nhà thờ",
     "api_translated": true
   },
   {
     "id": 5191,
     "en": "The head of the Cathedral Guard, he dreamed of working under Tytos, the hero, since hearing the tale of how he drove the barbarians out. That dream will never come true now, but he remains determined to protect this cathedral as his hero's final legacy.",
-    "vi": "The head of the Cathedral Guard, he dreamed of working under Tytos, the hero, since hearing the tale of how he drove the barbarians out. That dream will never come true now, but he remains determined to protect this cathedral as his hero's final legacy.",
+    "vi": "Người đứng đầu Đội cận vệ Nhà thờ, anh đã mơ ước được làm việc dưới quyền Tytos, vị anh hùng, kể từ khi nghe câu chuyện về cách ông đánh đuổi những kẻ man di. Giấc mơ đó giờ sẽ không bao giờ thành hiện thực, nhưng anh vẫn quyết tâm bảo vệ nhà thờ này như di sản cuối cùng của vị anh hùng của mình.",
     "api_translated": true
   },
   {
     "id": 5196,
     "en": "Is there a crisis that needs handling!?",
-    "vi": "Is there a crisis that needs handling!?",
+    "vi": "Có cuộc khủng hoảng nào cần giải quyết không!?",
     "api_translated": true
   },
   {
     "id": 20247,
     "en": "I cannot answer that while I'm on duty!",
-    "vi": "I cannot answer that while I'm on duty!",
+    "vi": "Ta không thể trả lời điều đó khi đang làm nhiệm vụ!",
     "api_translated": true
   },
   {
     "id": 5192,
     "en": "Not this cathedral, not on my watch!",
-    "vi": "Not this cathedral, not on my watch!",
+    "vi": "Không phải nhà thờ này, không phải dưới sự canh gác của ta!",
     "api_translated": true
   },
   {
     "id": 5198,
     "en": "I'm sure Lord Tytos would permit it.",
-    "vi": "I'm sure Lord Tytos would permit it.",
+    "vi": "Ta chắc rằng Ngài Tytos sẽ cho phép điều đó.",
     "api_translated": true
   },
   {
     "id": 5195,
     "en": "I suppose I can trust you with this.",
-    "vi": "I suppose I can trust you with this.",
+    "vi": "Ta cho rằng mình có thể tin tưởng ngươi với việc này.",
     "api_translated": true
   },
   {
     "id": 5197,
     "en": "Lord Tytos! Were you watching me!?",
-    "vi": "Lord Tytos! Were you watching me!?",
+    "vi": "Ngài Tytos! Có phải ngài đang dõi theo ta không!?",
     "api_translated": true
   },
   {
     "id": 5193,
     "en": "I can't just hand this over!",
-    "vi": "I can't just hand this over!",
+    "vi": "Ta không thể cứ thế giao thứ này đi được!",
     "api_translated": true
   },
   {
     "id": 5127,
     "en": "Jumpy Parishioner",
-    "vi": "Jumpy Parishioner",
+    "vi": "Giáo dân hay lo lắng",
     "api_translated": true
   },
   {
@@ -28792,193 +28792,193 @@
   {
     "id": 7987,
     "en": "Stop it...",
-    "vi": "Stop it...",
+    "vi": "Dừng lại đi...",
     "api_translated": true
   },
   {
     "id": 7989,
     "en": "If it is any use to you, you are welcome\nto it...",
-    "vi": "If it is any use to you, you are welcome\nto it...",
+    "vi": "Nếu nó có ích cho ngươi, cứ lấy đi...",
     "api_translated": true
   },
   {
     "id": 7990,
     "en": "I need leaves...a job...",
-    "vi": "I need leaves...a job...",
+    "vi": "Ta cần tiền... một công việc...",
     "api_translated": true
   },
   {
     "id": 7988,
     "en": "Don't you...pity me...",
-    "vi": "Don't you...pity me...",
+    "vi": "Đừng có... thương hại ta...",
     "api_translated": true
   },
   {
     "id": 7991,
     "en": "Your violence is unwelcome here!",
-    "vi": "Your violence is unwelcome here!",
+    "vi": "Sự bạo lực của ngươi không được chào đón ở đây!",
     "api_translated": true
   },
   {
     "id": 7992,
     "en": "I will accompany you...",
-    "vi": "I will accompany you...",
+    "vi": "Ta sẽ đồng hành cùng ngươi...",
     "api_translated": true
   },
   {
     "id": 7993,
     "en": "Man Back from the Mines",
-    "vi": "Man Back from the Mines",
+    "vi": "Người đàn ông trở về từ mỏ",
     "api_translated": true
   },
   {
     "id": 7994,
     "en": "[Cause of death: Illness]\nA man who went to Quarrycrest to work in the mines. He was lucky enough to strike a seam of gold ore and send money back home. However, the dust he inhaled while mining accumulated in his lungs and gave him a terminal condition.",
-    "vi": "[Cause of death: Illness]\nA man who went to Quarrycrest to work in the mines. He was lucky enough to strike a seam of gold ore and send money back home. However, the dust he inhaled while mining accumulated in his lungs and gave him a terminal condition.",
+    "vi": "[Nguyên nhân cái chết: Bệnh tật]\nMột người đàn ông đến Quarrycrest để làm việc trong các hầm mỏ. Anh ta may mắn tìm thấy một vỉa quặng vàng và gửi tiền về nhà. Tuy nhiên, bụi anh ta hít phải trong quá trình khai thác đã tích tụ trong phổi và gây ra căn bệnh nan y.",
     "api_translated": true
   },
   {
     "id": 7996,
     "en": "*cough* *cough*",
-    "vi": "*cough* *cough*",
+    "vi": "*khụ* *khụ*",
     "api_translated": true
   },
   {
     "id": 7998,
     "en": "I dug this up myself...\nThe mines, you know...",
-    "vi": "I dug this up myself...\nThe mines, you know...",
+    "vi": "Ta tự mình đào được thứ này đấy...\nTrong hầm mỏ, ngươi biết đấy...",
     "api_translated": true
   },
   {
     "id": 7999,
     "en": "I struck gold...",
-    "vi": "I struck gold...",
+    "vi": "Ta đã tìm thấy vàng...",
     "api_translated": true
   },
   {
     "id": 7997,
     "en": "My ore will never...be yours...",
-    "vi": "My ore will never...be yours...",
+    "vi": "Quặng của ta sẽ không bao giờ... thuộc về ngươi...",
     "api_translated": true
   },
   {
     "id": 8000,
     "en": "*cough* *cough*...\n*cough*",
-    "vi": "*cough* *cough*...\n*cough*",
+    "vi": "*khụ* *khụ*...\n*khụ*",
     "api_translated": true
   },
   {
     "id": 8001,
     "en": "Clean air...\nThat's all I ask...",
-    "vi": "Clean air...\nThat's all I ask...",
+    "vi": "Không khí trong lành...\nĐó là tất cả những gì ta cầu xin...",
     "api_translated": true
   },
   {
     "id": 7939,
     "en": "Knowledgeable Apothecary",
-    "vi": "Knowledgeable Apothecary",
+    "vi": "Dược sĩ uyên bác",
     "api_translated": true
   },
   {
     "id": 7940,
     "en": "[Cause of death: Assassination]\nAn apothecary from the reign of Pardis II. He was approached by Prince Osasuna and tasked with the creation of a highly poisonous concoction. In return, he was promised a role in the castle, but upon completing the task, he was taken to the slums and silenced.",
-    "vi": "[Cause of death: Assassination]\nAn apothecary from the reign of Pardis II. He was approached by Prince Osasuna and tasked with the creation of a highly poisonous concoction. In return, he was promised a role in the castle, but upon completing the task, he was taken to the slums and silenced.",
+    "vi": "[Nguyên nhân cái chết: Ám sát]\nMột dược sĩ dưới triều đại Pardis II. Anh ta được Hoàng tử Osasuna tiếp cận và giao nhiệm vụ chế tạo một loại độc dược cực mạnh. Đổi lại, anh ta được hứa hẹn một vị trí trong lâu đài, nhưng sau khi hoàn thành nhiệm vụ, anh ta bị đưa đến khu ổ chuột và bị thủ tiêu.",
     "api_translated": true
   },
   {
     "id": 7941,
     "en": "Even medicine can be poison in\nthe wrong hands.",
-    "vi": "Even medicine can be poison in\nthe wrong hands.",
+    "vi": "Ngay cả thuốc cũng có thể trở thành thuốc độc trong tay kẻ xấu.",
     "api_translated": true
   },
   {
     "id": 7942,
     "en": "No. This I cannot give you.",
-    "vi": "No. This I cannot give you.",
+    "vi": "Không. Thứ này ta không thể đưa cho ngươi.",
     "api_translated": true
   },
   {
     "id": 7944,
     "en": "Take this and let me be...",
-    "vi": "Take this and let me be...",
+    "vi": "Cầm lấy thứ này rồi để ta yên...",
     "api_translated": true
   },
   {
     "id": 7945,
     "en": "I was promised...a reward...",
-    "vi": "I was promised...a reward...",
+    "vi": "Ta đã được hứa hẹn... một phần thưởng...",
     "api_translated": true
   },
   {
     "id": 7943,
     "en": "I cannot tell anyone...",
-    "vi": "I cannot tell anyone...",
+    "vi": "Ta không thể nói với bất kỳ ai...",
     "api_translated": true
   },
   {
     "id": 7946,
     "en": "Dying... All of them, dead or dying...",
-    "vi": "Dying... All of them, dead or dying...",
+    "vi": "Chết chóc... Tất cả bọn họ, đã chết hoặc đang hấp hối...",
     "api_translated": true
   },
   {
     "id": 7947,
     "en": "You have use for me...?",
-    "vi": "You have use for me...?",
+    "vi": "Ngươi có việc cần đến ta sao...?",
     "api_translated": true
   },
   {
     "id": 7894,
     "en": "Ferian Official",
-    "vi": "Ferian Official",
+    "vi": "Quan chức Ferian",
     "api_translated": true
   },
   {
     "id": 7895,
     "en": "[Cause of death: Illness]\nAn official of Ferian, a kingdom that fell four centuries ago. At the time, the Cliftlands were a mere subject province of Ferian, which greedily mined them for resources. Seeing the poverty this created, he petitioned for more merciful governance, but the king banished him, and he threw in his lot with the poor and downtrodden.",
-    "vi": "[Cause of death: Illness]\nAn official of Ferian, a kingdom that fell four centuries ago. At the time, the Cliftlands were a mere subject province of Ferian, which greedily mined them for resources. Seeing the poverty this created, he petitioned for more merciful governance, but the king banished him, and he threw in his lot with the poor and downtrodden.",
+    "vi": "[Nguyên nhân cái chết: Bệnh tật]\nMột quan chức của Ferian, một vương quốc đã sụp đổ bốn thế kỷ trước. Vào thời điểm đó, Cliftlands chỉ là một tỉnh chư hầu của Ferian, nơi bị khai thác tài nguyên một cách tham lam. Chứng kiến cảnh nghèo đói mà điều này gây ra, ông đã kiến nghị về một sự cai trị nhân từ hơn, nhưng nhà vua đã trục xuất ông, và ông đã chọn đứng về phía những người nghèo khổ và bị áp bức.",
     "api_translated": true
   },
   {
     "id": 7897,
     "en": "I cannot let you have this.",
-    "vi": "I cannot let you have this.",
+    "vi": "Ta không thể để ngươi lấy thứ này.",
     "api_translated": true
   },
   {
     "id": 7899,
     "en": "Share it with the poor and\ndowntrodden.",
-    "vi": "Share it with the poor and\ndowntrodden.",
+    "vi": "Hãy chia sẻ nó với những người nghèo khổ và bị áp bức.",
     "api_translated": true
   },
   {
     "id": 7900,
     "en": "Please listen...",
-    "vi": "Please listen...",
+    "vi": "Xin hãy lắng nghe...",
     "api_translated": true
   },
   {
     "id": 7898,
     "en": "Words...are meaningless...",
-    "vi": "Words...are meaningless...",
+    "vi": "Lời nói... thật vô nghĩa...",
     "api_translated": true
   },
   {
     "id": 7901,
     "en": "Nay. This is where I belong now.",
-    "vi": "Nay. This is where I belong now.",
+    "vi": "Không. Đây mới là nơi ta thuộc về.",
     "api_translated": true
   },
   {
     "id": 7902,
     "en": "You would lead me away from\nthis place?",
-    "vi": "You would lead me away from\nthis place?",
+    "vi": "Ngươi muốn dẫn ta rời khỏi nơi này sao?",
     "api_translated": true
   },
   {
     "id": 8224,
     "en": "Innkeeper",
-    "vi": "Innkeeper",
+    "vi": "Chủ quán trọ",
     "api_translated": true
   },
   {
@@ -28990,91 +28990,91 @@
   {
     "id": 8243,
     "en": "[Cause of death: Incineration]\nAn entirely ordinary citizen of Valore. With the city cut off from supply lines, he stabbed a friend for the sake of his family. However, he was burned to death in the riots that broke out after.",
-    "vi": "[Cause of death: Incineration]\nAn entirely ordinary citizen of Valore. With the city cut off from supply lines, he stabbed a friend for the sake of his family. However, he was burned to death in the riots that broke out after.",
+    "vi": "[Nguyên nhân cái chết: Thiêu sống]\nMột công dân hoàn toàn bình thường ở Valore. Khi thành phố bị cắt đứt nguồn cung ứng, anh ta đã đâm một người bạn vì gia đình mình. Tuy nhiên, anh ta đã bị thiêu chết trong các cuộc bạo loạn nổ ra sau đó.",
     "api_translated": true
   },
   {
     "id": 8245,
     "en": "Sorry, but I can't help you...",
-    "vi": "Sorry, but I can't help you...",
+    "vi": "Xin lỗi, nhưng ta không thể giúp ngươi...",
     "api_translated": true
   },
   {
     "id": 8247,
     "en": "I feel like I can trust you...to make\nproper use of it...",
-    "vi": "I feel like I can trust you...to make\nproper use of it...",
+    "vi": "Ta cảm thấy mình có thể tin tưởng ngươi... để sử dụng nó đúng cách...",
     "api_translated": true
   },
   {
     "id": 8248,
     "en": "I need to talk...to someone...",
-    "vi": "I need to talk...to someone...",
+    "vi": "Ta cần nói chuyện... với ai đó...",
     "api_translated": true
   },
   {
     "id": 8246,
     "en": "I...can't remember...",
-    "vi": "I...can't remember...",
+    "vi": "Ta... không thể nhớ nổi...",
     "api_translated": true
   },
   {
     "id": 8249,
     "en": "No... I don't want to hurt anyone else...",
-    "vi": "No... I don't want to hurt anyone else...",
+    "vi": "Không... Ta không muốn làm tổn thương bất kỳ ai nữa...",
     "api_translated": true
   },
   {
     "id": 8250,
     "en": "Maybe this'll be my atonement...",
-    "vi": "Maybe this'll be my atonement...",
+    "vi": "Có lẽ đây sẽ là sự chuộc lỗi của ta...",
     "api_translated": true
   },
   {
     "id": 8251,
     "en": "Ambitious Merchant",
-    "vi": "Ambitious Merchant",
+    "vi": "Thương nhân đầy tham vọng",
     "api_translated": true
   },
   {
     "id": 8252,
     "en": "[Cause of death: Poisoning]\nA merchant who made a fortune in agricultural speculation. Born a poor farmer, she admired Herminia's success and mimicked her ways. This ended up making her a rival to her hero.",
-    "vi": "[Cause of death: Poisoning]\nA merchant who made a fortune in agricultural speculation. Born a poor farmer, she admired Herminia's success and mimicked her ways. This ended up making her a rival to her hero.",
+    "vi": "[Nguyên nhân cái chết: Ngộ độc]\nMột thương nhân đã làm giàu nhờ đầu cơ nông nghiệp. Xuất thân là một nông dân nghèo, cô ngưỡng mộ sự thành công của Herminia và bắt chước cách làm của bà. Điều này cuối cùng đã khiến cô trở thành đối thủ của thần tượng mình.",
     "api_translated": true
   },
   {
     "id": 8254,
     "en": "Not much of a head for business,\nI see...",
-    "vi": "Not much of a head for business,\nI see...",
+    "vi": "Có vẻ ngươi không có đầu óc kinh doanh cho lắm...",
     "api_translated": true
   },
   {
     "id": 8256,
     "en": "A square deal...",
-    "vi": "A square deal...",
+    "vi": "Một thỏa thuận công bằng...",
     "api_translated": true
   },
   {
     "id": 8257,
     "en": "Let us dream...together...",
-    "vi": "Let us dream...together...",
+    "vi": "Hãy cùng nhau... mơ mộng...",
     "api_translated": true
   },
   {
     "id": 8255,
     "en": "I want to keep dreaming...",
-    "vi": "I want to keep dreaming...",
+    "vi": "Ta muốn tiếp tục mơ...",
     "api_translated": true
   },
   {
     "id": 8258,
     "en": "You lack panache...",
-    "vi": "You lack panache...",
+    "vi": "Ngươi thiếu đi sự tinh tế...",
     "api_translated": true
   },
   {
     "id": 8259,
     "en": "I'm taking a shine to you.",
-    "vi": "I'm taking a shine to you.",
+    "vi": "Ta bắt đầu thấy thích ngươi rồi đấy.",
     "api_translated": true
   },
   {
@@ -29086,133 +29086,133 @@
   {
     "id": 8207,
     "en": "[Cause of death: Strangulation]\nA former arena champ. After arguing over a fight's winnings, he beat the promoter to death, fled to Valore, and became a syndicate bodyguard. His prodigious strength made him the first target for a rival organization.",
-    "vi": "[Cause of death: Strangulation]\nA former arena champ. After arguing over a fight's winnings, he beat the promoter to death, fled to Valore, and became a syndicate bodyguard. His prodigious strength made him the first target for a rival organization.",
+    "vi": "[Nguyên nhân cái chết: Bóp cổ]\nMột cựu vô địch đấu trường. Sau khi tranh cãi về tiền thưởng của một trận đấu, hắn đã đánh chết người tổ chức, bỏ trốn đến Valore và trở thành vệ sĩ cho một tổ chức tội phạm. Sức mạnh phi thường của hắn đã khiến hắn trở thành mục tiêu đầu tiên của một tổ chức đối thủ.",
     "api_translated": true
   },
   {
     "id": 8208,
     "en": "I'll show you...what a real champ\ncan do!",
-    "vi": "I'll show you...what a real champ\ncan do!",
+    "vi": "Ta sẽ cho ngươi thấy... một nhà vô địch thực thụ\ncó thể làm được gì!",
     "api_translated": true
   },
   {
     "id": 8209,
     "en": "Test me again when you're ready...",
-    "vi": "Test me again when you're ready...",
+    "vi": "Hãy thử thách ta lần nữa khi ngươi đã sẵn sàng...",
     "api_translated": true
   },
   {
     "id": 8211,
     "en": "Your might is impressive...",
-    "vi": "Your might is impressive...",
+    "vi": "Sức mạnh của ngươi thật ấn tượng...",
     "api_translated": true
   },
   {
     "id": 8212,
     "en": "I...am the champ...",
-    "vi": "I...am the champ...",
+    "vi": "Ta... là nhà vô địch...",
     "api_translated": true
   },
   {
     "id": 8210,
     "en": "Know your place...",
-    "vi": "Know your place...",
+    "vi": "Hãy biết vị trí của mình đi...",
     "api_translated": true
   },
   {
     "id": 8213,
     "en": "You're not helping your case...",
-    "vi": "You're not helping your case...",
+    "vi": "Ngươi chẳng giúp ích gì cho bản thân đâu...",
     "api_translated": true
   },
   {
     "id": 8214,
     "en": "You'll be the next champ...\nI can feel it...",
-    "vi": "You'll be the next champ...\nI can feel it...",
+    "vi": "Ngươi sẽ là nhà vô địch tiếp theo...\nTa có thể cảm nhận được điều đó...",
     "api_translated": true
   },
   {
     "id": 8160,
     "en": "Lord Taviani",
-    "vi": "Lord Taviani",
+    "vi": "Lãnh chúa Taviani",
     "api_translated": true
   },
   {
     "id": 8161,
     "en": "[Cause of death: Assassination]\nSlain by one of Herminia's assassins while attempting to kill her. Losing his beloved Valore was more than he could bear, and he still protects his turf even in death.",
-    "vi": "[Cause of death: Assassination]\nSlain by one of Herminia's assassins while attempting to kill her. Losing his beloved Valore was more than he could bear, and he still protects his turf even in death.",
+    "vi": "[Nguyên nhân cái chết: Ám sát]\nBị một trong những sát thủ của Herminia giết khi đang cố gắng ám sát bà ta. Việc mất đi Valore yêu dấu là nỗi đau quá lớn đối với hắn, và ngay cả khi đã chết, hắn vẫn bảo vệ lãnh địa của mình.",
     "api_translated": true
   },
   {
     "id": 8162,
     "en": "This town belongs to me!",
-    "vi": "This town belongs to me!",
+    "vi": "Thị trấn này thuộc về ta!",
     "api_translated": true
   },
   {
     "id": 8163,
     "en": "Come back once you're ready\nto put up a fight...",
-    "vi": "Come back once you're ready\nto put up a fight...",
+    "vi": "Hãy quay lại khi ngươi đã sẵn sàng\nđể chiến đấu...",
     "api_translated": true
   },
   {
     "id": 8165,
     "en": "I... I...?",
-    "vi": "I... I...?",
+    "vi": "Ta... ta...?",
     "api_translated": true
   },
   {
     "id": 8166,
     "en": "What do you...want to tell me...?",
-    "vi": "What do you...want to tell me...?",
+    "vi": "Ngươi... muốn nói gì với ta...?",
     "api_translated": true
   },
   {
     "id": 8167,
     "en": "I don't have...to listen to you...",
-    "vi": "I don't have...to listen to you...",
+    "vi": "Ta không cần... phải nghe ngươi...",
     "api_translated": true
   },
   {
     "id": 8169,
     "en": "Lord Taviani",
-    "vi": "Lord Taviani",
+    "vi": "Lãnh chúa Taviani",
     "api_translated": true
   },
   {
     "id": 8170,
     "en": "[Cause of death: Assassination]\nSlain by one of Herminia's assassins while attempting to kill her. He has been freed from his deep delusion now that he has found someone to whom he can entrust his beloved Valore.",
-    "vi": "[Cause of death: Assassination]\nSlain by one of Herminia's assassins while attempting to kill her. He has been freed from his deep delusion now that he has found someone to whom he can entrust his beloved Valore.",
+    "vi": "[Nguyên nhân cái chết: Ám sát]\nBị một trong những sát thủ của Herminia giết khi đang cố gắng ám sát bà ta. Hắn đã được giải thoát khỏi ảo tưởng sâu sắc của mình sau khi tìm được người có thể gửi gắm Valore yêu dấu.",
     "api_translated": true
   },
   {
     "id": 8171,
     "en": "Do your best!",
-    "vi": "Do your best!",
+    "vi": "Hãy cố gắng hết sức nhé!",
     "api_translated": true
   },
   {
     "id": 8172,
     "en": "Come back once you're ready\nto put up a fight...",
-    "vi": "Come back once you're ready\nto put up a fight...",
+    "vi": "Hãy quay lại khi ngươi đã sẵn sàng\nđể chiến đấu...",
     "api_translated": true
   },
   {
     "id": 8174,
     "en": "Take it...",
-    "vi": "Take it...",
+    "vi": "Cầm lấy đi...",
     "api_translated": true
   },
   {
     "id": 8086,
     "en": "Bartender",
-    "vi": "Bartender",
+    "vi": "Người pha chế",
     "api_translated": true
   },
   {
     "id": 8095,
     "en": "I can't really be bothered...but I guess\nI should.",
-    "vi": "I can't really be bothered...but I guess\nI should.",
+    "vi": "Ta thực sự không muốn bận tâm... nhưng ta đoán\nta nên làm vậy.",
     "api_translated": true
   },
   {
@@ -29224,169 +29224,169 @@
   {
     "id": 8270,
     "en": "[Cause of death: Cut down]\nA wealthy Woodlands man. He hoped to monopolize Herminia's distribution network known as \"the witch's fortune.\" He had invited Valore's most influential man, Bargello, to dinner, intending to assassinate him.",
-    "vi": "[Cause of death: Cut down]\nA wealthy Woodlands man. He hoped to monopolize Herminia's distribution network known as \"the witch's fortune.\" He had invited Valore's most influential man, Bargello, to dinner, intending to assassinate him.",
+    "vi": "[Nguyên nhân cái chết: Bị chém chết]\nMột người đàn ông giàu có ở Woodlands. Hắn hy vọng sẽ độc quyền mạng lưới phân phối của Herminia được gọi là \"tài sản của phù thủy\". Hắn đã mời người có ảnh hưởng nhất Valore, Bargello, đến ăn tối với ý định ám sát anh ta.",
     "api_translated": true
   },
   {
     "id": 8272,
     "en": "My anger rages...",
-    "vi": "My anger rages...",
+    "vi": "Cơn giận của ta đang bùng cháy...",
     "api_translated": true
   },
   {
     "id": 8274,
     "en": "It's yours...",
-    "vi": "It's yours...",
+    "vi": "Nó là của ngươi...",
     "api_translated": true
   },
   {
     "id": 8275,
     "en": "Help me...",
-    "vi": "Help me...",
+    "vi": "Cứu ta với...",
     "api_translated": true
   },
   {
     "id": 8273,
     "en": "I don't give handouts...",
-    "vi": "I don't give handouts...",
+    "vi": "Ta không cho không ai cái gì cả...",
     "api_translated": true
   },
   {
     "id": 8276,
     "en": "You think I'm a pushover..?",
-    "vi": "You think I'm a pushover..?",
+    "vi": "Ngươi nghĩ ta là kẻ dễ bắt nạt sao..?",
     "api_translated": true
   },
   {
     "id": 8277,
     "en": "I bet we could do good things\ntogether...",
-    "vi": "I bet we could do good things\ntogether...",
+    "vi": "Ta cá là chúng ta có thể làm nên những điều tốt đẹp\ncùng nhau...",
     "api_translated": true
   },
   {
     "id": 8278,
     "en": "Former Aristocrat",
-    "vi": "Former Aristocrat",
+    "vi": "Cựu quý tộc",
     "api_translated": true
   },
   {
     "id": 8279,
     "en": "[Cause of death: Powder addiction]\nA young man who was once an aristocrat. After trying powder on a whim, it became an addiction that led to a debauched life. He continued to smoke the substance until his death.",
-    "vi": "[Cause of death: Powder addiction]\nA young man who was once an aristocrat. After trying powder on a whim, it became an addiction that led to a debauched life. He continued to smoke the substance until his death.",
+    "vi": "[Nguyên nhân cái chết: Nghiện bột]\nMột thanh niên từng là quý tộc. Sau khi thử bột vì tò mò, anh ta đã nghiện và dẫn đến một cuộc sống sa đọa. Anh ta tiếp tục hút thứ đó cho đến khi qua đời.",
     "api_translated": true
   },
   {
     "id": 8281,
     "en": "It's not happening...",
-    "vi": "It's not happening...",
+    "vi": "Chuyện đó sẽ không xảy ra đâu...",
     "api_translated": true
   },
   {
     "id": 8283,
     "en": "It's yours...",
-    "vi": "It's yours...",
+    "vi": "Nó là của ngươi...",
     "api_translated": true
   },
   {
     "id": 8284,
     "en": "I'll tell you everything you wanna\nknow...",
-    "vi": "I'll tell you everything you wanna\nknow...",
+    "vi": "Ta sẽ kể cho ngươi mọi thứ ngươi muốn\nbiết...",
     "api_translated": true
   },
   {
     "id": 8282,
     "en": "I don't know what you're talking\nabout...",
-    "vi": "I don't know what you're talking\nabout...",
+    "vi": "Ta không biết ngươi đang nói về\ncái gì...",
     "api_translated": true
   },
   {
     "id": 8285,
     "en": "Ahhh... Feels good...",
-    "vi": "Ahhh... Feels good...",
+    "vi": "Ahhh... Cảm giác thật tuyệt...",
     "api_translated": true
   },
   {
     "id": 8286,
     "en": "I guess this is how it has to be...",
-    "vi": "I guess this is how it has to be...",
+    "vi": "Ta đoán mọi chuyện phải như thế này thôi...",
     "api_translated": true
   },
   {
     "id": 8287,
     "en": "LeRuiz Chef",
-    "vi": "LeRuiz Chef",
+    "vi": "Đầu bếp LeRuiz",
     "api_translated": true
   },
   {
     "id": 8288,
     "en": "[Cause of death: Falling object]\nOwner and chef of the restaurant LeRuiz. There was a time in which he was employed by Herminia as her personal chef. He reopened the restaurant after her death, but during the chaos following the attack on Delcado, a vase fell on his head and he died shortly after.",
-    "vi": "[Cause of death: Falling object]\nOwner and chef of the restaurant LeRuiz. There was a time in which he was employed by Herminia as her personal chef. He reopened the restaurant after her death, but during the chaos following the attack on Delcado, a vase fell on his head and he died shortly after.",
+    "vi": "[Nguyên nhân cái chết: Vật rơi trúng]\nChủ sở hữu kiêm đầu bếp của nhà hàng LeRuiz. Đã có thời gian ông được Herminia thuê làm đầu bếp riêng. Ông mở lại nhà hàng sau khi bà ta chết, nhưng trong sự hỗn loạn sau vụ tấn công Delcado, một chiếc bình hoa rơi trúng đầu và ông qua đời không lâu sau đó.",
     "api_translated": true
   },
   {
     "id": 8290,
     "en": "Alas, I cannot...",
-    "vi": "Alas, I cannot...",
+    "vi": "Than ôi, ta không thể...",
     "api_translated": true
   },
   {
     "id": 8292,
     "en": "With my compliments...",
-    "vi": "With my compliments...",
+    "vi": "Đây là quà tặng của ta...",
     "api_translated": true
   },
   {
     "id": 8293,
     "en": "Welcome...",
-    "vi": "Welcome...",
+    "vi": "Chào mừng...",
     "api_translated": true
   },
   {
     "id": 8291,
     "en": "We're closed for a private party...",
-    "vi": "We're closed for a private party...",
+    "vi": "Chúng tôi đang đóng cửa để tổ chức tiệc riêng...",
     "api_translated": true
   },
   {
     "id": 8294,
     "en": "My apologies, but no...",
-    "vi": "My apologies, but no...",
+    "vi": "Ta xin lỗi, nhưng không được...",
     "api_translated": true
   },
   {
     "id": 8295,
     "en": "Very well...",
-    "vi": "Very well...",
+    "vi": "Được thôi...",
     "api_translated": true
   },
   {
     "id": 8114,
     "en": "Fallen Hunter",
-    "vi": "Fallen Hunter",
+    "vi": "Thợ săn sa ngã",
     "api_translated": true
   },
   {
     "id": 8115,
     "en": "[Cause of death: Suicide]\nOne of a hunting tribe that was wiped out by Herminia. She stood against Herminia—who was spreading powder in her town—and lost. As she verged on becoming an addict herself, she took her own life while she still had the will to resist.",
-    "vi": "[Cause of death: Suicide]\nOne of a hunting tribe that was wiped out by Herminia. She stood against Herminia—who was spreading powder in her town—and lost. As she verged on becoming an addict herself, she took her own life while she still had the will to resist.",
+    "vi": "[Nguyên nhân cái chết: Tự sát]\nMột thành viên của bộ tộc thợ săn đã bị Herminia tiêu diệt. Cô đã đứng lên chống lại Herminia—kẻ đang gieo rắc bột ở thị trấn của cô—và thất bại. Khi sắp trở thành một kẻ nghiện, cô đã tự kết liễu đời mình khi vẫn còn ý chí để kháng cự.",
     "api_translated": true
   },
   {
     "id": 8117,
     "en": "I can't give this to you...",
-    "vi": "I can't give this to you...",
+    "vi": "Ta không thể đưa cái này cho ngươi...",
     "api_translated": true
   },
   {
     "id": 8119,
     "en": "You can have it...",
-    "vi": "You can have it...",
+    "vi": "Ngươi có thể lấy nó...",
     "api_translated": true
   },
   {
     "id": 8120,
     "en": "I have a lot of regrets...",
-    "vi": "I have a lot of regrets...",
+    "vi": "Ta có rất nhiều điều hối tiếc...",
     "api_translated": true
   },
   {
@@ -31202,7 +31202,7 @@
   {
     "id": 7791,
     "en": "Deacon Laurana",
-    "vi": "Deacon Laurana",
+    "vi": "Phó tế Laurana",
     "api_translated": true
   },
   {
@@ -31238,7 +31238,7 @@
   {
     "id": 7800,
     "en": "Watch Member Phenn",
-    "vi": "Watch Member Phenn",
+    "vi": "Thành viên đội canh gác Phenn",
     "api_translated": true
   },
   {
@@ -31544,7 +31544,7 @@
   {
     "id": 11119,
     "en": "Carabell the Tavernkeep",
-    "vi": "Carabell the Tavernkeep",
+    "vi": "Carabell, chủ quán trọ",
     "api_translated": true
   },
   {
@@ -31556,7 +31556,7 @@
   {
     "id": 11128,
     "en": "Watchman Karan",
-    "vi": "Watchman Karan",
+    "vi": "Lính gác Karan",
     "api_translated": true
   },
   {
@@ -31718,13 +31718,13 @@
   {
     "id": 11722,
     "en": "General Store Owner Montia",
-    "vi": "General Store Owner Montia",
+    "vi": "Montia, chủ cửa hàng tạp hóa",
     "api_translated": true
   },
   {
     "id": 11165,
     "en": "Nomos the Scholar",
-    "vi": "Nomos the Scholar",
+    "vi": "Học giả Nomos",
     "api_translated": true
   },
   {
@@ -31772,7 +31772,7 @@
   {
     "id": 20344,
     "en": "Forgetful Squirrel",
-    "vi": "Forgetful Squirrel",
+    "vi": "Chú sóc hay quên",
     "api_translated": true
   },
   {
@@ -31808,13 +31808,13 @@
   {
     "id": 20855,
     "en": "Adrian the Promoter",
-    "vi": "Adrian the Promoter",
+    "vi": "Adrian người quảng bá",
     "api_translated": true
   },
   {
     "id": 20729,
     "en": "Enthusiastic MC",
-    "vi": "Enthusiastic MC",
+    "vi": "MC nhiệt huyết",
     "api_translated": true
   },
   {
@@ -31838,7 +31838,7 @@
   {
     "id": 20735,
     "en": "Superhuman Gladiator",
-    "vi": "Superhuman Gladiator",
+    "vi": "Đấu sĩ siêu phàm",
     "api_translated": true
   },
   {
@@ -31862,7 +31862,7 @@
   {
     "id": 20741,
     "en": "Overly Kind Gladiator",
-    "vi": "Overly Kind Gladiator",
+    "vi": "Đấu sĩ quá đỗi tử tế",
     "api_translated": true
   },
   {
@@ -31886,7 +31886,7 @@
   {
     "id": 11425,
     "en": "Dedicated Cleric",
-    "vi": "Dedicated Cleric",
+    "vi": "Giáo sĩ tận tụy",
     "api_translated": true
   },
   {
@@ -31910,7 +31910,7 @@
   {
     "id": 11436,
     "en": "Deacon Guillaume",
-    "vi": "Deacon Guillaume",
+    "vi": "Phó tế Guillaume",
     "api_translated": true
   },
   {
